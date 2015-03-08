@@ -1,0 +1,17 @@
+{
+    "account_supported": true,
+    "api": "pica",
+    "city": "Kiel",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://kiopc4.ub.uni-kiel.de:8080",
+        "db": "6",
+        "information": "http://www.muthesius-kunsthochschule.de/de/werkstaetten-bibliothek-edv/bibliothek/index.php"
+    },
+    "geo": [
+        54.3462487,
+        10.1115432
+    ],
+    "state": "Schleswig-Holstein",
+    "title": "Bibliothek der Muthesius Kunsthochschule"
+}

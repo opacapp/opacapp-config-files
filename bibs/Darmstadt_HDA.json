@@ -1,0 +1,17 @@
+{
+    "account_supported": true,
+    "api": "pica",
+    "city": "Darmstadt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://pica1l.ulb.tu-darmstadt.de",
+        "db": "FHBDA",
+        "information": "http://bib.h-da.de/"
+    },
+    "geo": [
+        49.8776483,
+        8.6517617
+    ],
+    "state": "Hessen",
+    "title": "Hochschulbibliothek h_da"
+}

@@ -1,0 +1,17 @@
+{
+    "account_supported": true,
+    "api": "pica",
+    "city": "Elsfleth",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://lhemd.gbv.de/",
+        "db": "5",
+        "information": "http://www.jade-hs.de/service-verwaltung/hochschulbibliothek/studienorte/elsfleth/"
+    },
+    "geo": [
+        53.233333,
+        8.466667
+    ],
+    "state": "Niedersachsen",
+    "title": "Bibliothek der Jade Hochschule"
+}

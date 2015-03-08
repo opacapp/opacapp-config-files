@@ -1,0 +1,17 @@
+{
+    "account_supported": true,
+    "api": "pica",
+    "city": "Flensburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://kiopc4.ub.uni-kiel.de:8080",
+        "db": "5",
+        "information": "http://www.zhb-flensburg.de/"
+    },
+    "geo": [
+        54.788101,
+        9.4320813
+    ],
+    "state": "Schleswig-Holstein",
+    "title": "Zentrale Hochschulbibliothek"
+}

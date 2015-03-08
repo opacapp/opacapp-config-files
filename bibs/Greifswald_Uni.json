@@ -1,0 +1,17 @@
+{
+    "account_supported": false,
+    "api": "pica",
+    "city": "Greifswald",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://lhgrw.gbv.de",
+        "db": "1",
+        "information": "http://www.uni-greifswald.de/bibliothek.html"
+    },
+    "geo": [
+        54.095833,
+        13.381111
+    ],
+    "state": "Mecklenburg-Vorpommern",
+    "title": "Unibibliothek"
+}

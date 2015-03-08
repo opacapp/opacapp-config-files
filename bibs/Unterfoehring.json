@@ -1,0 +1,16 @@
+{
+    "account_supported": false,
+    "api": "winbiap",
+    "city": "Unterf\u00f6hring",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://webopac.winbiap.de/unterfoehring",
+        "information": "http://www.buergerhaus-unterfoehring.de/bibliothek/aktuelles.html"
+    },
+    "geo": [
+        48.1916623,
+        11.6460441
+    ],
+    "state": "Bayern",
+    "title": "Gemeindebibliothek"
+}

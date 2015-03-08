@@ -1,0 +1,16 @@
+{
+    "account_supported": false,
+    "api": "winbiap",
+    "city": "Gersthofen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://webopac.winbiap.net/gersthofen",
+        "information": "http://www.stadt-gersthofen.de/seite/leben-in-gersthofen/stadtbibliothek.php"
+    },
+    "geo": [
+        48.4242503,
+        10.876347
+    ],
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}

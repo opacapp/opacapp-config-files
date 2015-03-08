@@ -1,0 +1,17 @@
+{
+    "account_supported": true,
+    "api": "pica",
+    "city": "L\u00fcneburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://lhlue.gbv.de",
+        "db": "1",
+        "information": "http://www.leuphana.de/bibliothek.html"
+    },
+    "geo": [
+        53.2296879,
+        10.4019633
+    ],
+    "state": "Niedersachsen",
+    "title": "Unibibliothek"
+}

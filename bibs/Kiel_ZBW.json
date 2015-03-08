@@ -1,0 +1,17 @@
+{
+    "account_supported": true,
+    "api": "pica",
+    "city": "Kiel",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://www.econis.eu",
+        "db": "1",
+        "information": "http://www.zbw.eu/de/"
+    },
+    "geo": [
+        54.3232927,
+        10.1227652
+    ],
+    "state": "Schleswig-Holstein",
+    "title": "Zentralbibliothek f\u00fcr Wirtschaftswissenschaften"
+}

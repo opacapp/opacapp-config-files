@@ -1,0 +1,17 @@
+{
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Braunschweig",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.braunschweig.de/webOPACClient",
+        "customssl": true,
+        "information": "https://www.braunschweig.de/kultur_tourismus/bibliotheken_archive/stadtbibliothek/kontaktdaten.html"
+    },
+    "geo": [
+        52.2688736,
+        10.5267696
+    ],
+    "state": "Niedersachsen",
+    "title": "Stadtbibliothek"
+}

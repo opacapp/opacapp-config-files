@@ -1,0 +1,16 @@
+{
+    "account_supported": false,
+    "api": "winbiap",
+    "city": "Soest",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://buecherei-soest.kdvz.de",
+        "information": "http://www.stadtbuecherei-soest.de/"
+    },
+    "geo": [
+        51.5711476,
+        8.105754
+    ],
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}

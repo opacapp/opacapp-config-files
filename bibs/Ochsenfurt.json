@@ -1,0 +1,16 @@
+{
+    "account_supported": false,
+    "api": "winbiap",
+    "city": "Ochsenfurt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://webopac.winbiap.net/ochsenfurt",
+        "information": "http://www.bibliothek.ochsenfurt.de/"
+    },
+    "geo": [
+        49.6640025,
+        10.0709014
+    ],
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}

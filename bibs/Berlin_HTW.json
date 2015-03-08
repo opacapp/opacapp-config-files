@@ -1,0 +1,17 @@
+{
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://sisis.rz.htw-berlin.de/InfoGuideClient",
+        "customssl": true,
+        "information": "http://bibliothek.htw-berlin.de/oeffnungszeiten/"
+    },
+    "geo": [
+        52.519171,
+        13.4060912
+    ],
+    "state": "Berlin",
+    "title": "Hochschulbibliothek HTW"
+}

@@ -1,0 +1,17 @@
+{
+    "account_supported": true,
+    "api": "pica",
+    "city": "Marburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.ub.uni-marburg.de",
+        "db": "1",
+        "information": "http://www.uni-marburg.de/bis/"
+    },
+    "geo": [
+        50.8021728,
+        8.7667933
+    ],
+    "state": "Hessen",
+    "title": "Unibibliothek"
+}

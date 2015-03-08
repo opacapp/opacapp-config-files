@@ -1,0 +1,18 @@
+{
+    "account_supported": true,
+    "api": "pica",
+    "city": "Darmstadt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://lbsopac.rz.uni-frankfurt.de",
+        "charset": "ISO-8859-1",
+        "db": "69",
+        "information": "http://www.eh-darmstadt.de/hochschule/bibliothek/"
+    },
+    "geo": [
+        49.8776483,
+        8.6517617
+    ],
+    "state": "Hessen",
+    "title": "Evangelische Hochschule"
+}

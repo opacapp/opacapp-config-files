@@ -1,0 +1,16 @@
+{
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Tarp",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://iopac-tarp.dtdns.net",
+        "information": "http://www.buecherei-tarp.de/"
+    },
+    "geo": [
+        54.6652916,
+        9.3956108
+    ],
+    "state": "Schleswig-Holstein",
+    "title": "B\u00fccherei"
+}

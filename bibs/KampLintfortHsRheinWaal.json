@@ -1,0 +1,16 @@
+{
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Kamp-Lintfort",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.hochschule-rhein-waal.de/webOPACClient.nrwsis",
+        "information": "http://www.hochschule-rhein-waal.de/hochschulbibliothek/oeffnungszeiten.html"
+    },
+    "geo": [
+        51.4957751,
+        6.532127699999999
+    ],
+    "state": "Nordrhein-Westfalen",
+    "title": "Hochschule Rhein-Waal"
+}

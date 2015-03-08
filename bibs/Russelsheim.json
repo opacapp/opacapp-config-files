@@ -1,0 +1,16 @@
+{
+    "account_supported": true,
+    "api": "sisis",
+    "city": "R\u00fcsselsheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://stadtbuecherei.ruesselsheim.de/webOPACClient",
+        "information": "http://www.stadt-ruesselsheim.de/Stadtbuecherei.html"
+    },
+    "geo": [
+        49.9887497,
+        8.4216976
+    ],
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
+}
