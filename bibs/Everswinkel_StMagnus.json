@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Everswinkel",
@@ -67,9 +68,9 @@
     },
     "geo": [
         51.9246665,
-        7.848896399999999
+        7.8488964
     ],
     "information": "http://www.magnus-agatha.de/raume/bucherei.html",
     "state": "Nordrhein-Westfalen",
-    "title": "K\u00d6B St. Magnus"
+    "title": "Kath. \u00d6B St. Magnus"
 }

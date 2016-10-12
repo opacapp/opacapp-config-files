@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Sulzbach (Saar)",
+    "city": "Sulzbach/Saar",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -15,7 +16,6 @@
             "title": 1
         },
         "baseurl": "https://stadtbibliothek-sulzbach.internetopac.de",
-		"customssl": true,
         "copiestable": {
             "barcode": -1,
             "branch": -1,
@@ -25,6 +25,7 @@
             "returndate": 1,
             "status": 0
         },
+        "customssl": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -35,8 +36,8 @@
         }
     },
     "geo": [
-        49.3022275,
-        7.0621814
+        49.2976724,
+        7.0618791
     ],
     "information": "http://www.stadt-sulzbach.de/index.php/bildung-und-soziales/stadt-bibliothek",
     "state": "Saarland",

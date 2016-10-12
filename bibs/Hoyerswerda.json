@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Hoyerswerda",
@@ -36,8 +37,8 @@
         }
     },
     "geo": [
-        51.4388605,
-        14.2536419
+        51.43637,
+        14.25677
     ],
     "information": "http://www.bibliothek-hy.de/",
     "state": "Sachsen",

@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Ostheim v.d.Rh\u00f6n",
+    "city": "Ostheim v.d. Rh\u00f6n",
     "country": "Deutschland",
     "data": {
         "baseurl": "http://webopac.winbiap.net/ostheim"
@@ -12,5 +13,5 @@
     ],
     "information": "http://www.ostheim.de/internet/index.php?page=12485",
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei Ostheim v.d. Rh\u00f6n"
+    "title": "Stadtb\u00fccherei"
 }

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Leutenbach",
@@ -34,8 +35,8 @@
         }
     },
     "geo": [
-        48.88809209999999,
-        9.390455
+        48.8879254,
+        9.3926506
     ],
     "information": "http://www.leutenbach.de/2287_DEU_WWW.php#contentbereich",
     "state": "Baden-W\u00fcrttemberg",

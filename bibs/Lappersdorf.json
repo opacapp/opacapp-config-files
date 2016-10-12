@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Lappersdorf",
@@ -7,8 +8,8 @@
         "baseurl": "https://cloudopac.winbiap.de/lappersdorf"
     },
     "geo": [
-        49.0487011,
-        12.0893467
+        49.04968,
+        12.09003
     ],
     "information": "http://www.lappersdorf.de/leben-in-lappersdorf/bildung/marktbuecherei-lappersdorf/",
     "state": "Bayern",

@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Neustadt",
+    "city": "Neustadt a.d. Weinstr.",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -36,8 +37,8 @@
         }
     },
     "geo": [
-        49.3501864,
-        8.1486886
+        49.3525782,
+        8.1389481
     ],
     "information": "https://www.neustadt.eu/Kultur/Stadtb%C3%BCcherei",
     "state": "Rheinland-Pfalz",

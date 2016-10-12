@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "iopac",
     "city": "Bad Schwartau",
@@ -14,8 +15,8 @@
         "baseurl": "http://bad-schwartau.iopac.de"
     },
     "geo": [
-        53.9163386,
-        10.6854143
+        53.9197173,
+        10.6971789
     ],
     "information": "http://www.bad-schwartau.de/stadtb%C3%BCcherei/",
     "state": "Schleswig-Holstein",

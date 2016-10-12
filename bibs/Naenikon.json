@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "N\u00e4nikon",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.3693646,
-        8.689313799999999
+        8.6893138
     ],
     "information": "http://www.naenikon.ch/freizeit/bibliothek/bibliothek.htm",
     "state": "Z\u00fcrich",

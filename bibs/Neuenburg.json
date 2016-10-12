@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Neuenburg am Rhein",
+    "city": "Neuenburg a. Rhein",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -40,10 +41,10 @@
         }
     },
     "geo": [
-        47.8145352,
-        7.5621745
+        47.8140501,
+        7.5591687
     ],
     "information": "http://www.neuenburg.de/,Lde/Startseite/Bildung+_+Betreuung/Stadtbibliothek.html",
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtbibliothek"
+    "title": "Bonifacius Amerbach"
 }

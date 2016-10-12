@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Kist",
@@ -7,7 +8,7 @@
         "baseurl": "http://webopac.winbiap.net/kist"
     },
     "geo": [
-        49.74408210000001,
+        49.7440821,
         9.8417865
     ],
     "information": "http://www.gemeinde-kist.de/index.php?id=56",

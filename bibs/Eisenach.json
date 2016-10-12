@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Eisenach",
@@ -11,10 +12,10 @@
         }
     },
     "geo": [
-        50.9916247,
-        10.2836982
+        50.976207,
+        10.3148166
     ],
     "information": "https://eisenach.bibliotheca-open.de/%C3%9Cberuns/InfoKontakt.aspx",
-    "state": "Thüringen",
+    "state": "Th\u00fcringen",
     "title": "Stadtbibliothek"
 }

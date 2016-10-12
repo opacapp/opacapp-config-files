@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Neu-Anspach",
@@ -43,5 +44,5 @@
     ],
     "information": "http://www.neu-anspach.de/sv_neu_anspach/Rathaus%20&%20Politik/%C3%96ffentliche%20Einrichtungen/Stadtb%C3%BCcherei/",
     "state": "Hessen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

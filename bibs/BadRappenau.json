@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Bad Rappenau",
@@ -36,10 +37,10 @@
         }
     },
     "geo": [
-        49.24016899999999,
-        9.1020153
+        49.2403393,
+        9.1047288
     ],
     "information": "http://www.badrappenau.de/stadtleben/kultur/stadt-und-kurbuecherei",
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadt- und Kurb\u00fccherei"
 }

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Marktheidenfeld",
@@ -7,8 +8,8 @@
         "baseurl": "http://webopac.winbiap.net/marktheidenfeld"
     },
     "geo": [
-        49.8454938,
-        9.608814599999999
+        49.84477,
+        9.61204
     ],
     "information": "http://stadt-marktheidenfeld.de/page2/kultur-bildung/stadtbucherei",
     "state": "Bayern",

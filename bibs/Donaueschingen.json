@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Donaueschingen",
@@ -34,8 +35,8 @@
         }
     },
     "geo": [
-        47.9523236,
-        8.501342800000002
+        47.9524098,
+        8.5013052
     ],
     "information": "https://wwwopac.rz-kiru.de/readdonaueschingen/startseite.html",
     "state": "Baden-W\u00fcrttemberg",

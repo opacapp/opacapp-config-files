@@ -1,10 +1,11 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Roding",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/roding"
+        "baseurl": "https://webopac.winbiap.de/roding"
     },
     "geo": [
         49.1944493,

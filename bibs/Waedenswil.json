@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "W\u00e4denswil",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.2265324,
-        8.669570700000001
+        8.6695707
     ],
     "information": "http://www.waedenswil.ch/de/verwaltung/abteilungendienst/?amt_id=10804",
     "state": "Z\u00fcrich",

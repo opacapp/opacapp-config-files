@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Telgte",
@@ -39,8 +40,8 @@
         }
     },
     "geo": [
-        51.9843933,
-        7.783596
+        52.02959,
+        7.74956
     ],
     "information": "http://www.telgte.de/staticsite/staticsite2.php?menuid=363&topmenu=6",
     "state": "Nordrhein-Westfalen",

@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "touchpoint",
-    "city": "Eichst\u00e4tt-Ingolstadt",
+    "city": "Eichst\u00e4tt",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.ku.de/TouchPoint"

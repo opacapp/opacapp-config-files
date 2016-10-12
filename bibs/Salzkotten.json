@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Salzkotten",
@@ -7,10 +8,10 @@
         "baseurl": "http://www.stadtbibliothek-salzkotten.de"
     },
     "geo": [
-        51.67028999999999,
+        51.67029,
         8.60671
     ],
     "information": "http://www.stadtbibliothek-salzkotten.de/index.aspx",
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Uetikon am See",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.26599,
-        8.676929099999999
+        8.6769291
     ],
     "information": "http://www.uetikonamsee.ch/de/kulturundfreizeit/kultur/bibliothek/",
     "state": "Z\u00fcrich",

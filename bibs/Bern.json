@@ -1,10 +1,17 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Bern",
     "country": "Schweiz",
     "data": {
+        "apikey": "538e8191-3554-41ff-9cda-d0d62158fcc8",
+        "apiurl": "https://open.kornhausbibliotheken.ch:8316/RESTv1",
         "baseurl": "http://www.kornhausbibliotheken.ch",
+        "calendar": "http://www.kornhausbibliotheken.ch/DesktopModules/Events/EventVCal.aspx?ItemID=0&Mid=390&tabid=47",
+        "calendarparser": "ical",
+        "onleihe": "http://www.dibibe.ch/dibibe",
+        "onleihe_libraryId": "666",
         "urls": {
             "advanced_search": "Katalogsuche/ErweiterteSuche.aspx",
             "simple_search": "Katalogsuche/EinfacheSuche.aspx"
@@ -14,7 +21,7 @@
         46.9487909,
         7.4472796
     ],
-    "information": "http://www.kornhausbibliotheken.ch/Standorte.aspx",
+    "information": "https://info.opacapp.de/bern.html",
     "state": "Bern",
     "title": "Kornhausbibliotheken"
 }

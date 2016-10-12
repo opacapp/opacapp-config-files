@@ -1,14 +1,15 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Neustadt a.d. Donau",
+    "city": "Neustadt/Do",
     "country": "Deutschland",
     "data": {
         "baseurl": "http://webopac.winbiap.net/neustadtdonau"
     },
     "geo": [
-        48.8030062,
-        11.7670734
+        48.80948,
+        11.76439
     ],
     "information": "http://cms.neustadt-donau.de/default.aspx?tabid=7047",
     "state": "Bayern",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Hamm",
@@ -41,7 +42,7 @@
     },
     "geo": [
         51.6738583,
-        7.815981600000001
+        7.8159816
     ],
     "information": "http://www.kirchenkreis-hamm.de/arbeitsbereiche/bildung-und-erziehung/mediothek.html",
     "state": "Nordrhein-Westfalen",

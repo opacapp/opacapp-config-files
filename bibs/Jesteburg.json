@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Jesteburg",
@@ -12,5 +13,5 @@
     ],
     "information": "http://www.jesteburg.de/kindertageseinrichtungen-schulen-bildung/samtgemeindebuecherei/buecherei-zehntscheune/",
     "state": "Niedersachsen",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Samtgemeindeb\u00fccherei"
 }

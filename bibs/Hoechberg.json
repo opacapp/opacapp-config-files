@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "H\u00f6chberg",
@@ -8,7 +9,7 @@
     },
     "geo": [
         49.7802703,
-        9.875716700000002
+        9.8757167
     ],
     "information": "http://www.hoechberg.de/sites/gensite.asp?SID=cms190820141713396817132&Art=0429",
     "state": "Bayern",

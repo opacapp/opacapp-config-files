@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Bielefeld",
@@ -29,7 +30,7 @@
     },
     "geo": [
         52.0302285,
-        8.532470800000002
+        8.5324708
     ],
     "information": "http://www.kirche-bielefeld.de/.cms/327",
     "state": "Nordrhein-Westfalen",

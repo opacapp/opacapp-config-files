@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "pica",
     "city": "Darmstadt",
@@ -9,7 +10,7 @@
     },
     "geo": [
         49.8134336,
-        8.652618799999999
+        8.6526188
     ],
     "information": "http://bib.h-da.de/",
     "state": "Hessen",

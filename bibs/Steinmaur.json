@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Steinmaur",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.4997538,
-        8.455599099999999
+        8.4555991
     ],
     "information": "http://www.primarschule-steinmaur.ch/zusatzangebote/mediothek-steinmaur.html",
     "state": "Z\u00fcrich",

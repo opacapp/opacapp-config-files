@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Schwerte",
@@ -7,8 +8,8 @@
         "baseurl": "https://webopac.citkomm.de/schwerte"
     },
     "geo": [
-        51.44007500000001,
-        7.568709800000001
+        51.4406,
+        7.56864
     ],
     "information": "http://www.kuwebe.de/html/bucherei_-_aktuelles.html",
     "state": "Nordrhein-Westfalen",

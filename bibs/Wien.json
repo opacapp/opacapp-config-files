@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Wien",
@@ -54,6 +55,9 @@
             "zeitschrift_32_32.gif": "MAGAZINE",
             "zeitung_32_32.gif": "NEWSPAPER"
         },
+        "onleihe": "http://www4.onleihe.at/wien",
+        "onleihe_libraryId": "177",
+        "onleihe_singleLibrary": "yes",
         "reservationtable": {
             "author": 0,
             "availability": -1,
@@ -61,14 +65,15 @@
             "cancelurl": 3,
             "expirationdate": null,
             "title": 1
-        }
+        },
+        "webviewcontain": "m.buechereien.wien.at"
     },
+    "displayname": "B\u00fcchereien Wien",
     "geo": [
-        48.2081743,
-        16.3738189
+        48.2141341,
+        16.3820019
     ],
-    "information": "http://buechereien.wien.at/de/standorteoeffnungszeiten",
-    "replacedby": "de.opacapp.wien",
+    "information": "https://info.opacapp.net/wien.html",
     "state": "Wien",
     "title": "B\u00fcchereien"
 }

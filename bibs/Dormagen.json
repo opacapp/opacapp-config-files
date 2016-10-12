@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "adis",
     "city": "Dormagen",
@@ -8,8 +9,8 @@
         "startparams": "service=direct/0/Home/%24DirectLink&sp=S127.0.0.1:23032"
     },
     "geo": [
-        51.0938697,
-        6.8373585
+        51.093784,
+        6.8376494
     ],
     "information": "http://www.dormagen.de/879.html",
     "state": "Nordrhein-Westfalen",

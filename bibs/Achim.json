@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Achim",
@@ -40,8 +41,8 @@
         }
     },
     "geo": [
-        53.0092,
-        9.0510401
+        53.0121932,
+        9.0364287
     ],
     "information": "http://achim.ver-net.de/portal/seiten/stadtbibliothek-902000059-20601.html?naviID=902000032&brotID=902000032&rubrik=2000006",
     "state": "Niedersachsen",

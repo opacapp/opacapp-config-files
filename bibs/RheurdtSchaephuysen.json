@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Rheurdt-Schaephuysen",
+    "city": "Rheurdt",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -71,5 +72,5 @@
     ],
     "information": "http://st.martinus-rst.de/pfarrei-und-einrichtungen/buechereien",
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6ffentliche B\u00fccherei"
+    "title": "Kath. \u00d6B St. Hubertus"
 }

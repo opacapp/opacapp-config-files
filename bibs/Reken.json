@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Reken",
@@ -67,9 +68,9 @@
     },
     "geo": [
         51.8290107,
-        7.044356899999999
+        7.0443569
     ],
     "information": "http://www.buecherei-reken.de/",
     "state": "Nordrhein-Westfalen",
-    "title": "K\u00d6B St. Heinrich"
+    "title": "Kath. \u00d6B St. Heinrich"
 }

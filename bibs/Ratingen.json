@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Ratingen",
@@ -42,8 +43,8 @@
         }
     },
     "geo": [
-        51.299071,
-        6.846775999999999
+        51.2990713,
+        6.8467759
     ],
     "information": "http://www.stadt-ratingen.de/freizeit_kultur_sport_tourismus/stadtbibliothek/neu/index.php/",
     "state": "Nordrhein-Westfalen",

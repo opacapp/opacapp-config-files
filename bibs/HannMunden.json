@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Hann. M\u00fcnden",
@@ -39,8 +40,8 @@
         }
     },
     "geo": [
-        51.419285,
-        9.6557588
+        51.41813,
+        9.65436
     ],
     "information": "/read/info.html",
     "state": "Niedersachsen",

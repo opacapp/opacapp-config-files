@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Embrach",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.5124,
-        8.590579900000002
+        8.5905799
     ],
     "information": "http://kulturembrach.ch/bibliothek/",
     "state": "Z\u00fcrich",

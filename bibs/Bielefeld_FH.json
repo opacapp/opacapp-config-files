@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Bielefeld",
@@ -8,7 +9,7 @@
     },
     "geo": [
         52.0302285,
-        8.532470800000002
+        8.5324708
     ],
     "information": "http://www.fh-bielefeld.de/bib",
     "state": "Nordrhein-Westfalen",

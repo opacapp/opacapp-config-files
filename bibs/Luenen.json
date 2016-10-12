@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "L\u00fcnen",
@@ -35,8 +36,8 @@
         ]
     },
     "geo": [
-        51.6104829,
-        7.5285074
+        51.61407,
+        7.52576
     ],
     "information": "https://www.luenen.de/kultur/buch/index.php",
     "state": "Nordrhein-Westfalen",

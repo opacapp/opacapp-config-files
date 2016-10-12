@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Altst\u00e4tten",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.378,
-        9.541039999999999
+        9.54104
     ],
     "information": "http://www.bibliothek-reburg.ch/",
     "state": "St. Gallen",

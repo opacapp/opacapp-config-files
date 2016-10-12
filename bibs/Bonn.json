@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Bonn",
@@ -9,8 +10,8 @@
         "startparams": "Login=web00"
     },
     "geo": [
-        50.73743,
-        7.0982068
+        50.70501,
+        7.11537
     ],
     "information": "http://www.bonn.de/familie_gesellschaft_bildung_soziales/stadtbibliothek/zweigstellen/index.html?lang=de",
     "state": "Nordrhein-Westfalen",

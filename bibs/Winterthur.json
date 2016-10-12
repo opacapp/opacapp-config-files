@@ -1,18 +1,54 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "touchpoint",
     "city": "Winterthur",
     "country": "Schweiz",
     "data": {
         "baseurl": "https://katalog.winterthur.ch/TouchPoint_touchpoint",
-		"startparams": "View=sunrise"
+        "bibnetzbibconn": "http://asuka.xija.net:8050/bibconnector/bibnetzchwinterthur",
+        "calendar": "http://bibliotheken.winterthur.ch/index.php?id=14345",
+        "calendarparser": "guidlexml",
+        "feedurl": "http://bibliotheken.winterthur.ch/rss.xml",
+        "field_SYSTEM": "14",
+        "mediatypes": {
+            "11": "CD",
+            "12": "AUDIO_CASSETTE",
+            "26": "GAME_CONSOLE",
+            "3": "MOVIE",
+            "30": "DVD",
+            "4": "CD",
+            "41": "BLURAY",
+            "46": "CD",
+            "5": "MOVIE",
+            "53": "CD",
+            "55": "CD",
+            "56": "CD_SOFTWARE",
+            "57": "CD",
+            "58": "CD_SOFTWARE",
+            "59": "CD",
+            "60": "DVD",
+            "61": "DVD",
+            "62": "DVD",
+            "75": "CD",
+            "82": "CD",
+            "85": "GAME_CONSOLE",
+            "86": "GAME_CONSOLE",
+            "95": "EBOOK",
+            "96": "EDOC",
+            "buch03": "PACKAGE_BOOKS",
+            "buch06": "PACKAGE_BOOKS"
+        },
+        "onleihe": "http://www.bibnetz-onleihe.ch/bibnetz",
+        "onleihe_libraryId": "924",
+        "startparams": "View=sunrise"
     },
+    "displayname": "Winterhurer Bibliotheken",
     "geo": [
-        47.49995,
-        8.737564599999999
+        47.4986967,
+        8.7294798
     ],
-    "information": "http://bibliotheken.winterthur.ch/stadtbibliothek/oeffnungszeiten-kontakt/",
-    "replacedby": "de.opacapp.winterthur",
+    "information": "https://info.opacapp.net/winterthur.html",
     "state": "Z\u00fcrich",
     "title": "Bibliotheksverbund"
 }

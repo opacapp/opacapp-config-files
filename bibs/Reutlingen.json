@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Reutlingen",
@@ -54,8 +55,8 @@
         }
     },
     "geo": [
-        48.50693889999999,
-        9.2038043
+        48.4903415,
+        9.2106778
     ],
     "information": "http://www2.stadtbibliothek-reutlingen.de/Plone/-1/oeffnungszeiten",
     "state": "Baden-W\u00fcrttemberg",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Lingen",
@@ -36,7 +37,7 @@
     },
     "geo": [
         52.52306,
-        7.323278999999999
+        7.323279
     ],
     "information": "http://www.medienstelle-osnabrueck.de/txt.2/index.html",
     "state": "Niedersachsen",

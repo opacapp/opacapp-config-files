@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Isny im Allg\u00e4u",
+    "city": "Isny",
     "country": "Deutschland",
     "data": {
         "accounttable": {

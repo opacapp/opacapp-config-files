@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "littera",
     "city": "Innsbruck",
@@ -8,8 +9,7 @@
     },
     "geo": [
         47.2622403,
-        11,
-        3934947
+        11.0
     ],
     "information": "http://www.aktirol.web-opac.at",
     "state": "Tirol",

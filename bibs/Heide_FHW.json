@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "pica",
     "city": "Heide",
@@ -8,7 +9,7 @@
         "db": "7"
     },
     "geo": [
-        54.19517639999999,
+        54.1951764,
         9.1019015
     ],
     "information": "http://www.fh-westkueste.de/startseite/bibliothek/",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Strausberg",
@@ -16,5 +17,5 @@
     ],
     "information": "http://stadtbibliothek-strausberg.bibliotheca-open.de/%C3%9Cber-uns/Hauptstelle",
     "state": "Brandenburg",
-    "title": "Heinrich-Mann-Bibliothek"
+    "title": "Heinrich-Mann-Bibliothek / Stadtbibliothek"
 }

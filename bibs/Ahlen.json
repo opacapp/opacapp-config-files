@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Ahlen",
@@ -39,8 +40,8 @@
         }
     },
     "geo": [
-        51.7613433,
-        7.885546
+        51.76134,
+        7.88774
     ],
     "information": "https://www.ahlen.de/start/themen/bildung-kultur/stadtbuecherei/kontakt/",
     "state": "Nordrhein-Westfalen",

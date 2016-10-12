@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Glattfelden",
@@ -7,7 +8,7 @@
         "baseurl": "http://www.bibliotheken-zh.ch/Glattfelden"
     },
     "geo": [
-        47.55981999999999,
+        47.55982,
         8.4994
     ],
     "information": "http://www.glattfelden.ch/xml_1/internet/de/application/d49/f300.cfm",

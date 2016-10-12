@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borken",
+    "city": "Borken/Westf",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -66,8 +67,8 @@
         }
     },
     "geo": [
-        51.84827139999999,
-        6.8594477
+        51.84179,
+        6.85934
     ],
     "information": "http://www.remigius-buecherei.de/",
     "state": "Nordrhein-Westfalen",

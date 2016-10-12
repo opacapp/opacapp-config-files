@@ -1,11 +1,12 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "M\u00fchlheim (Main)",
+    "city": "M\u00fchlheim/M",
     "country": "Deutschland",
     "data": {
         "baseurl": "http://opac.winbiap.net/muehlheim",
-		"customssl": true
+        "customssl": true
     },
     "geo": [
         50.12529,

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "iopac",
     "city": "Hallstadt",
@@ -7,10 +8,10 @@
         "baseurl": "http://hallkilian.selfhost.bz"
     },
     "geo": [
-        49.92697039999999,
+        49.9269704,
         10.8810085
     ],
     "information": "http://stadtbuecherei-hallstadt.de/",
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtb\u00fccherei St. Kilian"
 }

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Weinsberg",
@@ -12,9 +13,9 @@
         },
         "baseurl": "https://web-opac.kivbf.de/weinsberg",
         "copiestable": {
+            "barcode": 4,
             "location": 0,
             "returndate": 3,
-            "barcode": 4,
             "status": 2
         },
         "customssl": true,
@@ -46,8 +47,8 @@
         }
     },
     "geo": [
-        49.1484633,
-        9.287265699999999
+        49.15155,
+        9.28932
     ],
     "information": "http://www.weinsberg.de/Freizeit-Kultur/Stadtbuecherei/c177.html",
     "state": "Baden-W\u00fcrttemberg",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "F\u00e4llanden",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.3714307,
-        8.638945999999999
+        8.638946
     ],
     "information": "http://www.faellanden.ch/de/tourismus/bibliotheken/",
     "state": "Z\u00fcrich",

@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
-    "city": "M\u00fclheim (Ruhr)",
+    "city": "M\u00fclheim/R",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -48,8 +49,8 @@
         ]
     },
     "geo": [
-        51.4185682,
-        6.884522599999999
+        51.4291001,
+        6.8823416
     ],
     "information": "http://www.muelheim-ruhr.de/cms/oeffnungszeiten__anschriften.html",
     "state": "Nordrhein-Westfalen",

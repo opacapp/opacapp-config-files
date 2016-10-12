@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Rhede",
@@ -66,8 +67,8 @@
         }
     },
     "geo": [
-        51.8374545,
-        6.6989532
+        51.83953,
+        6.69595
     ],
     "information": "http://www.st-gudula.de/ein_buch_g.php",
     "state": "Nordrhein-Westfalen",

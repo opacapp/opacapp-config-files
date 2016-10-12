@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Maur/Ebmatingen/Aesch-Forch",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.338416,
-        8.651513099999999
+        8.6515131
     ],
     "information": "http://www.bibliothek-maur.ch/",
     "state": "Z\u00fcrich",

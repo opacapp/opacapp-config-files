@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "L\u00fcdenscheid",
@@ -56,8 +57,8 @@
         }
     },
     "geo": [
-        51.2164256,
-        7.634604899999999
+        51.2164794,
+        7.6347508
     ],
     "information": "http://www.luedenscheid.de/luedenscheid_erleben/stadtbuecherei/sp_auto_398.php",
     "state": "Nordrhein-Westfalen",

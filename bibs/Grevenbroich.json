@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "adis",
     "city": "Grevenbroich",
@@ -8,10 +9,10 @@
         "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23042"
     },
     "geo": [
-        51.0902094,
-        6.585863000000001
+        51.0922909,
+        6.5868286
     ],
     "information": "http://www.grevenbroich.de/C1257138004C5579/html/C62D4062F710B7C9C125716F0037EFA2?opendocument&nid1=55151",
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

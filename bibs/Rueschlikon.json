@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "R\u00fcschlikon",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.3066286,
-        8.551060099999999
+        8.5510601
     ],
     "information": "http://www.bibliothek-rueschlikon.ch/",
     "state": "Z\u00fcrich",

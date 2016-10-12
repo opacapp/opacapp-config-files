@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Bautzen",
@@ -8,7 +9,7 @@
         "startparams": "Login=extern"
     },
     "geo": [
-        51.18229299999999,
+        51.182293,
         14.4237749
     ],
     "information": "http://www.bautzen.de/stadtbibliothek.asp",

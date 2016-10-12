@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Arnsberg",
@@ -7,10 +8,10 @@
         "baseurl": "https://webopac.citkomm.de/arnsberg"
     },
     "geo": [
-        51.4073375,
-        8.052771
+        51.4535105,
+        7.9595925
     ],
     "information": "http://www.arnsberg.de/buechereien/index.php",
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fcchereien"
+    "title": "Stadtb\u00fccherei"
 }

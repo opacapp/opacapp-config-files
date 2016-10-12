@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Balingen",
@@ -35,8 +36,8 @@
         }
     },
     "geo": [
-        48.2748206,
-        8.8495298
+        48.2736921,
+        8.8498901
     ],
     "information": "http://www.balingen.de/,Lde/Startseite/Familie+_+Bildung/Mediothek.html",
     "state": "Baden-W\u00fcrttemberg",

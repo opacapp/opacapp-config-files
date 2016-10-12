@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "pica",
-    "city": "Friedberg",
+    "city": "Friedberg/H",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.uni-giessen.de",

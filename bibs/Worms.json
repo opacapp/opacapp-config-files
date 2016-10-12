@@ -1,16 +1,17 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "pica",
     "city": "Worms",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://pica1l.lhb.tu-darmstadt.de",
-		"charset": "ISO-8859-1",
+        "charset": "ISO-8859-1",
         "db": "STBWO"
     },
     "geo": [
-        49.6341372,
-        8.3507182
+        49.6290294,
+        8.3703118
     ],
     "information": "http://www.worms.de/de/kultur/bibliotheken/",
     "state": "Rheinland-Pfalz",

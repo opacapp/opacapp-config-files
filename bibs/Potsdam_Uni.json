@@ -1,13 +1,14 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "pica",
     "city": "Potsdam",
     "country": "Deutschland",
     "data": {
+        "account_system": "lbs",
         "baseurl": "http://opac.ub.uni-potsdam.de",
         "db": "1",
-        "account_system":"lbs",
-        "lbs_url":"http://loan.ub.uni-potsdam.de"
+        "lbs_url": "http://loan.ub.uni-potsdam.de"
     },
     "geo": [
         52.4003952,

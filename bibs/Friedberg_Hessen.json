@@ -1,11 +1,12 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Friedberg (Hessen)",
+    "city": "Friedberg/H",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.winbiap.net/friedberg-hessen",
-		"customssl": true
+        "customssl": true
     },
     "geo": [
         50.3248933,

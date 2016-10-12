@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Bochum",
@@ -8,7 +9,7 @@
     },
     "geo": [
         51.4818445,
-        7.216236299999999
+        7.2162363
     ],
     "information": "http://www.tfh-bochum.de/bibliothek.html",
     "state": "Nordrhein-Westfalen",

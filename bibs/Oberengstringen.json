@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Oberengstringen",
@@ -7,7 +8,7 @@
         "baseurl": "http://www.bibliotheken-zh.ch/Oberengstringen"
     },
     "geo": [
-        47.40880000000001,
+        47.4088,
         8.46213
     ],
     "information": "http://www.oberengstringen.ch/de/bildung/bibliotheken/",

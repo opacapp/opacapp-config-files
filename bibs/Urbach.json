@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Urbach",
+    "city": "Urbach/Rems-Murr-Kreis",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -28,10 +29,10 @@
         }
     },
     "geo": [
-        48.81237609999999,
-        9.575838899999999
+        48.8123761,
+        9.5758389
     ],
     "information": "http://www.urbach.de/,Lde/start/Gemeinde/Mediathek.html",
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Mediathek"
+    "title": "Ortsb\u00fccherei"
 }

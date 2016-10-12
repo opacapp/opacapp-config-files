@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Essen (Oldenburg)",
+    "city": "Essen/Oldenburg",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -67,9 +68,9 @@
     },
     "geo": [
         52.717731,
-        7.939650500000001
+        7.9396505
     ],
     "information": "http://www.essen-oldb.de/index.php?id=208",
     "state": "Niedersachsen",
-    "title": "K\u00d6B St. Bartholom\u00e4us"
+    "title": "Kath. \u00d6B St. Bartholom\u00e4us"
 }

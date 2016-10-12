@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ludwigshafen (Rhein)",
+    "city": "Ludwigshafen/Rh.",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -47,8 +48,8 @@
         }
     },
     "geo": [
-        49.47741,
-        8.445179999999999
+        49.4806999,
+        8.4486117
     ],
     "information": "http://www.ludwigshafen.de/lebenswert/stadtbibliothek/adressen-und-oeffnungszeiten/ ",
     "state": "Rheinland-Pfalz",

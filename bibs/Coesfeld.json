@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Coesfeld",
@@ -34,8 +35,8 @@
         }
     },
     "geo": [
-        51.9382944,
-        7.1675831
+        51.9466943,
+        7.1703584
     ],
     "information": "http://stadtbuecherei.coesfeld.de/",
     "state": "Nordrhein-Westfalen",

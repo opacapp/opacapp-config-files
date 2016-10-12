@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Ditzingen",
@@ -7,13 +8,13 @@
         "accounttable": {
             "author": 0,
             "barcode": -1,
+            "format": 2,
             "homebranch": 5,
             "lendingbranch": 5,
             "prolongurl": 7,
             "returndate": 3,
             "status": 4,
-            "title": 1,
-            "format": 2
+            "title": 1
         },
         "baseurl": "https://wwwopac.rz-kiru.de/ditzingen",
         "copiestable": {
@@ -31,13 +32,13 @@
             "branch": 4,
             "cancelurl": 5,
             "expirationdate": -1,
-            "title": 1,
-            "format": 2
+            "format": 2,
+            "title": 1
         }
     },
     "geo": [
-        48.8264662,
-        9.067556399999999
+        48.8262785,
+        9.0663164
     ],
     "information": "http://ditzingen.de/index.php?id=506",
     "state": "Baden-W\u00fcrttemberg",

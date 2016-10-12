@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Flensburg",
@@ -37,10 +38,10 @@
         ]
     },
     "geo": [
-        54.7937431,
-        9.4469964
+        54.7839267,
+        9.4383472
     ],
     "information": "http://stadtbibliothek.flensburg.de/",
     "state": "Schleswig-Holstein",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

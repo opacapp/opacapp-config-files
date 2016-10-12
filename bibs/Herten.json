@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Herten",
@@ -53,10 +54,10 @@
         }
     },
     "geo": [
-        51.6020534,
-        7.1389575
+        51.59405,
+        7.13821
     ],
     "information": "/../read/info.html",
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtbibliothek im Glashaus"
 }

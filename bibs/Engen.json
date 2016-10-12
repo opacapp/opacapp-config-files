@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "bibliotheca",
     "city": "Engen",
@@ -19,8 +20,8 @@
         "reservationtable": null
     },
     "geo": [
-        47.854144,
-        8.7737404
+        47.85199,
+        8.77047
     ],
     "information": "http://www.engen.de/servlet/PB/menu/1254107/index.html",
     "state": "Baden-W\u00fcrttemberg",

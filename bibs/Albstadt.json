@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Albstadt",
@@ -7,13 +8,13 @@
         "accounttable": {
             "author": 2,
             "barcode": 1,
+            "format": 5,
             "homebranch": 0,
             "lendingbranch": 0,
             "prolongurl": 7,
             "returndate": 4,
             "status": 6,
-            "title": 3,
-            "format": 5
+            "title": 3
         },
         "baseurl": "https://wwwopac.rz-kiru.de/albstadt",
         "copiestable": {
@@ -32,13 +33,13 @@
             "branch": 0,
             "cancelurl": 5,
             "expirationdate": -1,
-            "title": 2,
-            "format": 3
+            "format": 3,
+            "title": 2
         }
     },
     "geo": [
-        48.2137038,
-        9.0234259
+        48.2089,
+        9.03233
     ],
     "information": "https://wwwopac.rz-kiru.de/readalbstadt/startseite.html",
     "state": "Baden-W\u00fcrttemberg",

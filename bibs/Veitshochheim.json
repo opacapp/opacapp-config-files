@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Veitsh\u00f6chheim",
@@ -39,8 +40,8 @@
         }
     },
     "geo": [
-        49.831826,
-        9.8850835
+        49.83154,
+        9.87579
     ],
     "information": "http://www.bib.veitshoechheim.de/",
     "state": "Bayern",

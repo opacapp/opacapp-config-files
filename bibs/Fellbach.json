@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Fellbach",
@@ -46,7 +47,7 @@
     },
     "geo": [
         48.80954,
-        9.276539999999999
+        9.27654
     ],
     "information": "http://www.stadtbuecherei.fellbach.de/startseite/416/de/startseite-stadtbuecherei.html",
     "state": "Baden-W\u00fcrttemberg",

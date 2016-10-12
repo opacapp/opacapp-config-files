@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Sonthofen",
@@ -12,5 +13,5 @@
     ],
     "information": "http://www.sonthofen.de/Bildung-Soziales/Stadtbuecherei.aspx",
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

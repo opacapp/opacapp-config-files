@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Kevelaer-Twisteden",
@@ -71,5 +72,5 @@
     ],
     "information": "http://www.buecherei-twisteden.de/",
     "state": "Nordrhein-Westfalen",
-    "title": "B\u00fccherei St. Quirinus"
+    "title": "Kath. \u00d6B St. Quirinus"
 }

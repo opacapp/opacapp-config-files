@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Mainz",
@@ -37,10 +38,10 @@
         }
     },
     "geo": [
-        49.9928617,
-        8.2472526
+        50.00833,
+        8.26938
     ],
     "information": "http://www.mainz.de/WGAPublisher/online/html/default/bibliotheken",
     "state": "Rheinland-Pfalz",
-    "title": "Öffentliche Bücherei Anna Seghers"
+    "title": "\u00d6ffentliche B\u00fccherei Anna Seghers"
 }

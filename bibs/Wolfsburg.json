@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Wolfsburg",
@@ -24,6 +25,9 @@
             "returndate": 5,
             "status": 3
         },
+        "onleihe": "http://www3.onleihe.de/wolfsburg",
+        "onleihe_libraryId": "158",
+        "onleihe_singleLibrary": "yes",
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -34,11 +38,10 @@
         }
     },
     "geo": [
-        52.4226503,
-        10.7865461
+        52.4198443,
+        10.7857573
     ],
-    "information": "http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=navurl://7e0aa67ee960003ee71c83f4a1d1ee70",
-    "replacedby": "de.opacapp.wolfsburg",
+    "information": "https://info.opacapp.net/wolfsburg.html",
     "state": "Niedersachsen",
     "title": "Stadtbibliothek"
 }

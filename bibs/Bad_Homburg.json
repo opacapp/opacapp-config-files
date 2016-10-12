@@ -1,20 +1,21 @@
 {
-  "account_supported": false,
-  "api": "open",
-  "city": "Bad Homburg",
-  "country": "Deutschland",
-  "data": {
-    "baseurl": "http://wwwopac.bad-homburg.de",
-    "urls": {
-      "advanced_search": "Medienfinden/ErweiterteSuche.aspx",
-      "simple_search": "Medienfinden/EinfacheSuche.aspx"
-    }
-  },
-  "geo": [
-    50.2261,
-    8.615090000000002
-  ],
-  "information": "http://wwwopac.bad-homburg.de/%C3%9Cberuns/KontaktAnfahrt.aspx",
-  "state": "Hessen",
-  "title": "Stadtbibliothek"
+    "_active": true,
+    "account_supported": false,
+    "api": "open",
+    "city": "Bad Homburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://wwwopac.bad-homburg.de",
+        "urls": {
+            "advanced_search": "Medienfinden/ErweiterteSuche.aspx",
+            "simple_search": "Medienfinden/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        50.2261,
+        8.61509
+    ],
+    "information": "http://wwwopac.bad-homburg.de/%C3%9Cberuns/KontaktAnfahrt.aspx",
+    "state": "Hessen",
+    "title": "StadtBibliothek"
 }

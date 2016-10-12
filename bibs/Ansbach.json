@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Ansbach",
@@ -7,10 +8,10 @@
         "baseurl": "https://fanoz3.bib-bvb.de/InfoGuideClient.fansis"
     },
     "geo": [
-        49.3004246,
-        10.5719357
+        49.2996333,
+        10.5756479
     ],
     "information": "http://www.hs-ansbach.de/hochschule/einrichtungen/bibliothek.html",
     "state": "Bayern",
-    "title": "Ansbacher Katalog"
+    "title": "Stadtb\u00fccherei"
 }

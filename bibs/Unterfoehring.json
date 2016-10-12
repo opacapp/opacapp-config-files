@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Unterf\u00f6hring",
@@ -12,5 +13,5 @@
     ],
     "information": "http://www.buergerhaus-unterfoehring.de/bibliothek/aktuelles.html",
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -1,14 +1,15 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Zwingenberg",
+    "city": "Zwingenberg/B",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://webopac.winbiap.de/zwingenberg"
     },
     "geo": [
-        49.7228393,
-        8.613857699999999
+        49.7228046,
+        8.6137839
     ],
     "information": "http://www.zwingenberg.de/d1/bildung-kultur/buecherei.php?navid=27",
     "state": "Hessen",

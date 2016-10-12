@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Luckenwalde",
@@ -39,8 +40,8 @@
         }
     },
     "geo": [
-        52.0903895,
-        13.1636906
+        52.0939967,
+        13.16933
     ],
     "information": "http://www.bibliothek.luckenwalde.de/",
     "state": "Brandenburg",

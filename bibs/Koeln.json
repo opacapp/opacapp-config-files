@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "zones",
     "city": "K\u00f6ln",
@@ -7,8 +8,8 @@
         "baseurl": "https://katalog.stbib-koeln.de/alswww2.dll"
     },
     "geo": [
-        50.937531,
-        6.9602786
+        50.9320995,
+        6.9538998
     ],
     "information": "http://www.stadt-koeln.de/leben-in-koeln/stadtbibliothek/adressen-und-oeffnungszeiten",
     "state": "Nordrhein-Westfalen",

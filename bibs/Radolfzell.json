@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Radolfzell",
@@ -36,9 +37,9 @@
     },
     "geo": [
         47.7372163,
-        8.970620799999999
+        8.9706208
     ],
     "information": "http://www.radolfzell.de/stadtbibliothek",
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtbibliothek"
+    "title": "Stadtbibliothek Joseph Victor von Scheffel"
 }

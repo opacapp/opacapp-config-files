@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Hannover",
@@ -33,7 +34,7 @@
     },
     "geo": [
         52.3758916,
-        9.732010400000002
+        9.7320104
     ],
     "information": "http://www.nsi-hannover.de/staticsite/staticsite.php?menuid=212&refmenuid=321&reftopmenu=73&topmenu=57",
     "state": "Niedersachsen",

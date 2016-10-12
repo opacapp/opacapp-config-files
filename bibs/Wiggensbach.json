@@ -1,11 +1,12 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Wiggensbach",
     "country": "Deutschland",
     "data": {
         "baseurl": "http://opac.winbiap.net/wiggensbach",
-		"customssl": true
+        "customssl": true
     },
     "geo": [
         47.745133,

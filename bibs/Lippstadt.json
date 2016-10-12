@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Lippstadt",
@@ -7,10 +8,10 @@
         "baseurl": "https://webopac.citkomm.de/lippstadt"
     },
     "geo": [
-        51.6736297,
-        8.3459294
+        51.6737655,
+        8.3466242
     ],
     "information": "http://www.lippstadt.de/kultur/buecherei/117260100000012474.php",
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Thomas-Valentin-Stadtb\u00fccherei"
 }

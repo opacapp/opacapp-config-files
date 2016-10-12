@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "pica",
     "city": "Hannover",
@@ -9,7 +10,7 @@
     },
     "geo": [
         52.3758916,
-        9.732010400000002
+        9.7320104
     ],
     "information": "http://www.leibniz-fh.de/kontakt.html",
     "state": "Niedersachsen",

@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
-    "city": "Erlangen-N\u00fcrnberg",
+    "city": "Erlangen",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://www.opac.uni-erlangen.de/InfoGuideClient.uersis",

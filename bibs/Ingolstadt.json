@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Ingolstadt",
@@ -45,10 +46,10 @@
         ]
     },
     "geo": [
-        48.7665351,
-        11.4257541
+        48.7636158,
+        11.4276442
     ],
     "information": "http://www2.ingolstadt.de/Leben_in_Ingolstadt/Bildung/Stadtb%C3%BCcherei/",
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

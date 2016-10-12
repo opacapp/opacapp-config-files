@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Remscheid",
@@ -7,8 +8,8 @@
         "baseurl": "http://webopac.remscheid.de/webOPACClient.remscheid"
     },
     "geo": [
-        51.1787418,
-        7.189696199999998
+        51.1819294,
+        7.1893905
     ],
     "information": "http://www.remscheid.de/freizeit-und-kultur/bibliothek/bibliothek.php",
     "state": "Nordrhein-Westfalen",

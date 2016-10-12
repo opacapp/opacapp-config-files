@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "adis",
     "city": "Herne",
@@ -8,8 +9,8 @@
         "startparams": "\u001b[Cservice=direct/0/Home/$DirectLink&sp=S127.0.0.1%3A4404"
     },
     "geo": [
-        51.5368948,
-        7.200914699999999
+        51.5361578,
+        7.2227727
     ],
     "information": "http://www.stadtbibliothek.herne.de/",
     "state": "Nordrhein-Westfalen",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Offenau",
@@ -53,10 +54,10 @@
         }
     },
     "geo": [
-        49.2450112,
-        9.164699299999999
+        49.2104799,
+        9.2036387
     ],
     "information": "https://web-opac.kivbf.de/read-offenau/info.html",
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Ortsb\u00fccherei"
 }

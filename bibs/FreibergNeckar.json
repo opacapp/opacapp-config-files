@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Freiberg am Neckar",
+    "city": "Freiberg/Neckar",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://webopac.winbiap.de/freiberg"

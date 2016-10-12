@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Bad Kreuznach",
@@ -47,7 +48,7 @@
     },
     "geo": [
         49.8440162,
-        7.873134599999999
+        7.8731346
     ],
     "information": "http://www.bad-kreuznach.de/sv_bad_kreuznach/Tourismus,%20Kultur,%20Sport/Stadtbibliothek/",
     "state": "Rheinland-Pfalz",

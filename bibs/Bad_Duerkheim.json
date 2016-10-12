@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Bad D\u00fcrkheim",
@@ -32,8 +33,8 @@
         }
     },
     "geo": [
-        49.46232999999999,
-        8.17285
+        49.46026,
+        8.16622
     ],
     "information": "http://www.stadtbuecherei-bad-duerkheim.de/startseite/oeffnungszeiten.html",
     "state": "Rheinland-Pfalz",

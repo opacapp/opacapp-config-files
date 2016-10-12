@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "M\u00f6riken-Wildegg",
@@ -7,7 +8,7 @@
         "baseurl": "http://www.bibliotheken-ag.ch/Moeriken-Wildegg"
     },
     "geo": [
-        47.41609039999999,
+        47.4160904,
         8.1825746
     ],
     "information": "http://www.moewibibi.ch/xml_4/internet/de/intro.cfm",

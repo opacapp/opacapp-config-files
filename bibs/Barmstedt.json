@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "iopac",
     "city": "Barmstedt",
@@ -8,9 +9,9 @@
     },
     "geo": [
         53.7905563,
-        9.769214900000001
+        9.7692149
     ],
     "information": "http://www.stadtbuecherei-barmstedt.de/",
     "state": "Schleswig-Holstein",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

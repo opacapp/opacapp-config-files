@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "M\u00fchlheim an der Ruhr",
@@ -8,7 +9,7 @@
         "startparams": "Login=wonmbmue"
     },
     "geo": [
-        51.44926599999999,
+        51.449266,
         6.869062
     ],
     "information": "http://www.hochschule-ruhr-west.de/campus/bibliothek/oeffnungszeiten.html",

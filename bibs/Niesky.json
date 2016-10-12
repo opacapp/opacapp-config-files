@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Niesky",
@@ -11,7 +12,6 @@
             "title": 1
         },
         "baseurl": "https://niesky.internetopac.de",
-		"customssl": true,
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -20,6 +20,7 @@
             "returndate": 5,
             "status": 3
         },
+        "customssl": true,
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",

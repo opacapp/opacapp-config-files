@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Pforzheim",
@@ -56,8 +57,8 @@
         }
     },
     "geo": [
-        48.8921862,
-        8.6946286
+        48.8896028,
+        8.7035587
     ],
     "information": "/read/info.html",
     "state": "Baden-W\u00fcrttemberg",

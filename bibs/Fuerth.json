@@ -1,14 +1,15 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
-    "city": "F\u00fcrth",
+    "city": "Furth",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://serviceweb.fuerth.de/webOPACClient"
     },
     "geo": [
-        49.4771169,
-        10.988667
+        49.4564168,
+        10.991838
     ],
     "information": "http://fuerth.de/Home/Leben-in-Fuerth/schulen-bildung/volksbuecherei.aspx#ctl00_ctl16_cdvBigView_ctl00",
     "state": "Bayern",

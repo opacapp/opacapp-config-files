@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "W\u00fcrzburg",
@@ -10,7 +11,7 @@
     },
     "geo": [
         49.7915953,
-        9.953571499999999
+        9.9535715
     ],
     "information": "http://bibliothek.fhws.de/zeiten.html",
     "state": "Bayern",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Karlstadt",
@@ -12,5 +13,5 @@
     ],
     "information": "http://www.karlstadt.de/Sites/gensite.asp?SID=cms190820141716084232293&Art=0379",
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtbibliothek i.d. Hohen Kemenate"
 }

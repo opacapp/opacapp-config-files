@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "iopac",
     "city": "Kellinghusen",
@@ -7,7 +8,7 @@
         "baseurl": "http://server1.buergerhaus-kellinghusen.de"
     },
     "geo": [
-        53.95402550000001,
+        53.9540255,
         9.7157793
     ],
     "information": "http://www.buecherei-kellinghusen.de/",

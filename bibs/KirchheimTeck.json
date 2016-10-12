@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Kirchheim u. Teck",
+    "city": "Kirchheim unter Teck",
     "country": "Deutschland",
     "data": {
         "baseurl": "http://webopac.kirchheim-teck.de"

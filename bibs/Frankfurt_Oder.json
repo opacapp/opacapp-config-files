@@ -1,16 +1,17 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Frankfurt (Oder)",
+    "city": "Frankfurt/Oder",
     "country": "Deutschland",
     "data": {
         "baseurl": "http://80.228.88.60/webopac"
     },
     "geo": [
-        52.34999999999999,
-        14.55
+        52.3436736,
+        14.554062
     ],
     "information": "http://www.stadtbibliothek-frankfurt-oder.de/",
     "state": "Brandenburg",
-    "title": "Stadt- & Regionalbibliothek"
+    "title": "Stadt- und Regionalbibliothek"
 }

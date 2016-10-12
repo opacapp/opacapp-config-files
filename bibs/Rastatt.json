@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Rastatt",
@@ -35,8 +36,8 @@
         }
     },
     "geo": [
-        48.8590879,
-        8.209575599999999
+        48.8595516,
+        8.2030992
     ],
     "information": "http://www.stadtbibliothek-rastatt.de/",
     "state": "Baden-W\u00fcrttemberg",

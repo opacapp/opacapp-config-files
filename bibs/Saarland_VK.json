@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "pica",
     "city": "Saarbr\u00fccken",
@@ -8,8 +9,8 @@
         "db": "2.340"
     },
     "geo": [
-        49.24015720000001,
-        6.996932699999999
+        49.2401572,
+        6.9969327
     ],
     "information": "http://www.sulb.uni-saarland.de/de/?print=1",
     "state": "Saarland",

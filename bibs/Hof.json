@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Hof",
+    "city": "Hof/S",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -50,8 +51,8 @@
         }
     },
     "geo": [
-        50.3135391,
-        11.9127814
+        50.31265,
+        11.91772
     ],
     "information": "http://www.hof.de/hof/stadtbuecherei/deu/index.php",
     "state": "Bayern",

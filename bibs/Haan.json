@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Haan",
@@ -35,8 +36,8 @@
         }
     },
     "geo": [
-        51.1923262,
-        7.0065575
+        51.1932379,
+        7.0090636
     ],
     "information": "http://www.haan.de/index.phtml?mNavID=1581.1&sNavID=1581.74&La=1",
     "state": "Nordrhein-Westfalen",

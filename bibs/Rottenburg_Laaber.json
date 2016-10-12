@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Rottenburg (Laaber)",
+    "city": "Rottenburg/Laaber",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -37,5 +38,5 @@
     ],
     "information": "http://www.rottenburg-laaber.de/index.php?id=0,60",
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

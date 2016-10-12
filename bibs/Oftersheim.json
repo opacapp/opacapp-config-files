@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Oftersheim",
@@ -11,8 +12,8 @@
         }
     },
     "geo": [
-        49.3702809,
-        8.5838662
+        49.3704439,
+        8.5818038
     ],
     "information": "http://www.oftersheim.de/gemeinde/einrichtungen/buecherei/",
     "state": "Baden-W\u00fcrttemberg",

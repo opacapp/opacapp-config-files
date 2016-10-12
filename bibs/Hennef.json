@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Hennef (Sieg)",
+    "city": "Hennef",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -32,8 +33,8 @@
         }
     },
     "geo": [
-        50.783333,
-        7.283333000000001
+        50.77438,
+        7.27947
     ],
     "information": "http://www.hennef.de/index.php?id=430",
     "state": "Nordrhein-Westfalen",

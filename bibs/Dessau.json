@@ -1,6 +1,7 @@
 {
+    "_active": true,
     "account_supported": false,
-    "api": "open",
+    "api": "bibliotheca",
     "city": "Dessau",
     "country": "Deutschland",
     "data": {
@@ -11,8 +12,8 @@
         }
     },
     "geo": [
-        51.8222436,
-        12.2424516
+        51.8355529,
+        12.2472116
     ],
     "information": "http://www.bibliothek.dessau-rosslau.de/Informationen.aspx",
     "state": "Sachsen-Anhalt",

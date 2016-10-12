@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Duisburg",
@@ -45,8 +46,8 @@
         ]
     },
     "geo": [
-        51.4344079,
-        6.762329299999999
+        51.4326322,
+        6.7654026
     ],
     "information": "http://www.duisburg.de/stadtbib/vorort/index.php",
     "state": "Nordrhein-Westfalen",

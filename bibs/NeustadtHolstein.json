@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Neustadt in Holstein",
+    "city": "Neustadt/Holst.",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -41,5 +42,5 @@
     ],
     "information": "http://www.stadt-neustadt.de/stadtbuecherei",
     "state": "Schleswig-Holstein",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

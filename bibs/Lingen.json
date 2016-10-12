@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Lingen",
@@ -33,10 +34,10 @@
         ]
     },
     "geo": [
-        52.523056,
-        7.323056
+        52.5236509,
+        7.3173975
     ],
     "information": "http://www.lingen.de/tourismus_freizeit_und_kultur/stadtbibliothek/stadtbibliothek.html",
     "state": "Niedersachsen",
-    "title": "Stadtbibliothek"
+    "title": "Stadt- und Hochschulb\u00fccherei"
 }

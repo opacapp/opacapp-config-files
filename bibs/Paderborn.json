@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Paderborn",
@@ -12,7 +13,7 @@
     },
     "geo": [
         51.7199006,
-        8.754952099999999
+        8.754952
     ],
     "information": "http://www.stadtbibliothek-paderborn.de",
     "state": "Nordrhein-Westfalen",

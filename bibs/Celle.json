@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Celle",
@@ -47,10 +48,10 @@
         }
     },
     "geo": [
-        52.61681069999999,
-        10.0631936
+        52.62167,
+        10.07901
     ],
-    "information": "http://www.celle.de/Leben/Kultur/Stadtbibliothek",
+    "information": "https://info.opacapp.net/celle.html",
     "state": "Niedersachsen",
     "title": "Stadtbibliothek"
 }

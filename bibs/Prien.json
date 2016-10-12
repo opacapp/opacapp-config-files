@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Prien",
+    "city": "Prien/Chiemsee",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -32,10 +33,10 @@
         }
     },
     "geo": [
-        47.8561815,
-        12.3490983
+        47.8553161,
+        12.3423182
     ],
     "information": "http://www.buecherei.prien.de/",
     "state": "Bayern",
-    "title": "B\u00fccherei"
+    "title": "Gemeinde- und Kurgastb\u00fccherei"
 }

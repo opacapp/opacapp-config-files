@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Erlangen",
@@ -28,6 +29,7 @@
         "mediatypes": {
             "blurayS.gif": "BLURAY",
             "cdkl.gif": "CD",
+            "eaudio_s.jpg": "EAUDIO",
             "mBuchS.gif": "BOOK",
             "mCDROMS.gif": "CD",
             "mCassetteS.gif": "AUDIO_CASSETTE",
@@ -42,6 +44,8 @@
             "onleihe2s.gif": "EBOOK",
             "zeitschriftkl.gif": "NEWSPAPER"
         },
+        "onleihe": "http://www.franken-onleihe.de/verbund_franken",
+        "onleihe_libraryId": "350",
         "reservationtable": {
             "author": 0,
             "availability": -1,
@@ -52,11 +56,10 @@
         }
     },
     "geo": [
-        49.59727239999999,
-        11.0036991
+        49.5972509,
+        11.0036616
     ],
-    "information": "http://www.erlangen.de/bibliothek/",
-    "replacedby": "de.opacapp.erlangen",
+    "information": "https://info.opacapp.net/erlangen.html",
     "state": "Bayern",
     "title": "Stadtbibliothek"
 }

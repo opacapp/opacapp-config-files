@@ -1,16 +1,17 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Kirchheim b. M\u00fcnchen",
+    "city": "Kirchheim",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://webopac.winbiap.de/kirchheim"
     },
     "geo": [
-        48.175708,
-        11.7558223
+        48.16824,
+        11.75613
     ],
     "information": "http://www.awm-muenchen.de/privathaushalte/abfallvermeidung/leihlexikon/eintrag.html?no_cache=1&tx_awmleihlexikon_pi1%5Bid%5D=211",
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei Kirchheim"
+    "title": "Gemeindeb\u00fccherei"
 }

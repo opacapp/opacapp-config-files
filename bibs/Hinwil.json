@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Hinwil",
@@ -7,8 +8,8 @@
         "baseurl": "http://www.bibliotheken-zh.ch/Hinwil"
     },
     "geo": [
-        47.30251579999999,
-        8.845367399999999
+        47.3025158,
+        8.8453674
     ],
     "information": "http://www.hinwil.ch/de/dorffreizeitkultur/bibliotheken/?action=showbibi&bibi_id=91",
     "state": "Z\u00fcrich",

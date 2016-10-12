@@ -1,17 +1,21 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
-    "city": "Uri",
+    "city": "Altdorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://kbu.ur.ch/webOPACClient.sisis"
+        "baseurl": "http://kbu.ur.ch/webOPACClient.sisis",
+        "onleihe": "http://www.dibizentral.ch/dibizentral",
+        "onleihe_libraryId": "743",
+        "onleihe_search_url": "dibizentral.ch"
     },
+    "displayname": "Kantonsbibliothek Uri Stiftung Altdorf",
     "geo": [
-        46.7738629,
-        8.602515300000002
+        46.8809378,
+        8.6411776
     ],
-    "information": "http://www.kbu.ch/oeffnungszeiten.html",
-    "replacedby": "de.opacapp.uri",
+    "information": "https://info.opacapp.net/uri.html",
     "state": "Uri",
-    "title": "Kantonsbibliothek Altdorf"
+    "title": "Kantonsbibliothek Uri Stiftung"
 }

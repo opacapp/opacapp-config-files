@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Leipzig",
@@ -7,10 +8,10 @@
         "baseurl": "https://webopac.stadtbibliothek-leipzig.de/webOPACClient"
     },
     "geo": [
-        51.3396955,
-        12.3730747
+        51.33416,
+        12.37497
     ],
     "information": "http://www.leipzig.de/stadtbib/",
     "state": "Sachsen",
-    "title": "Stadtbibliothek"
+    "title": "St\u00e4dtische Bibliotheken"
 }

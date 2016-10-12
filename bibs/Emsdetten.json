@@ -1,20 +1,21 @@
 {
-  "account_supported": false,
-  "api": "open",
-  "city": "Emsdetten",
-  "country": "Deutschland",
-  "data": {
-    "baseurl": "http://webopac.emsdetten.de",
-    "urls": {
-      "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
-      "simple_search": "Mediensuche/EinfacheSuche.aspx"
-    }
-  },
-  "geo": [
-    52.17296409999999,
-    7.524831199999999
-  ],
-  "information": "http://webopac.emsdetten.de/",
-  "state": "Nordrhein-Westfalen",
-  "title": "Stadtbibliothek"
+    "_active": true,
+    "account_supported": false,
+    "api": "open",
+    "city": "Emsdetten",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://webopac.emsdetten.de",
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        52.1729641,
+        7.5248312
+    ],
+    "information": "http://webopac.emsdetten.de/",
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
 }

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "primo",
     "city": "Cambridge",
@@ -12,7 +13,7 @@
     },
     "geo": [
         42.3770029,
-        -71.11666009999999
+        -71.1166601
     ],
     "information": "http://library.harvard.edu/",
     "state": "Massachusetts",

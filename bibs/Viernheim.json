@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Viernheim",
@@ -45,5 +46,5 @@
     ],
     "information": "http://www.viernheim.de/unsere-stadt/bildungundkultur/stadtbuecherei/bibliothekonline.html",
     "state": "Hessen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

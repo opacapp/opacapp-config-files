@@ -1,22 +1,22 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Panketal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothek-panketal.internetopac.de",
-		"customssl": true,
         "accounttable": {
             "author": 0,
             "barcode": -1,
+            "format": 1,
             "homebranch": -1,
             "lendingbranch": -1,
             "prolongurl": 4,
             "returndate": 3,
             "status": -1,
-            "title": 2,
-            "format": 1
+            "title": 2
         },
+        "baseurl": "https://bibliothek-panketal.internetopac.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,12 +26,13 @@
             "returndate": 5,
             "status": 3
         },
+        "customssl": true,
         "reservationtable": {
             "author": 0,
-            "format": 1,
             "availability": 3,
             "cancelurl": 4,
             "expirationdate": null,
+            "format": 1,
             "title": 2
         }
     },

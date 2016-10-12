@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Bernau bei Berlin",
@@ -11,13 +12,13 @@
             "title": 1
         },
         "baseurl": "https://stadtbibliothekbernau-bei-berlin.internetopac.de",
-		"customssl": true,
         "copiestable": {
             "branch": 0,
             "department": 2,
             "location": 1,
             "status": 3
         },
+        "customssl": true,
         "mediatypes": {
             "MGBbk.BMP": "BOOK",
             "MGBel1.jpg": "BOOK",
@@ -40,8 +41,8 @@
         }
     },
     "geo": [
-        52.6666667,
-        13.5830556
+        52.67532,
+        13.5884
     ],
     "information": "http://www.bernau-bei-berlin.de/de/buergerportal/bildung/bibliotheken/stadtbibliothek-bernau.html",
     "state": "Brandenburg",

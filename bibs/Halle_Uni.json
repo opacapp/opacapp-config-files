@@ -1,10 +1,11 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "pica",
-    "city": "Halle (Saale)",
+    "city": "Halle/S",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.bibliothek.uni-halle.de/",
+        "baseurl": "http://opac.bibliothek.uni-halle.de/",
         "customssl": "true",
         "db": "1"
     },

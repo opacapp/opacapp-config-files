@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "R\u00f6dermark",
@@ -7,8 +8,8 @@
         "baseurl": "https://medienkatalog.stadtbuecherei.info/webopac"
     },
     "geo": [
-        49.9729001,
-        8.830189599999999
+        49.9767859,
+        8.8277224
     ],
     "information": "http://www.roedermark.de/index.php?id=40",
     "state": "Hessen",

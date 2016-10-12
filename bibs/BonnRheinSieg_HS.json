@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Sankt Augustin",
@@ -8,7 +9,7 @@
     },
     "geo": [
         50.7694775,
-        7.187578599999999
+        7.1875786
     ],
     "information": "http://www.bib.hochschule-bonn-rhein-sieg.de/",
     "state": "Nordrhein-Westfalen",

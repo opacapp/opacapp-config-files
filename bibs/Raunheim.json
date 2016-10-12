@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Raunheim",
@@ -12,5 +13,5 @@
     ],
     "information": "http://raunheim.de/sites/gensite.asp?SID=cms100820141646047420923&Art=232",
     "state": "Hessen",
-    "title": "Mediathek Stadt"
+    "title": "Stadtb\u00fccherei"
 }

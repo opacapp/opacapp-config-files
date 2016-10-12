@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Dorsten / Wulfen",
+    "city": "Dorsten",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -64,8 +65,8 @@
         }
     },
     "geo": [
-        51.717,
-        7.016999999999999
+        51.66564,
+        6.96341
     ],
     "information": "http://www.vhsundkultur-dorsten.de/stadtbibliothek/index.php",
     "state": "Nordrhein-Westfalen",

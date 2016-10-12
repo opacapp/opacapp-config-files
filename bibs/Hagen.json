@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Hagen",
@@ -57,8 +58,8 @@
         ]
     },
     "geo": [
-        51.3546334,
-        7.4798291
+        51.35463,
+        7.47955
     ],
     "information": "https://www.hagen.de/stadtbuecherei",
     "state": "Nordrhein-Westfalen",

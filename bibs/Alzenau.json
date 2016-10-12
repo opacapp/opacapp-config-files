@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Alzenau",
@@ -44,8 +45,8 @@
         ]
     },
     "geo": [
-        50.0862953,
-        9.0734471
+        50.0862954,
+        9.0734468
     ],
     "information": "http://www.stadtbibliothek-alzenau.de/",
     "state": "Bayern",

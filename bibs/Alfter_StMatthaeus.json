@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Alfter",
@@ -36,5 +37,5 @@
     ],
     "information": "http://www.buecherei-alfter.de/",
     "state": "Nordrhein-Westfalen",
-    "title": "\u00d6ffentliche B\u00fccherei St. Matth\u00e4us"
+    "title": "\u00d6ffentliche Bibliothek St. Matth\u00e4us"
 }

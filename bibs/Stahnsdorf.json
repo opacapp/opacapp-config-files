@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Stahnsdorf",
@@ -30,8 +31,8 @@
         }
     },
     "geo": [
-        52.3846084,
-        13.2171193
+        52.3807805,
+        13.2126326
     ],
     "information": "http://www.stahnsdorf.de/content/lebenswertes-stahnsdorf/kultur-und-soziales/bibliothek/",
     "state": "Brandenburg",

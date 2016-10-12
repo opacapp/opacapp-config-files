@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "adis",
     "city": "Dortmund",
@@ -8,10 +9,10 @@
         "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1%3A24022"
     },
     "geo": [
-        51.51643439999999,
-        7.4609077
+        51.5081979,
+        7.4416173
     ],
     "information": "http://www.dortmund.de/de/leben_in_dortmund/bildungwissenschaft/bibliothek/start_bibliothek/",
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "title": "Stadt- und Landesbibliothek"
 }

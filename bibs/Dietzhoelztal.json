@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Dietzh\u00f6lztal",
@@ -8,7 +9,7 @@
     },
     "geo": [
         50.833333,
-        8.316666999999999
+        8.316667
     ],
     "information": "http://www.dietzhoelztal.de/pages/rathaus/verwaltung.php",
     "state": "Hessen",

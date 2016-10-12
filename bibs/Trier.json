@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Trier",
@@ -11,8 +12,8 @@
         }
     },
     "geo": [
-        49.749992,
-        6.6371433
+        49.7569029,
+        6.642482
     ],
     "information": "https://opac.trier.de",
     "state": "Rheinland-Pfalz",

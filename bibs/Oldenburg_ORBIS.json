@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "primo",
     "city": "Oldenburg",
@@ -12,7 +13,7 @@
     },
     "geo": [
         53.1434501,
-        8.214552099999999
+        8.2145521
     ],
     "information": "http://www.lb-oldenburg.de/",
     "state": "Niedersachsen",

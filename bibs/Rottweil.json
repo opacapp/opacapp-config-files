@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Rottweil",
@@ -25,6 +26,14 @@
             "status": 1
         },
         "customssl": true,
+        "mediatypes": {
+            "eaudiokl.gif": "MP3",
+            "ebookkl.gif": "EBOOK",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "munzkl.gif": "EDOC"
+        },
+        "onleihe": "http://www1.onleihe.de/schwalbe",
+        "onleihe_libraryId": "398",
         "reservationtable": {
             "author": 0,
             "availability": 3,
@@ -35,8 +44,8 @@
         }
     },
     "geo": [
-        48.1681742,
-        8.6271565
+        48.1681943,
+        8.6272998
     ],
     "information": "https://info.opacapp.de/rottweil.html",
     "state": "Baden-W\u00fcrttemberg",

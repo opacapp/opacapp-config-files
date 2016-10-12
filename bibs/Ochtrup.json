@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Ochtrup",
@@ -66,10 +67,10 @@
         }
     },
     "geo": [
-        52.2056952,
-        7.1876491
+        52.2103,
+        7.19008
     ],
     "information": "http://www.buecherei-lamberti-ochtrup.de/",
     "state": "Nordrhein-Westfalen",
-    "title": "B\u00fccherei St. Lamberti"
+    "title": "Kath. \u00d6B St. Lamberti"
 }

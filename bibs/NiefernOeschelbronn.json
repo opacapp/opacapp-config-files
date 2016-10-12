@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Niefern-\u00d6schelbronn",
@@ -35,8 +36,8 @@
         }
     },
     "geo": [
-        48.9095567,
-        8.7983171
+        48.9057311,
+        8.8106548
     ],
     "information": "http://www.niefern-oeschelbronn.de/index.cfm?fuseaction=buerger&rubrik=gemeindebuecherei&id=70",
     "state": "Baden-W\u00fcrttemberg",

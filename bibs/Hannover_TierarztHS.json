@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "pica",
     "city": "Hannover",
@@ -8,7 +9,7 @@
         "db": "5"
     },
     "geo": [
-        52.35480099999999,
+        52.354801,
         9.807075
     ],
     "information": "http://www.tiho-hannover.de/de/kliniken-institute/bibliothek/",

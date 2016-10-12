@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Neckargem\u00fcnd",
@@ -12,7 +13,7 @@
     },
     "geo": [
         49.3866401,
-        8.802280999999999
+        8.802281
     ],
     "information": "http://www.mediothek-srh.de/%C3%9Cberuns.aspx",
     "state": "Baden-W\u00fcrttemberg",

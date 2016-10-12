@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Rheinfelden",
@@ -11,10 +12,10 @@
         }
     },
     "geo": [
-        47.5896468,
-        7.768778999999999
+        47.59417,
+        7.79164
     ],
     "information": "http://bibliotheken.kivbf.de/open_rheinfelden/Home.aspx",
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtbibliotheken"
+    "title": "Stadtbibliothek"
 }

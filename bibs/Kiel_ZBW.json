@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "pica",
     "city": "Kiel",
@@ -8,7 +9,7 @@
         "db": "1"
     },
     "geo": [
-        54.33882999999999,
+        54.33883,
         10.15638
     ],
     "information": "http://www.zbw.eu/de/",

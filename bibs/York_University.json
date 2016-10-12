@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "primo",
     "city": "York",
@@ -11,7 +12,7 @@
         ]
     },
     "geo": [
-        53.95996510000001,
+        53.9599651,
         -1.0872979
     ],
     "information": "http://www.york.ac.uk/library",

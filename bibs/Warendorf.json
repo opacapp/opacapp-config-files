@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Warendorf",
@@ -39,8 +40,8 @@
         }
     },
     "geo": [
-        51.9508433,
-        7.984736
+        51.95084,
+        7.98693
     ],
     "information": "http://www.buecherei-warendorf.de/de/",
     "state": "Nordrhein-Westfalen",

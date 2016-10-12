@@ -1,11 +1,12 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Roth",
+    "city": "Roth bei Nbg",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.winbiap.net/roth",
-		"customssl": true
+        "customssl": true
     },
     "geo": [
         49.2456337,

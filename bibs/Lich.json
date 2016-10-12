@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Lich",
@@ -8,9 +9,9 @@
     },
     "geo": [
         50.518161,
-        8.816677499999999
+        8.8166775
     ],
     "information": "http://www.lich.de/kultur-bildung/stadtbibliothek/",
     "state": "Hessen",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei Langsdorf"
 }

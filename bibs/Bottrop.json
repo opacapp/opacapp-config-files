@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Bottrop",
@@ -43,8 +44,8 @@
         ]
     },
     "geo": [
-        51.529086,
-        6.9446888
+        51.52348,
+        6.92219
     ],
     "information": "http://www.bottrop.de/stadtleben/bildung/bibliothek/index.php",
     "state": "Nordrhein-Westfalen",

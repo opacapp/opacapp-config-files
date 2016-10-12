@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Schwerzenbach",
@@ -7,8 +8,8 @@
         "baseurl": "http://www.bibliotheken-zh.ch/Schwerzenbach"
     },
     "geo": [
-        47.38510000000001,
-        8.658909999999999
+        47.3851,
+        8.65891
     ],
     "information": "http://www.bibliothek-schwerzenbach.ch/de/",
     "state": "Z\u00fcrich",

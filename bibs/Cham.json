@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Cham",
@@ -38,7 +39,7 @@
         49.21924,
         12.66778
     ],
-    "information": "http://www.cham.de/deCham/kulturbildung/bibliothek/stadtbibliothek/stadtbibliothek.php?navid=179",
+    "information": "https://info.opacapp.net/cham.html",
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

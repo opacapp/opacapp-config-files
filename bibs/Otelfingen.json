@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Otelfingen",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.4613,
-        8.388570000000001
+        8.38857
     ],
     "information": "http://www.sekuf.ch/?article_id=8",
     "state": "Z\u00fcrich",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Diepholz",
@@ -32,8 +33,8 @@
         }
     },
     "geo": [
-        52.6056456,
-        8.3707878
+        52.60966,
+        8.36343
     ],
     "information": "http://mediothek-diepholz.de/",
     "state": "Niedersachsen",

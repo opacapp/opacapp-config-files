@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Oberursel",
+    "city": "Oberursel/T",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -52,8 +53,8 @@
         }
     },
     "geo": [
-        50.2029831,
-        8.577164
+        50.20298,
+        8.57714
     ],
     "information": "http://www.oberursel.de/tourismus/bildung-kultur/stadtbuecherei/",
     "state": "Hessen",

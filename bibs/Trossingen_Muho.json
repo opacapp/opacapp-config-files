@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "adis",
     "city": "Trossingen",
@@ -9,7 +10,7 @@
     },
     "geo": [
         48.07519,
-        8.638209999999999
+        8.63821
     ],
     "information": "http://www.mh-trossingen.de/hochschule/bibliothek.html",
     "state": "Baden-W\u00fcrttemberg",

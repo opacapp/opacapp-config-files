@@ -1,6 +1,7 @@
 {
+    "_active": true,
     "account_supported": false,
-    "api": "open",
+    "api": "bibliotheca",
     "city": "Hamm",
     "country": "Deutschland",
     "data": {
@@ -11,10 +12,10 @@
         }
     },
     "geo": [
-        51.6787076,
-        7.810426400000001
+        51.6775849,
+        7.8112973
     ],
     "information": "http://katalog.hamm.de/%C3%9Cberuns/UnsereBibliotheken.aspx",
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Zentralbibliothek im Heinrich-von-Kleist-Forum"
 }

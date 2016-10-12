@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Hechingen",
@@ -34,8 +35,8 @@
         }
     },
     "geo": [
-        48.3538888,
-        8.9613627
+        48.35259,
+        8.96228
     ],
     "information": "http://www.hechingen.de/de/Stadtleben/B%C3%BCchereien/Stadtb%C3%BCcherei",
     "state": "Baden-W\u00fcrttemberg",

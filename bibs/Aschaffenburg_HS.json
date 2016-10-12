@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Aschaffenburg",
@@ -10,7 +11,7 @@
     },
     "geo": [
         49.971918,
-        9.160499999999999
+        9.1605
     ],
     "information": "http://www.h-ab.de/ueber-die-hochschule/organisation/einrichtungen/bibliothek/kontakt/oeffnungszeiten/",
     "state": "Bayern",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "primo",
     "city": "Amsterdam",
@@ -12,8 +13,8 @@
         ]
     },
     "geo": [
-        52.35581819999999,
-        4.955726299999999
+        52.3558182,
+        4.9557263
     ],
     "information": "http://uba.uva.nl/home",
     "state": "Noord-Holland",

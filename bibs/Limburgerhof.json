@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Limburgerhof",
@@ -11,8 +12,8 @@
         }
     },
     "geo": [
-        49.4207609,
-        8.3900307
+        49.41805,
+        8.38915
     ],
     "information": "http://bibliotheklimburgerhof.de/%C3%9Cberuns/InfoKontakt.aspx",
     "state": "Rheinland-Pfalz",

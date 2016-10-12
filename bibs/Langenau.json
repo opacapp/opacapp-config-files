@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Langenau",
@@ -43,7 +44,7 @@
         ]
     },
     "geo": [
-        48.49727619999999,
+        48.4972762,
         10.1224468
     ],
     "information": "http://www.langenau.de/de/10_kultur/10.03_stadtbuecherei/10.03.01_allgemeines/c_main.php",

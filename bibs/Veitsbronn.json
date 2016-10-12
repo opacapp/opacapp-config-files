@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Veitsbronn",
@@ -7,8 +8,8 @@
         "baseurl": "https://webopac.winbiap.de/veitsbronn"
     },
     "geo": [
-        49.511782,
-        10.8827111
+        49.5117,
+        10.88298
     ],
     "information": "http://www.veitsbronn.de/Buecherei/m2l1/Buecherei.html",
     "state": "Bayern",

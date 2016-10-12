@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Rapperswil-Jona",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.2266239,
-        8.818437399999999
+        8.8184374
     ],
     "information": "http://www.stadtbibliothek-rj.ch/",
     "state": "St. Gallen",

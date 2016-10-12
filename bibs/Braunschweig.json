@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Braunschweig",
@@ -8,8 +9,8 @@
         "customssl": true
     },
     "geo": [
-        52.2688736,
-        10.5267696
+        52.26155,
+        10.52938
     ],
     "information": "https://www.braunschweig.de/kultur_tourismus/bibliotheken_archive/stadtbibliothek/kontaktdaten.html",
     "state": "Niedersachsen",

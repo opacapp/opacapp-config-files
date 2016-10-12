@@ -1,11 +1,12 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Bobingen",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.winbiap.net/bobingen",
-		"customssl": true
+        "customssl": true
     },
     "geo": [
         48.2696917,

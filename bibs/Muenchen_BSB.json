@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "touchpoint",
     "city": "M\u00fcnchen",
@@ -7,7 +8,7 @@
         "baseurl": "https://opacplus.bsb-muenchen.de/metaopac"
     },
     "geo": [
-        48.14746419999999,
+        48.1474642,
         11.5801103
     ],
     "information": "http://www.bsb-muenchen.de/oeffnungszeiten/",

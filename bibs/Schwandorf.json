@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Schwandorf",
@@ -32,8 +33,8 @@
         }
     },
     "geo": [
-        49.3198883,
-        12.1091352
+        49.32315,
+        12.11733
     ],
     "information": "http://www.stadtschwandorf.de/mehr/bib.index.de.php",
     "state": "Bayern",

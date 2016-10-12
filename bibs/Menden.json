@@ -1,14 +1,15 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Menden (Sauerland)",
+    "city": "Menden",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://webopac.citkomm.de/menden"
     },
     "geo": [
         51.43805,
-        7.795120000000001
+        7.79512
     ],
     "information": "http://www.menden.de/lim/bi/bc/index.php",
     "state": "Nordrhein-Westfalen",

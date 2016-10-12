@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Eberswalde",
@@ -7,7 +8,7 @@
         "baseurl": "https://opac.hnee.de/webOPACClient"
     },
     "geo": [
-        52.83713299999999,
+        52.837133,
         13.7875871
     ],
     "information": "http://www.hnee.de/de/Hochschule/Einrichtungen/Hochschulbibliothek/Oeffnungszeiten/Oeffnungszeiten-K1068.htm",

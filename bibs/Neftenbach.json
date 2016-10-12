@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Neftenbach",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.5261643,
-        8.667442099999999
+        8.6674421
     ],
     "information": "http://www.neftenbach.ch/gemeinde/index.php?pageID=213",
     "state": "Z\u00fcrich",

@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Reichenbach (Vogtland)",
+    "city": "Reichenbach/Vogtland",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -31,8 +32,8 @@
         }
     },
     "geo": [
-        50.62083330000001,
-        12.3030556
+        50.62113,
+        12.30374
     ],
     "information": "http://www.reichenbach-vogtland.de/Deutsch/Kultur/Juergen-Fuchs-Bibliothek/",
     "state": "Sachsen",

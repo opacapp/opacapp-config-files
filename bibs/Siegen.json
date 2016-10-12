@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Siegen",
@@ -48,8 +49,8 @@
         }
     },
     "geo": [
-        50.8838492,
-        8.020959099999999
+        50.8748155,
+        8.0248968
     ],
     "information": "http://go-libri.kdz-ws.net/standard/page.sys/455.htm",
     "state": "Nordrhein-Westfalen",

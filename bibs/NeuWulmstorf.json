@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Neu Wulmstorf",
@@ -7,7 +8,7 @@
         "baseurl": "http://webopac.winbiap.net/neuwulmstorf"
     },
     "geo": [
-        53.46413709999999,
+        53.4641371,
         9.7911544
     ],
     "information": "https://www.neu-wulmstorf.de/portal/seiten/buecherei-im-rathaus-13001588-20160.html?naviID=913000079&brotID=913000079&rubrik=913000038",

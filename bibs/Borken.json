@@ -1,13 +1,14 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Borken",
+    "city": "Borken/Westf",
     "country": "Deutschland",
     "data": {
         "baseurl": "http://webopac.winbiap.net/mzborken"
     },
     "geo": [
-        51.84827139999999,
+        51.8482714,
         6.8594477
     ],
     "information": "http://www.kreis-borken.de/de/kreisverwaltung/aufgaben/schule-und-sport/medienzentrum/",

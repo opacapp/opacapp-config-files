@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Detmold",
@@ -13,14 +14,6 @@
             "returndate": 3,
             "status": 5,
             "title": 7
-        },
-        "reservationtable": {
-            "author": 3,
-            "title": 3,
-            "cancelurl": 1,
-            "availability": 4,
-            "branch": -1,
-            "expirationdate": -1
         },
         "baseurl": "http://62.153.231.120",
         "copiestable": {
@@ -48,6 +41,14 @@
             "9": "BOARDGAME"
         },
         "opacdir": "opax",
+        "reservationtable": {
+            "author": 3,
+            "availability": 4,
+            "branch": -1,
+            "cancelurl": 1,
+            "expirationdate": -1,
+            "title": 3
+        },
         "searchtable": [
             2,
             3,
@@ -55,10 +56,10 @@
         ]
     },
     "geo": [
-        51.9384783,
-        8.868637999999999
+        51.9322941,
+        8.8809499
     ],
-    "information": "http://www.stadtdetmold.de/1990.0.html",
+    "information": "https://info.opacapp.de/detmold.html",
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

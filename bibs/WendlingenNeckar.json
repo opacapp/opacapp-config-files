@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wendlingen",
+    "city": "Wendlingen/N.",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -49,8 +50,8 @@
         }
     },
     "geo": [
-        48.671757,
-        9.3827676
+        48.67186,
+        9.37927
     ],
     "information": "http://bond-wend.kdrs.de/ReadWE/info.html",
     "state": "Baden-W\u00fcrttemberg",

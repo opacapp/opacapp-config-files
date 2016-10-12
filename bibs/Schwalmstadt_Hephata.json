@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Schwalmstadt",
@@ -33,8 +34,8 @@
         }
     },
     "geo": [
-        50.92160089999999,
-        9.255187099999999
+        50.9216009,
+        9.2551871
     ],
     "information": "http://www.hephata.de/organisation/bibliothek.php",
     "state": "Hessen",

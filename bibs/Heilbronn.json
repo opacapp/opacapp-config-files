@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Heilbronn",
@@ -33,6 +34,8 @@
             "mNoten1S.gif": "SCORE_MUSIC",
             "mReise2S.gif": "MAP"
         },
+        "onleihe": "http://www1.onleihe.de/heilbronn",
+        "onleihe_libraryId": "131",
         "reservationtable": {
             "author": 0,
             "availability": 4,
@@ -43,11 +46,10 @@
         }
     },
     "geo": [
-        49.14568999999999,
-        9.221269999999999
+        49.1459589,
+        9.2210909
     ],
-    "information": "http://www.stadtbibliothek-heilbronn.de/ueber_uns/standort/?webopac=1",
-    "replacedby": "de.opacapp.heilbronn",
+    "information": "https://info.opacapp.net/heilbronn.html",
     "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtbibliothek"
 }

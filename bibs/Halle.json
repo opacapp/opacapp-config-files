@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Halle (Saale)",
+    "city": "Halle/S",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -54,8 +55,8 @@
         }
     },
     "geo": [
-        51.4969802,
-        11.9688029
+        51.48182,
+        11.96668
     ],
     "information": "/../read/info.html",
     "state": "Sachsen-Anhalt",

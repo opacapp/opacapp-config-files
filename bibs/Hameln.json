@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Hameln",
@@ -22,10 +23,10 @@
         ]
     },
     "geo": [
-        52.10413,
-        9.353449999999999
+        52.1043069,
+        9.3536759
     ],
     "information": "http://www.hameln.de/kultur/kultur/buecherei/index.htm",
     "state": "Niedersachsen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei in der Pfortm\u00fchle"
 }

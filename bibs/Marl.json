@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Marl",
@@ -6,7 +7,7 @@
     "data": {
         "accounttable": {
             "author": 0,
-			"barcode": 3,
+            "barcode": 3,
             "homebranch": -1,
             "lendingbranch": -1,
             "prolongurl": 4,
@@ -61,8 +62,8 @@
         }
     },
     "geo": [
-        51.65912340000001,
-        7.1060218
+        51.6524789,
+        7.096919
     ],
     "information": "http://www.marl.de/marl-nach-themen/bildung-schule-und-erziehung/zentralbibliothek.html",
     "state": "Nordrhein-Westfalen",

@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "adis",
-    "city": "Weingarten",
+    "city": "Weingarten/W\u00fcrttemberg",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://bsz.ibs-bw.de/aDISWeb/app",
@@ -9,7 +10,7 @@
     },
     "geo": [
         47.807638,
-        9.645304099999999
+        9.6453041
     ],
     "information": "http://bibliothek.ph-weingarten.de/",
     "state": "Baden-W\u00fcrttemberg",

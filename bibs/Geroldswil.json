@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Geroldswil",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.4229,
-        8.409699999999999
+        8.4097
     ],
     "information": "http://www.geroldswil.ch/xml_1/internet/de/application/d5/d88/f110.cfm",
     "state": "Z\u00fcrich",

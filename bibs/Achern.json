@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Achern",
@@ -34,10 +35,10 @@
         }
     },
     "geo": [
-        48.6266194,
-        8.0749207
+        48.62838,
+        8.07162
     ],
     "information": "http://achern.de/index.php?id=513",
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Radeberg",
@@ -15,7 +16,6 @@
             "title": 1
         },
         "baseurl": "https://bibliothek-radeberg.internetopac.de",
-		"customssl": true,
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,6 +25,7 @@
             "returndate": 5,
             "status": 3
         },
+        "customssl": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -40,5 +41,5 @@
     ],
     "information": "http://www.radeberg.de/inhalte/radeberg/_inhalt/bildung_soziales/bibliothek/bibliothek",
     "state": "Sachsen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtbibliothek Martin Andersen Nex\u00f6"
 }

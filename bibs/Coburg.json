@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Coburg",
@@ -11,8 +12,8 @@
         }
     },
     "geo": [
-        50.2612094,
-        10.962695
+        50.2583786,
+        10.9666434
     ],
     "information": "http://www.coburg.de/Subportale/stadtbuecherei.aspx",
     "state": "Bayern",

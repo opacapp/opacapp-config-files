@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Oberhausen",
@@ -7,7 +8,7 @@
         "baseurl": "https://bibliothek.oberhausen.de/webOPACClient.sisis"
     },
     "geo": [
-        51.47078759999999,
+        51.4707876,
         6.8527569
     ],
     "information": "http://www.oberhausen.de/0A1C46AD57614F1B8C5CD011AF1C5911.php",

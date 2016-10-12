@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Augsburg",
@@ -7,8 +8,8 @@
         "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
     },
     "geo": [
-        48.3705449,
-        10.89779
+        48.3692816,
+        10.8951371
     ],
     "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
     "state": "Bayern",

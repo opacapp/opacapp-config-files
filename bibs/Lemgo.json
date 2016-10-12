@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Lemgo",
@@ -7,8 +8,8 @@
         "baseurl": "http://webopac.lemgo.de"
     },
     "geo": [
-        52.0266732,
-        8.9018625
+        52.0272932,
+        8.9050278
     ],
     "information": "http://www.stadtbuecherei-lemgo.de/startseite/",
     "state": "Nordrhein-Westfalen",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Mettmann",
@@ -35,8 +36,8 @@
         }
     },
     "geo": [
-        51.2506663,
-        6.9740265
+        51.249152,
+        6.9759284
     ],
     "information": "http://www.mettmann.de/bibliothek/",
     "state": "Nordrhein-Westfalen",

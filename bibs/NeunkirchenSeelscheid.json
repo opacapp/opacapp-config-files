@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Neunkirchen-Seelscheid",
@@ -32,8 +33,8 @@
         }
     },
     "geo": [
-        50.8552827,
-        7.331858599999999
+        50.84061,
+        7.33617
     ],
     "information": "http://www.neunkirchen-seelscheid.de/buecher/katalog.htm",
     "state": "Nordrhein-Westfalen",

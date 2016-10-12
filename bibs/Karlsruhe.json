@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Karlsruhe",
@@ -26,18 +27,18 @@
         },
         "mediatypes": {
             "1": "BOOK",
-            "2": "MAGAZINE",
             "10": "MAP",
-            "6": "CD",
-            "3": "CD_SOFTWARE",
+            "18": "PACKAGE",
+            "2": "MAGAZINE",
             "21": "BOOK",
+            "24": "PACKAGE",
+            "25": "GAME_CONSOLE",
+            "3": "CD_SOFTWARE",
+            "30": "EBOOK",
             "4": "BLURAY",
             "5": "AUDIO_CASSETTE",
-            "18": "PACKAGE",
-            "24": "PACKAGE",
-            "9": "BOARDGAME",
-			"25": "GAME_CONSOLE",
-			"30": "EBOOK"
+            "6": "CD",
+            "9": "BOARDGAME"
         },
         "opacdir": "opax",
         "searchtable": [
@@ -47,10 +48,10 @@
         ]
     },
     "geo": [
-        49.0068901,
-        8.4036527
+        49.0088319,
+        8.3999258
     ],
     "information": "http://www.karlsruhe.de/b2/bibliotheken/stadtbibliothek.de",
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtbibliothek"
+    "title": "Stadtbibliothek im St\u00e4ndehaus"
 }

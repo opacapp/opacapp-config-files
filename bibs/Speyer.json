@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Speyer",
@@ -40,8 +41,8 @@
         }
     },
     "geo": [
-        49.3172765,
-        8.441217199999999
+        49.32158,
+        8.43017
     ],
     "information": "http://www.speyer.de/sv_speyer/de/Bildung/Stadtbibliothek/",
     "state": "Rheinland-Pfalz",

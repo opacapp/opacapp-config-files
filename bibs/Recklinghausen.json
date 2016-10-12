@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Recklinghausen",
@@ -64,8 +65,8 @@
         }
     },
     "geo": [
-        51.6140649,
-        7.1979453
+        51.61673,
+        7.196
     ],
     "information": "http://www.recklinghausen.de/Inhalte/Startseite/Familie_Bildung/Stadtbuecherei/index.asp?highmain=11&highsub=0&highsubsub=0",
     "state": "Nordrhein-Westfalen",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Essen",
@@ -29,8 +30,8 @@
         ]
     },
     "geo": [
-        51.4556432,
-        7.0115552
+        51.4556194,
+        7.0104543
     ],
     "information": "http://www.stadtbibliothek-essen.de/de/oeffnungszeiten/oeffnungszeiten.html",
     "state": "Nordrhein-Westfalen",

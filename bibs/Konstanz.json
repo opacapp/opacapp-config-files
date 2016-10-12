@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Konstanz",
@@ -26,12 +27,12 @@
         },
         "mediatypes": {
             "1": "BOOK",
-            "2": "MAGAZINE",
-            "3": "CD_SOFTWARE",
             "11": "DVD",
-            "20": "AUDIOBOOK",
             "14": "CD",
+            "2": "MAGAZINE",
+            "20": "AUDIOBOOK",
             "26": "GAME_CONSOLE",
+            "3": "CD_SOFTWARE",
             "30": "EBOOK",
             "51": "EDOC"
         },
@@ -43,10 +44,10 @@
         ]
     },
     "geo": [
-        47.6779496,
-        9.173238399999999
+        47.6629928,
+        9.1751357
     ],
     "information": "http://www.konstanz.de/stadtbuecherei/01684/index.html",
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

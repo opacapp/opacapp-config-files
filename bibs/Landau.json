@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
-    "city": "Landau",
+    "city": "Landau/Pfalz",
     "country": "Deutschland",
     "data": {
         "baseurl": "http://opac.landau.de",
@@ -11,8 +12,8 @@
         }
     },
     "geo": [
-        49.19888599999999,
-        8.1185622
+        49.19876,
+        8.12236
     ],
     "information": "http://www.landau.de/index.phtml?mNavID=1815.5&sNavID=1815.85&La=1",
     "state": "Rheinland-Pfalz",

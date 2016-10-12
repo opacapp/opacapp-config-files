@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Weimar",
@@ -8,10 +9,10 @@
         "startparams": "Login=opextern&BaseURL=this"
     },
     "geo": [
-        50.9794934,
-        11.3235439
+        50.9770568,
+        11.3268594
     ],
     "information": "http://www.stadtbibo-weimar.de/opac.html",
     "state": "Th\u00fcringen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

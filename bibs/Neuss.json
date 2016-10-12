@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "adis",
     "city": "Neuss",
@@ -8,8 +9,8 @@
         "startparams": "service=direct/0/Home/%24DirectLink&sp=S127.0.0.1:23022&sp=SS100000000"
     },
     "geo": [
-        51.2012066,
-        6.6912863
+        51.2010165,
+        6.6900204
     ],
     "information": "http://www.stadtbibliothek-neuss.de/",
     "state": "Nordrhein-Westfalen",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Tuttlingen",
@@ -26,6 +27,8 @@
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mFilmS.gif": "MOVIE"
         },
+        "onleihe": "http://www1.onleihe.de/schwalbe",
+        "onleihe_libraryId": "645",
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -34,10 +37,10 @@
         }
     },
     "geo": [
-        47.98233159999999,
-        8.8192095
+        47.9835799,
+        8.8168575
     ],
-    "information": "http://www.tuttlingen.de/de/Leben-in-Tuttlingen/Bildung/Stadtbibliothek",
+    "information": "https://info.opacapp.net/tuttlingen.html",
     "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtbibliothek"
 }

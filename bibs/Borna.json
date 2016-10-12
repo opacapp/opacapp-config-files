@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Borna",
@@ -10,7 +11,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-borna.de/wwwopac",
+        "baseurl": "https://mediothek-borna.internetopac.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -19,6 +20,7 @@
             "returndate": 5,
             "status": 3
         },
+        "customssl": true,
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
@@ -32,8 +34,8 @@
         }
     },
     "geo": [
-        51.1245977,
-        12.4923222
+        51.1252562,
+        12.4987027
     ],
     "information": "http://www.bibliothek-borna.de/",
     "state": "Sachsen",

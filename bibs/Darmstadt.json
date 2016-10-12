@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Darmstadt",
@@ -11,8 +12,8 @@
         }
     },
     "geo": [
-        49.8717164,
-        8.6577321
+        49.8717697,
+        8.6578731
     ],
     "information": "http://www.stadtbibliothek.darmstadt.de/",
     "state": "Hessen",

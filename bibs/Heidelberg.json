@@ -1,39 +1,40 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Heidelberg",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "barcode": 3,
-            "status": 5,
-            "lendingbranch": 4,
-            "homebranch": 4,
             "author": 0,
+            "barcode": 3,
+            "homebranch": 4,
+            "lendingbranch": 4,
             "prolongurl": 6,
-            "title": 1,
-            "returndate": 2
+            "returndate": 2,
+            "status": 5,
+            "title": 1
         },
         "baseurl": "https://ww2.heidelberg.de/wwwopac",
         "copiestable": {
-            "status": 3,
             "barcode": 5,
             "branch": 0,
-            "location": 1,
             "department": 2,
-            "returndate": 4
+            "location": 1,
+            "returndate": 4,
+            "status": 3
         },
         "reservationtable": {
-            "branch": 2,
             "author": 0,
             "availability": 3,
-            "title": 1,
-            "cancelurl": 4
+            "branch": 2,
+            "cancelurl": 4,
+            "title": 1
         }
     },
     "geo": [
-        49.4058283,
-        8.6849391
+        49.4067177,
+        8.6865173
     ],
     "information": "http://www.stadtbuecherei-heidelberg.bib-bw.de/seiten/seite301.htm",
     "state": "Baden-W\u00fcrttemberg",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Bamberg",
@@ -55,10 +56,10 @@
         }
     },
     "geo": [
-        49.89696259999999,
-        10.8920954
+        49.8969384,
+        10.8923536
     ],
     "information": "http://www.stadtbuecherei-bamberg.de/index.php?id=Oeffnungszeiten",
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

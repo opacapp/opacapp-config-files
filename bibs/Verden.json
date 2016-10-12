@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Verden",
+    "city": "Verden/Aller",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -53,8 +54,8 @@
         }
     },
     "geo": [
-        52.924954,
-        9.237827
+        52.92249,
+        9.23501
     ],
     "information": "http://stadtbibliothek-verden.de/index.asp?link_info2.x=2&type=FE",
     "state": "Niedersachsen",

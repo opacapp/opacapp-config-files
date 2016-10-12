@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Ketsch",
@@ -35,8 +36,8 @@
         }
     },
     "geo": [
-        49.36752,
-        8.52394
+        49.3667812,
+        8.5326489
     ],
     "information": "https://web-opac.kivbf.de/read-ketsch/info.html",
     "state": "Baden-W\u00fcrttemberg",

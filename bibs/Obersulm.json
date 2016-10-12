@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Obersulm",
@@ -12,8 +13,8 @@
         }
     },
     "geo": [
-        49.1327039,
-        9.3767597
+        49.138069,
+        9.3720165
     ],
     "information": "http://bibliotheken.kivbf.de/obersulm/%C3%9Cberuns/Kontakt.aspx",
     "state": "Baden-W\u00fcrttemberg",

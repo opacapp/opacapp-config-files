@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Osnabr\u00fcck",
@@ -45,8 +46,8 @@
         ]
     },
     "geo": [
-        52.2799112,
-        8.0471788
+        52.2774174,
+        8.0420652
     ],
     "information": "https://katalog.stadtbibliothek.osnabrueck.de/opax/de/RBK/pA_B.html.S",
     "state": "Niedersachsen",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Kreuztal",
@@ -47,8 +48,8 @@
         }
     },
     "geo": [
-        50.9693854,
-        7.9923572
+        50.96266,
+        7.9888
     ],
     "information": "http://www.stadtbibliothek-kreuztal.de/",
     "state": "Nordrhein-Westfalen",

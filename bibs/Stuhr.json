@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Stuhr",
@@ -48,8 +49,8 @@
         }
     },
     "geo": [
-        53.0289775,
-        8.7361402
+        53.02438,
+        8.72675
     ],
     "information": "/read/info.html",
     "state": "Niedersachsen",

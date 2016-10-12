@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Freising",
@@ -43,8 +44,8 @@
         ]
     },
     "geo": [
-        48.4019916,
-        11.7475935
+        48.4022892,
+        11.7474797
     ],
     "information": "http://www.freising.de/kultur/bibliotheken-archive/stadtbibliothek.html",
     "state": "Bayern",

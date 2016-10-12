@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Witten",
@@ -8,10 +9,10 @@
         "startparams": "Login=internet"
     },
     "geo": [
-        51.4438926,
-        7.353197000000001
+        51.4362,
+        7.33685
     ],
     "information": "http://www.kulturforum-witten.de/bibliothek",
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek Kulturforum"
+    "title": "Stadtb\u00fccherei Kulturforum"
 }

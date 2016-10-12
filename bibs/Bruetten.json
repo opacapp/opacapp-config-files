@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Br\u00fctten",
@@ -7,8 +8,8 @@
         "baseurl": "http://www.bibliotheken-zh.ch/Bruetten"
     },
     "geo": [
-        47.47329999999999,
-        8.675820000000002
+        47.4733,
+        8.67582
     ],
     "information": "http://www.bruetten.ch/de/bibliothek/",
     "state": "Z\u00fcrich",

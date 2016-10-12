@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Berlin",
@@ -7,7 +8,7 @@
         "baseurl": "https://webopac.beuth-hochschule.de/webOPACClient.bhssis"
     },
     "geo": [
-        52.54517449999999,
+        52.5451745,
         13.3515848
     ],
     "information": "http://www.beuth-hochschule.de/782/",

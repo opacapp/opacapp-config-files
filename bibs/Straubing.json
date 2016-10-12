@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Straubing",
@@ -7,10 +8,10 @@
         "baseurl": "http://opacweb.straubing.de"
     },
     "geo": [
-        48.8777333,
-        12.5801538
+        48.8852108,
+        12.5721571
     ],
     "information": "http://www.stadtbibliothek-straubing.de/startseite.html",
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtbibliothek im Salzstadel"
 }

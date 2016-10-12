@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "pica",
-    "city": "Hamburg-Harburg",
+    "city": "Hamburg",
     "country": "Deutschland",
     "data": {
         "account_system": "lbs",
@@ -9,7 +10,7 @@
         "db": "1"
     },
     "geo": [
-        53.46097700000001,
+        53.460977,
         9.969266
     ],
     "information": "https://www.tub.tu-harburg.de/home/oeffnungszeiten/",

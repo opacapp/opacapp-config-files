@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Affoltern",
@@ -8,7 +9,7 @@
     },
     "geo": [
         47.2775064,
-        8.450327699999999
+        8.4503277
     ],
     "information": "http://www.bibliothek-affoltern.ch/",
     "state": "Z\u00fcrich",

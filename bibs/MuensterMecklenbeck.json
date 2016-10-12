@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "M\u00fcnster",
@@ -71,5 +72,5 @@
     ],
     "information": "http://koeb.annakirche.de/",
     "state": "Nordrhein-Westfalen",
-    "title": "K\u00d6B St. Anna Mecklenbeck"
+    "title": "Kath. \u00d6B St. Anna Mecklenbeck"
 }

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "biber1992",
     "city": "Bochum",
@@ -15,6 +16,12 @@
             "title": 7
         },
         "baseurl": "https://stadtbuecherei.bochum.de",
+        "copiestable": {
+            "barcode": 3,
+            "branch": 1,
+            "location": 2,
+            "status": 4
+        },
         "mediatypes": {
             "1": "BOOK",
             "11": "DVD",
@@ -28,17 +35,11 @@
         "searchtable": [
             2,
             3
-        ],
-        "copiestable": {
-            "branch": 1,
-            "location": 2,
-            "barcode": 3,
-            "status": 4
-        }
+        ]
     },
     "geo": [
-        51.4818445,
-        7.216236299999999
+        51.4813394,
+        7.2168733
     ],
     "information": "http://www.bochum.de/stadtbuecherei",
     "state": "Nordrhein-Westfalen",

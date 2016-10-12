@@ -1,13 +1,14 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
-    "city": "Frankfurt (Oder)",
+    "city": "Frankfurt/Oder",
     "country": "Deutschland",
     "data": {
         "baseurl": "http://saturn2.euv-frankfurt-o.de:8080/webOPACClient"
     },
     "geo": [
-        52.34235839999999,
+        52.3423584,
         14.5546922
     ],
     "information": "http://www.ub.europa-uni.de/de/index.html",

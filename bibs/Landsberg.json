@@ -1,7 +1,8 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Landsberg",
+    "city": "Landsberg/Lech",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://webopac.winbiap.de/landsberg"
@@ -12,5 +13,5 @@
     ],
     "information": "http://www.landsberg.de/web.nsf/id/pa_stadtbuecherei.html",
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtb\u00fccherei im Lechstadel"
 }

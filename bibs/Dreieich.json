@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Dreieich",
@@ -49,8 +50,8 @@
         }
     },
     "geo": [
-        50.0294877,
-        8.6949231
+        50.02336,
+        8.68759
     ],
     "information": "http://www.stadtbuecherei-dreieich.de/c1476/default.html",
     "state": "Hessen",

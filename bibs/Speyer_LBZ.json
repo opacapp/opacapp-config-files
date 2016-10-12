@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Speyer",
@@ -9,7 +10,7 @@
     },
     "geo": [
         49.3172765,
-        8.441217199999999
+        8.4412172
     ],
     "information": "http://lbz.rlp.de/de/ueber-uns/standorte/pfaelzische-landesbibliothek/",
     "state": "Rheinland-Pfalz",

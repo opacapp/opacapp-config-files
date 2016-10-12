@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Altenberge",
@@ -71,5 +72,5 @@
     ],
     "information": "http://www.altenberge-st-johannes.de/index.php?option=com_content&view=article&id=49&Itemid=65",
     "state": "Nordrhein-Westfalen",
-    "title": "St. Johannes Baptist"
+    "title": "Kath. \u00d6B St. Johannes Baptist"
 }

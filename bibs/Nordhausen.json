@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "open",
     "city": "Nordhausen",
@@ -16,5 +17,5 @@
     ],
     "information": "http://bibliothek.nordhausen.de/",
     "state": "Th\u00fcringen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtbibliothek Rudolf Hagelstange"
 }

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Bad Honnef",
@@ -31,8 +32,8 @@
         }
     },
     "geo": [
-        50.6426173,
-        7.226244599999999
+        50.64444,
+        7.22962
     ],
     "information": "http://www.bad-honnef.de/service/buecherei/",
     "state": "Nordrhein-Westfalen",

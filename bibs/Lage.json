@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Lage",
@@ -35,10 +36,10 @@
         }
     },
     "geo": [
-        51.9944229,
-        8.7995372
+        51.9907728,
+        8.7939069
     ],
     "information": "http://www.lage.de/stadtbuecherei/",
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

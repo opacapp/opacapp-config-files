@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
     "city": "Lampertheim",
@@ -7,8 +8,8 @@
         "baseurl": "http://80.69.201.57/webOPACClient"
     },
     "geo": [
-        49.59972670000001,
-        8.466599
+        49.59485,
+        8.46726
     ],
     "information": "http://www.stadtbuecherei.lampertheim.de/",
     "state": "Hessen",

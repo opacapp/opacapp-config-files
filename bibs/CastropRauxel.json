@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Castrop-Rauxel",
@@ -64,10 +65,10 @@
         }
     },
     "geo": [
-        51.5632625,
-        7.3150145
+        51.548846,
+        7.3095099
     ],
     "information": "http://www.castrop-rauxel.de/Stadtinformation_Kultur_Freizeit_und_Sport/Kultur/Stadtbibliothek/autostart.asp?B_highmain=2&B_highsub=3&B_highsubsub=0",
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

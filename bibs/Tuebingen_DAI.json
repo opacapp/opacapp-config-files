@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "bibliotheca",
     "city": "T\u00fcbingen",
@@ -17,7 +18,7 @@
         "customssl": true
     },
     "geo": [
-        48.51806999999999,
+        48.51807,
         9.05847
     ],
     "information": "http://www.dai-tuebingen.de/bibliothek.html",

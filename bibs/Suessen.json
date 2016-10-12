@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "S\u00fc\u00dfen",
@@ -7,7 +8,7 @@
         "baseurl": "https://webopac.winbiap.de/suessen"
     },
     "geo": [
-        48.67984509999999,
+        48.6798451,
         9.7567784
     ],
     "information": "http://www.suessen.de/Buecherei.html",

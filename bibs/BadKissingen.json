@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "winbiap",
     "city": "Bad Kissingen",
@@ -7,7 +8,7 @@
         "baseurl": "http://webopac.winbiap.net/badkissingen"
     },
     "geo": [
-        50.20084629999999,
+        50.2008463,
         10.0765115
     ],
     "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Eppelheim",
@@ -32,8 +33,8 @@
         }
     },
     "geo": [
-        49.395022,
-        8.6321424
+        49.3953755,
+        8.6317306
     ],
     "information": "http://www.eppelheim.de/pb/,Lde/Start/Leben+in+Eppelheim/Stadtbibliothek+Eppelheim.html",
     "state": "Baden-W\u00fcrttemberg",

@@ -1,4 +1,5 @@
 {
+    "_active": true,
     "account_supported": false,
     "api": "webopac.net",
     "city": "Langnau am Albis",
@@ -7,7 +8,7 @@
         "baseurl": "http://www.winmedio.net/ludotheklangnau"
     },
     "geo": [
-        47.28800529999999,
+        47.2880053,
         8.5365507
     ],
     "information": "http://www.ludotheklangnau.ch/",

@@ -1,10 +1,11 @@
 {
+    "_active": true,
     "account_supported": true,
     "api": "sisis",
-    "city": "Brandenburg (Havel)",
+    "city": "Brandenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.fh-brandenburg.de/InfoGuideClient.bfbsis",
+        "baseurl": "https://opac.th-brandenburg.de/InfoGuideClient.bfbsis",
         "startparams": "Login=igbfb"
     },
     "geo": [
