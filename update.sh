@@ -1,4 +1,6 @@
 #!/bin/bash
+git checkout master .
+git reset --hard
 git pull -f origin master
 python3 fetch.py
 git diff --exit-code bibs && exit 0
