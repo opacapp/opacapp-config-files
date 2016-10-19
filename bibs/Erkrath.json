@@ -15,7 +15,7 @@
             "status": 6,
             "title": 8
         },
-        "baseurl": "http://opac.erkrath.de",
+        "baseurl": "http://193.159.179.140",
         "mediatypes": {
             "1": "BOOK",
             "10": "MAP",

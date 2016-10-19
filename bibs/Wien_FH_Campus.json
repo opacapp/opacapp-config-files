@@ -1,0 +1,19 @@
+{
+    "_active": true,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Wien",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "https://search-fcw.obvsg.at/primo_library/libweb",
+        "db": "FCW",
+        "languages": [
+            "de",
+            "en"
+        ]
+    },
+    "geo": null,
+    "information": "https://www.fh-campuswien.ac.at/?id=2079135#c12121",
+    "state": "Wien",
+    "title": "FH Campus"
+}

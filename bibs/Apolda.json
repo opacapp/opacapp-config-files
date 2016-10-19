@@ -1,0 +1,18 @@
+{
+    "_active": true,
+    "account_supported": false,
+    "api": "open",
+    "city": "Apolda",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://bibliothek.apolda.info",
+        "urls": {
+            "advanced_search": "Mediensuche/EinfacheSuche.aspx",
+            "simple_search": "Mediensuche/ErweiterteSuche.aspx"
+        }
+    },
+    "geo": null,
+    "information": "http://www.apolda.de/kultur_und_tourismus/kultur_und_freizeit/bibliothek/",
+    "state": "Th\u00fcringen",
+    "title": "Stadt-, Kreis- und Fahrbibliothek"
+}
