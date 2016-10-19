@@ -11,7 +11,10 @@
             "simple_search": "Mediensuche/ErweiterteSuche.aspx"
         }
     },
-    "geo": null,
+    "geo": [
+        51.02461,
+        11.5189
+    ],
     "information": "http://www.apolda.de/kultur_und_tourismus/kultur_und_freizeit/bibliothek/",
     "state": "Th\u00fcringen",
     "title": "Stadt-, Kreis- und Fahrbibliothek"

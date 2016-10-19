@@ -12,7 +12,10 @@
             "en"
         ]
     },
-    "geo": null,
+    "geo": [
+        48.1582332,
+        16.3120366
+    ],
     "information": "https://www.fh-campuswien.ac.at/?id=2079135#c12121",
     "state": "Wien",
     "title": "FH Campus"
