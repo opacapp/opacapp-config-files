@@ -16,7 +16,10 @@
         },
         "db": "loehne"
     },
-    "geo": null,
+    "geo": [
+        52.1981954,
+        8.7166685
+    ],
     "information": "http://www.loehne.de/Freizeit-und-Tourismus/Stadtb%C3%BCcherei",
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
