@@ -11,7 +11,7 @@
             "returndate": 3,
             "title": 2
         },
-        "baseurl": "http://46.245.218.18:81/webopac",
+        "baseurl": "http://217.91.58.228:81/webopac",
         "copiestable": {
             "returndate": 2,
             "status": 1
