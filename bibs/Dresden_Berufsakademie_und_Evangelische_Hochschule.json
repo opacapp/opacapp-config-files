@@ -3,7 +3,7 @@
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Dresden",
-    "country": "Germany",
+    "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
@@ -37,6 +37,6 @@
         13.76153
     ],
     "information": "http://www.bibliothek-campusjohannstadt.de/ueber-uns/",
-    "state": "Saxony",
+    "state": "Sachsen",
     "title": "Berufsakademie und Evangelische Hochschule"
 }
