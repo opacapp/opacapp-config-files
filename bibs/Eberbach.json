@@ -26,6 +26,24 @@
             "status": 2
         },
         "customssl": true,
+        "mediatypes": {
+            "MDVD.gif": "DVD",
+            "b\u00fccher.gif": "BOOK",
+            "cdkl.gif": "CD",
+            "cdromkl.gif": "CD_SOFTWARE",
+            "ekl.gif": "EBOOK",
+            "mBmonoS.gif": "PACKAGE_BOOKS",
+            "mBuchS.gif": "BOOK",
+            "mBuchSsich.gif": "BOOK",
+            "mBuecherS.gif": "PACKAGE",
+            "mFilmS.gif": "MOVIE",
+            "mMusikCDS.gif": "CD_MUSIC",
+            "mNoten1S.gif": "SCORE_MUSIC",
+            "mZtgS.gif": "NEWSPAPER",
+            "mhoerbuchS.gif": "AUDIOBOOK",
+            "spielekl.gif": "BOARDGAME",
+            "tafelkl.jpg": "SCHOOL_VERSION"
+        },
         "reservationtable": {
             "author": 0,
             "availability": 3,
