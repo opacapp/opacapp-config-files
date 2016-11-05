@@ -24,6 +24,16 @@
             "returndate": 4,
             "status": 3
         },
+        "mediatypes": {
+            "BluRay-S.gif": "BLURAY",
+            "DVD-S.gif": "DVD",
+            "Zeit.jpg": "MAGAZINE",
+            "eklein.gif": "EBOOK",
+            "mCDROMS.gif": "DVD",
+            "mMusik2S.gif": "AUDIO_CASSETTE",
+            "mMusikCDS.gif": "CD_MUSIC",
+            "mklein.gif": "UNKNOWN"
+        },
         "reservationtable": {
             "author": 0,
             "availability": 3,
