@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "account_supported": false,
+    "account_supported": true,
     "api": "biber1992",
     "city": "Jena",
     "country": "Deutschland",
