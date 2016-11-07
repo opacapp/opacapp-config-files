@@ -1,0 +1,18 @@
+{
+    "_active": true,
+    "account_supported": false,
+    "api": "open",
+    "city": "Wedel",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://wedel.bibliotheca-open.de",
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "geo": null,
+    "information": "http://www.wedel.de/?2302",
+    "state": "Schleswig-Holstein",
+    "title": "Stadtb\u00fccherei"
+}

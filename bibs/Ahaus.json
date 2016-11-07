@@ -1,0 +1,40 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Ahaus",
+    "country": "Germany",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 3,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "http://stadtbuecherei.ahaus.de/wwwopac",
+        "copiestable": {
+            "department": 3,
+            "location": 0,
+            "status": 1
+        },
+        "mediatypes": {
+            "Grafik2_munz.gif": "EDOC",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE",
+            "muensterload_WebOPAC_S_2.gif": "EBOOK"
+        },
+        "reservationtable": {
+            "author": 0,
+            "cancelurl": 2,
+            "title": 1
+        }
+    },
+    "geo": [
+        52.0814352,
+        7.0032092
+    ],
+    "information": "https://www.ahaus.de/stadtbibliothek.0.html",
+    "state": "North Rhine-Westphalia",
+    "title": "Stadtb\u00fccherei"
+}

@@ -5,7 +5,8 @@
     "city": "Frankfurt/Oder",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://saturn2.euv-frankfurt-o.de:8080/webOPACClient"
+        "baseurl": "https://euvoz2.bib-bvb.de/InfoGuideClient.euvsis",
+        "startparams": "Login=igeuv"
     },
     "geo": [
         52.3423584,
