@@ -15,7 +15,7 @@
             "status": 4,
             "title": 6
         },
-        "baseurl": "https://db.flensburg.de",
+        "baseurl": "https://opax.flensburg.de",
         "mediatypes": {
             "1": "BOOK",
             "10": "MAP",
@@ -30,7 +30,7 @@
             "6": "AUDIOBOOK",
             "9": "BOARDGAME"
         },
-        "opacdir": "opac",
+        "opacdir": "opax",
         "searchtable": [
             2,
             3,
