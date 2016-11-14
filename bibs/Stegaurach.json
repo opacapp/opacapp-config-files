@@ -1,0 +1,17 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Stegaurach",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://buecherei.admin24ip.de/iopac"
+    },
+    "geo": [
+        49.8661,
+        10.84408
+    ],
+    "information": "http://www.buecherei-stegaurach.de/index.php?id=85",
+    "state": "Bayern",
+    "title": "B\u00fccherei"
+}
