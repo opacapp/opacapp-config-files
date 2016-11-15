@@ -18,8 +18,8 @@
         "baseurl": "https://opac.buecherei.norderstedt.de",
         "copiestable": {
             "branch": 1,
+            "department": 2,
             "location": 3,
-            "shelfmark": 2,
             "status": 4
         },
         "mediatypes": {
