@@ -3,7 +3,7 @@
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Erfurt",
-    "country": "Germany",
+    "country": "Deutschland",
     "data": {
         "baseurl": "https://medienstelle-erfurt.internetopac.de",
         "copiestable": {
@@ -22,6 +22,6 @@
         11.0227744
     ],
     "information": "http://www.bistum-erfurt.de/bildung/dioezesan-medienstelle/index.html",
-    "state": "Thuringia",
+    "state": "Th\u00fcringen",
     "title": "Di\u00f6zesan-Medienstelle"
 }

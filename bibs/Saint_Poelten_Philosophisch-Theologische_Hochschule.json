@@ -2,8 +2,8 @@
     "_active": true,
     "account_supported": false,
     "api": "primo",
-    "city": "Saint P\u00f6lten",
-    "country": "Austria",
+    "city": "St. P\u00f6lten",
+    "country": "\u00d6sterreich",
     "data": {
         "baseurl": "https://search-dsp.obvsg.at/primo_library/libweb"
     },
@@ -12,6 +12,6 @@
         15.628259
     ],
     "information": "http://www.pth-stpoelten.at/einrichtungen/pth/bibliothek",
-    "state": "Lower Austria",
+    "state": "Nieder\u00f6sterreich",
     "title": "Philosophisch-Theologische Hochschule"
 }

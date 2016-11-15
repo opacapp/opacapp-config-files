@@ -3,7 +3,7 @@
     "account_supported": true,
     "api": "pica",
     "city": "Wolfenb\u00fcttel",
-    "country": "Germany",
+    "country": "Deutschland",
     "data": {
         "account_system": "default",
         "baseurl": "http://opac.lbs-braunschweig.gbv.de",
@@ -14,6 +14,6 @@
         10.5302627
     ],
     "information": "http://www.hab.de/",
-    "state": "Lower Saxony",
+    "state": "Niedersachsen",
     "title": "Herzog-August-Bibliothek"
 }

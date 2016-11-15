@@ -3,7 +3,7 @@
     "account_supported": true,
     "api": "sisis",
     "city": "Mannheim",
-    "country": "Germany",
+    "country": "Deutschland",
     "data": {
         "baseurl": "https://www.umm.uni-heidelberg.de/webOPACClient"
     },

@@ -3,7 +3,7 @@
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Ahaus",
-    "country": "Germany",
+    "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
@@ -35,6 +35,6 @@
         7.0032092
     ],
     "information": "https://www.ahaus.de/stadtbibliothek.0.html",
-    "state": "North Rhine-Westphalia",
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }
