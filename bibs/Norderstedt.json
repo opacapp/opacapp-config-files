@@ -16,6 +16,12 @@
             "title": 7
         },
         "baseurl": "https://opac.buecherei.norderstedt.de",
+        "copiestable": {
+            "branch": 1,
+            "location": 3,
+            "shelfmark": 2,
+            "status": 4
+        },
         "mediatypes": {
             "1": "BOOK",
             "10": "BOARDGAME",
