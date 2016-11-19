@@ -1,0 +1,14 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Ottobrunn",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/ottobrunn"
+    },
+    "geo": null,
+    "information": "https://www.ottobrunn.de/BildungundSoziales/Gemeindebibliothek/Willkommen.aspx",
+    "state": "Bayern",
+    "title": "Gemeindebibliothek"
+}

@@ -5,7 +5,7 @@
     "city": "Halle/S",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://opac.bibliothek.uni-halle.de/",
+        "baseurl": "https://lhhal.gbv.de",
         "customssl": "true",
         "db": "1"
     },
