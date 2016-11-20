@@ -2,61 +2,54 @@
     "_active": true,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Jena",
+    "city": "Kempten",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 9,
-            "barcode": 5,
+            "author": 6,
+            "barcode": 3,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 2,
-            "returndate": 4,
+            "prolongurl": 0,
+            "returndate": 2,
             "status": 7,
-            "title": 9
+            "title": 6
         },
-        "baseurl": "https://opac.jena.de",
+        "baseurl": "http://biber.kempten.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,
-            "department": -1,
-            "location": 2,
+            "location": -1,
             "reservations": -1,
             "returndate": -1,
+            "shelfmark": 2,
             "status": 4
         },
         "mediatypes": {
             "1": "BOOK",
             "10": "MAP",
             "11": "DVD",
-            "12": "ART",
-            "13": "SCHOOL_VERSION",
             "2": "MAGAZINE",
-            "20": "AUDIOBOOK",
-            "22": "CD_SOFTWARE",
-            "23": "CD_SOFTWARE",
-            "24": "BLURAY",
-            "26": "GAME_CONSOLE_WII",
+            "26": "GAME_CONSOLE",
             "3": "CD_SOFTWARE",
             "30": "EBOOK",
             "4": "MOVIE",
-            "5": "AUDIO_CASSETTE",
             "6": "CD",
-            "7": "LP_RECORD",
-            "8": "SCORE_MUSIC",
+            "8": "AUDIOBOOK",
             "9": "BOARDGAME"
         },
         "opacdir": "opax",
         "searchtable": [
             2,
-            3
+            3,
+            4
         ]
     },
     "geo": [
-        50.9273056,
-        11.5798626
+        47.7302405,
+        10.3133325
     ],
-    "information": "http://www.stadtbibliothek.jena.de/de/startseite/359025",
-    "state": "Th\u00fcringen",
-    "title": "Ernst-Abbe-B\u00fccherei (Stadtbibliothek)"
+    "information": "https://www.kempten.de/de/Bibliotheken.php",
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
 }
