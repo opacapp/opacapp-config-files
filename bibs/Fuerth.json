@@ -5,7 +5,7 @@
     "city": "Furth",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://serviceweb.fuerth.de/webOPACClient"
+        "baseurl": "https://serviceweb.fuerth.de/webOPACClient"
     },
     "geo": [
         49.4564168,
