@@ -1,0 +1,17 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Neubiberg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/neubiberg"
+    },
+    "geo": [
+        48.077,
+        11.66303
+    ],
+    "information": "http://www.neubiberg.de/?id=144",
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
