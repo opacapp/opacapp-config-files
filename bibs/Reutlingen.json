@@ -5,9 +5,11 @@
     "city": "Reutlingen",
     "country": "Deutschland",
     "data": {
-        "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
-        "baseurl": "http://www5.stadtbibliothek-reutlingen.de",
-        "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        "simple_search": "Mediensuche/EinfacheSuche.aspx",
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "baseurl": "http://www5.stadtbibliothek-reutlingen.de"
+        }
     },
     "geo": [
         48.4903415,
