@@ -5,10 +5,10 @@
     "city": "Reutlingen",
     "country": "Deutschland",
     "data": {
-        "simple_search": "Mediensuche/EinfacheSuche.aspx",
+        "baseurl": "http://www5.stadtbibliothek-reutlingen.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
-            "baseurl": "http://www5.stadtbibliothek-reutlingen.de"
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
