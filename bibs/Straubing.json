@@ -5,7 +5,7 @@
     "city": "Straubing",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://opacweb.straubing.de"
+        "baseurl": "https://webopac.straubing.de"
     },
     "geo": [
         48.8852108,
