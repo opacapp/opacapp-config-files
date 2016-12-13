@@ -2,7 +2,7 @@
     "_active": true,
     "account_supported": true,
     "api": "sisis",
-    "city": "Hof/S",
+    "city": "Hof",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.hof-university.de/InfoGuideClient.fhosis",
