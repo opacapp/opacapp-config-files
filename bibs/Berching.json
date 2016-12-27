@@ -1,0 +1,14 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Berching",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://cloudopac.winbiap.de/berching"
+    },
+    "geo": null,
+    "information": "https://cloudopac.winbiap.de/berching",
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}

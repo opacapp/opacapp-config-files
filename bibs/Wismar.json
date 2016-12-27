@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "open",
+    "city": "Wismar",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://stadtbibliothek.wismar.de",
+        "urls": {
+            "advanced_search": "MedienundInformationen/ErweiterteSuche.aspx",
+            "simple_search": "MedienundInformationen/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        53.8931096,
+        11.4574205
+    ],
+    "information": "http://stadtbibliothek.wismar.de/",
+    "state": "Mecklenburg-Vorpommern",
+    "title": "Hansestadt Wismar. Stadtbibliothek"
+}
