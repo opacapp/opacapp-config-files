@@ -5,7 +5,7 @@
     "city": "Aschaffenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.stadtbibliothek-aschaffenburg.de",
+        "baseurl": "https://aschaffenburg.bibdia-hosts.de",
         "mediatypes": {
             "1": "BOOK",
             "10": "MAP",
@@ -21,8 +21,7 @@
         "searchtable": [
             2,
             3,
-            4,
-            5
+            4
         ]
     },
     "geo": [
