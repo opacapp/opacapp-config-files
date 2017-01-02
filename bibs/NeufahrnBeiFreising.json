@@ -5,7 +5,7 @@
     "city": "Neufahrn bei Freising",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://opac.winbiap.net/neufahrn",
+        "baseurl": "https://opac.winbiap.net/neufahrn",
         "customssl": true
     },
     "geo": [
