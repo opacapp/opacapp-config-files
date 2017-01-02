@@ -1,0 +1,17 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Heidenau",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliothekskatalog.heidenau.de/webOPAC"
+    },
+    "geo": [
+        50.9813664,
+        13.8630918
+    ],
+    "information": "http://www.heidenau.de/stadtbibliothek",
+    "state": "Sachsen",
+    "title": "Stadtbibliothek"
+}

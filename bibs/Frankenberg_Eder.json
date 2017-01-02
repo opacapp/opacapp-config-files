@@ -1,0 +1,18 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Frankenberg/Eder",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/frankenberg",
+        "customssl": true
+    },
+    "geo": [
+        51.05857,
+        8.8008613
+    ],
+    "information": "http://www.frankenberg.de/index.php/buecherei.html",
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
+}

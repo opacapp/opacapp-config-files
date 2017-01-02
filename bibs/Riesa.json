@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "account_supported": false,
+    "api": "open",
+    "city": "Riesa",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://webopac.stadtbibliothek-riesa.de",
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        51.2987885,
+        13.3159211
+    ],
+    "information": "http://webopac.stadtbibliothek-riesa.de/",
+    "state": "Sachsen",
+    "title": "Stadtbibliothek der FVG Riesa mbH"
+}
