@@ -1,10 +1,17 @@
 {
     "_active": true,
-    "account_supported": false,
+    "account_supported": true,
     "api": "biber1992",
     "city": "Aschaffenburg",
     "country": "Deutschland",
     "data": {
+        "accounttable": {
+            "author": 8,
+            "barcode": 4,
+            "returndate": 3,
+            "status": 9,
+            "title": 8
+        },
         "baseurl": "https://aschaffenburg.bibdia-hosts.de",
         "mediatypes": {
             "1": "BOOK",
