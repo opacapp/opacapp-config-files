@@ -1,0 +1,18 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Konz",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://cloudopac.winbiap.de/konz",
+        "customssl": true
+    },
+    "geo": [
+        49.69971,
+        6.5766
+    ],
+    "information": "http://stadtbibliothek.konz.de/",
+    "state": "Rheinland-Pfalz",
+    "title": "Stadtbibliothek"
+}

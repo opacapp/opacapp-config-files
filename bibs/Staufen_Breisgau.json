@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Staufen/Breisgau",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://web-opac.kivbf.de/staufen",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": -1,
+            "location": 0,
+            "reservations": 3,
+            "returndate": 2,
+            "status": 1
+        },
+        "customssl": true
+    },
+    "geo": [
+        47.87865,
+        7.72706
+    ],
+    "information": "http://www.stadt-staufen.de/unsere-stadt/bibliotheken/",
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "\u00d6ffentliche Bibliothek"
+}

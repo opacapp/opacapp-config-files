@@ -39,6 +39,9 @@
             "6": "CD",
             "9": "BOARDGAME"
         },
+        "mopax": true,
+        "onleihe": "http://www4.onleihe.de/rems-murr",
+        "onleihe_libraryId": "468",
         "opacdir": "opax",
         "reservationtable": {
             "author": 3,
