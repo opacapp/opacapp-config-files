@@ -20,6 +20,7 @@
             "returndate": 5,
             "status": 3
         },
+        "db": "w_ekvw_muenster",
         "mediatypes": {
             "Bild_PI.gif": "Bild",
             "Buch_PI.gif": "Buch",
