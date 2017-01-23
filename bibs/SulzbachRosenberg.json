@@ -1,0 +1,26 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Sulzbach-R.",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.stb-sulzbach-rosenberg.de/webopac",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 3,
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 4,
+            "status": 4
+        }
+    },
+    "geo": [
+        49.5049401,
+        11.7356581
+    ],
+    "information": "http://www.su-ro.city/leben-in-der-stadt/bildung/stadtbibliothek/",
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}
