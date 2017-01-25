@@ -1,0 +1,17 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Bechhofen an der Heide",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/bechhofen"
+    },
+    "geo": [
+        49.1577,
+        10.5481913
+    ],
+    "information": "https://webopac.winbiap.de/bechhofen/index.aspx",
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}

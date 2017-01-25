@@ -20,6 +20,10 @@
             "returndate": 4,
             "status": 3
         },
+        "data": {
+            "onleihe": "http://www4.onleihe.de/onleiheregio",
+            "onleihe_libraryId": "414"
+        },
         "mediatypes": {
             "Munzingermini.gif": "EDOC",
             "blurays.gif": "BLURAY",
