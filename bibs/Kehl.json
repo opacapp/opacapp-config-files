@@ -21,6 +21,7 @@
             "status": 3
         },
         "data": {
+            "baseurl": "https://www.stadt-kehl.de/webopac",
             "onleihe": "http://www4.onleihe.de/onleiheregio",
             "onleihe_libraryId": "414"
         },
