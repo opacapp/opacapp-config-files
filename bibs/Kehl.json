@@ -11,6 +11,7 @@
             "returndate": 3,
             "title": 2
         },
+        "baseurl": "https://www.stadt-kehl.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 5,
@@ -18,11 +19,6 @@
             "location": 1,
             "returndate": 4,
             "status": 3
-        },
-        "data": {
-            "baseurl": "https://www.stadt-kehl.de/webopac",
-            "onleihe": "http://www4.onleihe.de/onleiheregio",
-            "onleihe_libraryId": "414"
         },
         "mediatypes": {
             "Munzingermini.gif": "EDOC",
@@ -40,6 +36,8 @@
             "monooS.gif": "BOOK",
             "onleihemin.gif": "EBOOK"
         },
+        "onleihe": "http://www4.onleihe.de/onleiheregio",
+        "onleihe_libraryId": "414",
         "reservationtable": {
             "author": 0,
             "cancelurl": 2,
