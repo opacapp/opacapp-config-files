@@ -1,0 +1,14 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Pohlheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://www.stadtbuecherei.pohlheim.de"
+    },
+    "geo": null,
+    "information": "http://pohlheim.active-city.net/city_info/webaccessibility/index.cfm?region_id=417&waid=378&item_id=852069",
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
+}

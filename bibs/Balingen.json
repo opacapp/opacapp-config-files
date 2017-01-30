@@ -5,7 +5,7 @@
     "city": "Balingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/balingen/",
+        "baseurl": "https://open.rz-kiru.de/balingen",
         "urls": {
             "advanced_search": "Mediensuche/EinfacheSuche.aspx",
             "simple_search": "Mediensuche/ErweiterteSuche.aspx"

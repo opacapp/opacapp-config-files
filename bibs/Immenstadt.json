@@ -1,0 +1,17 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Immenstadt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://opac.winbiap.net/immenstadt/index.aspx"
+    },
+    "geo": [
+        47.55993,
+        10.21864
+    ],
+    "information": "http://www.stadt-immenstadt.de/staedtische-einrichtungen/stadtbuecherei.html",
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
