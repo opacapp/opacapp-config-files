@@ -6,6 +6,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://kataloge.thulb.uni-jena.de/",
+        "customssl": true,
         "db": "1"
     },
     "geo": [
