@@ -11,12 +11,13 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://biblioto.dyndns.org/webopac",
+        "baseurl": "https://stadtbibliothek-torgau.internetopac.de",
         "copiestable": {
-            "branch": 0,
+            "barcode": 0,
+            "branch": 4,
             "department": 2,
             "location": 1,
-            "returndate": 4,
+            "returndate": 5,
             "status": 3
         },
         "mediatypes": {
