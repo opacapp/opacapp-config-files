@@ -16,11 +16,11 @@
         "baseurl": "https://wwwopac.rz-kiru.de/winnenden",
         "copiestable": {
             "branch": -1,
-            "department": -1,
-            "location": 1,
-            "reservations": 4,
-            "returndate": 3,
-            "status": 2
+            "department": 1,
+            "location": 2,
+            "reservations": 5,
+            "returndate": 4,
+            "status": 3
         },
         "reservationtable": {
             "author": 0,
