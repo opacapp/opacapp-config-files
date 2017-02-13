@@ -5,7 +5,8 @@
     "city": "L\u00fcbeck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.stadtbibliothek.luebeck.de/alswww2.dll"
+        "baseurl": "https://katalog.stadtbibliothek.luebeck.de/alswww2.dll",
+        "customssl": true
     },
     "geo": [
         53.868539,
