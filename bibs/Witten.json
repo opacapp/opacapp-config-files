@@ -5,7 +5,7 @@
     "city": "Witten",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.stadt-witten.de:8080/webOPACClient",
+        "baseurl": "https://webopac.stadt-witten.de/webOPACClient",
         "startparams": "Login=internet"
     },
     "geo": [
