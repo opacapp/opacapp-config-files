@@ -1,0 +1,19 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Fulda",
+    "country": "Deutschland",
+    "data": {
+        "account_system": "default",
+        "baseurl": "https://opac.uni-giessen.de",
+        "db": "80"
+    },
+    "geo": [
+        50.55352,
+        9.67136
+    ],
+    "information": "http://bib.thf-fulda.de/oeffnungszeiten",
+    "state": "Hessen",
+    "title": "Bibliothek des Bisch\u00f6flichen Priesterseminars"
+}

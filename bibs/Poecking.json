@@ -1,0 +1,17 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Pocking",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/poecking"
+    },
+    "geo": [
+        47.9672873,
+        11.3010935
+    ],
+    "information": "http://www.buecherei-poecking.de/index.php?grp=ZEITEN",
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}

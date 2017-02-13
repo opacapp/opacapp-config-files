@@ -1,0 +1,19 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Vechta",
+    "country": "Deutschland",
+    "data": {
+        "account_system": "default",
+        "baseurl": "https://opac.ub.uni-osnabrueck.de",
+        "db": "3"
+    },
+    "geo": [
+        52.7214696,
+        8.2941636
+    ],
+    "information": "http://www.bibliothek.uni-vechta.de/ueber-uns/oeffnungszeiten/",
+    "state": "Niedersachsen",
+    "title": "Universit\u00e4tsbibliothek"
+}

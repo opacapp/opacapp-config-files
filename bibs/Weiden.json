@@ -15,7 +15,7 @@
             "status": 6,
             "title": 8
         },
-        "baseurl": "http://opac.regionalbibliothek-weiden.de",
+        "baseurl": "https://opac.regionalbibliothek-weiden.de",
         "mediatypes": {
             "1": "BOOK",
             "11": "DVD",
