@@ -25,6 +25,7 @@
             "returndate": 5,
             "status": 4
         },
+        "customssl": true,
         "mediatypes": {
             "CDs.gif": "CD",
             "blu-ray_32.gif": "BLURAY",
@@ -58,7 +59,7 @@
         51.48182,
         11.96668
     ],
-    "information": "/../read/info.html",
+    "information": "https://secure.halle.de/read/info.html",
     "state": "Sachsen-Anhalt",
     "title": "Stadtbibliothek"
 }
