@@ -1,0 +1,17 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Neuenhaus",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://neuenhaus.iopac.de"
+    },
+    "geo": [
+        52.5009,
+        6.96915
+    ],
+    "information": "http://www.neuenhaus.de/staticsite/staticsite.php?menuid=38&topmenu=481",
+    "state": "Niedersachsen",
+    "title": "Samtgemeindebibliothek"
+}
