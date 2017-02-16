@@ -1,12 +1,12 @@
 {
     "_active": true,
     "account_supported": true,
-    "api": "sisis",
+    "api": "touchpoint",
     "city": "Deggendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.fh-deggendorf.de/InfoGuideClient.fhdsis",
-        "startparams": "Login=wofhdext"
+        "baseurl": "https://opac.fh-deggendorf.de/TouchPoint",
+        "startparams": "start.do?View=fhd&Language=de"
     },
     "geo": [
         48.8408515,
