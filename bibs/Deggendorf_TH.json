@@ -6,7 +6,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.fh-deggendorf.de/TouchPoint",
-        "startparams": "View=fhd&Language=de"
+        "startparams": "View=fhd"
     },
     "geo": [
         48.8408515,
