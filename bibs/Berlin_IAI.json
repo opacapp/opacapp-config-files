@@ -5,14 +5,14 @@
     "city": "Berlin",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://iaiweb1.iai.spk-berlin.de",
+        "baseurl": "https://www.iaicat.de/",
         "db": "1"
     },
     "geo": [
         52.5200066,
         13.404954
     ],
-    "information": "http://www.iai.spk-berlin.de/bibliothek.html",
+    "information": "https://www.iaicat.de/",
     "state": "Berlin",
     "title": "Ibero-Amerikanisches Institut"
 }
