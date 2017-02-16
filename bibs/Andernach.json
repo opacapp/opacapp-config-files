@@ -11,7 +11,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://217.86.253.134/webopac",
+        "baseurl": "https://webopac.andernach.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
