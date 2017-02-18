@@ -5,8 +5,10 @@
     "city": "Kiel",
     "country": "Deutschland",
     "data": {
+        "account_system": "lbs",
         "baseurl": "http://www.econis.eu",
-        "db": "1"
+        "db": "1",
+        "lbs_url": "http://lhzbw.gbv.de:9090/LBS_WEB"
     },
     "geo": [
         54.33883,
