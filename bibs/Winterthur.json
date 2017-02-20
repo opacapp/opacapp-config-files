@@ -11,6 +11,7 @@
         "calendarparser": "guidlexml",
         "feedurl": "http://bibliotheken.winterthur.ch/rss.xml",
         "field_SYSTEM": "14",
+        "libopacplus": true,
         "mediatypes": {
             "11": "CD",
             "12": "AUDIO_CASSETTE",

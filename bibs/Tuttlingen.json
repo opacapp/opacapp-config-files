@@ -18,6 +18,7 @@
             "returndate": 2,
             "status": 1
         },
+        "libopacplus": true,
         "mediatypes": {
             "eaudiokl.gif": "MP3",
             "ebookkl.gif": "EBOOK",
