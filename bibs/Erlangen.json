@@ -26,6 +26,7 @@
             "status": 2
         },
         "disableProlongAll": true,
+        "libopacplus": true,
         "mediatypes": {
             "blurayS.gif": "BLURAY",
             "cdkl.gif": "CD",

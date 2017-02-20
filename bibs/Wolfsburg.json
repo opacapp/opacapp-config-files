@@ -25,6 +25,7 @@
             "returndate": 5,
             "status": 3
         },
+        "libopacplus": true,
         "onleihe": "http://www3.onleihe.de/wolfsburg",
         "onleihe_libraryId": "158",
         "onleihe_singleLibrary": "yes",
