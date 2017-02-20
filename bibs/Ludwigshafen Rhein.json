@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "account_supported": true,
+    "account_supported": false,
     "api": "open",
     "city": "Ludwigshafen/Rh.",
     "country": "Deutschland",
