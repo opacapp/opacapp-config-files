@@ -6,6 +6,7 @@
     "country": "Schweiz",
     "data": {
         "baseurl": "http://kbu.ur.ch/webOPACClient.sisis",
+        "libopacplus": true,
         "onleihe": "http://www.dibizentral.ch/dibizentral",
         "onleihe_libraryId": "743",
         "onleihe_search_url": "dibizentral.ch"

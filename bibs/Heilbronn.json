@@ -17,6 +17,7 @@
         },
         "baseurl": "https://web-opac.kivbf.de/heilbronn",
         "customssl": true,
+        "libopacplus": true,
         "mediatypes": {
             "Picto-klein.GIF": "EBOOK",
             "TOP-CDS.gif": "CD",

@@ -6,6 +6,7 @@
     "country": "Schweiz",
     "data": {
         "baseurl": "http://xaikb09.bl.ch/InfoGuideClient",
+        "libopacplus": true,
         "onleihe": "http://www.e-kbl.ch/liestal",
         "onleihe_avail": -1,
         "onleihe_libraryId": "57",

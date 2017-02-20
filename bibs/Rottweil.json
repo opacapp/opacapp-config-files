@@ -26,6 +26,7 @@
             "status": 1
         },
         "customssl": true,
+        "libopacplus": true,
         "mediatypes": {
             "eaudiokl.gif": "MP3",
             "ebookkl.gif": "EBOOK",
