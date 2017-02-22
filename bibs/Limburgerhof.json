@@ -7,8 +7,8 @@
     "data": {
         "baseurl": "http://bibliotheklimburgerhof.de/",
         "urls": {
-            "advanced_search": "http://bibliotheklimburgerhof.de/Mediensuche/ErweiterteSuche.aspx",
-            "simple_search": "http://bibliotheklimburgerhof.de/Mediensuche/EinfacheSuche.aspx"
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
