@@ -5,7 +5,7 @@
     "city": "Bergheim/Erft",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://www.stadtbibliothek.bergheim.de",
+        "baseurl": "http://www.stadtbibliothek.bergheim.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
