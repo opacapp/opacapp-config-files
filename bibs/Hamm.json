@@ -7,8 +7,8 @@
     "data": {
         "baseurl": "http://katalog.hamm.de",
         "urls": {
-            "advanced_search": "Mediensuche/Erweiterte-Suche",
-            "simple_search": "Mediensuche"
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche.aspx"
         }
     },
     "geo": [
