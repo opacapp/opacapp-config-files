@@ -7,7 +7,7 @@
     "data": {
         "baseurl": "https://kaltenkirchen.bibliotheca-open.de",
         "urls": {
-            "advanced_search": "https://kaltenkirchen.bibliotheca-open.de/de-de/mediensuche/erweitertesuche.aspx",
+            "advanced_search": "de-de/mediensuche/erweitertesuche.aspx",
             "simple_search": "de-de/mediensuche/einfachesuche.aspx"
         }
     },
