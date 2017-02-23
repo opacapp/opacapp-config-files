@@ -7,8 +7,8 @@
     "data": {
         "baseurl": "http://open.dachau.de/",
         "urls": {
-            "advanced_search": "Suche.aspx",
-            "simple_search": "Suche/Profisuche.aspx"
+            "advanced_search": "Suche/Profisuche.aspx",
+            "simple_search": "Suche.aspx"
         }
     },
     "geo": [
