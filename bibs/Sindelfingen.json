@@ -1,37 +1,14 @@
 {
     "_active": true,
-    "account_supported": true,
-    "api": "bibliotheca",
+    "account_supported": false,
+    "api": "open",
     "city": "Sindelfingen",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "barcode": 3,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 7,
-            "returndate": 6,
-            "status": 5,
-            "title": 1
-        },
-        "baseurl": "https://wwwopac.rz-kiru.de/sindelfingen",
-        "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": 1,
-            "location": 2,
-            "reservations": 5,
-            "returndate": 4,
-            "status": 3
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": 3,
-            "branch": -1,
-            "cancelurl": 4,
-            "expirationdate": -1,
-            "title": 1
+        "baseurl": "https://open.rz-kiru.de/sindelfingen",
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
