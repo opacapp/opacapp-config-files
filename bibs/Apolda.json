@@ -7,8 +7,8 @@
     "data": {
         "baseurl": "http://bibliothek.apolda.info",
         "urls": {
-            "advanced_search": "Mediensuche/EinfacheSuche.aspx",
-            "simple_search": "Mediensuche/ErweiterteSuche.aspx"
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
