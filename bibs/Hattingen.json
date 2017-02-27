@@ -15,7 +15,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "http://webopac.hattingen.de/webopac",
+        "baseurl": "https://webopac.hattingen.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": -1,
@@ -25,6 +25,7 @@
             "returndate": 6,
             "status": 5
         },
+        "customssl": true,
         "mediatypes": {
             "Film30.gif": "DVD",
             "Hoerbuch30.gif": "AUDIOBOOK",
