@@ -5,7 +5,7 @@
     "city": "Leipzig",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.ub.uni-leipzig.de/vufind",
+        "baseurl": "https://katalog.ub.uni-leipzig.de",
         "copystyle": "stackedtable",
         "copytable": {
             "location": 2,
