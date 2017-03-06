@@ -5,7 +5,7 @@
     "city": "Eckernf\u00f6rde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://iopac-eck.dtdns.net"
+        "baseurl": "http://medienkatalog.stadtbuecherei-eckernfoerde.de"
     },
     "geo": [
         54.4709032,
