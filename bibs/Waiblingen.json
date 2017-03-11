@@ -39,9 +39,6 @@
             "6": "CD",
             "9": "BOARDGAME"
         },
-        "mopax": true,
-        "onleihe": "http://www4.onleihe.de/rems-murr",
-        "onleihe_libraryId": "468",
         "opacdir": "opax",
         "reservationtable": {
             "author": 3,
@@ -62,6 +59,7 @@
         9.3161293
     ],
     "information": "https://info.opacapp.de/waiblingen.html",
+    "library_id": 15,
     "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
 }
