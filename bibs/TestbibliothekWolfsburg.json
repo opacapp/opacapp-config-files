@@ -1,0 +1,22 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "open",
+    "city": "",
+    "country": "",
+    "data": {
+        "baseurl": "http://ebibl.stadt.wolfsburg.de",
+        "libopacplus": false,
+        "onleihe": "http://www3.onleihe.de/wolfsburg",
+        "onleihe_libraryId": "158",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": null,
+    "information": "https://info.opacapp.net/testbibliothek.html",
+    "library_id": 9308,
+    "state": "",
+    "title": ""
+}
