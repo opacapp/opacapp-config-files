@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "account_supported": true,
+    "api": "open",
+    "city": "",
+    "country": "",
+    "data": {
+        "baseurl": "https://stadtbibliothek-recherche.erlangen.de",
+        "libopacplus": true,
+        "onleihe": "http://www.franken-onleihe.de/verbund_franken",
+        "onleihe_libraryId": "350",
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "medienlisten",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": null,
+    "information": "https://info.opacapp.net/testbibliothek.html",
+    "library_id": 9308,
+    "state": "",
+    "title": ""
+}

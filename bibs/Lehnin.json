@@ -11,7 +11,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://212.204.56.226/webOPAC",
+        "baseurl": "https://www5.potsdam-mittelmark.de/webOPAC",
         "copiestable": {
             "location": 0,
             "status": 1
