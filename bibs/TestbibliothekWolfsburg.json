@@ -10,6 +10,7 @@
         "onleihe": "http://www3.onleihe.de/wolfsburg",
         "onleihe_libraryId": "158",
         "urls": {
+            "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
