@@ -6,7 +6,7 @@
     "country": "",
     "data": {
         "baseurl": "http://ebibl.stadt.wolfsburg.de",
-        "libopacplus": false,
+        "libopacplus": true,
         "onleihe": "http://www3.onleihe.de/wolfsburg",
         "onleihe_libraryId": "158",
         "urls": {
