@@ -9,6 +9,7 @@
         "libopacplus": true,
         "onleihe": "http://www3.onleihe.de/wolfsburg",
         "onleihe_libraryId": "158",
+        "onleihe_singleLibrary": "yes",
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
