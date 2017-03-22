@@ -1,5 +1,7 @@
 {
     "_active": true,
+    "_plus_required": false,
+    "_version_required": 0,
     "account_supported": false,
     "api": "primo",
     "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
