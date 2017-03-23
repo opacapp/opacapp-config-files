@@ -24,6 +24,7 @@
             "location": 2,
             "status": 4
         },
+        "customssl": true,
         "mediatypes": {
             "1": "BOOK",
             "11": "DVD",
