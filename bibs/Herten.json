@@ -17,7 +17,7 @@
             "status": 5,
             "title": 1
         },
-        "baseurl": "http://85.119.208.92/wwwopac",
+        "baseurl": "https://webopac.herten.de",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
@@ -59,7 +59,7 @@
         51.59405,
         7.13821
     ],
-    "information": "/../read/info.html",
+    "information": "https://www.herten.de/bildung/stadtbibliothek/kontakt-oeffnungszeiten.html",
     "library_id": 8694,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtbibliothek im Glashaus"
