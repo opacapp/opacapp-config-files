@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Zwickau",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliothek.zwickau.de/",
+        "urls": {
+            "advanced_search": "Erweiterte-Medien-Suche",
+            "simple_search": ""
+        }
+    },
+    "geo": [
+        50.73859,
+        12.49104
+    ],
+    "information": "http://www.stadtbibliothek-zwickau.de/",
+    "library_id": 8799,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek"
+}
