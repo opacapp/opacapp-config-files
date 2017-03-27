@@ -1,0 +1,17 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Schondorf",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://webopac.winbiap.net/schondorf"
+    },
+    "geo": null,
+    "information": "http://www.schondorf.de/aktuell/buecherei/",
+    "library_id": 7052,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
