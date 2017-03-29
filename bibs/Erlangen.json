@@ -3,59 +3,19 @@
     "_plus_required": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Erlangen",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 4,
-            "returndate": 2,
-            "status": -1,
-            "title": 1
-        },
-        "baseurl": "http://stadtbibliothek-opacklassik.erlangen.de/wwwopac",
-        "copiestable": {
-            "barcode": -1,
-            "branch": 3,
-            "department": 1,
-            "location": 0,
-            "reservations": -1,
-            "returndate": 4,
-            "status": 2
-        },
-        "disableProlongAll": true,
+        "baseurl": "https://stadtbibliothek-recherche.erlangen.de",
         "libopacplus": true,
-        "mediatypes": {
-            "blurayS.gif": "BLURAY",
-            "cdkl.gif": "CD",
-            "eaudio_s.jpg": "EAUDIO",
-            "mBuchS.gif": "BOOK",
-            "mCDROMS.gif": "CD",
-            "mCassetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mMusikCDS.gif": "CD_MUSIC",
-            "mNoten1S.gif": "SCORE_MUSIC",
-            "mSpielS.gif": "BOARDGAME",
-            "mVideoS.gif": "MOVIE",
-            "mmBuchS.gif": "BOOK",
-            "munzS.gif": "EBOOK",
-            "notenkl.gif": "SCORE_MUSIC",
-            "onleihe2s.gif": "EBOOK",
-            "zeitschriftkl.gif": "NEWSPAPER"
-        },
         "onleihe": "http://www.franken-onleihe.de/verbund_franken",
         "onleihe_libraryId": "350",
-        "reservationtable": {
-            "author": 0,
-            "availability": -1,
-            "branch": -1,
-            "cancelurl": 3,
-            "expirationdate": 2,
-            "title": 1
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "medienlisten",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
