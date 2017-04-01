@@ -8,6 +8,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://stadtbibliothek-recherche.erlangen.de",
+        "customssl": true,
         "libopacplus": true,
         "onleihe": "http://www.franken-onleihe.de/verbund_franken",
         "onleihe_libraryId": "350",
