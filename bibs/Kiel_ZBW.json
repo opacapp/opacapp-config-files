@@ -10,7 +10,7 @@
         "account_system": "lbs",
         "baseurl": "http://www.econis.eu",
         "db": "1",
-        "lbs_url": "http://lhzbw.gbv.de:9090/LBS_WEB"
+        "lbs_url": "http://lhzbw.gbv.de:9090"
     },
     "geo": [
         54.33883,
