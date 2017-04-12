@@ -8,7 +8,6 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://ssl.muenchen.de/aDISWeb/app",
-        "customssl": true,
         "startparams": "service=direct/0/Home/$DirectLink&sp=SOPAC"
     },
     "geo": [
