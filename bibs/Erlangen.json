@@ -2,16 +2,13 @@
     "_active": true,
     "_plus_required": false,
     "_version_required": 0,
-    "account_supported": true,
+    "account_supported": false,
     "api": "open",
     "city": "Erlangen",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://stadtbibliothek-recherche.erlangen.de",
         "customssl": true,
-        "libopacplus": true,
-        "onleihe": "http://www.franken-onleihe.de/verbund_franken",
-        "onleihe_libraryId": "350",
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
