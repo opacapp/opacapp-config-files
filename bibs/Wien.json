@@ -27,6 +27,7 @@
             "returndate": 4,
             "status": 3
         },
+        "customssl": true,
         "libopacplus": true,
         "mediatypes": {
             "Sprachkurs_32_32.gif": "UNKNOWN",
