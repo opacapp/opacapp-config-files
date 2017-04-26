@@ -7,7 +7,7 @@
     "city": "Hohen Neuendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bibliothek.hohen-neuendorf.de",
+        "baseurl": "https://cloudopac.winbiap.de/hohenneuendorf/index.aspx",
         "longParameterNames": true
     },
     "geo": [
