@@ -7,7 +7,7 @@
     "city": "Soest",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://buecherei-soest.kdvz.de"
+        "baseurl": "https://stadtbuecherei.soest.de"
     },
     "geo": [
         51.5732483,
