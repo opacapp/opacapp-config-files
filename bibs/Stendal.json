@@ -16,7 +16,7 @@
             "returndate": 3,
             "title": 2
         },
-        "baseurl": "http://katalog.stadtbibliothek-stendal.de/webopac",
+        "baseurl": "http://katalog.stadtbibliothek-stendal.de/webopacsdl",
         "copiestable": {
             "branch": 0,
             "department": 3,
