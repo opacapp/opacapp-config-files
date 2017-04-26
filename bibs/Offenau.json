@@ -3,7 +3,7 @@
     "_plus_required": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Offenau",
     "country": "Deutschland",
     "data": {
@@ -17,7 +17,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/offenau",
+        "baseurl": "http://bibliotheken.kivbf.de/offenau",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
@@ -53,6 +53,10 @@
             "cancelurl": 3,
             "expirationdate": null,
             "title": 1
+        },
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
