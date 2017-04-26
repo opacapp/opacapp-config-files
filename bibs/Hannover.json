@@ -7,7 +7,7 @@
     "city": "Hannover",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothek.hannover-stadt.de/alswww3.dll"
+        "baseurl": "https://bibliothek.hannover-stadt.de"
     },
     "geo": [
         52.36676,
