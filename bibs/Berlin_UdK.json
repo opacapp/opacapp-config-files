@@ -7,10 +7,10 @@
     "city": "Berlin",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://primo.kobv.de/primo_library/libweb",
+        "baseurl": "https://udk-berlin.hosted.exlibrisgroup.com/primo_library/libweb",
         "db": "UDK",
         "languages": [
-            "de"
+            "de_DE"
         ]
     },
     "geo": [
