@@ -8,7 +8,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://www.voebb.de/aDISWeb/app",
-        "startparams": "service=direct/0/Home/$DirectLink&sp=Svb.srz.lit.verwalt-berlin.de%3A4103"
+        "startparams": "service=direct/0/Home/$DirectLink&sp=SPROD00"
     },
     "geo": [
         52.5200066,
