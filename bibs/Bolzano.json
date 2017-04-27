@@ -10,9 +10,8 @@
         "baseurl": "http://bolzano.hosted.exlibrisgroup.com/primo_library/libweb",
         "db": "bolzano",
         "languages": [
-            "de",
-            "en",
-            "it"
+            "de_DE",
+            "it_IT"
         ]
     },
     "geo": [
