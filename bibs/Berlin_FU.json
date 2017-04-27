@@ -7,7 +7,7 @@
     "city": "Berlin",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://primo.kobv.de/primo_library/libweb",
+        "baseurl": "https://fu-berlin.hosted.exlibrisgroup.com/primo_library/libweb",
         "db": "FUB",
         "languages": [
             "en",

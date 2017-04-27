@@ -7,10 +7,10 @@
     "city": "Berlin",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://portal.ub.tu-berlin.de/primo_library/libweb",
+        "baseurl": "https://tu-berlin.hosted.exlibrisgroup.com/primo_library/libweb",
         "db": "TUB",
         "languages": [
-            "de"
+            "de_DE"
         ]
     },
     "geo": [

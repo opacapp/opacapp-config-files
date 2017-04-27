@@ -7,11 +7,11 @@
     "city": "Berlin",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://primo.kobv.de/primo_library/libweb",
+        "baseurl": "https://hu-berlin.hosted.exlibrisgroup.com/primo_library/libweb",
         "db": "hub_ub",
         "languages": [
-            "en",
-            "de"
+            "en_EN",
+            "de_DE"
         ]
     },
     "geo": [
