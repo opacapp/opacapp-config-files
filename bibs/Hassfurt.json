@@ -7,7 +7,7 @@
     "city": "Hassfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://hassfurt.webopac.winbiap.net/hassfurt"
+        "baseurl": "http://opac.winbiap.net/hassfurt"
     },
     "geo": [
         50.0343812,
