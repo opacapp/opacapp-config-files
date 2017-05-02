@@ -17,7 +17,7 @@
             "status": 4,
             "title": 6
         },
-        "baseurl": "http://lingen.bibdia-hosts.de/",
+        "baseurl": "http://lingen.bibdia-hosts.de",
         "mediatypes": {
             "11": "DVD",
             "12": "AUDIBOOK",
