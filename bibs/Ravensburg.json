@@ -17,7 +17,7 @@
             "status": 5,
             "title": 7
         },
-        "baseurl": "http://www.opac.ravensburg.de",
+        "baseurl": "http://www.opax.ravensburg.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,
