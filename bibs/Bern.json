@@ -16,6 +16,7 @@
         "onleihe_libraryId": "666",
         "urls": {
             "advanced_search": "Katalogsuche/ErweiterteSuche.aspx",
+            "new_acq": "Katalogsuche/Neuheiten.aspx",
             "simple_search": "Katalogsuche/EinfacheSuche.aspx"
         }
     },
