@@ -19,13 +19,13 @@
         },
         "baseurl": "https://katalog.stabi-ludwigsburg.de",
         "copiestable": {
-            "barcode": 2,
-            "branch": 0,
+            "barcode": 3,
+            "branch": 1,
             "department": -1,
-            "location": 1,
+            "location": 2,
             "reservations": -1,
             "returndate": -1,
-            "status": 3
+            "status": 4
         },
         "mediatypes": {
             "101": "BOOK",
