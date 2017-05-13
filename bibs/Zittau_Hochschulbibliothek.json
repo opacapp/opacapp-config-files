@@ -1,0 +1,20 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "vufind",
+    "city": "Zittau",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.hszg.de"
+    },
+    "geo": [
+        50.89081,
+        14.80432
+    ],
+    "information": "https://hsb.hszg.de/startseite-hsb.html",
+    "library_id": 9314,
+    "state": "Sachsen",
+    "title": "Hochschulbibliothek Zittau/Gl\u00f6rlitz"
+}
