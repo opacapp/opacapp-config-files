@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Schweiz",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://explore.rero.ch/primo_library/libweb",
+        "db": "RERO_V1"
+    },
+    "geo": [
+        46.1055642,
+        7.0782831
+    ],
+    "information": "https://www.rero.ch/",
+    "library_id": 9312,
+    "state": "Schweiz",
+    "title": "R\u00e9seau de bibliotheques de Suisse occidentale"
+}
