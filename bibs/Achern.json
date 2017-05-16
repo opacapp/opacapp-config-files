@@ -13,7 +13,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://webopac.achernonline.de/webopac",
+        "baseurl": "https://webopac.achernonline.de/webopac",
         "copiestable": {
             "barcode": 0,
             "department": 2,
