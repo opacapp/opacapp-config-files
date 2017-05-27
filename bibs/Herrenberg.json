@@ -2,39 +2,13 @@
     "_active": true,
     "_plus_required": false,
     "_version_required": 0,
-    "account_supported": true,
+    "account_supported": false,
     "api": "open",
     "city": "Herrenberg",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 3,
-            "returndate": 2,
-            "status": -1,
-            "title": 1
-        },
-        "baseurl": "http://open.rz-kiru.de/herrenberg",
-        "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": -1,
-            "location": 3,
-            "reservations": 4,
-            "returndate": 1,
-            "status": 0
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": 2,
-            "branch": -1,
-            "cancelurl": 3,
-            "expirationdate": -1,
-            "title": 1
-        },
+        "baseurl": "https://open.rz-kiru.de/herrenberg",
+        "customssl": true,
         "urls": {
             "account": "Konto.aspx",
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
