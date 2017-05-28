@@ -3,37 +3,14 @@
     "_plus_required": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Coesfeld",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 4,
-            "returndate": 2,
-            "status": 3,
-            "title": 1
-        },
-        "baseurl": "http://opac.coesfeld.de",
-        "copiestable": {
-            "barcode": -1,
-            "branch": 5,
-            "department": 3,
-            "location": 2,
-            "reservations": -1,
-            "returndate": 1,
-            "status": 0
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": -1,
-            "branch": -1,
-            "cancelurl": 2,
-            "expirationdate": -1,
-            "title": 1
+        "baseurl": "https://buecherei.coesfeld.de",
+        "urls": {
+            "advanced_search": "de-de/Mediensuche/Erweiterte-Suche",
+            "simple_search": "de-de/Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
