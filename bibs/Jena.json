@@ -8,14 +8,14 @@
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 9,
-            "barcode": 5,
+            "author": 8,
+            "barcode": 4,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 2,
-            "returndate": 4,
+            "prolongurl": 1,
+            "returndate": 3,
             "status": 7,
-            "title": 9
+            "title": 8
         },
         "baseurl": "https://opac.jena.de",
         "copiestable": {
