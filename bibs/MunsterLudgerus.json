@@ -68,7 +68,10 @@
             "title": 1
         }
     },
-    "geo": null,
+    "geo": [
+        51.647514,
+        7.081624
+    ],
     "information": "https://www.kirche-mswest.de/koeb-st-ludgerus/",
     "library_id": 5632,
     "state": "Nordrhein-Westfalen",

@@ -56,7 +56,10 @@
             "eVideo_bibloadklein.GIF": "EVIDEO"
         }
     },
-    "geo": null,
+    "geo": [
+        52.241486,
+        7.521678
+    ],
     "information": "http://webopac.bistum-muenster.de/elte/index.asp?DB=OPAC_Elte",
     "library_id": 6652,
     "state": "Nordrhein-Westfalen",
