@@ -35,10 +35,7 @@
             4
         ]
     },
-    "geo": [
-        52.274064,
-        7.717601
-    ],
+    "geo": null,
     "information": "http://www.stadtbuecherei-ibbenbueren.de/",
     "library_id": 42,
     "state": "Nordrhein-Westfalen",

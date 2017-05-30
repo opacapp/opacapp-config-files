@@ -38,10 +38,7 @@
             3
         ]
     },
-    "geo": [
-        53.142886,
-        8.207477
-    ],
+    "geo": null,
     "information": "http://www.oldenburg.de/microsites/bibliothek/standorte-oeffnungszeiten.html",
     "library_id": 53,
     "state": "Niedersachsen",

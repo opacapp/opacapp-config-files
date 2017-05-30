@@ -37,10 +37,7 @@
             3
         ]
     },
-    "geo": [
-        49.678371,
-        12.163513
-    ],
+    "geo": null,
     "information": "http://www.regionalbibliothek-weiden.de/",
     "library_id": 57,
     "state": "Bayern",
