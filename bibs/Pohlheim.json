@@ -9,7 +9,10 @@
     "data": {
         "baseurl": "http://www.stadtbuecherei.pohlheim.de"
     },
-    "geo": null,
+    "geo": [
+        50.53427,
+        8.71428
+    ],
     "information": "http://pohlheim.active-city.net/city_info/webaccessibility/index.cfm?region_id=417&waid=378&item_id=852069",
     "library_id": 6386,
     "state": "Hessen",

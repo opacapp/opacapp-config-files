@@ -9,7 +9,10 @@
     "data": {
         "baseurl": "https://webopac.winbiap.de/ottobrunn"
     },
-    "geo": null,
+    "geo": [
+        48.06588,
+        11.663427
+    ],
     "information": "https://www.ottobrunn.de/BildungundSoziales/Gemeindebibliothek/Willkommen.aspx",
     "library_id": 6243,
     "state": "Bayern",

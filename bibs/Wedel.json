@@ -13,7 +13,10 @@
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
-    "geo": null,
+    "geo": [
+        53.58095,
+        9.70525
+    ],
     "information": "http://www.wedel.de/?2302",
     "library_id": 8092,
     "state": "Schleswig-Holstein",

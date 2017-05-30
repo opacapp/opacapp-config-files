@@ -45,7 +45,10 @@
             4
         ]
     },
-    "geo": null,
+    "geo": [
+        48.87589,
+        9.07352
+    ],
     "information": "http://www.schwieberdingen.de/,Lde/start/Bildung+und+Kultur/Bibliothek.html",
     "library_id": 7198,
     "state": "Baden-W\u00fcrttemberg",

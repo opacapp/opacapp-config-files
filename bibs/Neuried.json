@@ -9,7 +9,10 @@
     "data": {
         "baseurl": "https://cloudopac.winbiap.de/neuried"
     },
-    "geo": null,
+    "geo": [
+        48.09238,
+        11.46492
+    ],
     "information": "http://www.neuried.de/leben/buecherei/gemeindebuecherei-neuried/",
     "library_id": 5814,
     "state": "Bayern",

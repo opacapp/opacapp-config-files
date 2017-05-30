@@ -9,7 +9,10 @@
     "data": {
         "baseurl": "http://buch-zus.istmein.de/iopac"
     },
-    "geo": null,
+    "geo": [
+        48.38106,
+        10.56897
+    ],
     "information": "http://www.zusmarshausen.de/Bildung-Soziales/Buecherei.aspx",
     "library_id": 8592,
     "state": "Bayern",

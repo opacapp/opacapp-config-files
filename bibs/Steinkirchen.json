@@ -9,7 +9,10 @@
     "data": {
         "baseurl": "http://steinkirchen.iopac.de"
     },
-    "geo": null,
+    "geo": [
+        53.56944,
+        9.60536
+    ],
     "information": "http://www.buecherei-steinkirchen.de/",
     "library_id": 7465,
     "state": "Niedersachsen",

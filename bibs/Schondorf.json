@@ -9,7 +9,10 @@
     "data": {
         "baseurl": "http://webopac.winbiap.net/schondorf"
     },
-    "geo": null,
+    "geo": [
+        48.05268,
+        11.09053
+    ],
     "information": "http://www.schondorf.de/aktuell/buecherei/",
     "library_id": 7052,
     "state": "Bayern",
