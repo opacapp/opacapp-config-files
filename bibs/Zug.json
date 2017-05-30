@@ -40,7 +40,10 @@
             4
         ]
     },
-    "geo": null,
+    "geo": [
+        47.164541,
+        8.515152
+    ],
     "information": "http://www.bibliothekzug.ch/de/",
     "library_id": 59,
     "state": "Zug",

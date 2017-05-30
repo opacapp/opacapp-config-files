@@ -18,7 +18,10 @@
             "status": 3
         }
     },
-    "geo": null,
+    "geo": [
+        49.950939,
+        8.65092
+    ],
     "information": "http://www.erzhausen.eu/smap---2623---.html",
     "library_id": 2730,
     "state": "Hessen",

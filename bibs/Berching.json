@@ -9,7 +9,10 @@
     "data": {
         "baseurl": "https://cloudopac.winbiap.de/berching"
     },
-    "geo": null,
+    "geo": [
+        49.10612,
+        11.44315
+    ],
     "information": "https://cloudopac.winbiap.de/berching",
     "library_id": 1534,
     "state": "Bayern",
