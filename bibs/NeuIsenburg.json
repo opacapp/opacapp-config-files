@@ -42,7 +42,10 @@
             4
         ]
     },
-    "geo": null,
+    "geo": [
+        50.049731,
+        8.696262
+    ],
     "information": "http://www.neu-isenburg.de/erlebniswelt/stadtbibliothek",
     "library_id": 50,
     "state": "Hessen",
