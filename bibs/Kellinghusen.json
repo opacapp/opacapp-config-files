@@ -8,7 +8,7 @@
     "city": "Kellinghusen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://server1.buergerhaus-kellinghusen.de"
+        "baseurl": "http://87.139.171.98"
     },
     "geo": [
         53.9540255,
