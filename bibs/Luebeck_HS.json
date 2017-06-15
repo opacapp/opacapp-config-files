@@ -8,7 +8,7 @@
     "city": "L\u00fcbeck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://kiopc4.ub.uni-kiel.de:8080",
+        "baseurl": "https://katalog.ub.uni-kiel.de",
         "db": "4"
     },
     "geo": [
