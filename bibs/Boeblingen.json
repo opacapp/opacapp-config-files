@@ -18,7 +18,7 @@
             "status": 9,
             "title": 8
         },
-        "baseurl": "http://biber-bb.kdrs.de",
+        "baseurl": "https://boeblingen.bibdia-hosts.de",
         "copiestable": {
             "barcode": 2,
             "branch": 0,

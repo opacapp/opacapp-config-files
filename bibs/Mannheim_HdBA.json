@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Mannheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://hdba.internetopac.de",
+        "copiestable": {
+            "barcode": 3,
+            "branch": 0,
+            "location": 1,
+            "status": 2
+        },
+        "db": "117561"
+    },
+    "geo": [
+        49.4761103,
+        8.5129559
+    ],
+    "information": "http://www.hdba.de/hochschule/zentrale-einrichtungen/bibliothek/",
+    "library_id": 9323,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Hochschule der Bundesagentur f\u00fcr Arbeit"
+}
