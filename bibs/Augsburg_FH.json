@@ -11,6 +11,7 @@
         "baseurl": "https://infoguide.hs-augsburg.de/InfoGuideClient.fhasis",
         "startparams": "Login=wofha"
     },
+    "displayname": "Bibliothek der Hochschule Augsburg",
     "geo": [
         48.355204,
         10.903388
