@@ -8,7 +8,7 @@
     "city": "Heidenau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothekskatalog.heidenau.de/webOPAC"
+        "baseurl": "https://bibliothekskatalog.heidenau.de/webOPACClient"
     },
     "geo": [
         50.9813664,
