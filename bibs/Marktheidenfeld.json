@@ -8,8 +8,7 @@
     "city": "Marktheidenfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/marktheidenfeld",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/marktheidenfeld"
     },
     "geo": [
         49.84477,

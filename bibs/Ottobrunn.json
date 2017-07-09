@@ -8,8 +8,7 @@
     "city": "Ottobrunn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/ottobrunn",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/ottobrunn"
     },
     "geo": [
         48.06588,

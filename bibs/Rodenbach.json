@@ -8,8 +8,7 @@
     "city": "Rodenbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/rodenbach",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/rodenbach"
     },
     "geo": [
         50.1313348,

@@ -8,8 +8,7 @@
     "city": "Vellmar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/vellmar",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/vellmar"
     },
     "geo": [
         51.3576785,

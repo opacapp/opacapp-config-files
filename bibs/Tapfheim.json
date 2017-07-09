@@ -8,8 +8,7 @@
     "city": "Tapfheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/tapfheim",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/tapfheim"
     },
     "geo": [
         48.6736819,

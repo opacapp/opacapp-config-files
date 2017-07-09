@@ -8,8 +8,7 @@
     "city": "Cadolzburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/cadolzburg",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/cadolzburg"
     },
     "geo": [
         49.4594708,

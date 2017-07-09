@@ -8,8 +8,7 @@
     "city": "Donauw\u00f6rth",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/donauwoerth",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/donauwoerth"
     },
     "geo": [
         48.71924,

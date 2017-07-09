@@ -8,8 +8,7 @@
     "city": "Leutershausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/leutershausen",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/leutershausen"
     },
     "geo": [
         49.2999321,

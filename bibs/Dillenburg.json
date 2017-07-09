@@ -8,8 +8,7 @@
     "city": "Dillenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/dillenburg",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/dillenburg"
     },
     "geo": [
         50.7452841,

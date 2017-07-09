@@ -8,8 +8,7 @@
     "city": "Egling an der Paar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/egling",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/egling"
     },
     "geo": [
         48.1862159,

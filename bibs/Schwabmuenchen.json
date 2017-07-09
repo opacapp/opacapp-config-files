@@ -8,8 +8,7 @@
     "city": "Schwabm\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/schwabmuenchen",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/schwabmuenchen"
     },
     "geo": [
         48.1800343,

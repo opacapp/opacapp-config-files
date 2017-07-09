@@ -8,8 +8,7 @@
     "city": "Stuttgart",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/stuttgart-rpas",
-        "customssl": true
+        "baseurl": "http://opac.winbiap.net/stuttgart-rpas"
     },
     "geo": [
         48.7777181,

@@ -8,8 +8,7 @@
     "city": "Pentling",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/pentling",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/pentling"
     },
     "geo": [
         48.9833268,

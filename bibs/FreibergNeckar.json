@@ -8,8 +8,7 @@
     "city": "Freiberg/Neckar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/freiberg",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/freiberg"
     },
     "geo": [
         48.9334303,

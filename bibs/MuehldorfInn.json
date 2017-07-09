@@ -8,8 +8,7 @@
     "city": "M\u00fchldorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/muehldorf",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/muehldorf"
     },
     "geo": [
         48.2417,

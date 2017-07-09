@@ -8,8 +8,7 @@
     "city": "Planegg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/planegg",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/planegg"
     },
     "geo": [
         48.1068217,

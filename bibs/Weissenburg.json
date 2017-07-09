@@ -8,8 +8,7 @@
     "city": "Wei\u00dfenburg/Bay",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/weissenburg",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/weissenburg"
     },
     "geo": [
         49.0288046,

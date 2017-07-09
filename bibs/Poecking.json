@@ -8,8 +8,7 @@
     "city": "Pocking",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/poecking",
-        "customssl": true
+        "baseurl": "https://opac.winbiap.net/poecking"
     },
     "geo": [
         47.9672873,

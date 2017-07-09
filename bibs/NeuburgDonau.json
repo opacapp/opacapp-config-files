@@ -8,8 +8,7 @@
     "city": "Neuburg/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/neuburg",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/neuburg"
     },
     "geo": [
         48.734458,

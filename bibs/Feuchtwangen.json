@@ -8,8 +8,7 @@
     "city": "Feuchtwangen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/feuchtwangen",
-        "customssl": true
+        "baseurl": "https://cloudopac.winbiap.de/feuchtwangen"
     },
     "geo": [
         49.1680911,

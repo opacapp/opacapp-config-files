@@ -8,8 +8,7 @@
     "city": "Veitsbronn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/veitsbronn",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/veitsbronn"
     },
     "geo": [
         49.5117,

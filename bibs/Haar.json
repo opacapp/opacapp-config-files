@@ -8,8 +8,7 @@
     "city": "Haar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/haar",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/haar"
     },
     "geo": [
         48.1103758,

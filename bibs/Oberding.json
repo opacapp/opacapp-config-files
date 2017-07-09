@@ -8,8 +8,7 @@
     "city": "Oberding",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/oberding",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/oberding"
     },
     "geo": [
         48.3216584,

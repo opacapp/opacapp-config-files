@@ -8,8 +8,7 @@
     "city": "Friedberg/Bay",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/friedberg",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/friedberg"
     },
     "geo": [
         48.3559766,

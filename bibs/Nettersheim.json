@@ -8,8 +8,7 @@
     "city": "Nettersheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/nettersheim",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/nettersheim"
     },
     "geo": [
         50.4931868,

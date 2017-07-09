@@ -8,8 +8,7 @@
     "city": "Raubling",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/raubling",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/raubling"
     },
     "geo": [
         47.7908741,

@@ -8,8 +8,7 @@
     "city": "Reinheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/reinheim",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/reinheim"
     },
     "geo": [
         49.8285844,

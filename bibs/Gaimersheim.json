@@ -8,8 +8,7 @@
     "city": "Gaimersheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/gaimersheim",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/gaimersheim"
     },
     "geo": [
         48.80882,

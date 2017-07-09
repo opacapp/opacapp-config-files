@@ -8,8 +8,7 @@
     "city": "P\u00f6ttmes",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/poettmes",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/poettmes"
     },
     "geo": [
         48.583001,

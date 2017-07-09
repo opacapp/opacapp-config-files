@@ -8,8 +8,7 @@
     "city": "Neuried/Kr M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/neuried",
-        "customssl": true
+        "baseurl": "https://cloudopac.winbiap.de/neuried"
     },
     "geo": [
         48.09238,

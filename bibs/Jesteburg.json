@@ -8,8 +8,7 @@
     "city": "Jesteburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/jesteburg",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/jesteburg"
     },
     "geo": [
         53.3160201,

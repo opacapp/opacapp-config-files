@@ -8,8 +8,7 @@
     "city": "Gro\u00dfenseebach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/grossenseebach",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/grossenseebach"
     },
     "geo": [
         49.6308924,

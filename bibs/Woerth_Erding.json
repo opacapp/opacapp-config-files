@@ -8,8 +8,7 @@
     "city": "W\u00f6rth/Erding",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://woerth.webopac.winbiap.net/woerth",
-        "customssl": true
+        "baseurl": "http://woerth.webopac.winbiap.net/woerth"
     },
     "geo": [
         48.2455796,

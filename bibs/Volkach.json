@@ -8,8 +8,7 @@
     "city": "Volkach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/volkach",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/volkach"
     },
     "geo": [
         49.8639895,

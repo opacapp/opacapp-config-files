@@ -8,8 +8,7 @@
     "city": "Gr\u00e4felfing",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/graefelfing",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/graefelfing"
     },
     "geo": [
         48.1227429,

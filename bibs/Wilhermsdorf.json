@@ -8,8 +8,7 @@
     "city": "Wilhermsdorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/wilhermsdorf",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.de/wilhermsdorf"
     },
     "geo": [
         49.4822463,

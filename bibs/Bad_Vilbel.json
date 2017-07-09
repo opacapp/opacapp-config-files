@@ -8,8 +8,7 @@
     "city": "Bad Vilbel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/badvilbel"
     },
     "geo": [
         50.1827055,

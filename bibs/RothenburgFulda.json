@@ -8,8 +8,7 @@
     "city": "Rotenburg a.d.Fulda",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/mzhr",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/mzhr"
     },
     "geo": [
         50.996111,

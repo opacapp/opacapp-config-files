@@ -8,8 +8,7 @@
     "city": "Karlsfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/karlsfeld",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/karlsfeld"
     },
     "geo": [
         48.2290733,

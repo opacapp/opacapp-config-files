@@ -8,8 +8,7 @@
     "city": "Helmbrechts",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/helmbrechts",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/helmbrechts"
     },
     "geo": [
         50.2358872,

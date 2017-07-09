@@ -8,8 +8,7 @@
     "city": "Roding",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/roding",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/roding"
     },
     "geo": [
         49.1944493,

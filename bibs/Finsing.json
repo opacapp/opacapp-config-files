@@ -8,8 +8,7 @@
     "city": "Finsing",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/finsing",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/finsing"
     },
     "geo": [
         48.2177335,

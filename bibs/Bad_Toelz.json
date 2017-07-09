@@ -8,8 +8,7 @@
     "city": "Bad T\u00f6lz",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/badtoelz"
     },
     "geo": [
         47.7640421,

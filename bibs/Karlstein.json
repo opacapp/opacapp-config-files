@@ -8,8 +8,7 @@
     "city": "Karlstein a. Main",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/karlstein",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/karlstein"
     },
     "geo": [
         50.048889,

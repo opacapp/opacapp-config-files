@@ -8,7 +8,7 @@
     "city": "Mainburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/mainburg",
+        "baseurl": "http://opac.winbiap.net/mainburg",
         "customssl": true
     },
     "geo": [

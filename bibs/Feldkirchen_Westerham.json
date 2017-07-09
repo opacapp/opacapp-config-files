@@ -8,8 +8,7 @@
     "city": "Feldkirchen-Westerham",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/feldkirchen-westerham",
-        "customssl": true
+        "baseurl": "https://cloudopac.winbiap.de/feldkirchen-westerham"
     },
     "geo": [
         47.9140623,

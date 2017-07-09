@@ -8,8 +8,7 @@
     "city": "Kitzingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/kitzingen",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/kitzingen"
     },
     "geo": [
         49.7340805,

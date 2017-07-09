@@ -8,8 +8,7 @@
     "city": "Lauingen/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/lauingen",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/lauingen"
     },
     "geo": [
         48.570324,

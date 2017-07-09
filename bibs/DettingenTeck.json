@@ -8,8 +8,7 @@
     "city": "Dettingen unter Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/dettingen",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/dettingen"
     },
     "geo": [
         48.62015,

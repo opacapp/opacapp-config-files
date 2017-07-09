@@ -8,8 +8,7 @@
     "city": "Zwingenberg/B",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/zwingenberg",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/zwingenberg"
     },
     "geo": [
         49.7228046,

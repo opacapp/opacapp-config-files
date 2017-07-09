@@ -8,8 +8,7 @@
     "city": "Burtenbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.de/burtenbach"
     },
     "geo": [
         48.3397753,

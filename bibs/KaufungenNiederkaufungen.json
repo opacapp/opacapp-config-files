@@ -8,8 +8,7 @@
     "city": "Kaufungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/kaufungen",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/kaufungen"
     },
     "geo": [
         51.28375,

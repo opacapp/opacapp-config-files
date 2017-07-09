@@ -8,8 +8,7 @@
     "city": "Untermeitingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/untermeitingen",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/untermeitingen"
     },
     "geo": [
         48.1622916,

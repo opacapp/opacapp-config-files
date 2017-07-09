@@ -8,8 +8,7 @@
     "city": "Dietzh\u00f6lztal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/dietzhoelztal",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/dietzhoelztal"
     },
     "geo": [
         50.833333,

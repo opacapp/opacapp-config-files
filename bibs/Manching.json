@@ -8,8 +8,7 @@
     "city": "Manching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/Manching",
-        "customssl": true
+        "baseurl": "https://cloudopac.winbiap.de/Manching"
     },
     "geo": [
         48.7174599,

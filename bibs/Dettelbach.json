@@ -8,8 +8,7 @@
     "city": "Dettelbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/dettelbach",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/dettelbach"
     },
     "geo": [
         49.80249,

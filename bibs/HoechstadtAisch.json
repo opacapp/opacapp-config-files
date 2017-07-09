@@ -8,8 +8,7 @@
     "city": "H\u00f6chstadt/Aisch",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/hoechstadt",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/hoechstadt"
     },
     "geo": [
         49.7095692,

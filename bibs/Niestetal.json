@@ -8,8 +8,7 @@
     "city": "Niestetal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/niestetal",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/niestetal"
     },
     "geo": [
         51.316667,

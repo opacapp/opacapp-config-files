@@ -8,8 +8,7 @@
     "city": "Seligenstadt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/seligenstadt",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/seligenstadt"
     },
     "geo": [
         50.0437013,

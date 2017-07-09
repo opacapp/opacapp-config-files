@@ -8,8 +8,7 @@
     "city": "Eschwege",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/eschwege",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/eschwege"
     },
     "geo": [
         51.1876662,

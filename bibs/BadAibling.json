@@ -8,8 +8,7 @@
     "city": "Bad Aibling",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/badaibling"
     },
     "geo": [
         47.8640369,

@@ -8,8 +8,7 @@
     "city": "Frammersbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/frammersbach",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/frammersbach"
     },
     "geo": [
         50.0621954,

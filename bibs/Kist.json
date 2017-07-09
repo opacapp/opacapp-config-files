@@ -8,8 +8,7 @@
     "city": "Kist",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/kist",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/kist"
     },
     "geo": [
         49.7440821,

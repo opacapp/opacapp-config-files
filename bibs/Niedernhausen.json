@@ -8,8 +8,7 @@
     "city": "Niedernhausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/niedernhausen",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/niedernhausen"
     },
     "geo": [
         50.1632247,

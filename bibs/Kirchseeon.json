@@ -8,8 +8,7 @@
     "city": "Kirchseeon",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/kirchseeon",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/kirchseeon"
     },
     "geo": [
         48.0719266,

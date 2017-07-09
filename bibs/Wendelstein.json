@@ -8,8 +8,7 @@
     "city": "Wendelstein",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/wendelstein",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/wendelstein"
     },
     "geo": [
         49.3512935,

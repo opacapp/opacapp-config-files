@@ -8,8 +8,7 @@
     "city": "Ostheim v.d. Rh\u00f6n",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/ostheim",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/ostheim"
     },
     "geo": [
         50.4608058,

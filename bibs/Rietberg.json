@@ -8,8 +8,7 @@
     "city": "Rietberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/rietberg",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/rietberg"
     },
     "geo": [
         51.8089877,

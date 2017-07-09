@@ -8,8 +8,7 @@
     "city": "Borken/Westf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/mzborken",
-        "customssl": true
+        "baseurl": "http://webopac.winbiap.net/mzborken"
     },
     "geo": [
         51.8482714,

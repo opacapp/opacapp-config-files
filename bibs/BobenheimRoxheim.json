@@ -8,8 +8,7 @@
     "city": "Bobenheim-Roxheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bobrox",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/bobrox"
     },
     "geo": [
         49.58143,

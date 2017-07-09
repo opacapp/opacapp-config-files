@@ -8,8 +8,7 @@
     "city": "Denklingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/denklingen",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/denklingen"
     },
     "geo": [
         47.9139271,

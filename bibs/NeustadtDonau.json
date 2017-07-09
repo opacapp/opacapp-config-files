@@ -8,8 +8,7 @@
     "city": "Neustadt/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/neustadt_donau",
-        "customssl": true
+        "baseurl": "http://opac.winbiap.net/neustadt_donau"
     },
     "geo": [
         48.80948,

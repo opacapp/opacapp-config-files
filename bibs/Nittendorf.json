@@ -8,8 +8,7 @@
     "city": "Nittendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/nittendorf",
-        "customssl": true
+        "baseurl": "https://webopac.winbiap.de/nittendorf"
     },
     "geo": [
         49.02405,
