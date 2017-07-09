@@ -8,7 +8,7 @@
     "city": "Maxh\u00fctte-Haidhof",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/maxhuette"
+        "baseurl": "https://webopac.winbiap.net/maxhuette"
     },
     "geo": [
         49.2,

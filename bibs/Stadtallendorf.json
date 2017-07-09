@@ -8,7 +8,7 @@
     "city": "Stadtallendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/stadtallendorf"
+        "baseurl": "https://webopac.winbiap.net/stadtallendorf"
     },
     "geo": [
         50.8218537,

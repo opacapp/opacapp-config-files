@@ -8,7 +8,7 @@
     "city": "Lohfelden",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/lohfelden"
+        "baseurl": "https://webopac.winbiap.net/lohfelden"
     },
     "geo": [
         51.2748078,

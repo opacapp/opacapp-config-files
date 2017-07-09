@@ -8,7 +8,7 @@
     "city": "Baldham",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/vaterstetten"
+        "baseurl": "https://webopac.winbiap.net/vaterstetten"
     },
     "geo": [
         48.0989695,

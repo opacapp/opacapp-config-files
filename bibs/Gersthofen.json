@@ -8,7 +8,7 @@
     "city": "Gersthofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/gersthofen"
+        "baseurl": "https://webopac.winbiap.net/gersthofen"
     },
     "geo": [
         48.4242503,

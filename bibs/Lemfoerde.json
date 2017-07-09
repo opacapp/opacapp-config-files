@@ -8,7 +8,7 @@
     "city": "Lemf\u00f6rde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/lemfoerde"
+        "baseurl": "https://webopac.winbiap.net/lemfoerde"
     },
     "geo": [
         52.4641331,

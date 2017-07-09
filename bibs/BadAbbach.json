@@ -8,7 +8,7 @@
     "city": "Bad Abbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/badabbach"
+        "baseurl": "https://webopac.winbiap.net/badabbach"
     },
     "geo": [
         48.9373377,

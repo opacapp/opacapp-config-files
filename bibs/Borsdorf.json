@@ -8,7 +8,7 @@
     "city": "Borsdorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/borsdorf"
+        "baseurl": "https://webopac.winbiap.net/borsdorf"
     },
     "geo": [
         51.3458216,

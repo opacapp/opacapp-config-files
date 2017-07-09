@@ -8,7 +8,7 @@
     "city": "Gerolzhofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/gerolzhofen"
+        "baseurl": "https://webopac.winbiap.net/gerolzhofen"
     },
     "geo": [
         49.9002,

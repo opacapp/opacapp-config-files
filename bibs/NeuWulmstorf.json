@@ -8,7 +8,7 @@
     "city": "Neu Wulmstorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/neuwulmstorf"
+        "baseurl": "https://webopac.winbiap.net/neuwulmstorf"
     },
     "geo": [
         53.4641371,

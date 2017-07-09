@@ -8,7 +8,7 @@
     "city": "Bad Kissingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/badkissingen"
+        "baseurl": "https://webopac.winbiap.net/badkissingen"
     },
     "geo": [
         50.2008463,

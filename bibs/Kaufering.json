@@ -8,7 +8,7 @@
     "city": "Kaufering",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/kaufering"
+        "baseurl": "https://webopac.winbiap.net/kaufering"
     },
     "geo": [
         48.088056,

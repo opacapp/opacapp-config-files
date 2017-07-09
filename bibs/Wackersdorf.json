@@ -8,7 +8,7 @@
     "city": "Wackersdorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/wackersdorf"
+        "baseurl": "https://webopac.winbiap.net/wackersdorf"
     },
     "geo": [
         49.3146228,

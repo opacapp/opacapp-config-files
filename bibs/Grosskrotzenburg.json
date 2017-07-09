@@ -8,7 +8,7 @@
     "city": "Gro\u00dfkrotzenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/grosskrotzenburg"
+        "baseurl": "https://webopac.winbiap.net/grosskrotzenburg"
     },
     "geo": [
         50.0818163,

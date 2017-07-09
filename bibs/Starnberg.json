@@ -8,7 +8,7 @@
     "city": "Starnberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://opac.winbiap.net/starnberg",
+        "baseurl": "https://opac.winbiap.net/starnberg",
         "customssl": true
     },
     "geo": [

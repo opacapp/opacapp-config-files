@@ -8,7 +8,7 @@
     "city": "Naila",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/naila"
+        "baseurl": "https://webopac.winbiap.net/naila"
     },
     "geo": [
         50.3294246,

@@ -8,7 +8,7 @@
     "city": "Kolbermoor",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/kolbermoor"
+        "baseurl": "https://webopac.winbiap.net/kolbermoor"
     },
     "geo": [
         47.8483311,

@@ -8,7 +8,7 @@
     "city": "Rheinau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/rheinau"
+        "baseurl": "https://webopac.winbiap.net/rheinau"
     },
     "geo": [
         48.6538778,

@@ -8,7 +8,7 @@
     "city": "Untermerzbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/untermerzbach"
+        "baseurl": "https://webopac.winbiap.net/untermerzbach"
     },
     "geo": [
         50.1271283,

@@ -8,7 +8,7 @@
     "city": "Prittriching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/prittriching"
+        "baseurl": "https://webopac.winbiap.net/prittriching"
     },
     "geo": [
         48.1979122,

@@ -8,7 +8,7 @@
     "city": "Heroldsberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/heroldsberg"
+        "baseurl": "https://webopac.winbiap.net/heroldsberg"
     },
     "geo": [
         49.5323509,

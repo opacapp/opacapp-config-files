@@ -8,7 +8,7 @@
     "city": "Obernburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/obernburg"
+        "baseurl": "https://webopac.winbiap.net/obernburg"
     },
     "geo": [
         49.8381779,

@@ -8,7 +8,7 @@
     "city": "Wertheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/wertheim"
+        "baseurl": "https://webopac.winbiap.net/wertheim"
     },
     "geo": [
         49.7667969,
