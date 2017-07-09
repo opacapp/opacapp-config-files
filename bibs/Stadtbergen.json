@@ -8,7 +8,8 @@
     "city": "Stadtbergen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/Stadtbergen"
+        "baseurl": "https://cloudopac.winbiap.de/Stadtbergen",
+        "customssl": true
     },
     "geo": [
         48.3646963,

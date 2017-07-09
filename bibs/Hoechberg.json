@@ -8,7 +8,8 @@
     "city": "H\u00f6chberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/hoechberg"
+        "baseurl": "https://webopac.winbiap.de/hoechberg",
+        "customssl": true
     },
     "geo": [
         49.7802703,

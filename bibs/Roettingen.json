@@ -8,7 +8,8 @@
     "city": "R\u00f6ttingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/roettingen"
+        "baseurl": "https://webopac.winbiap.de/roettingen",
+        "customssl": true
     },
     "geo": [
         49.5122355,

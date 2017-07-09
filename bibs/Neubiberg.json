@@ -8,7 +8,8 @@
     "city": "Neubiberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/neubiberg"
+        "baseurl": "https://webopac.winbiap.de/neubiberg",
+        "customssl": true
     },
     "geo": [
         48.077,

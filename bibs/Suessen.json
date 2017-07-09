@@ -8,7 +8,8 @@
     "city": "S\u00fc\u00dfen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/suessen"
+        "baseurl": "https://webopac.winbiap.de/suessen",
+        "customssl": true
     },
     "geo": [
         48.6798451,

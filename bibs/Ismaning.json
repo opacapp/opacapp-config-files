@@ -8,7 +8,8 @@
     "city": "Ismaning",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/ismaning"
+        "baseurl": "https://webopac.winbiap.de/ismaning",
+        "customssl": true
     },
     "geo": [
         48.2221552,

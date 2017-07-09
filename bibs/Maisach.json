@@ -8,7 +8,8 @@
     "city": "Maisach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/maisach"
+        "baseurl": "https://webopac.winbiap.de/maisach",
+        "customssl": true
     },
     "geo": [
         48.2165127,

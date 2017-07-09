@@ -8,7 +8,8 @@
     "city": "Hersbruck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/hersbruck"
+        "baseurl": "https://cloudopac.winbiap.de/hersbruck",
+        "customssl": true
     },
     "geo": [
         49.5077712,

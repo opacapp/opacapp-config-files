@@ -8,7 +8,8 @@
     "city": "Bechhofen an der Heide",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bechhofen"
+        "baseurl": "https://webopac.winbiap.de/bechhofen",
+        "customssl": true
     },
     "geo": [
         49.1577,

@@ -8,7 +8,8 @@
     "city": "Olching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/olching"
+        "baseurl": "https://webopac.winbiap.de/olching",
+        "customssl": true
     },
     "geo": [
         48.20707,

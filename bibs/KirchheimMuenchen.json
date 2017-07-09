@@ -8,7 +8,8 @@
     "city": "Kirchheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/kirchheim"
+        "baseurl": "https://webopac.winbiap.de/kirchheim",
+        "customssl": true
     },
     "geo": [
         48.16824,

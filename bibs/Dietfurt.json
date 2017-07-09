@@ -8,7 +8,8 @@
     "city": "Dietfurt/Altm\u00fchl",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.de/dietfurt"
+        "baseurl": "https://webopac.winbiap.de/dietfurt",
+        "customssl": true
     },
     "geo": [
         49.035455,

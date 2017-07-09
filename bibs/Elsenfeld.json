@@ -8,7 +8,8 @@
     "city": "Elsenfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/elsenfeld"
+        "baseurl": "https://webopac.winbiap.net/elsenfeld",
+        "customssl": true
     },
     "geo": [
         49.8458735,

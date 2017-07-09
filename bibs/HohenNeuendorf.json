@@ -8,7 +8,8 @@
     "city": "Hohen Neuendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/hohenneuendorf"
+        "baseurl": "https://cloudopac.winbiap.de/hohenneuendorf",
+        "customssl": true
     },
     "geo": [
         52.66326,

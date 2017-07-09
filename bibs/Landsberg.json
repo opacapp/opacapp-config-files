@@ -8,7 +8,8 @@
     "city": "Landsberg/Lech",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/landsberg"
+        "baseurl": "https://webopac.winbiap.de/landsberg",
+        "customssl": true
     },
     "geo": [
         48.0513036,

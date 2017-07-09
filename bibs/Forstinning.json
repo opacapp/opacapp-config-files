@@ -8,7 +8,8 @@
     "city": "Forstinning",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/forstinning"
+        "baseurl": "https://cloudopac.winbiap.de/forstinning",
+        "customssl": true
     },
     "geo": [
         48.168319,

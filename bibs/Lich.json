@@ -8,7 +8,8 @@
     "city": "Lich",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/hungenlich"
+        "baseurl": "https://webopac.winbiap.net/hungenlich",
+        "customssl": true
     },
     "geo": [
         50.518161,
