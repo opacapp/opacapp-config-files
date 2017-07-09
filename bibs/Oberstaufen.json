@@ -8,7 +8,8 @@
     "city": "Oberstaufen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.de/oberstaufen"
+        "baseurl": "https://webopac.winbiap.de/oberstaufen",
+        "customssl": true
     },
     "geo": [
         47.5542914,

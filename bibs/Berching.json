@@ -8,7 +8,8 @@
     "city": "Berching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/berching"
+        "baseurl": "https://cloudopac.winbiap.de/berching",
+        "customssl": true
     },
     "geo": [
         49.10612,

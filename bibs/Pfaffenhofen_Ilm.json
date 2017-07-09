@@ -8,7 +8,8 @@
     "city": "Pfaffenhofen/Ilm",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/pfaffenhofen"
+        "baseurl": "https://webopac.winbiap.de/pfaffenhofen",
+        "customssl": true
     },
     "geo": [
         48.5325215,

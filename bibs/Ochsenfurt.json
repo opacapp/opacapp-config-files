@@ -8,7 +8,8 @@
     "city": "Ochsenfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/ochsenfurt"
+        "baseurl": "https://webopac.winbiap.net/ochsenfurt",
+        "customssl": true
     },
     "geo": [
         49.6640025,

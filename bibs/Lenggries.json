@@ -8,7 +8,8 @@
     "city": "Lenggries",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/lenggries"
+        "baseurl": "https://webopac.winbiap.net/lenggries",
+        "customssl": true
     },
     "geo": [
         47.6825636,

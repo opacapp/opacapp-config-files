@@ -8,7 +8,8 @@
     "city": "Bubenreuth",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/bubenreuth"
+        "baseurl": "https://webopac.winbiap.net/bubenreuth",
+        "customssl": true
     },
     "geo": [
         49.6269937,

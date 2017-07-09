@@ -8,7 +8,8 @@
     "city": "Schillingsf\u00fcrst",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/schillingsfuerst"
+        "baseurl": "https://webopac.winbiap.net/schillingsfuerst",
+        "customssl": true
     },
     "geo": [
         49.2862476,

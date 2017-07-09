@@ -8,7 +8,8 @@
     "city": "Oberammergau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/oberammergau"
+        "baseurl": "https://webopac.winbiap.de/oberammergau",
+        "customssl": true
     },
     "geo": [
         47.5956599,

@@ -8,7 +8,8 @@
     "city": "Bergrheinfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld"
+        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "customssl": true
     },
     "geo": [
         50.0051421,

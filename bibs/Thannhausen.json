@@ -8,7 +8,8 @@
     "city": "Thannhausen/Schwaben",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/thannhausen"
+        "baseurl": "https://webopac.winbiap.de/thannhausen",
+        "customssl": true
     },
     "geo": [
         48.2824858,

@@ -8,7 +8,8 @@
     "city": "Immenstadt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://opac.winbiap.net/immenstadt/index.aspx"
+        "baseurl": "https://opac.winbiap.net/immenstadt/index.aspx",
+        "customssl": true
     },
     "geo": [
         47.55993,

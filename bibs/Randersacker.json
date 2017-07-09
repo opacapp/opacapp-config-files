@@ -8,7 +8,8 @@
     "city": "Randersacker",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/randersacker"
+        "baseurl": "https://webopac.winbiap.de/randersacker",
+        "customssl": true
     },
     "geo": [
         49.7584752,

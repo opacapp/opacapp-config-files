@@ -8,7 +8,8 @@
     "city": "Fuldatal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/fuldatal"
+        "baseurl": "https://webopac.winbiap.net/fuldatal",
+        "customssl": true
     },
     "geo": [
         51.383333,

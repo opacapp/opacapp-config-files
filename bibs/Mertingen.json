@@ -8,7 +8,8 @@
     "city": "Mertingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/mertingen"
+        "baseurl": "https://webopac.winbiap.de/mertingen",
+        "customssl": true
     },
     "geo": [
         48.6571023,

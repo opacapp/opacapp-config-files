@@ -8,7 +8,8 @@
     "city": "R\u00f6thlein",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/roethlein"
+        "baseurl": "https://webopac.winbiap.de/roethlein",
+        "customssl": true
     },
     "geo": [
         49.9850727,

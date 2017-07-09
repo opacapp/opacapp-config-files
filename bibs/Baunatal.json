@@ -8,7 +8,8 @@
     "city": "Baunatal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/baunatal"
+        "baseurl": "https://webopac.winbiap.de/baunatal",
+        "customssl": true
     },
     "geo": [
         51.2537283,

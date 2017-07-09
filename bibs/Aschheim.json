@@ -8,7 +8,8 @@
     "city": "Aschheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/aschheim"
+        "baseurl": "https://webopac.winbiap.net/aschheim",
+        "customssl": true
     },
     "geo": [
         48.1723102,

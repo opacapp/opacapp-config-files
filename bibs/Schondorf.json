@@ -8,7 +8,8 @@
     "city": "Schondorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.winbiap.net/schondorf"
+        "baseurl": "https://webopac.winbiap.net/schondorf",
+        "customssl": true
     },
     "geo": [
         48.05268,

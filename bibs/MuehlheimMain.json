@@ -8,7 +8,7 @@
     "city": "M\u00fchlheim/M",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://opac.winbiap.net/muehlheim",
+        "baseurl": "https://opac.winbiap.net/muehlheim",
         "customssl": true
     },
     "geo": [

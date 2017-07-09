@@ -8,14 +8,11 @@
     "city": "Mannheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://hdba.internetopac.de",
-        "copiestable": {
-            "barcode": 3,
-            "branch": 0,
-            "location": 1,
-            "status": 2
-        },
-        "db": "117561"
+        "baseurl": "https://hdba.bibliotheca-open.de/",
+        "urls": {
+            "advanced_search": "https://hdba.bibliotheca-open.de/Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
     },
     "geo": [
         49.4761103,

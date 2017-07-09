@@ -8,7 +8,8 @@
     "city": "Unterf\u00f6hring",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/unterfoehring"
+        "baseurl": "https://webopac.winbiap.de/unterfoehring",
+        "customssl": true
     },
     "geo": [
         48.1916623,

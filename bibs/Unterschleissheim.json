@@ -8,7 +8,8 @@
     "city": "Unterschlei\u00dfheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/unterschleissheim"
+        "baseurl": "https://opac.winbiap.net/unterschleissheim",
+        "customssl": true
     },
     "geo": [
         48.27276,
