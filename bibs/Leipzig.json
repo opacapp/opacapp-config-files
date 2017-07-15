@@ -8,7 +8,8 @@
     "city": "Leipzig",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.stadtbibliothek-leipzig.de/webOPACClient"
+        "baseurl": "https://webopac.stadtbibliothek-leipzig.de/webOPACClient",
+        "customssl": true
     },
     "geo": [
         51.33416,
