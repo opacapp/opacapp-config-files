@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "vufind",
+    "city": "Basel",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "https://baselbern.swissbib.ch"
+    },
+    "geo": [
+        47.559404,
+        7.581201
+    ],
+    "information": "http://www.ub.unibas.ch/ub-hauptbibliothek/wir-ueber-uns/oeffnungszeiten/",
+    "library_id": 9326,
+    "state": "Basel-Stadt",
+    "title": "Universit\u00e4tsbibliothek / Verbund swissbib"
+}

@@ -9,7 +9,8 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://lhanh.gbv.de",
-        "db": "1"
+        "db": "1",
+        "libopacplus": true
     },
     "geo": [
         51.7505762,
