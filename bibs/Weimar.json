@@ -8,7 +8,7 @@
     "city": "Weimar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://katalog.stadtbibo-weimar.de:8080/webOPACClient",
+        "baseurl": "https://katalog.stadtbibliothek-weimar.de/webOPACClient",
         "startparams": "Login=opextern&BaseURL=this"
     },
     "geo": [
