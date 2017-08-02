@@ -18,7 +18,7 @@
             "status": 6,
             "title": 8
         },
-        "baseurl": "http://biber-nuert.kdrs.de:8182",
+        "baseurl": "https://opac-nuertingen.kdrs.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,
@@ -41,7 +41,7 @@
             "8": "BOOK",
             "9": "BOARDGAME"
         },
-        "opacdir": "opax",
+        "opacdir": "opax15",
         "reservationtable": {
             "author": 3,
             "availability": 6,
