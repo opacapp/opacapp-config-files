@@ -29,6 +29,7 @@
             "status": 4
         },
         "customssl": true,
+        "customssl_all_ciphersuites": true,
         "mediatypes": {
             "CDs.gif": "CD",
             "blu-ray_32.gif": "BLURAY",
