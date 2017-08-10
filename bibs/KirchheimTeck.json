@@ -8,7 +8,8 @@
     "city": "Kirchheim unter Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.kirchheim-teck.de"
+        "baseurl": "https://webopac.kirchheim-teck.de",
+        "customssl": true
     },
     "geo": [
         48.64855,
