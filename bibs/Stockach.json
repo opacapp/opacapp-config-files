@@ -15,7 +15,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://stadtstockach01.dyndns.org/webopac",
+        "baseurl": "http://81.27.123.142/webopac",
         "copiestable": {
             "department": 0,
             "location": 1,
