@@ -18,7 +18,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "http://iserver2.villingen-schwenningen.de/wwwopac",
+        "baseurl": "https://opac.villingen-schwenningen.de/wwwopac",
         "copiestable": {
             "barcode": -1,
             "branch": 0,
