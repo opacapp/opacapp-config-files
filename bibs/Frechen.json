@@ -18,7 +18,7 @@
             "status": 5,
             "title": 7
         },
-        "baseurl": "https://frechen.bibdia-hosts.de",
+        "baseurl": "http://frechen.bibdia-hosts.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,
