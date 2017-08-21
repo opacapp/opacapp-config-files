@@ -45,6 +45,9 @@
         },
         "onleihe": "http://www.bibnetz-onleihe.ch/bibnetz",
         "onleihe_libraryId": "924",
+        "overdrive_authkey": "AYKHZ8cMXq5lfWBebYzo3JX8na9xB3rA",
+        "overdrive_authurl": "https://info.opacapp.net/overdriveauth/auth",
+        "overdrive_libraryid": "6653",
         "startparams": "View=sunrise"
     },
     "displayname": "Winterthurer Bibliotheken",
