@@ -9,6 +9,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://www.katalog.fau.de/TouchPoint",
+        "customssl": true,
         "startparams": "View=uer&Language=de&Branch=0"
     },
     "geo": [
