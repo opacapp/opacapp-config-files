@@ -9,7 +9,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://katalog.herne.de/aDISWeb/app",
-        "startparams": "\u001b[Cservice=direct/0/Home/$DirectLink&sp=S127.0.0.1%3A4404"
+        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1%3A4404"
     },
     "geo": [
         51.5361578,
