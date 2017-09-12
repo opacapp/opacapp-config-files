@@ -18,7 +18,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "http://bond-wend.kdrs.de",
+        "baseurl": "https://wwwopac.rz-kiru.de/wendlingen",
         "copiestable": {
             "barcode": 3,
             "branch": -1,
@@ -28,6 +28,7 @@
             "returndate": 2,
             "status": 1
         },
+        "customssl": true,
         "mediatypes": {
             "CDkl.gif": "AUDIOBOOK",
             "MonoS.gif": "BOOK",
