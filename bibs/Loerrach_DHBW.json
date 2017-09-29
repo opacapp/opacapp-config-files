@@ -9,7 +9,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://bsz.ibs-bw.de/aDISWeb/app",
-        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23182"
+        "startparams": "service=direct/0/Home/$DirectLink&sp=S193.196.22.1:23182"
     },
     "geo": [
         47.6169191,
