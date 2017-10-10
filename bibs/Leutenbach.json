@@ -19,6 +19,7 @@
             "title": 1
         },
         "baseurl": "http://opac.buecherei-leutenbach.de",
+        "charset": "ISO-8859-1",
         "copiestable": {
             "barcode": -1,
             "branch": 0,
