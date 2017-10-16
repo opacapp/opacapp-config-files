@@ -9,7 +9,7 @@
     "country": "Deutschland",
     "data": {
         "account_system": "default",
-        "baseurl": "http://opac.tib.eu",
+        "baseurl": "https://opac.tib.eu",
         "db": "10.1"
     },
     "geo": [
