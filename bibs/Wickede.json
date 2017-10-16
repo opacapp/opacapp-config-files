@@ -8,7 +8,8 @@
     "city": "Wickede",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.citkomm.de/wickede"
+        "baseurl": "https://webopac.citkomm.de/wickede",
+        "customssl_all_ciphersuites": true
     },
     "geo": [
         51.5579252,
