@@ -14,7 +14,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://webopac.dreysehaus.de/webopac",
+        "baseurl": "http://88.79.240.50:8080/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
