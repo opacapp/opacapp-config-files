@@ -8,9 +8,11 @@
     "city": "Erfurt",
     "country": "Deutschland",
     "data": {
+        "account_system": "lbs",
         "baseurl": "http://opac.uni-erfurt.de/",
         "db": "1",
-        "httpsbaseurl": "https://opac.uni-erfurt.de/"
+        "httpsbaseurl": "https://opac.uni-erfurt.de/",
+        "lbs_url": "https://lherf.gbv.de"
     },
     "geo": [
         50.9847679,
