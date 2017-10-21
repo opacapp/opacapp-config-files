@@ -10,8 +10,8 @@
     "data": {
         "baseurl": "http://wwwopac.bad-homburg.de",
         "urls": {
-            "advanced_search": "Medienfinden/ErweiterteSuche.aspx",
-            "simple_search": "Medienfinden/EinfacheSuche.aspx"
+            "advanced_search": "Services/Erweiterte-Suche",
+            "simple_search": "Einfache-Suche"
         }
     },
     "geo": [

@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Wuppertal",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://sunrise.hlb-wuppertal.de/webOPACClient"
+    },
+    "geo": [
+        51.2652308,
+        7.1712076
+    ],
+    "information": "https://www.hlb-wuppertal.de/",
+    "library_id": 9338,
+    "state": "Nordrhein-Westfalen",
+    "title": "Hochschul- und Landeskirchenbibliothek"
+}
