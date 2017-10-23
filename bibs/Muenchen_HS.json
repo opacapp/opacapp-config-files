@@ -4,12 +4,12 @@
     "_plus_store_url": null,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "touchpoint",
     "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://fhmoz3.bib-bvb.de/InfoGuideClient.fhmsis",
-        "startparams": "Login=wofhmze"
+        "baseurl": "https://opac.bib.hm.edu/TouchPoint",
+        "startparams": "View=fhm&Branch=0"
     },
     "geo": [
         48.1367203,
