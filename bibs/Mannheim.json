@@ -28,7 +28,6 @@
             "returndate": 5,
             "status": 4
         },
-        "customssl": true,
         "mediatypes": {
             "MDVD.gif": "DVD",
             "cdkl.gif": "LP_RECORD",
