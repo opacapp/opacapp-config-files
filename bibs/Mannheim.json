@@ -29,6 +29,7 @@
             "status": 4
         },
         "customssl": true,
+        "customssl_all_ciphersuites": true,
         "customssl_tls_only": false,
         "mediatypes": {
             "MDVD.gif": "DVD",
