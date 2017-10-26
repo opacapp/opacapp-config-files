@@ -8,7 +8,6 @@
     "city": "Jena",
     "country": "Deutschland",
     "data": {
-        "account_system": "lbs",
         "baseurl": "https://kataloge.thulb.uni-jena.de/",
         "customssl": true,
         "db": "1"
