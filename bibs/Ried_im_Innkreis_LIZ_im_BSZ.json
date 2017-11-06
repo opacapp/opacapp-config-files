@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Ried im Innkreis",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://liz-ried.webopac.at"
+    },
+    "geo": [
+        48.2105533,
+        13.4763667
+    ],
+    "information": "https://www.hblw-ried.at/service/bibliothek/",
+    "library_id": 9340,
+    "state": "Ober\u00f6sterreich",
+    "title": "LIZ im BSZ"
+}

@@ -8,7 +8,7 @@
     "city": "Lemgo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.hs-owl.de/webOPACClient",
+        "baseurl": "https://www.hs-owl.de/webOPACClient",
         "startparams": "Login=lemgo"
     },
     "geo": [
