@@ -9,6 +9,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://www.voebb.de/aDISWeb/app",
+        "customssl": true,
         "startparams": "service=direct/0/Home/$DirectLink&sp=SPROD00"
     },
     "geo": [
