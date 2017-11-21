@@ -5,7 +5,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Furth",
+    "city": "F\u00fcrth",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://serviceweb.fuerth.de/webOPACClient"
