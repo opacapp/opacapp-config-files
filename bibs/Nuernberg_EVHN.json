@@ -9,7 +9,6 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.evhn.de/InfoGuideClient.efnsis",
-        "customssl": true,
         "startparams": "Login=woefn"
     },
     "geo": [
