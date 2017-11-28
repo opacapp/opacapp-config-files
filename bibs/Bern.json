@@ -16,9 +16,10 @@
         "onleihe": "http://www.dibibe.ch/dibibe",
         "onleihe_libraryId": "666",
         "urls": {
-            "advanced_search": "Katalogsuche/ErweiterteSuche.aspx",
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
             "new_acq": "Katalogsuche/Neuheiten.aspx",
-            "simple_search": "Katalogsuche/EinfacheSuche.aspx"
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
