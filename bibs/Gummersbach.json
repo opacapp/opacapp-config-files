@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Gummersbach",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/gummersbach"
+    },
+    "geo": [
+        51.03017,
+        7.56932
+    ],
+    "information": "https://opac.winbiap.net/gummersbach/index.aspx",
+    "library_id": 8680,
+    "state": "Nordrhein-Westfalen",
+    "title": "Kreis- und Stadtb\u00fccherei"
+}
