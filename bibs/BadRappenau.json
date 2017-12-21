@@ -3,40 +3,15 @@
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
-    "account_supported": true,
-    "api": "bibliotheca",
+    "account_supported": false,
+    "api": "open",
     "city": "Bad Rappenau",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "prolongurl": 3,
-            "returndate": 2,
-            "title": 1
-        },
-        "baseurl": "https://buecherei.badrappenau.de",
-        "copiestable": {
-            "department": 1,
-            "location": 2,
-            "returndate": 4,
-            "status": 3
-        },
-        "mediatypes": {
-            "CD_30px.jpg": "CD",
-            "DVD_30px.jpg": "DVD",
-            "Globus_30px.jpg": "MAP",
-            "Munzinger_30px.jpg": "URL",
-            "Online_30px.jpg": "EBOOK",
-            "Spiele_30px.jpg": "BOARDGAME",
-            "Spiele_PC_30px.jpg": "CD_SOFTWARE",
-            "Zeitschrift_30px.jpg": "MAGAZINE",
-            "mCasetteS.gif": "AUDIO_CASSETTE"
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": 2,
-            "cancelurl": 3,
-            "title": 1
+        "baseurl": "https://buecherei.badrappenau.de/",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
