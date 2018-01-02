@@ -5,7 +5,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "iopac",
-    "city": "Glinde Kr. Storm.",
+    "city": "Glinde",
     "country": "Deutschland",
     "data": {
         "baseurl": "http://iopac-glinde.dyndns.org"
