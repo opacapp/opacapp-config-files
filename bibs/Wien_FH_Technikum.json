@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Wien",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "https://search-fcw.obvsg.at/primo_library/libweb"
+    },
+    "geo": [
+        48.2390534,
+        16.3775227
+    ],
+    "information": "https://www.technikum-wien.at/studieninformationen/unser-campus/unsere-bibliothek-eine-gruene-oase-fuer-wissensdurstige/",
+    "library_id": 9347,
+    "state": "Wien",
+    "title": "FH Technikum"
+}

@@ -5,7 +5,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Marburg/L",
+    "city": "Marburg",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -18,7 +18,7 @@
             "status": 5,
             "title": 7
         },
-        "baseurl": "http://katalog.stadtbuecherei-marburg.de",
+        "baseurl": "https://katalog.stadtbuecherei-marburg.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,

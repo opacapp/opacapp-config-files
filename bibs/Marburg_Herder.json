@@ -5,7 +5,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Marburg/L",
+    "city": "Marburg",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.ub.uni-marburg.de",
