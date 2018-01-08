@@ -5,10 +5,10 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Rheinfelden",
-    "country": "Schweiz",
+    "city": "Untereisesheim",
+    "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/open_rheinfelden",
+        "baseurl": "https://bibliotheken.kivbf.de/untereisesheim",
         "customssl": true,
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
@@ -16,11 +16,11 @@
         }
     },
     "geo": [
-        47.55219,
-        7.7922914
+        49.2103,
+        9.20401
     ],
-    "information": "http://bibliotheken.kivbf.de/open_rheinfelden/Home.aspx",
-    "library_id": 9275,
-    "state": "Aargau",
-    "title": "Stadtbibliotheken"
+    "information": "http://www.untereisesheim.de/index.php?id=76",
+    "library_id": 7770,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
 }
