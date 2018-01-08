@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "webopac.net",
+    "city": "Gossau",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "https://www.bibliotheken-zh.ch/gossauzh"
+    },
+    "geo": [
+        47.3016471,
+        8.7624952
+    ],
+    "information": "http://www.gossau-zh.ch/freizeit/bibliothek/angebot.html",
+    "library_id": 9349,
+    "state": "Z\u00fcrich",
+    "title": "Bibliothek"
+}

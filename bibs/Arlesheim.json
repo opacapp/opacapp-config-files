@@ -10,8 +10,8 @@
     "data": {
         "baseurl": "http://webopac.bibliothek.arlesheim.ch",
         "urls": {
-            "advanced_search": "Online-Katalog/EinfacheSuche.aspx",
-            "simple_search": "Online-Katalog/ErweiterteSuche.aspx"
+            "advanced_search": "Online-Katalog/ErweiterteSuche.aspx",
+            "simple_search": "Online-Katalog/EinfacheSuche.aspx"
         }
     },
     "geo": [
