@@ -3,34 +3,15 @@
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
-    "account_supported": true,
-    "api": "bibliotheca",
+    "account_supported": false,
+    "api": "open",
     "city": "Ahaus",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "prolongurl": 3,
-            "returndate": 2,
-            "title": 1
-        },
-        "baseurl": "http://stadtbuecherei.ahaus.de/wwwopac",
-        "copiestable": {
-            "department": 3,
-            "location": 0,
-            "status": 1
-        },
-        "mediatypes": {
-            "Grafik2_munz.gif": "EDOC",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE",
-            "muensterload_WebOPAC_S_2.gif": "EBOOK"
-        },
-        "reservationtable": {
-            "author": 0,
-            "cancelurl": 2,
-            "title": 1
+        "baseurl": "https://opac.ahaus.de",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
