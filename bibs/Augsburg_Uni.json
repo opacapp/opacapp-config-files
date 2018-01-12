@@ -4,12 +4,12 @@
     "_plus_store_url": null,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "touchpoint",
     "city": "Augsburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.bibliothek.uni-augsburg.de/InfoGuideClient.ubasis",
-        "startparams": "Login=iguba"
+        "baseurl": "https://opac.bibliothek.uni-augsburg.de/TouchPoint",
+        "startparams": "View=uba"
     },
     "geo": [
         48.3714407,
