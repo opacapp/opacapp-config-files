@@ -8,7 +8,7 @@
     "city": "Wismar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://lhwis.gbv.de",
+        "baseurl": "https://lhwis.gbv.de",
         "db": "1"
     },
     "geo": [
