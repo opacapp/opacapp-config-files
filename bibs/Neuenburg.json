@@ -8,7 +8,7 @@
     "city": "Neuenburg am Rhein",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bibliotheken.kivbf.de/neuenburg",
+        "baseurl": "https://bibliotheken.kivbf.de/neuenburg",
         "customssl": true,
         "urls": {
             "advanced_search": "Medien/Erweiterte-Suche",
