@@ -8,7 +8,6 @@
     "city": "F\u00fcrstenfeldbruck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://ffb-opac.de",
         "copiestable": {
             "barcode": 2,
             "branch": 0,
