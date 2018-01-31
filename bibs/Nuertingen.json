@@ -41,7 +41,7 @@
             "8": "BOOK",
             "9": "BOARDGAME"
         },
-        "opacdir": "opax15",
+        "opacdir": "opax",
         "reservationtable": {
             "author": 3,
             "availability": 6,
