@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Stein/Mittelfranken",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://stein.iopac.de"
+    },
+    "geo": [
+        49.4157144,
+        11.0175089
+    ],
+    "information": "https://www.stadt-stein.de/leben/bildung-betreuung/stadtbuecherei/",
+    "library_id": 7433,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}

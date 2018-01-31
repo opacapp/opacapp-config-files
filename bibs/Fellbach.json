@@ -18,7 +18,7 @@
             "status": 9,
             "title": 8
         },
-        "baseurl": "http://www.biber.fellbach.de",
+        "baseurl": "https://biber.fellbach.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,
