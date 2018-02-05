@@ -8,7 +8,7 @@
     "city": "Innsbruck",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://search.obvsg.at/primo_library/libweb",
+        "baseurl": "https://bibsearch.uibk.ac.at/primo_library/libweb",
         "db": "UIB",
         "languages": [
             "de",
