@@ -28,6 +28,7 @@
             "returndate": -1,
             "status": 4
         },
+        "customssl": true,
         "mediatypes": {
             "1": "BOOK",
             "10": "MAGAZINE",
