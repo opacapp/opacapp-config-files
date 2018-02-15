@@ -8,7 +8,7 @@
     "city": "Mannheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://primo.bib.uni-mannheim.de/primo_library/libweb",
+        "baseurl": "https://primo.bib.uni-mannheim.de/",
         "db": "MAN_UB",
         "languages": [
             "de",
