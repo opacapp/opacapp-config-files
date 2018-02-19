@@ -8,7 +8,7 @@
     "city": "Pulheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://5.189.156.22/webOPACClient"
+        "baseurl": "http://173.212.235.246/webOPACClient"
     },
     "geo": [
         51.0184841,
