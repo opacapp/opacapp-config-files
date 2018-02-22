@@ -8,7 +8,7 @@
     "city": "Esslingen/N",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://buecherei.esslingen.de/webOPACClient"
+        "baseurl": "https://buecherei.esslingen.de/webOPACClient"
     },
     "geo": [
         48.7424616,
