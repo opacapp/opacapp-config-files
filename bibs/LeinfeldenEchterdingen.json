@@ -5,11 +5,10 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Leinfelden-Echterdingen",
+    "city": "Leinfelden-E.",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://www.le-extranet.de/webOPACClient",
-        "customssl": true
+        "baseurl": "http://www.le-extranet.de/webOPACClient"
     },
     "geo": [
         48.6980072,
