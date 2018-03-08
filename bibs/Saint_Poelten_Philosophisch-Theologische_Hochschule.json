@@ -8,7 +8,8 @@
     "city": "St. P\u00f6lten",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "https://search-dsp.obvsg.at/primo_library/libweb"
+        "baseurl": "https://search-dsp.obvsg.at/primo_library/libweb",
+        "db": "DSP"
     },
     "geo": [
         48.2044994,
