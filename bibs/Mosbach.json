@@ -9,14 +9,14 @@
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 0,
-            "barcode": -1,
+            "author": 1,
+            "barcode": 0,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
-            "returndate": 2,
+            "prolongurl": 5,
+            "returndate": 3,
             "status": -1,
-            "title": 1
+            "title": 2
         },
         "baseurl": "https://web-opac.kivbf.de/mosbach",
         "copiestable": {
