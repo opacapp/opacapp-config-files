@@ -4,18 +4,18 @@
     "_plus_store_url": null,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "touchpoint",
     "city": "Landshut",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.haw-landshut.de/InfoGuideClient.flasis",
-        "startparams": "Login=wofla"
+        "baseurl": "https://opac.haw-landshut.de/TouchPoint",
+        "startparams": "View=fla"
     },
     "geo": [
         48.5562257,
         12.1985732
     ],
-    "information": "https://www.haw-landshut.de/die-hochschule/zentrale-dienste/bibliothek/hochschulbibliothek-landshut.html",
+    "information": "https://www.haw-landshut.de/studium/im-studium/bibliothek.html",
     "library_id": 9042,
     "state": "Bayern",
     "title": "Hochschulbibliothek"
