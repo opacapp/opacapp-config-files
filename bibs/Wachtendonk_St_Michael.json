@@ -8,7 +8,7 @@
     "city": "Wachtendonk",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.bistum-muenster.de/wachtendonk",
+        "baseurl": "https://webopac.bistum-muenster.de/wachtendonk",
         "copiestable": {
             "barcode": 0,
             "branch": 4,

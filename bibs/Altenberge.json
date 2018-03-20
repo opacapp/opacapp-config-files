@@ -14,7 +14,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://webopac.bistum-muenster.de/altenberge",
+        "baseurl": "https://webopac.bistum-muenster.de/altenberge",
         "copiestable": {
             "barcode": 0,
             "branch": 4,

@@ -14,7 +14,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://webopac.bistum-muenster.de/vreden",
+        "baseurl": "https://webopac.bistum-muenster.de/vreden",
         "copiestable": {
             "barcode": 0,
             "branch": 4,

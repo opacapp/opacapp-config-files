@@ -14,7 +14,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://webopac.bistum-muenster.de/geldern",
+        "baseurl": "https://webopac.bistum-muenster.de/geldern",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
