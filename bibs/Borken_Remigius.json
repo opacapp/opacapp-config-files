@@ -14,7 +14,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/borken",
+        "baseurl": "http://opac.bistum-muenster.de/borken",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
