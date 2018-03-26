@@ -14,7 +14,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://opac.bistum-muenster.de/rhede",
+        "baseurl": "https://webopac.bistum-muenster.de/rhede",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
