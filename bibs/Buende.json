@@ -3,15 +3,39 @@
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
-    "account_supported": false,
-    "api": "open",
+    "account_supported": true,
+    "api": "bibliotheca",
     "city": "B\u00fcnde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://buende.bibliotheken-in-owl.de",
-        "urls": {
-            "advanced_search": "Mediensuche/Erweiterte-Suche",
-            "simple_search": "Mediensuche/Einfache-Suche"
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 3,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
+        "copiestable": {
+            "barcode": -1,
+            "branch": 0,
+            "department": -1,
+            "location": 2,
+            "returndate": 4,
+            "status": 3
+        },
+        "db": "buende",
+        "mediatypes": {
+            "cdkl.gif": "CD_SOFTWARE",
+            "dvdkl.gif": "DVD",
+            "e_owl_kl.gif": "EBOOK",
+            "kassettekl.gif": "AUDIO_CASSETTE",
+            "videokl.gif": "MOVIE"
+        },
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
         }
     },
     "geo": [
