@@ -17,6 +17,7 @@
             "returndate": 5,
             "status": 3
         },
+        "customssl": true,
         "db": "BIBLIO-790",
         "mediatypes": {
             "cdkl.gif": "CD_SOFTWARE",
