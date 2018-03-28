@@ -8,7 +8,7 @@
     "city": "Eckernf\u00f6rde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://medienkatalog.stadtbuecherei-eckernfoerde.de"
+        "baseurl": "https://medienkatalog.stadtbuecherei-eckernfoerde.de"
     },
     "geo": [
         54.4709032,
