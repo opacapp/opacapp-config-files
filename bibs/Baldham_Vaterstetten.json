@@ -5,7 +5,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Baldham",
+    "city": "Vaterstetten",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://webopac.winbiap.net/vaterstetten",
