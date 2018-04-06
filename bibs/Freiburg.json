@@ -8,7 +8,9 @@
     "city": "Freiburg (Breisgau)",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.stadtbibliothek.freiburg.de/webOPACClient"
+        "baseurl": "https://katalog.stadtbibliothek.freiburg.de/webOPACClient",
+        "onleihe": "http://www3.onleihe.de/freiburg",
+        "onleihe_libraryId": "131"
     },
     "displayname": "Stadtbibliothek Freiburg",
     "geo": [
