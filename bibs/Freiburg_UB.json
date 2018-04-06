@@ -5,7 +5,7 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "adis",
-    "city": "Freiburg/Br",
+    "city": "Freiburg (Breisgau)",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://fbg.ibs-bw.de/aDISWeb/app",
