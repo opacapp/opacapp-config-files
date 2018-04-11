@@ -1,10 +1,10 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
-    "account_supported": true,
+    "account_supported": false,
     "api": "bibliotheca",
     "city": "Weinstadt",
     "country": "Deutschland",
