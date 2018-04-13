@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -51,7 +51,7 @@
         48.4022892,
         11.7474797
     ],
-    "information": "http://www.freising.de/kultur/bibliotheken-archive/stadtbibliothek.html",
+    "information": "http://stadtbibliothek.freising.de",
     "library_id": 2977,
     "state": "Bayern",
     "title": "Stadtbibliothek"
