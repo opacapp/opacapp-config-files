@@ -1,15 +1,15 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.uri",
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "webopac.net",
     "city": "Altdorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://kbu.ur.ch/webOPACClient.sisis",
+        "baseurl": "https://www.winmedio.net/kbu",
         "libopacplus": true,
         "onleihe": "http://www.dibizentral.ch/dibizentral",
         "onleihe_libraryId": "743",
