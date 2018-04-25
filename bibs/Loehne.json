@@ -1,24 +1,19 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
-    "account_supported": true,
-    "api": "bibliotheca",
+    "account_supported": false,
+    "api": "open",
     "city": "L\u00f6hne",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
-        "copiestable": {
-            "barcode": 2,
-            "branch": 0,
-            "department": 3,
-            "location": 1,
-            "returndate": 5,
-            "status": 4
-        },
-        "db": "loehne"
+        "baseurl": "http://loehne.bibliotheken-in-owl.de",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
     },
     "geo": [
         52.1981954,
