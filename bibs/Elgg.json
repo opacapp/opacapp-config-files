@@ -4,7 +4,7 @@
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
-    "account_supported": false,
+    "account_supported": true,
     "api": "webopac.net",
     "city": "Elgg",
     "country": "Schweiz",
