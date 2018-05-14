@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -19,7 +19,7 @@
             "status": 6,
             "title": 8
         },
-        "baseurl": "http://medienkatalog.friedrichshafen.de",
+        "baseurl": "https://medienkatalog.friedrichshafen.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,
@@ -29,6 +29,7 @@
             "returndate": -1,
             "status": 4
         },
+        "customssl": true,
         "mediatypes": {
             "1": "BOOK",
             "10": "MAP",
