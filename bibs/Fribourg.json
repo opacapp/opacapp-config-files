@@ -1,12 +1,12 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Fribourg",
+    "city": "Freiburg",
     "country": "Schweiz",
     "data": {
         "baseurl": "http://www.winmedio.net/deubibfr"
@@ -17,6 +17,6 @@
     ],
     "information": "http://www.deutschebibliothekfreiburg.ch/bibliothek.php",
     "library_id": 8937,
-    "state": "Fribourg",
+    "state": "Freiburg",
     "title": "Deutsche Bibliothek"
 }
