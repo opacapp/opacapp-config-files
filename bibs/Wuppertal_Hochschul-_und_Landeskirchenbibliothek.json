@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,7 +9,7 @@
     "city": "Wuppertal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://sunrise.hlb-wuppertal.de/webOPACClient"
+        "baseurl": "https://katalog.hlb-wuppertal.de/webOPACClient"
     },
     "geo": [
         51.2652308,
