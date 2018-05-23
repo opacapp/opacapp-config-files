@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,9 +9,8 @@
     "city": "G\u00f6ttingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://opac.sub.uni-goettingen.de/",
-        "db": "1",
-        "httpsbaseurl": "https://opac.sub.uni-goettingen.de/"
+        "baseurl": "https://opac.sub.uni-goettingen.de",
+        "db": "1"
     },
     "geo": [
         51.540116,
