@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,7 +9,7 @@
     "city": "Frankfurt/Oder",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://euvoz2.bib-bvb.de/InfoGuideClient.euvsis",
+        "baseurl": "https://opac.europa-uni.de/InfoGuideClient.euvsis",
         "startparams": "Login=igeuv"
     },
     "geo": [
