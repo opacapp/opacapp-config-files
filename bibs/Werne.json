@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -15,13 +15,14 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.werne.de/wwwopac",
+        "baseurl": "https://wwwopac.werne.de/wwwopac",
         "copiestable": {
             "branch": 5,
             "department": 1,
             "returndate": 4,
             "status": 3
         },
+        "customssl": true,
         "mediatypes": {
             "Download_kl.gif": "EDOC",
             "at_33.gif": "EDOC",
@@ -47,7 +48,7 @@
         51.66353,
         7.63698
     ],
-    "information": "http://www.werne.de/index.php?id=49",
+    "information": "https://www.werne.de/de/leben-in-werne/bildung/stadtbuecherei.php",
     "library_id": 8230,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
