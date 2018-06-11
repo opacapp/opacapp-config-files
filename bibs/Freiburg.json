@@ -11,7 +11,8 @@
     "data": {
         "baseurl": "https://katalog.stadtbibliothek.freiburg.de/webOPACClient",
         "onleihe": "http://www3.onleihe.de/freiburg",
-        "onleihe_singleLibrary": "131",
+        "onleihe_libraryId": "131",
+        "onleihe_singleLibrary": true,
         "suppress_fee_warnings": true
     },
     "displayname": "Stadtbibliothek Freiburg",
