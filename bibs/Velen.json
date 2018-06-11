@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -15,7 +15,7 @@
             "returndate": 3,
             "title": 2
         },
-        "baseurl": "http://46.245.218.18:81/webopac",
+        "baseurl": "https://portal.velen.de/webopac",
         "copiestable": {
             "returndate": 2,
             "status": 1
