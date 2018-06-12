@@ -6,7 +6,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "adis",
-    "city": "Esslingen/N",
+    "city": "Esslingen",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://bsz.ibs-bw.de/aDISWeb/app",

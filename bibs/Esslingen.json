@@ -1,12 +1,12 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Esslingen/N",
+    "city": "Esslingen",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://buecherei.esslingen.de/webOPACClient",
