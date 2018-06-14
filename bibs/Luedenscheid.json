@@ -4,7 +4,7 @@
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.luedenscheid",
     "_version_required": 0,
-    "account_supported": true,
+    "account_supported": false,
     "api": "open",
     "city": "L\u00fcdenscheid",
     "country": "Deutschland",
