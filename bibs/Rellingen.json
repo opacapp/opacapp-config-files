@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,7 +9,7 @@
     "city": "Rellingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://rellingen.iopac.de"
+        "baseurl": "https://rellingen.iopac.de"
     },
     "geo": [
         53.63128,
