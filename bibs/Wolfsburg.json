@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.wolfsburg",
     "_version_required": 0,
@@ -10,6 +10,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://ebibl.stadt.wolfsburg.de",
+        "customssl": true,
         "libopacplus": true,
         "onleihe": "http://www3.onleihe.de/wolfsburg",
         "onleihe_libraryId": "158",
