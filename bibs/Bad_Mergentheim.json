@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,7 +9,7 @@
     "city": "Bad Mergentheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bma.bad-mergentheim.de/webopac"
+        "baseurl": "https://bma.bad-mergentheim.de/webopac"
     },
     "geo": [
         49.488537,
