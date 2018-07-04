@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -29,6 +29,7 @@
             "returndate": 5,
             "status": 4
         },
+        "customssl": true,
         "mediatypes": {
             "MDVD.gif": "DVD",
             "cdkl.gif": "LP_RECORD",
