@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -19,7 +19,7 @@
             "status": 6,
             "title": 8
         },
-        "baseurl": "http://217.7.118.50",
+        "baseurl": "https://opac.stadt.wuerzburg.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,
