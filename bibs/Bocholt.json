@@ -29,6 +29,7 @@
             "returndate": -1,
             "status": 3
         },
+        "db": "w_biblio",
         "mediatypes": {
             "Cdgr.gif": "CD",
             "Spiele.gif": "BOARDGAME",
