@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -10,8 +10,9 @@
     "country": "Deutschland",
     "data": {
         "account_system": "lbs",
-        "baseurl": "https://opac.ub.uni-potsdam.de",
-        "db": "1"
+        "baseurl": "http://opac.ub.uni-potsdam.de",
+        "db": "1",
+        "lbs_url": "http://loan.ub.uni-potsdam.de"
     },
     "geo": [
         52.4003952,
