@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -15,7 +15,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://88.79.241.73/webopac",
+        "baseurl": "https://opac.mediathek-muellheim.de",
         "copiestable": {
             "department": 2,
             "location": 0,
