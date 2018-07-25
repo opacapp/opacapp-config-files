@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,7 +9,7 @@
     "city": "Wien",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://search.obvsg.at/primo_library/libweb",
+        "baseurl": "https://ubsearch.meduniwien.ac.at/primo_library/libweb",
         "db": "UMW",
         "languages": [
             "de",
