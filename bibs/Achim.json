@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://opac.achim.de/webopac",
+        "baseurl": "http://www.stadtbibliothek-achim.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 5,
