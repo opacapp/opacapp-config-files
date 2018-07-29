@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,8 +9,8 @@
     "city": "Cambridge",
     "country": "United States",
     "data": {
-        "baseurl": "http://beta.hollis.harvard.edu/primo_library/libweb",
-        "db": "HVD",
+        "baseurl": "https://hollis.harvard.edu/primo_library/libweb",
+        "db": "HVD2",
         "languages": [
             "en"
         ]
