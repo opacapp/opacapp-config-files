@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -19,7 +19,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "http://opac.stadt-hof.org/webopac",
+        "baseurl": "https://opac.stadt-hof.org/webopac",
         "copiestable": {
             "barcode": -1,
             "branch": 3,
