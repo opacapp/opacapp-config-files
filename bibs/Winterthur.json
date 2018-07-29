@@ -13,6 +13,7 @@
         "bibnetzbibconn": "http://asuka.xija.net:8050/bibconnector/bibnetzchwinterthur",
         "calendar": "http://bibliotheken.winterthur.ch/index.php?id=14345",
         "calendarparser": "guidlexml",
+        "customssl": true,
         "feedurl": "http://bibliotheken.winterthur.ch/rss.xml",
         "field_SYSTEM": "14",
         "libopacplus": true,
