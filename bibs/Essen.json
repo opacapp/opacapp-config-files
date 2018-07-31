@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -37,7 +37,7 @@
         51.4556194,
         7.0104543
     ],
-    "information": "https://www.stadtbibliothek-essen.de/oeffnungszeiten/oeffnungszeiten.de.html",
+    "information": "http://www.stadtbibliothek-essen.de/de/oeffnungszeiten/oeffnungszeiten.html",
     "library_id": 8661,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtbibliothek"
