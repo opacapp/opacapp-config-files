@@ -25,6 +25,7 @@
             "returndate": 6,
             "status": 4
         },
+        "customssl": true,
         "mediatypes": {
             "Joystick.GIF": "GAME_CONSOLE_PLAYSTATION",
             "Zeitschriftkl.gif": "MAGAZINE",
