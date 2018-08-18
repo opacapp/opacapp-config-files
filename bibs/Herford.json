@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,7 +9,8 @@
     "city": "Herford",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.herford.de"
+        "baseurl": "https://webopac.herford.de",
+        "customssl": true
     },
     "geo": [
         52.11601,
