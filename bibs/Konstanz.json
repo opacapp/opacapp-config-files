@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -19,7 +19,7 @@
             "status": 5,
             "title": 7
         },
-        "baseurl": "http://opac.konstanz.de",
+        "baseurl": "https://opac.konstanz.de",
         "copiestable": {
             "barcode": 2,
             "branch": -1,
