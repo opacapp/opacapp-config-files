@@ -19,7 +19,10 @@
         },
         "sharelink": "http://catalogue.univ-amu.fr/cgi-bin/koha/opac-detail.pl?biblionumber=%s"
     },
-    "geo": null,
+    "geo": [
+        43.293621,
+        5.358066
+    ],
     "information": "http://www.univ-amu.fr/fr/bibliotheques",
     "library_id": 9273,
     "state": "Provence-Alpes-C\u00f4te d'Azur",
