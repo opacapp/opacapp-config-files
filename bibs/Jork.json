@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -12,7 +12,7 @@
         "accounttable": {
             "author": "1"
         },
-        "baseurl": "http://jork.iopac.de"
+        "baseurl": "https://jork.iopac.de"
     },
     "geo": [
         53.53249,
