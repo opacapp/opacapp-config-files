@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.kbbl",
     "_version_required": 0,
@@ -9,7 +9,7 @@
     "city": "Liestal",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://xaikb09.bl.ch/InfoGuideClient",
+        "baseurl": "http://xaikb14.bl.ch/InfoGuideClient",
         "libopacplus": true,
         "onleihe": "http://www.e-kbl.ch/liestal",
         "onleihe_avail": -1,
