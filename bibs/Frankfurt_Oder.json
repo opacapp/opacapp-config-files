@@ -9,7 +9,8 @@
     "city": "Frankfurt/Oder",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://www.srbffo.de"
+        "baseurl": "https://www.srbffo.de",
+        "customssl": true
     },
     "geo": [
         52.3436736,
