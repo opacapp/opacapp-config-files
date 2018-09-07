@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.bremen",
     "_version_required": 0,
@@ -10,6 +10,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.stadtbibliothek-bremen.de/webOPACClient",
+        "customssl": true,
         "feedurl": "http://www.stadtbibliothek-bremen.de/rss/Aktuelles_aus_der_Stadtbibliothek.xml",
         "libopacplus": true,
         "onleihe": "http://www1.onleihe.de/bremen",
