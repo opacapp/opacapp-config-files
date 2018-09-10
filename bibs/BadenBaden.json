@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -19,7 +19,7 @@
             "status": 5,
             "title": 8
         },
-        "baseurl": "https://extranet3.baden-baden.de",
+        "baseurl": "https://badenbaden.bibdia-hosts.de",
         "copiestable": {
             "barcode": -1,
             "branch": 0,
