@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -23,6 +23,7 @@
             "returndate": 1,
             "status": 0
         },
+        "customssl": true,
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
