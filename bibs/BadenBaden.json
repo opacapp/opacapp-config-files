@@ -19,7 +19,7 @@
             "status": 5,
             "title": 8
         },
-        "baseurl": "https://extranet3.baden-baden.de",
+        "baseurl": "https://badenbaden.bibdia-hosts.de",
         "copiestable": {
             "barcode": -1,
             "branch": 0,
