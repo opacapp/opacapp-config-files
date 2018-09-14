@@ -3,60 +3,15 @@
     "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_version_required": 0,
+    "_version_required": 193,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Herten",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "barcode": 2,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 6,
-            "returndate": 4,
-            "status": 5,
-            "title": 1
-        },
-        "baseurl": "https://webopac.herten.de",
-        "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": 1,
-            "location": 2,
-            "reservations": -1,
-            "returndate": 4,
-            "status": 3
-        },
-        "customssl": true,
-        "mediatypes": {
-            "CDS.gif": "CD",
-            "E-Ausleihe1.gif": "EBOOK",
-            "Munzingerk.gif": "UNKNOWN",
-            "Video1S.gif": "MOVIE",
-            "mBuecherS.gif": "SCHOOL_VERSION",
-            "mCDROMS.gif": "CD_SOFTWARE",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mComicS.gif": "BOOK",
-            "mDVDS.gif": "DVD",
-            "mDisket1S.gif": "PACKAGE",
-            "mFilmS.gif": "MOVIE",
-            "mLosebS.gif": "UNKNOWN",
-            "mMusikCDS.gif": "CD",
-            "mReise2S.gif": "MAP",
-            "mSpielS.gif": "BOARDGAME",
-            "mZtgS.gif": "MAGAZINE",
-            "monooS.gif": "BOOK"
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": 2,
-            "branch": -1,
-            "cancelurl": 3,
-            "expirationdate": null,
-            "title": 1
-        }
+        "baseurl": "https://www.bib-kreisre.de",
+        "copystyle": "smartbib",
+        "library": "HERT"
     },
     "geo": [
         51.59405,
