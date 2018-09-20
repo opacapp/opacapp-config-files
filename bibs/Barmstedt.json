@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,13 +9,13 @@
     "city": "Barmstedt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://86.103.23.19"
+        "baseurl": "https://iopac.stadtbuecherei-barmstedt.de"
     },
     "geo": [
         53.7905563,
         9.7692149
     ],
-    "information": "http://www.stadtbuecherei-barmstedt.de/",
+    "information": "https://www.stadtbuecherei-barmstedt.de",
     "library_id": 1435,
     "state": "Schleswig-Holstein",
     "title": "Stadtb\u00fccherei"
