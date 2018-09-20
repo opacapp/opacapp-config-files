@@ -9,8 +9,7 @@
     "city": "Barmstedt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://iopac.stadtbuecherei-barmstedt.de",
-        "customssl": true
+        "baseurl": "https://iopac.stadtbuecherei-barmstedt.de"
     },
     "geo": [
         53.7905563,
