@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -15,7 +15,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.lehrte.de/webopac",
+        "baseurl": "http://212.59.58.217/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 3,
@@ -23,7 +23,6 @@
             "returndate": 4,
             "status": 2
         },
-        "customssl": true,
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
