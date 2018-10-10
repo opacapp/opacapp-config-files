@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.anhalt_hs",
     "_version_required": 0,
@@ -10,6 +10,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://lhanh.gbv.de",
+        "customssl": true,
         "db": "1",
         "libopacplus": true,
         "suppress_fee_warnings": true
