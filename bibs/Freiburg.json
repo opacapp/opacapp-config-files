@@ -10,7 +10,6 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://katalog.stadtbibliothek.freiburg.de/webOPACClient",
-        "libopacplus": true,
         "onleihe": "http://www3.onleihe.de/freiburg",
         "onleihe_libraryId": "145",
         "onleihe_singleLibrary": true,
