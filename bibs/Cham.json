@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -23,6 +23,7 @@
             "returndate": 4,
             "status": 2
         },
+        "libopacplus": true,
         "mediatypes": {
             "CDkl.gif": "CD",
             "film.gif": "MOVIE",
