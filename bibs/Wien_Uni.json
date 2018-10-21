@@ -10,6 +10,7 @@
     "country": "\u00d6sterreich",
     "data": {
         "baseurl": "https://usearch.univie.ac.at/primo_library/libweb",
+        "customssl": true,
         "db": "UWI",
         "languages": [
             "de",
