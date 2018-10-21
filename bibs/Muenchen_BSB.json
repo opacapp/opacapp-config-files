@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,7 +9,8 @@
     "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opacplus.bsb-muenchen.de/metaopac"
+        "baseurl": "https://opacplus.bsb-muenchen.de/metaopac",
+        "customssl": true
     },
     "geo": [
         48.1474642,

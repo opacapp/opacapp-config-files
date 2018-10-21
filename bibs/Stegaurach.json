@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,7 +9,8 @@
     "city": "Stegaurach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://buecherei.admin24ip.de/iopac"
+        "baseurl": "https://buecherei.admin24ip.de/iopac",
+        "customssl": true
     },
     "geo": [
         49.8661,
