@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,7 +9,7 @@
     "city": "Bielefeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bib5w.fh-bielefeld.de/webOPACClient"
+        "baseurl": "https://netbz05.fh-bielefeld.de/webOPACClient"
     },
     "geo": [
         52.0302285,
