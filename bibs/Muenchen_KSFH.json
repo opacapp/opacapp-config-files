@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -19,5 +19,5 @@
     "information": "http://www.ksfh.de/bibliothek_2458",
     "library_id": 9095,
     "state": "Bayern",
-    "title": "Bibliothek Katholische Stiftungsfachhochschule"
+    "title": "Katholische Stiftungshochschule"
 }
