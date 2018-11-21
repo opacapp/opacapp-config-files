@@ -13,6 +13,7 @@
         "apikey": "6907b49d-908a-4169-acb8-209bfbdbe4cc",
         "apiurl": "https://ebibliothek.stadt.wolfsburg.de:8316/RESTv1",
         "baseurl": "https://ebibl.stadt.wolfsburg.de",
+        "branch_choice": true,
         "customssl": true,
         "libopacplus": true,
         "onleihe": "http://www3.onleihe.de/wolfsburg",
