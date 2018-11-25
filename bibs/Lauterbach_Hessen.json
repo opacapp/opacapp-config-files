@@ -9,7 +9,7 @@
     "city": "Lauterbach (Hessen)",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://87.139.91.100",
+        "baseurl": "https://opac.lauterbach-hessen.de",
         "opacdir": "opax",
         "searchtable": [
             2,
