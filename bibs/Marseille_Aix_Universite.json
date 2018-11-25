@@ -1,23 +1,15 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_version_required": 0,
-    "account_supported": false,
-    "api": "sru",
+    "_version_required": 198,
+    "account_supported": true,
+    "api": "koha",
     "city": "Marseille",
     "country": "France",
     "data": {
-        "baseurl": "http://catalogue.univ-amu.fr:9998/biblios",
-        "searchqueries": {
-            "free": "cql.serverChoice",
-            "id": "rec.id",
-            "titel": "dc.title",
-            "verfasser": "dc.creator",
-            "verlag": "dc.publisher"
-        },
-        "sharelink": "http://catalogue.univ-amu.fr/cgi-bin/koha/opac-detail.pl?biblionumber=%s"
+        "baseurl": "https://catalogue.univ-amu.fr"
     },
     "geo": [
         43.293621,
