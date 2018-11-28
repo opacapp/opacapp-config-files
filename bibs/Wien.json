@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.wien",
     "_version_required": 0,
@@ -61,7 +61,7 @@
             "zeitschrift_32_32.gif": "MAGAZINE",
             "zeitung_32_32.gif": "NEWSPAPER"
         },
-        "onleihe": "https://www4.onleihe.com/wien",
+        "onleihe": "http://www4.onleihe.at/wien",
         "onleihe_libraryId": "177",
         "onleihe_singleLibrary": "yes",
         "reservationtable": {
