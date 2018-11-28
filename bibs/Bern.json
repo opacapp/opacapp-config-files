@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.bern",
     "_version_required": 0,
@@ -14,7 +14,7 @@
         "baseurl": "https://www.kornhausbibliotheken.ch",
         "calendar": "https://www.kornhausbibliotheken.ch/DesktopModules/Events/EventVCal.aspx?ItemID=0&Mid=365&tabid=44",
         "calendarparser": "ical",
-        "onleihe": "http://www.dibibe.ch/dibibe",
+        "onleihe": "https://dibibe.onleihe.com/dibibe",
         "onleihe_libraryId": "666",
         "urls": {
             "account": "Mein-Konto",

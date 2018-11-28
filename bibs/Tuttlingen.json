@@ -32,7 +32,7 @@
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mFilmS.gif": "MOVIE"
         },
-        "onleihe": "http://www1.onleihe.de/schwalbe",
+        "onleihe": "https://www1.onleihe.de/schwalbe",
         "onleihe_libraryId": "645",
         "reservationtable": {
             "author": 0,

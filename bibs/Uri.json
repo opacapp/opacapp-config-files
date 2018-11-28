@@ -11,7 +11,7 @@
     "data": {
         "baseurl": "https://www.winmedio.net/kbu",
         "libopacplus": true,
-        "onleihe": "http://www.dibizentral.ch/dibizentral",
+        "onleihe": "https://dibizentral.onleihe.com/dibizentral",
         "onleihe_libraryId": "743",
         "onleihe_search_url": "dibizentral.ch"
     },

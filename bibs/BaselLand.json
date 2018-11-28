@@ -11,7 +11,7 @@
     "data": {
         "baseurl": "http://xaikb14.bl.ch/InfoGuideClient",
         "libopacplus": true,
-        "onleihe": "http://www.e-kbl.ch/liestal",
+        "onleihe": "https://e-kbl.onleihe.com/liestal",
         "onleihe_avail": -1,
         "onleihe_libraryId": "57",
         "onleihe_search_url": "e-kbl.ch",
