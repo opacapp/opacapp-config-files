@@ -39,7 +39,7 @@
             "mNoten1S.gif": "SCORE_MUSIC",
             "mReise2S.gif": "MAP"
         },
-        "onleihe": "http://www1.onleihe.de/heilbronn",
+        "onleihe": "https://www1.onleihe.de/heilbronn",
         "onleihe_libraryId": "131",
         "reservationtable": {
             "author": 0,
