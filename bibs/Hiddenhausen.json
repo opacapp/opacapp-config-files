@@ -1,39 +1,18 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
-    "account_supported": true,
-    "api": "bibliotheca",
+    "account_supported": false,
+    "api": "open",
     "city": "Hiddenhausen",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "prolongurl": 3,
-            "returndate": 2,
-            "title": 1
-        },
-        "baseurl": "http://neu.bibliotheken-in-owl.de/webopac",
-        "copiestable": {
-            "department": 1,
-            "location": 0,
-            "returndate": 3
-        },
-        "db": "hiddenhausen",
-        "mediatypes": {
-            "cdkl.gif": "CD_SOFTWARE",
-            "dvdkl.gif": "DVD",
-            "e_owl_kl.gif": "EBOOK",
-            "kassettekl.gif": "AUDIO_CASSETTE",
-            "videokl.gif": "MOVIE"
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": 2,
-            "cancelurl": 3,
-            "title": 1
+        "baseurl": "https://hiddenhausen.bibliotheken-in-owl.de",
+        "urls": {
+            "advanced_search": "Suche/OPAC-Profi-Recherche",
+            "simple_search": "Suche"
         }
     },
     "geo": [
