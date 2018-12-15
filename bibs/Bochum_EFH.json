@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -17,6 +17,8 @@
         },
         "baseurl": "http://opac.efh-bochum.de/webopac",
         "copiestable": {
+            "department": 1,
+            "location": 0,
             "returndate": 3,
             "status": 2
         },
