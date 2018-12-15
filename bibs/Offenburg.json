@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -19,7 +19,7 @@
             "status": 6,
             "title": 8
         },
-        "baseurl": "http://217.86.216.47",
+        "baseurl": "https://offenburg.bibdia-hosts.de",
         "mediatypes": {
             "01": "BOOK",
             "10": "BOOK",
