@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -30,6 +30,7 @@
             "status": 4
         },
         "customssl": true,
+        "customssl_elliptic_curves_workaround": true,
         "mediatypes": {
             "1": "BOOK",
             "11": "DVD",
