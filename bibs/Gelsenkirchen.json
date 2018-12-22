@@ -30,7 +30,6 @@
             "status": 4
         },
         "customssl": true,
-        "customssl_elliptic_curves_workaround": true,
         "mediatypes": {
             "1": "BOOK",
             "11": "DVD",
