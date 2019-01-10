@@ -1,0 +1,27 @@
+
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Sydney",
+    "country": "Australia",
+    "data": {
+        "baseurl": "???",
+        "db": "???",
+        "languages": [
+            "en"
+        ]
+    },
+    "geo": [
+        -33.866762,
+        151.212778
+    ],
+    "information": "https://www.sl.nsw.gov.au/",
+    "library_id": 0,
+    "state": "NSW",
+    "title": "State Library New South Wales"
+}
