@@ -1,0 +1,22 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "vufind",
+    "city": "Canberra",
+    "country": "Australia",
+    "data": {
+        "baseurl": "https://catalogue.nla.gov.au/"
+    },
+    "geo": [
+        -35.296606,
+        149.129783
+    ],
+    "information": "https://www.nla.gov.au/",
+    "library_id": 0,
+    "state": "ACT",
+    "title": "National Library of Australia"
+}
