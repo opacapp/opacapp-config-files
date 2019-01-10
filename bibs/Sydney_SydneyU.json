@@ -1,0 +1,26 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Sydney",
+    "country": "Australia",
+    "data": {
+        "baseurl": "???",
+        "db": "???",
+        "languages": [
+            "en"
+        ]
+    },
+    "geo": [
+        -33.886600,
+        151.190448
+    ],
+    "information": "https://library.sydney.edu.au/",
+    "library_id": 0,
+    "state": "NSW",
+    "title": "Sydney University"
+}
