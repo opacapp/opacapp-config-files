@@ -15,7 +15,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://bibliothek.schwandorf.de/webopac",
+        "baseurl": "https://bibliothek.schwandorf.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
