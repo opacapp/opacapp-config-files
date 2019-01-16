@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,7 +9,7 @@
     "city": "Frankfurt/Main",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://www.katalog.stadtbuecherei.frankfurt.de",
+        "baseurl": "https://katalog.stadtbuecherei.frankfurt.de",
         "customssl": true,
         "urls": {
             "advanced_search": "Mediensuche/Erweiterte-Suche",
