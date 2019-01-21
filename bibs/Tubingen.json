@@ -1,20 +1,15 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
     "account_supported": false,
-    "api": "open",
+    "api": "koha",
     "city": "T\u00fcbingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/tuebingen",
-        "customssl": true,
-        "urls": {
-            "advanced_search": "ErweiterteSuche.aspx",
-            "simple_search": "Mediensuche.aspx"
-        }
+        "baseurl": "https://sb-tuebingen.lmscloud.net"
     },
     "geo": [
         48.5224161,
