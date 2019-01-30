@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,7 +9,7 @@
     "city": "Nieb\u00fcll",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://niebuell.iopac.de"
+        "baseurl": "http://217.7.231.217"
     },
     "geo": [
         54.7859,

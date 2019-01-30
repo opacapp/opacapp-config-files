@@ -9,7 +9,8 @@
     "city": "Magdeburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://stadtbibliothek.magdeburg.de",
+        "baseurl": "https://auskunft.stadtbibliothek.magdeburg.de",
+        "customssl": true,
         "urls": {
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"
