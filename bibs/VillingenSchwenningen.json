@@ -24,10 +24,10 @@
             "barcode": -1,
             "branch": 0,
             "department": 1,
-            "location": 2,
+            "location": 3,
             "reservations": -1,
-            "returndate": 4,
-            "status": 3
+            "returndate": 5,
+            "status": 4
         },
         "customssl": true,
         "mediatypes": {
