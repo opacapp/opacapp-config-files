@@ -3,52 +3,13 @@
     "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.ludwigsburg",
-    "_version_required": 0,
+    "_version_required": 201,
     "account_supported": true,
-    "api": "biber1992",
+    "api": "arena",
     "city": "Ludwigsburg",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 9,
-            "barcode": 5,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 5,
-            "returndate": 4,
-            "status": 7,
-            "title": 9
-        },
-        "baseurl": "https://ludwigsburg.bibdia-hosts.de",
-        "copiestable": {
-            "barcode": 3,
-            "branch": 1,
-            "department": -1,
-            "location": 2,
-            "reservations": -1,
-            "returndate": -1,
-            "status": 4
-        },
-        "mediatypes": {
-            "101": "BOOK",
-            "102": "BOOK",
-            "103": "BOOK",
-            "11": "MOVIE",
-            "13": "CD",
-            "2": "MAGAZINE",
-            "20": "AUDIOBOOK",
-            "26": "GAME_CONSOLE",
-            "3": "CD_SOFTWARE",
-            "30": "EBOOK",
-            "32": "CD",
-            "6": "CD"
-        },
-        "opacdir": "opax",
-        "searchtable": [
-            2,
-            3,
-            4
-        ]
+        "baseurl": "https://arena.stabi-ludwigsburg.de/web/arena"
     },
     "geo": [
         48.89539,
