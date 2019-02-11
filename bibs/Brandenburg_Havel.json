@@ -1,16 +1,15 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "koha",
     "city": "Brandenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothek.stadt-brandenburg.de/webOPACClient",
-        "startparams": "Login=opac"
+        "baseurl": "https://sb-brandenburg.lmscloud.net"
     },
     "geo": [
         52.4137609,
