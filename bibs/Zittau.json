@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -9,10 +9,10 @@
     "city": "Zittau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.christian-weise-bibliothek-zittau.de",
+        "baseurl": "https://medien-verbund-oberlausitz.com",
         "urls": {
-            "advanced_search": "de-de/mediensuche/erweitertesuche.aspx",
-            "simple_search": "de-de/mediensuche/einfachesuche.aspx"
+            "advanced_search": "mediensuche/erweitertesuche.aspx",
+            "simple_search": "mediensuche/einfachesuche.aspx"
         }
     },
     "geo": [
