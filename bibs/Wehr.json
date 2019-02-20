@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -15,7 +15,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://webopac.mediathek-wehr.de/webopac",
+        "baseurl": "https://webopac.mediathek-wehr.de/webopac",
         "copiestable": {
             "department": 3,
             "location": 2,
