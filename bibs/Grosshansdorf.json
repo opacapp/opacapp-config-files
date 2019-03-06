@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -25,7 +25,7 @@
         53.6465973,
         10.2755301
     ],
-    "information": "http://www.grosshansdorf.de/buergerservice/leistungen/index.html?lid=103&bereich=1",
+    "information": "https://www.buecherei-grosshansdorf.de/",
     "library_id": 3428,
     "state": "Schleswig-Holstein",
     "title": "Gemeindeb\u00fccherei"
