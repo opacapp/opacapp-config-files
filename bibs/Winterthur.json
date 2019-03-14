@@ -11,7 +11,7 @@
     "data": {
         "baseurl": "https://katalog.winterthur.ch/TouchPoint_touchpoint",
         "bibnetzbibconn": "http://asuka.xija.net:8050/bibconnector/bibnetzchwinterthur",
-        "calendar": "ttps://stadt.winterthur.ch/_vk/cal_7/mopage",
+        "calendar": "https://stadt.winterthur.ch/_vk/cal_7/mopage",
         "calendarparser": "winterthurxml",
         "customssl": true,
         "feedurl": "http://bibliotheken.winterthur.ch/rss.xml",
