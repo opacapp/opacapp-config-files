@@ -10,6 +10,8 @@
     "country": "Schweiz",
     "data": {
         "baseurl": "http://adis.pbz.ch/aDISWeb/app",
+        "calendar": "https://info.opacapp.de/zuerich.ics",
+        "calendarparser": "ical",
         "libopacplus": true,
         "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1%3A23002&sp=SS100000000"
     },
