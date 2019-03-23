@@ -10,7 +10,7 @@
     "country": "Deutschland",
     "data": {
         "account_system": "lbs",
-        "baseurl": "https://kataloge.uni-hamburg.de/",
+        "baseurl": "https://kataloge.uni-hamburg.de",
         "db": "2"
     },
     "geo": [
