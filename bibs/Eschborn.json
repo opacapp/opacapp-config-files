@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -21,13 +21,13 @@
         },
         "baseurl": "https://webopac.eschborn.de/webopac",
         "copiestable": {
-            "barcode": 3,
-            "branch": 1,
-            "department": 2,
-            "location": 2,
+            "barcode": -1,
+            "branch": 3,
+            "department": 1,
+            "location": 0,
             "reservations": -1,
-            "returndate": -1,
-            "status": 4
+            "returndate": 4,
+            "status": 2
         },
         "reservationtable": {
             "author": 0,
