@@ -12,6 +12,7 @@
         "baseurl": "https://webopac.itk-rheinland.de/aDISWeb/app",
         "customssl": true,
         "customssl_all_ciphersuites": true,
+        "customssl_tlsonly": true,
         "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23072"
     },
     "geo": [
