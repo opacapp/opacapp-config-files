@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_version_required": 0,
@@ -11,6 +11,7 @@
     "data": {
         "baseurl": "https://webopac.itk-rheinland.de/aDISWeb/app",
         "customssl": true,
+        "customssl_all_ciphersuites": true,
         "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23072"
     },
     "geo": [
