@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -10,7 +10,7 @@
     "city": "Heide",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://onlinekatalog.heide.de",
+        "baseurl": "https://onlinekatalog.heide.de",
         "dir": ""
     },
     "geo": [
