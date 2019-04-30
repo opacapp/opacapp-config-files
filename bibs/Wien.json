@@ -73,6 +73,7 @@
             "expirationdate": null,
             "title": 1
         },
+        "suppress_fee_warnings": true,
         "webviewcontain": "m.buechereien.wien.at"
     },
     "displayname": "B\u00fcchereien Wien",

@@ -14,7 +14,8 @@
         "calendar": "https://info.opacapp.de/zuerich.ics",
         "calendarparser": "ical",
         "libopacplus": true,
-        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1%3A23002&sp=SS100000000"
+        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1%3A23002&sp=SS100000000",
+        "suppress_fee_warnings": true
     },
     "geo": [
         47.3747542,
