@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -75,7 +75,7 @@
         51.9246665,
         7.8488964
     ],
-    "information": "http://www.magnus-agatha.de/raume/bucherei.html",
+    "information": "https://www.magnus-agatha.de/einrichtungen_/st-magnus-everswinkel/buecherei-everswinkel/",
     "library_id": 2832,
     "state": "Nordrhein-Westfalen",
     "title": "Kath. \u00d6B St. Magnus"
