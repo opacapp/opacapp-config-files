@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.germering",
     "_support_contract": true,
@@ -48,7 +48,7 @@
             "54.gif": "EBOOK",
             "8.gif": "BOARDGAME"
         },
-        "onleihe": "http://www.digibobb.de/digibobb",
+        "onleihe": "https://digibobb.onleihe.de/digibobb",
         "onleihe_libraryId": "739",
         "startparams": "Login=opacext"
     },
