@@ -10,7 +10,7 @@
     "city": "Germering",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://80.147.28.227:8080/webOPACClient",
+        "baseurl": "https://onlinekatalog.stadtbibliothek-germering.de/webOPACClient",
         "libopacplus": true,
         "mediatypes": {
             "14.gif": "CD",
