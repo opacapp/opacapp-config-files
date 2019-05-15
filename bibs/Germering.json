@@ -11,6 +11,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://onlinekatalog.stadtbibliothek-germering.de/webOPACClient",
+        "customssl": true,
         "libopacplus": true,
         "mediatypes": {
             "14.gif": "CD",
