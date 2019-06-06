@@ -16,13 +16,14 @@
             "returndate": 3,
             "title": 2
         },
-        "baseurl": "http://213.182.159.137/webopac07",
+        "baseul": "https://webopac.e-tuttlingen.de/webopac07",
         "copiestable": {
             "branch": 3,
             "location": 0,
             "returndate": 2,
             "status": 1
         },
+        "customssl": true,
         "libopacplus": true,
         "mediatypes": {
             "eaudiokl.gif": "MP3",
