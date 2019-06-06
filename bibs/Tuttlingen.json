@@ -16,7 +16,7 @@
             "returndate": 3,
             "title": 2
         },
-        "baseul": "https://webopac.e-tuttlingen.de/webopac07",
+        "baseurl": "https://webopac.e-tuttlingen.de/webopac07",
         "copiestable": {
             "branch": 3,
             "location": 0,
