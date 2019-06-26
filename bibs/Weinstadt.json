@@ -18,6 +18,7 @@
         "urls": {
             "account": "Konto.aspx",
             "advanced_search": "Mediensuche/erweiterteSuche.aspx",
+            "new_acq": "Mediensuche/NeueMedien.aspx",
             "simple_search": "Mediensuche/einfacheSuche.aspx"
         }
     },
