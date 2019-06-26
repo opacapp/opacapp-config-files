@@ -11,6 +11,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.fh-rosenheim.de/InfoGuideClient.frosis",
+        "customssl": true,
         "startparams": "Login=wofro",
         "suppress_fee_warnings": true
     },
