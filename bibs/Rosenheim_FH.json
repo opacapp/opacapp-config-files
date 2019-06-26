@@ -11,7 +11,8 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.fh-rosenheim.de/InfoGuideClient.frosis",
-        "startparams": "Login=wofro"
+        "startparams": "Login=wofro",
+        "suppress_fee_warnings": true
     },
     "geo": [
         47.8571272,
