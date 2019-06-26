@@ -6,21 +6,20 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Weinstadt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/weinstadt",
-        "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": -1,
-            "location": 3,
-            "reservations": 6,
-            "returndate": 5,
-            "status": 4
-        },
-        "customssl": true
+        "baseurl": "https://open.rz-kiru.de/weinstadt/",
+        "customssl": true,
+        "libopacplus": true,
+        "onleihe": "https://www4.onleihe.de/rems-murr",
+        "onleihe_libraryId": "469",
+        "urls": {
+            "account": "Konto.aspx",
+            "advanced_search": "Mediensuche/erweiterteSuche.aspx",
+            "simple_search": "Mediensuche/einfacheSuche.aspx"
+        }
     },
     "geo": [
         48.810741,
