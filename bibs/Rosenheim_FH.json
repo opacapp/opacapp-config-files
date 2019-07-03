@@ -15,6 +15,7 @@
         "startparams": "Login=wofro",
         "suppress_fee_warnings": true
     },
+    "displayname": "TH Rosenheim",
     "geo": [
         47.8571272,
         12.1181047
@@ -22,5 +23,5 @@
     "information": "https://info.opacapp.de/hs-rosenheim.html",
     "library_id": 9156,
     "state": "Bayern",
-    "title": "Fachhochschule"
+    "title": "Technische Hochschule"
 }
