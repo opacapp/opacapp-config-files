@@ -21,6 +21,7 @@
             "status": 3
         },
         "customssl": true,
+        "libopacplus": true,
         "mediatypes": {
             "CDkl.gif": "AUDIOBOOK",
             "MonoS.gif": "BOOK",
@@ -35,7 +36,9 @@
             "mMusikCDS.gif": "CD_MUSIC",
             "wuerfelkl.gif": "BOARDGAME",
             "zeitschriftkl.gif": "MAGAZINE"
-        }
+        },
+        "onleihe": "https://www1.onleihe.de/247online-bibliothek",
+        "onleihe_libraryId": "756"
     },
     "geo": [
         48.67186,
