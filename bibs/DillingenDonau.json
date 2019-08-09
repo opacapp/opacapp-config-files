@@ -20,7 +20,7 @@
             "status": 6,
             "title": 8
         },
-        "baseurl": "http://dillingen.bibdia-hosts.de",
+        "baseurl": "https://dillingen.bibdia-hosts.de",
         "customssl": true,
         "disguise": true,
         "mediatypes": {
