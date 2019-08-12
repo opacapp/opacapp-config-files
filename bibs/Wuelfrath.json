@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -24,11 +24,11 @@
         "copiestable": {
             "barcode": 0,
             "branch": 4,
-            "department": 2,
-            "location": 1,
+            "department": -1,
+            "location": 2,
             "reservations": -1,
             "returndate": 3,
-            "status": -1
+            "status": 2
         },
         "db": "wu",
         "reservationtable": {
