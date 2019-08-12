@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -27,8 +27,8 @@
             "department": 1,
             "location": 2,
             "reservations": -1,
-            "returndate": 4,
-            "status": 3
+            "returndate": 5,
+            "status": 4
         },
         "db": "ve",
         "reservationtable": {
