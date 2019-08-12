@@ -19,11 +19,11 @@
         },
         "baseurl": "https://webopac.heiligenhaus.de",
         "copiestable": {
-            "barcode": 5,
+            "barcode": 0,
             "department": 2,
             "location": 1,
-            "returndate": 3,
-            "status": 0
+            "returndate": 4,
+            "status": 3
         },
         "mediatypes": {
             "CDh_kl.gif": "CD",
