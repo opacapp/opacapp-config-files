@@ -13,6 +13,9 @@
         "baseurl": "https://buecherei.esslingen.de/webOPACClient",
         "customssl": true,
         "libopacplus": true,
+        "mediatypes": {
+            "3": "BOOK"
+        },
         "onleihe": "http://www1.onleihe.de/247online-bibliothek",
         "onleihe_libraryId": "75"
     },
