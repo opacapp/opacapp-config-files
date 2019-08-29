@@ -5,7 +5,7 @@
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.esslingen",
     "_support_contract": true,
     "_version_required": 0,
-    "account_supported": true,
+    "account_supported": false,
     "api": "sisis",
     "city": "Esslingen",
     "country": "Deutschland",
