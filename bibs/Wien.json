@@ -10,7 +10,7 @@
     "city": "Wien",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "https://www.buechereien.wien.at",
+        "baseurl": "https://buechereien.wien.gv.at",
         "customssl": true,
         "libopacplus": true,
         "onleihe": "https://www4.onleihe.com/wien",
