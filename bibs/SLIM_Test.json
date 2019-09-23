@@ -10,7 +10,7 @@
     "city": "Pune",
     "country": "India",
     "data": {
-        "baseurl": "http://117.218.165.146/SLIMAPI/",
+        "baseurl": "https://opacappapi.azurewebsites.net/",
         "itemdetail_url": "http://117.218.165.146/iOPAC/ItemDetails.aspx?id="
     },
     "geo": [
