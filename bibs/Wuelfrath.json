@@ -41,6 +41,12 @@
             "cancelurl": 3,
             "expirationdate": -1,
             "title": 1
+        },
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "Mediensuche/Medientipps",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
