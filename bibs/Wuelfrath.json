@@ -34,7 +34,6 @@
             "status": -1
         },
         "db": "ha",
-        "libopacplus": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
