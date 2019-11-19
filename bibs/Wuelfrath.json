@@ -22,8 +22,8 @@
         },
         "api_enable": true,
         "apikey": "3f8d2460-c2d0-4a5c-9737-68c7613a7649",
-        "apiurl": "http://intweb.wuelfrath.de:8316/RESTv1",
-        "baseurl": "http://intweb.wuelfrath.de",
+        "apiurl": "https://ebibliothek.stadt.wolfsburg.de:8316/RESTv1",
+        "baseurl": "https://ebibl.stadt.wolfsburg.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -33,7 +33,9 @@
             "returndate": 3,
             "status": -1
         },
+        "customssl": true,
         "db": "ha",
+        "libopacplus": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
