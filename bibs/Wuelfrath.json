@@ -33,7 +33,6 @@
             "returndate": 3,
             "status": -1
         },
-        "customssl": true,
         "db": "ha",
         "libopacplus": true,
         "reservationtable": {
