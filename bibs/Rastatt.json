@@ -1,21 +1,43 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": true,
+    "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "open",
+    "api": "bibliotheca",
     "city": "Rastatt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/rastatt",
+        "accounttable": {
+            "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 3,
+            "returndate": 2,
+            "status": -1,
+            "title": 1
+        },
+        "baseurl": "https://web-opac.kivbf.de/rastatt",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": -1,
+            "location": 0,
+            "reservations": -1,
+            "returndate": 2,
+            "status": 1
+        },
         "customssl": true,
-        "urls": {
-            "account": "Mein-Konto",
-            "advanced_search": "Mediensuche/Erweiterte-Suche.aspx",
-            "simple_search": "Mediensuche/Einfache-Suche"
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "branch": -1,
+            "cancelurl": 3,
+            "expirationdate": -1,
+            "title": 1
         }
     },
     "geo": [
