@@ -27,6 +27,9 @@
             "returndate": 4,
             "status": 3
         },
+        "libopacplus": "true",
+        "onleihe": "https://www4.onleihe.de/rems-murr",
+        "onleihe_libraryId": "645",
         "reservationtable": {
             "author": 0,
             "cancelurl": 3,
