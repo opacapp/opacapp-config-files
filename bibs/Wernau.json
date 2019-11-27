@@ -30,6 +30,7 @@
             "returndate": 4,
             "status": 3
         },
+        "libopacplus": "true",
         "reservationtable": {
             "author": 1,
             "availability": 3,
