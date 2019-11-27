@@ -30,6 +30,7 @@
             "returndate": 5,
             "status": 4
         },
+        "libopacplus": "true",
         "mediatypes": {
             "DVDkl.gif": "DVD",
             "EDokukl.gif": "URL",
