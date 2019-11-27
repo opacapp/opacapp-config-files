@@ -31,6 +31,8 @@
             "status": 3
         },
         "libopacplus": "true",
+        "onleihe": "https://www1.onleihe.de/247online-bibliothek",
+        "onleihe_libraryId": "1755",
         "reservationtable": {
             "author": 1,
             "availability": 3,
