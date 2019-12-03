@@ -28,6 +28,9 @@
             "status": 3
         },
         "libopacplus": "true",
+        "mediatypes": {
+            "ebook.gif": "EBOOK"
+        },
         "onleihe": "https://www4.onleihe.de/rems-murr",
         "onleihe_libraryId": "1094",
         "reservationtable": {
