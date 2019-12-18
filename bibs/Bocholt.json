@@ -11,6 +11,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://stadtbibliothek.bocholt.de",
+        "customssl": true,
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
