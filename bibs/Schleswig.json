@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -10,7 +10,7 @@
     "city": "Schleswig",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://176.94.16.49",
+        "baseurl": "http://153.92.35.120",
         "maxprolongcount": 1
     },
     "geo": [
