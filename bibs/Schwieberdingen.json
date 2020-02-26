@@ -6,47 +6,11 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "biber1992",
+    "api": "koha",
     "city": "Schwieberdingen",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 6,
-            "barcode": 3,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 4,
-            "returndate": 2,
-            "status": 4,
-            "title": 6
-        },
-        "baseurl": "http://biber-sw.kdrs.de",
-        "copiestable": {
-            "barcode": 3,
-            "branch": 1,
-            "department": 2,
-            "location": 2,
-            "reservations": -1,
-            "returndate": -1,
-            "status": 4
-        },
-        "mediatypes": {
-            "1": "BOOK",
-            "10": "CD",
-            "11": "DVD",
-            "2": "MAGAZINE",
-            "20": "AUDIOBOOK",
-            "3": "CDROM",
-            "6": "CD",
-            "9": "BOARDGAME"
-        },
-        "opacdir": "opac",
-        "searchtable": [
-            1,
-            2,
-            3,
-            4
-        ]
+        "baseurl": "https://gb-schwieberdingen.lmscloud.net"
     },
     "geo": [
         48.87589,

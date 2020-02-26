@@ -13,7 +13,7 @@
         "baseurl": "https://buechereien.wien.gv.at",
         "customssl": true,
         "libopacplus": true,
-        "onleihe": "https://www4.onleihe.com/wien",
+        "onleihe": "https://www.onleihe.com/wien",
         "onleihe_libraryId": "177",
         "onleihe_singleLibrary": "yes",
         "suppress_fee_warnings": true,

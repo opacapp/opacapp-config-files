@@ -2,8 +2,8 @@
     "_active": true,
     "_notice_text": "",
     "_plus_required": false,
-    "_plus_store_url": null,
-    "_support_contract": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.neustadtholstein",
+    "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
@@ -23,6 +23,7 @@
             "status": 0
         },
         "customssl": true,
+        "libopacplus": "true",
         "mediatypes": {
             "download.jpg": "EBOOK",
             "mCDROMS.gif": "GAME_CONSOLE_NINTENDO",
@@ -35,18 +36,21 @@
             "mmultmedS.gif": "PACKAGE",
             "monooS.gif": "BOOK"
         },
+        "onleihe": "https://www.onleihe.de/schleswig_holstein",
+        "onleihe_libraryId": "854",
         "reservationtable": {
             "author": 0,
             "availability": 2,
             "cancelurl": 3,
             "title": 1
-        }
+        },
+        "suppress_fee_warnings": true
     },
     "geo": [
         54.1053769,
         10.8157308
     ],
-    "information": "http://www.stadt-neustadt.de/stadtbuecherei",
+    "information": "https://info.opacapp.de/neustadt.html",
     "library_id": 5863,
     "state": "Schleswig-Holstein",
     "title": "Stadtb\u00fccherei"

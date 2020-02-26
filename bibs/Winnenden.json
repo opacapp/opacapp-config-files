@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "Petra Durst-Benning am 22.01.2020 in der Alten Kelter: Karten hier in der Stadtb\u00fccherei",
+    "_notice_text": "Am Freitag, 6. M\u00e4rz 2020 um 15.00 Uhr Kindertheater \"Mein Freund Charlie\" in der Stadtb\u00fccherei",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -31,7 +31,7 @@
         "mediatypes": {
             "ebook.gif": "EBOOK"
         },
-        "onleihe": "https://www4.onleihe.de/rems-murr",
+        "onleihe": "https://www.onleihe.de/rems-murr",
         "onleihe_libraryId": "1094",
         "reservationtable": {
             "author": 0,

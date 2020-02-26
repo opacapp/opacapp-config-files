@@ -6,47 +6,20 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Rottweil",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 6,
-            "returndate": 4,
-            "status": 5,
-            "title": 1
-        },
-        "baseurl": "https://wwwopac.rz-kiru.de/rottweil",
-        "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": 0,
-            "location": 3,
-            "reservations": -1,
-            "returndate": 2,
-            "status": 1
-        },
+        "baseurl": "https://open.rz-kiru.de/rottweil",
         "customssl": true,
         "libopacplus": true,
-        "mediatypes": {
-            "eaudiokl.gif": "MP3",
-            "ebookkl.gif": "EBOOK",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "munzkl.gif": "EDOC"
-        },
         "onleihe": "https://www1.onleihe.de/schwalbe",
         "onleihe_libraryId": "398",
-        "reservationtable": {
-            "author": 0,
-            "availability": 3,
-            "branch": -1,
-            "cancelurl": 4,
-            "expirationdate": -1,
-            "title": 1
+        "urls": {
+            "account": "Leserkonto",
+            "advanced_search": "Mediensuche/erweiterte-Suche",
+            "new_acq": "neue-Medien",
+            "simple_search": "Mediensuche/einfache-Suche"
         }
     },
     "geo": [
