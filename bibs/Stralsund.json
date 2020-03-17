@@ -13,6 +13,9 @@
         "api_enable": false,
         "baseurl": "https://katalog.stralsund.de",
         "customssl": true,
+        "mediatypes": {
+            "artchap-digital": "EDOC"
+        },
         "reservation_branch_choice": true,
         "reservation_copy_choice": false,
         "urls": {
