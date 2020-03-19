@@ -15,6 +15,7 @@
         "baseurl": "https://www.kornhausbibliotheken.ch",
         "calendar": "https://www.kornhausbibliotheken.ch/DesktopModules/Events/EventVCal.aspx?ItemID=0&Mid=365&tabid=44",
         "calendarparser": "ical",
+        "customssl": true,
         "onleihe": "https://dibibe.onleihe.com/dibibe",
         "onleihe_libraryId": "666",
         "urls": {
