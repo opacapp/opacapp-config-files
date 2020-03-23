@@ -12,7 +12,7 @@
     "data": {
         "baseurl": "https://arena.stabi-ludwigsburg.de/web/arena",
         "libopacplus": true,
-        "onleihe": "http://www4.onleihe.de/lb",
+        "onleihe": "https://www.onleihe.de/lb",
         "onleihe_libraryId": "76"
     },
     "geo": [
