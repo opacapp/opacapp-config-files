@@ -6,17 +6,24 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": false,
-    "api": "netbiblio",
+    "api": "open",
     "city": "Bern",
     "country": "Schweiz",
     "data": {
-        "baseurl": "https://katalog.kob.ch/NetBiblio",
+        "apikey": "538e8191-3554-41ff-9cda-d0d62158fcc8",
+        "apiurl": "https://open.kornhausbibliotheken.ch:8316/RESTv1",
+        "baseurl": "https://www.kornhausbibliotheken.ch",
         "calendar": "https://www.kornhausbibliotheken.ch/DesktopModules/Events/EventVCal.aspx?ItemID=0&Mid=365&tabid=44",
         "calendarparser": "ical",
         "customssl": true,
-        "libopacplus": true,
         "onleihe": "https://dibibe.onleihe.com/dibibe",
-        "onleihe_libraryId": "666"
+        "onleihe_libraryId": "666",
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "Katalogsuche/Neuheiten.aspx",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
     },
     "geo": [
         46.9487909,
