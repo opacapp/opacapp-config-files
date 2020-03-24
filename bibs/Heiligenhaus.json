@@ -6,7 +6,7 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "open",
+    "api": "bibliotheca",
     "city": "Heiligenhaus",
     "country": "Deutschland",
     "data": {
@@ -18,7 +18,7 @@
             "title": 2
         },
         "api_enable": true,
-        "apikey": "09ec1ade-79c5-4c3c-a08c-6d7e008c7eeb",
+        "apikey": "80c98134-bb3b-4bfc-b72f-099585660dda",
         "apiurl": "https://restapi.heiligenhaus.de:8316/RESTv1",
         "baseurl": "https://smartbib.monheim.de",
         "copiestable": {
