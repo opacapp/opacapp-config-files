@@ -20,7 +20,7 @@
         "api_enable": true,
         "apikey": "09ec1ade-79c5-4c3c-a08c-6d7e008c7eeb",
         "apiurl": "https://restapi.heiligenhaus.de:8316/RESTv1",
-        "baseurl": "https://restapi.heiligenhaus.de",
+        "baseurl": "https://restapi.heiligenhaus.de:8316",
         "copiestable": {
             "barcode": 0,
             "department": 2,
