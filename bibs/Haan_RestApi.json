@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Haan",
+    "country": "Deutschland",
+    "data": {
+        "api_enable": true,
+        "apikey": "d28f57e6-913d-488b-acfa-5a0d0332ca22",
+        "apiurl": "https://biblio.stadt-haan.de:8316/RESTv1",
+        "baseurl": "https://biblio.stadt-haan.de",
+        "libopacplus": "true"
+    },
+    "geo": [
+        51.1932379,
+        7.0090636
+    ],
+    "information": "http://www.haan.de/index.phtml?mNavID=1581.1&sNavID=1581.74&La=1",
+    "library_id": 3512,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
