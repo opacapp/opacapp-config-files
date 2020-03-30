@@ -13,7 +13,7 @@
         "api_enable": true,
         "apikey": "d28f57e6-913d-488b-acfa-5a0d0332ca22",
         "apiurl": "https://biblio.stadt-haan.de:8316/RESTv1",
-        "baseurl": "https://biblio.stadt-haan.de",
+        "baseurl": "https://biblio.stadt-haan.de:8316",
         "libopacplus": "true"
     },
     "geo": [
