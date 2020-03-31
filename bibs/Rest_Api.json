@@ -4,9 +4,9 @@
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
-    "_version_required": 0,
+    "_version_required": 10,
     "account_supported": true,
-    "api": "open",
+    "api": "OPEN",
     "city": "Hilden",
     "country": "Deutschland",
     "data": {
