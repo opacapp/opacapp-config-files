@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -57,7 +57,7 @@
         53.02438,
         8.72675
     ],
-    "information": "http://bibliothek.stuhr.de/read/info.html",
+    "information": "/read/info.html",
     "library_id": 7517,
     "state": "Niedersachsen",
     "title": "Bibliothek"

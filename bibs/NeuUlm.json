@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -53,7 +53,7 @@
         48.3940236,
         10.0034433
     ],
-    "information": "https://webopac.neu-ulm.de/read/info.html",
+    "information": "/../read/info.html",
     "library_id": 5723,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"

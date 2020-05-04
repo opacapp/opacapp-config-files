@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -48,7 +48,7 @@
         51.41813,
         9.65436
     ],
-    "information": "http://www.buecherei.hann.muenden.de/read/info.html",
+    "information": "/read/info.html",
     "library_id": 3617,
     "state": "Niedersachsen",
     "title": "Stadtb\u00fccherei"
