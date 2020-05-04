@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -28,7 +28,7 @@
         49.4822686,
         9.6395128
     ],
-    "information": "/../read-boxberg/info.html",
+    "information": "https://web-opac.kivbf.de/read-boxberg/info.html",
     "library_id": 1853,
     "state": "Baden-W\u00fcrttemberg",
     "title": "Mediothek"
