@@ -13,7 +13,7 @@
         "baseurl": "https://webopac.braunschweig.de/webOPACClient",
         "customssl": true,
         "libopacplus": true,
-        "onleihe": "https://www4.onleihe.de/braunschweig",
+        "onleihe": "https://www.onleihe.de/braunschweig",
         "onleihe_libraryId": "448",
         "onleihe_singleLibrary": "yes",
         "suppress_fee_warnings": true
