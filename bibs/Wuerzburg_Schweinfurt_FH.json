@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "touchpoint",
     "city": "W\u00fcrzburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://recherche.bibkatalog.de/InfoGuideClient.fwssis",
-        "homebranch": "0",
-        "startparams": "Login=wofwsw"
+        "baseurl": "https://recherche.bibkatalog.de/TouchPoint",
+        "customssl": true,
+        "startparams": "View=wofwsw&Language=de&Branch=0"
     },
     "geo": [
         49.7915953,
         9.9535715
     ],
-    "information": "http://bibliothek.fhws.de/zeiten.html",
+    "information": "https://bibliothek.fhws.de/services/oeffnungszeiten/",
     "library_id": 9249,
     "state": "Bayern",
     "title": "Hochschulbibliothek"
