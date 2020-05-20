@@ -6,17 +6,11 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "biber1992",
+    "api": "bibliotheca",
     "city": "Bargteheide",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bargteheide.bibdia-hosts.de",
-        "opacdir": "opac",
-        "searchtable": [
-            1,
-            2,
-            3
-        ]
+        "baseurl": "https://bargteheide.bibliotheca-open.de/"
     },
     "geo": null,
     "information": "https://barbi636.jimdo.com/",

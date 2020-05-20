@@ -27,6 +27,18 @@
             "location": 2,
             "status": 4
         },
+        "mediatypes": {
+            "0": "ALL",
+            "10": "MAP",
+            "11": "DVD",
+            "20": "AUDIOBOOK",
+            "24": "BLURAY",
+            "26": "GAME_CONSOLE",
+            "3": "CD_SOFTWARE",
+            "6": "CD_MUSIC",
+            "8": "SCORE_MUSIC",
+            "9": "BOARDGAME"
+        },
         "opacdir": "opax",
         "searchtable": [
             2,

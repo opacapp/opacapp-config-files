@@ -11,6 +11,20 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "http://bad-nauheim.bibdia-hosts.de",
+        "mediatypes": {
+            "MTYP0": "ALL",
+            "MTYP1": "BOOK",
+            "MTYP2": "MAGAZINE",
+            "MTYP3": "CD_SOFTWARE",
+            "MTYP4": "MOVIE",
+            "MTYP5": "AUDIO_CASSETTE",
+            "MTYP6": "CD_MUSIC",
+            "MTYP9": "BOARDGAME",
+            "MTYP10": "MAP",
+            "MTYP11": "DVD",
+            "MTYP24": "BLURAY",
+            "MTYP26": "GAME_CONSOLE"
+        },
         "opacdir": "opax",
         "searchtable": [
             2,

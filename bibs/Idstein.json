@@ -10,7 +10,17 @@
     "city": "Idstein",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://stadtbuecherei.idstein.de",
+        "baseurl": "https://stadtbuecherei.idstein.de",
+        "mediatypes": {
+            "0": "ALL",
+            "1": "BOOK",
+            "11": "DVD",
+            "19": "BOOK",
+            "2": "MAGAZINE",
+            "4": "MOVIE",
+            "5": "AUDIO_CASSETTE",
+            "6": "CD"
+        },
         "opacdir": "opax",
         "searchtable": [
             2,
