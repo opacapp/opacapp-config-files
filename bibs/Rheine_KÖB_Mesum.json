@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Rheine",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.bistum-muenster.de/mesum",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 5,
+            "status": 3
+        }
+    },
+    "displayname": "K\u00d6B St. Johannes Baptist Rheine-Mesum",
+    "geo": [
+        52.2280214,
+        7.4908797
+    ],
+    "information": "http://www.buecherei-mesum.de/Aktuelles.html",
+    "library_id": 6648,
+    "state": "Nordrhein-Westfalen",
+    "title": "K\u00d6B St. Johannes Baptist Mesum"
+}

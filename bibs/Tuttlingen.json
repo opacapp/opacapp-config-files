@@ -1,0 +1,54 @@
+{
+    "_active": true,
+    "_notice_text": "Wir haben wieder ge\u00f6ffnet! Bitte die eingeschr\u00e4nkten \u00d6ffnungszeiten beachten:\r\n\r\nMontags geschlossen\r\nDienstag und Mittwoch: 10:00 - 13:30 Uhr\r\nDonnerstag und Freitag: 10:00 - 13:30 Uhr und 14:30 - 18:00 Uhr\r\nSamstags geschlossen\r\n\r\nWICHTIGE INFORMATIONEN ZUM BESUCH\r\n\r\n- Medien k\u00f6nnen wieder ausgeliehen und zur\u00fcckgegeben werden.\r\n- Bitte den Besuch m\u00f6glichst kurz halten\r\n- Das Tragen eines Mundschutzes innerhalb der R\u00e4umlichkeiten ist verpflichtend (Masken k\u00f6nnen f\u00fcr 4\u20ac/St\u00fcck am Eingang erworben werden)\r\n- Der vorgeschriebene Mindestabstand von 1,5 Metern zur n\u00e4chsten Person ist einzuhalten\r\n- Der Einlass ist begrenzt, Wartezeiten k\u00f6nnen daher nicht ausgeschlossen werden\r\n- Bis auf weiteres ist die Nutzung folgender Angebote nicht m\u00f6glich: Internet-PC-Arbeitspl\u00e4tze, WLAN, Kopier- und Scan-Ger\u00e4t, Lern- und      Lesepl\u00e4tze, Zeitungen lesen.",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.tuttlingen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Tuttlingen",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "title": 2
+        },
+        "baseurl": "https://webopac.e-tuttlingen.de/webopac07",
+        "copiestable": {
+            "branch": 3,
+            "location": 0,
+            "returndate": 2,
+            "status": 1
+        },
+        "customssl": true,
+        "libopacplus": true,
+        "mediatypes": {
+            "eaudiokl.gif": "MP3",
+            "ebookkl.gif": "EBOOK",
+            "epaperkl.gif": "EDOC",
+            "evideokl.gif": "EVIDEO",
+            "mCDRomS.gif": "CD_SOFTWARE",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mFilmS.gif": "MOVIE"
+        },
+        "onleihe": "https://www1.onleihe.de/schwalbe",
+        "onleihe_libraryId": "645",
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
+    },
+    "geo": [
+        47.9835799,
+        8.8168575
+    ],
+    "information": "https://info.opacapp.net/tuttlingen.html",
+    "library_id": 7717,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
