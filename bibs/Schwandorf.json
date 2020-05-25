@@ -6,35 +6,19 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Schwandorf",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "prolongurl": 3,
-            "returndate": 2,
-            "title": 1
-        },
-        "baseurl": "https://bibliothek.schwandorf.de/webopac",
-        "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "department": 2,
-            "location": 1,
-            "returndate": 5,
-            "status": 3
-        },
-        "mediatypes": {
-            "OL24B.gif": "EBOOK",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD"
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": 2,
-            "cancelurl": 3,
-            "title": 1
+        "baseurl": "https://bibliothek.schwandorf.de/",
+        "libopacplus": true,
+        "onleihe": "https://ostbayern.onleihe.de/verbund_ostbayern",
+        "onleihe_libraryId": "389",
+        "urls": {
+            "account": "Meine-Bibliothek/Mein-Konto",
+            "advanced_search": "Bibliothek/Mediensuche/Erweiterte-Suche",
+            "new_acq": "Mediensuche/Medientipps",
+            "simple_search": "Bibliothek/Mediensuche"
         }
     },
     "geo": [
