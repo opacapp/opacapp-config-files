@@ -12,7 +12,7 @@
     "data": {
         "baseurl": "https://recherche.bibkatalog.de/TouchPoint",
         "customssl": true,
-        "startparams": "View=fws&Language=de&Branch=0"
+        "startparams": "View=wofwsw&Language=de&Branch=0"
     },
     "geo": [
         49.7915953,
