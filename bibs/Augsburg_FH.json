@@ -6,13 +6,13 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "touchpoint",
     "city": "Augsburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://infoguide.hs-augsburg.de/InfoGuideClient.fhasis",
+        "baseurl": "https://fhatp20.bib-bvb.de/TouchPoint",
         "libopacplus": true,
-        "startparams": "Login=wofha",
+        "startparams": "View=fha",
         "suppress_fee_warnings": true
     },
     "displayname": "Bibliothek der Hochschule Augsburg",
