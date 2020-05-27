@@ -10,7 +10,7 @@
     "city": "Brunsb\u00fcttel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://brunsbuettel.iopac.de"
+        "baseurl": "http://buchbrb.brunsbuettel.de"
     },
     "geo": [
         53.90107,
