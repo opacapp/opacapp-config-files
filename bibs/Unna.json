@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://ekvw.cidoli.de",
+        "baseurl": "https://ekvw.cidoli.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,7 +25,7 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "w_ekvw_unna",
+        "db": "w_unna",
         "mediatypes": {
             "Bild_PI.gif": "ART",
             "Buch_PI.gif": "BOOK",

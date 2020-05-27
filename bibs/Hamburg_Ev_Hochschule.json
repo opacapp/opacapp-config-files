@@ -17,7 +17,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://ev-hochschule-hh2.cidoli.de",
+        "baseurl": "https://ev-hochschule-hh.cidoli.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,

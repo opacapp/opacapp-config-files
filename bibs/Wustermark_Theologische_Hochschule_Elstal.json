@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://elstal.cidoli.de",
+        "baseurl": "https://elstal.cidoli.de",
         "copiestable": {
             "branch": 3,
             "department": 1,

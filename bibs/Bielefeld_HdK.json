@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://bielefeld.cidoli.de",
+        "baseurl": "https://bielefeld.cidoli.de",
         "copiestable": {
             "branch": 3,
             "department": 2,
