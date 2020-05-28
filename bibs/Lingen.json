@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -23,7 +23,7 @@
         "baseurl": "http://lingen.bibdia-hosts.de",
         "mediatypes": {
             "11": "DVD",
-            "12": "AUDIBOOK",
+            "12": "AUDIOBOOK",
             "13": "BOOK",
             "2": "MAGAZINE",
             "3": "CD_SOFTWARE",
