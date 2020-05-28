@@ -10,7 +10,7 @@
     "city": "Augsburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://fhatp20.bib-bvb.de/TouchPoint",
+        "baseurl": "https://infoguide.hs-augsburg.de/TouchPoint",
         "libopacplus": true,
         "startparams": "View=fha",
         "suppress_fee_warnings": true
