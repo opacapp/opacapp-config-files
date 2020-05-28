@@ -10,7 +10,7 @@
     "city": "Gronau/Westf.",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sb-gronau.lmscloud.net/"
+        "baseurl": "https://sb-gronau.lmscloud.net"
     },
     "geo": [
         52.21091,

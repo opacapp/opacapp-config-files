@@ -12,7 +12,6 @@
     "data": {
         "baseurl": "https://stadtbuecherei.idstein.de",
         "mediatypes": {
-            "0": "ALL",
             "1": "BOOK",
             "11": "DVD",
             "19": "BOOK",

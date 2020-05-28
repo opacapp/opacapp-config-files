@@ -31,7 +31,6 @@
             "status": 4
         },
         "mediatypes": {
-            "0": "ALL",
             "1": "BOOK",
             "10": "MAP",
             "11": "DVD",

@@ -21,9 +21,6 @@
             "title": 7
         },
         "baseurl": "http://www.stadtbuecherei.hameln.de",
-        "mediatypes": {
-            "0": "ALL"
-        },
         "opacdir": "opax",
         "searchtable": [
             2,

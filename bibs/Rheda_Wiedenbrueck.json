@@ -21,7 +21,6 @@
             "status": 3
         },
         "mediatypes": {
-            "0": "ALL",
             "1": "BOOK",
             "11": "DVD",
             "12": "ART",

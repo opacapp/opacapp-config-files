@@ -12,7 +12,6 @@
     "data": {
         "baseurl": "https://landesbibliothek.gl.ch",
         "mediatypes": {
-            "0": "ALL",
             "1": "BOOK",
             "10": "MAP",
             "11": "DVD",
@@ -26,8 +25,7 @@
         "searchtable": [
             2,
             3,
-            4,
-            5
+            4
         ]
     },
     "geo": [

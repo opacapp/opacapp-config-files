@@ -28,7 +28,6 @@
             "status": 4
         },
         "mediatypes": {
-            "0": "ALL",
             "10": "MAP",
             "11": "DVD",
             "20": "AUDIOBOOK",

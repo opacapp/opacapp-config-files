@@ -5,12 +5,16 @@
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
-    "account_supported": true,
-    "api": "bibliotheca",
+    "account_supported": false,
+    "api": "open",
     "city": "Bargteheide",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bargteheide.bibliotheca-open.de/"
+        "baseurl": "https://bargteheide.bibliotheca-open.de",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche.aspx",
+            "simple_search": "Mediensuche/Einfache-Suche.aspx"
+        }
     },
     "geo": null,
     "information": "https://barbi636.jimdo.com/",
