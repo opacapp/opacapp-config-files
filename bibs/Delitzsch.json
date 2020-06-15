@@ -10,7 +10,7 @@
     "city": "Delitzsch",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://kultur.delitzsch.de/",
+        "baseurl": "http://kultur.delitzsch.de",
         "urls": {
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"
