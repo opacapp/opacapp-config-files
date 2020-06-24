@@ -1,0 +1,30 @@
+{
+    "_active": true,
+    "_notice_text": "Seit 15. Juni k\u00f6nnen die Bibliotheken unter Einschr\u00e4nkungen wieder betreten werden, bitte informieren Sie sich vor Ort, wir freuen uns auf Sie \u2764\r\n\r\nBitte k\u00fcmmern Sie sich jetzt wieder selbst um Abgabe oder Verl\u00e4ngerung,\r\ndie von Ihnen entliehenen Medien werden von uns nicht mehr automatisch verl\u00e4ngert.\r\n\r\nZus\u00e4tzlich haben wir Kontaktzeiten von 9 - 13 Uhr zum kontaktlosen Abgeben und zum Bestellen von Medien, schaun Sie einfach mal vorbei :)",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.schulbibsesslingen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Esslingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://open.rz-kiru.de/schulbib",
+        "customssl": true,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "displayname": "Schulbibliotheken Landkreis Esslingen",
+    "geo": [
+        48.7212576,
+        9.35571370000002
+    ],
+    "information": "https://info.opacapp.de/schulbibliotheken-esslingen.html",
+    "library_id": 9361,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Schulbibliotheken"
+}
