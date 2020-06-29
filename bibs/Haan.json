@@ -13,6 +13,7 @@
         "baseurl": "https://www.bibnet.smartbib.de",
         "copystyle": "smartbib",
         "customssl": true,
+        "hiddenfilters": true,
         "library": "HAAN"
     },
     "geo": [
