@@ -4,17 +4,16 @@
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
-    "_version_required": 0,
+    "_version_required": 195,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "vufind",
     "city": "Langenfeld/Rheinl.",
     "country": "Deutschland",
     "data": {
-        "api_enable": true,
-        "apikey": "91c53fe5-12c8-4878-9b98-59cd3e38ba40",
-        "apiurl": "https://OPAC.langenfeld.de:8316:8316/RESTv1",
-        "baseurl": "https://OPAC.langenfeld.de:8316:8316",
-        "libopacplus": "true"
+        "baseurl": "https://www.bibnet.smartbib.de",
+        "copystyle": "smartbib",
+        "customssl": true,
+        "library": "LANG"
     },
     "geo": [
         51.1085424,
