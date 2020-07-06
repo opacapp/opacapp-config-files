@@ -10,6 +10,7 @@
     "city": "Bern",
     "country": "Schweiz",
     "data": {
+        "asyncFilters": false,
         "baseurl": "https://katalog.kob.ch/NetBiblio",
         "calendar": "https://www.kornhausbibliotheken.ch/DesktopModules/Events/EventVCal.aspx?ItemID=0&Mid=365&tabid=44",
         "calendarparser": "ical",
