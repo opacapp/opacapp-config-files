@@ -1,17 +1,21 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
-    "account_supported": false,
+    "account_supported": true,
     "api": "open",
     "city": "Frankenthal/Pfalz",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://buergerdienste.frankenthal.de/open",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/metropolbib",
+        "onleihe_libraryId": "322",
         "urls": {
+            "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": ""
         }
