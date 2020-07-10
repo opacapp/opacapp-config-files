@@ -14,7 +14,8 @@
         "copystyle": "smartbib",
         "customssl": true,
         "hiddenfilters": true,
-        "library": "Haan"
+        "library": "HAAN",
+        "library_long": "Haan"
     },
     "geo": [
         51.1932379,
