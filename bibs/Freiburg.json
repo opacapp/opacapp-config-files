@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": "Eingeschr\u00e4nkte \u00d6ffnungszeiten in der Hauptstelle:\r\n\r\nAb Dienstag, den 16. Juni, gelten folgende \u00d6ffnungszeiten:\r\nDienstag bis Freitag 10 bis 19 Uhr\r\nSamstag 10 bis 15 Uhr\r\n\r\nF\u00fcr die Mediothek und die Stadtteilbibliotheken Haslach und Mooswald gelten die bisherigen \u00d6ffnungszeiten, die Zweigstellen befinden sich aber derzeit in den Pfingstferien und sind ab dem 16. Juni wieder zu den gewohnten \u00d6ffnungszeiten f\u00fcr Sie da.\r\n\r\nDer B\u00fccherbus ist mit einem eingeschr\u00e4nkten Fahrplan wieder unterwegs.\r\nUm die Hygiene- und Abstandsregeln im B\u00fccherbus realisieren zu k\u00f6nnen, wurden die Standzeiten verl\u00e4ngert, da nur wenige Personen gleichzeitig den Bus betreten d\u00fcrfen. Zus\u00e4tzlich bietet die Fahrbibliothek den kostenlosen Bestelldienst \u201eMobiler Medienservice\u201c an. Die Titel k\u00f6nnen online recherchiert und zwei Werktage vor dem Ausleihtermin per E-Mail an \r\nfahrbibliothek@stadt.freiburg.de \r\nbestellt werden. Sie werden dann an den aktuell angesteuerten Haltestellen ausgeliefert.\r\n\r\nBitte beachten Sie: Seit Pfingsten gelten wieder die festgesetzten Ausleihfristen und der regul\u00e4re Mahnrhythmus gem\u00e4\u00df unserer Satzung.\r\n\r\nEingeschr\u00e4nkter Service aufgrund der COVID-19-Pr\u00e4vention:\r\n\r\n    M\u00f6glich:\r\n        R\u00fcckgabe von Medien\r\n        Ausleihe von 10 Medien\r\n        Abholung von vormerkten Medien\r\n        Neuanmeldungen\r\n        Verl\u00e4ngerung des Bibliothekausweises\r\n        kurze Orientierungsberatung\r\n        Auskunftsberatung \u00fcber Servicetelefon: 0761/201-2220\r\n\r\n    Nicht m\u00f6glich:\r\n        Vor-Ort-Nutzung der Medien\r\n        Nutzung der Internet-PCs und der Arbeitspl\u00e4tze\r\n        Bezahlung von Geb\u00fchren\r\n        Nutzung des Kopierers\r\n        L\u00e4ngerer Aufenthalt\r\n\r\nBitte beachten:\r\n\r\n    Zutrittsbeschr\u00e4nkungen: 40 Personen gleichzeitig in der Hauptstelle, 10 Personen gleichzeitig in der Mediothek\r\n    Kinder unter 10 J. d\u00fcrfen nur mit einer erwachsenen Person die Bibliothek besuchen\r\n    Zutritt ist nur mit Mund-Nasenschutz gestattet\r\n    Beachten Sie die Boden- und Abstandsmarkierungen\r\n    Halten Sie 1,50 m Abstand zu Ihren Mitmenschen",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.freiburg",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Freiburg (Breisgau)",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.stadtbibliothek.freiburg.de/webOPACClient",
+        "libopacplus": true,
+        "onleihe": "http://www3.onleihe.de/freiburg",
+        "onleihe_libraryId": "145",
+        "onleihe_singleLibrary": true,
+        "suppress_fee_warnings": true
+    },
+    "displayname": "Stadtbibliothek Freiburg",
+    "geo": [
+        47.9960214,
+        7.8532714
+    ],
+    "information": "https://info.opacapp.de/freiburg.html",
+    "library_id": 8668,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
