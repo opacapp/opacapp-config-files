@@ -13,7 +13,9 @@
         "baseurl": "https://www.bibnet.smartbib.de",
         "copystyle": "smartbib",
         "customssl": true,
-        "library": "HAAN"
+        "hiddenfilters": true,
+        "library": "MONH",
+        "library_long": "Monheim"
     },
     "geo": [
         51.08544,
