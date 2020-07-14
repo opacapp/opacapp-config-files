@@ -13,7 +13,9 @@
         "baseurl": "https://www.bibnet.smartbib.de",
         "copystyle": "smartbib",
         "customssl": true,
-        "library": "HEIL"
+        "hiddenfilters": true,
+        "library": "HEIL",
+        "library_long": "Heiligenhaus"
     },
     "geo": null,
     "information": "https://www.heiligenhaus.de/index.php?id=65",
