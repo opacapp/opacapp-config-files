@@ -31,6 +31,7 @@
             "status": 2
         },
         "customssl": true,
+        "libopacplus": "true",
         "mediatypes": {
             "BLURAY_30px.jpg": "BLURAY",
             "Buch_30px.jpg": "BOOK",
