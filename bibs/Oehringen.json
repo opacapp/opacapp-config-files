@@ -41,6 +41,8 @@
             "Musik_CD_30px.jpg": "CD_MUSIC",
             "Picto-klein.gif": "EBOOK"
         },
+        "onleihe": "https://www.onleihe.de/heilbronn",
+        "onleihe_libraryId": "138",
         "reservationtable": {
             "author": 0,
             "availability": 2,
