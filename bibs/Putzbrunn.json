@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Putzbrunn",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/putzbrunn",
+        "customssl": true
+    },
+    "geo": [
+        48.0740764,
+        11.715041
+    ],
+    "information": "https://www.putzbrunn.de/index.php?id=0,46",
+    "library_id": 6442,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}

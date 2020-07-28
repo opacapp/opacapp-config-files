@@ -1,0 +1,32 @@
+{
+    "_active": true,
+    "_notice_text": "25.06.2020: Ab sofort wird die Vor-Ort-Nutzung der Stadtb\u00fccherei ausgeweitet. Zeitungen und Zeitschriften k\u00f6nnen in der B\u00fccherei gelesen werden. Die Nutzung von Sitzpl\u00e4tzen zum Lernen, Lesen und Arbeiten ist wieder m\u00f6glich - unter Beachtung von Abstands- und Hygieneregeln. Internet-PCs und das Kopiertger\u00e4t im 1. OG k\u00f6nnen wieder genutzt werden. \r\nMund-Nasen-Schutz erforderlich.\r\nGaming-Bereich geschlossen.",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Frankenthal/Pfalz",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://buergerdienste.frankenthal.de/open",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/metropolbib",
+        "onleihe_libraryId": "322",
+        "urls": {
+            "account": "Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": ""
+        }
+    },
+    "displayname": "Stadtb\u00fccherei Frankenthal",
+    "geo": [
+        49.5340652,
+        8.3520514
+    ],
+    "information": "https://info.opacapp.net/frankenthal.html",
+    "library_id": 2935,
+    "state": "Rheinland-Pfalz",
+    "title": "Stadtb\u00fccherei"
+}

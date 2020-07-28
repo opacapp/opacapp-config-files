@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Haiterbach",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://web-opac.kivbf.de/haiterbach",
+        "copiestable": {
+            "barcode": 2,
+            "branch": 0,
+            "department": -1,
+            "location": 5,
+            "reservations": -1,
+            "returndate": 3,
+            "status": 4
+        },
+        "customssl": true
+    },
+    "geo": [
+        48.52432,
+        8.64646
+    ],
+    "information": "http://www.haiterbach.de/index.php?id=107",
+    "library_id": 3561,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadt- und Schulb\u00fccherei"
+}

@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 209,
+    "account_supported": true,
+    "api": "slim",
+    "city": "Pune",
+    "country": "India",
+    "data": {
+        "baseurl": "https://opacappapi.azurewebsites.net/",
+        "itemdetail_url": "http://117.218.165.146/iOPAC/ItemDetails.aspx?id="
+    },
+    "geo": [
+        18.51133025,
+        73.7912612975207
+    ],
+    "information": "http://www.slimkm.in/",
+    "library_id": 9384,
+    "state": "Maharashtra",
+    "title": "SLIM Test Library"
+}

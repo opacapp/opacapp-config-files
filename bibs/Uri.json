@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.uri",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Altdorf",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "https://www.winmedio.net/kbu",
+        "libopacplus": true,
+        "onleihe": "https://dibizentral.onleihe.com/dibizentral",
+        "onleihe_libraryId": "743",
+        "onleihe_search_url": "dibizentral.ch"
+    },
+    "displayname": "Kantonsbibliothek Uri Stiftung Altdorf",
+    "geo": [
+        46.8809378,
+        8.6411776
+    ],
+    "information": "https://info.opacapp.net/uri.html",
+    "library_id": 13,
+    "state": "Uri",
+    "title": "Kantonsbibliothek Uri Stiftung"
+}
