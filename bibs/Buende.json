@@ -5,14 +5,13 @@
     "_plus_store_url": null,
     "_support_contract": true,
     "_version_required": 0,
-    "account_supported": true,
+    "account_supported": false,
     "api": "open",
     "city": "B\u00fcnde",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://buende.bibliotheken-in-owl.de",
         "urls": {
-            "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
