@@ -51,7 +51,8 @@
             "cancelurl": 4,
             "expirationdate": 3,
             "title": 1
-        }
+        },
+        "suppress_fee_warnings": true
     },
     "geo": [
         49.2005977,
