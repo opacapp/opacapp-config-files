@@ -10,14 +10,14 @@
     "city": "Pune",
     "country": "India",
     "data": {
-        "baseurl": "https://opacappapi.azurewebsites.net/",
-        "itemdetail_url": "http://117.218.165.146/iOPAC/ItemDetails.aspx?id="
+        "baseurl": "http://52.163.81.37/OPACAPI/",
+        "itemdetail_url": "http://52.163.81.37/iOPAC_API/ItemDetails.aspx?id="
     },
     "geo": [
         18.51133025,
         73.7912612975207
     ],
-    "information": "http://www.slimkm.in/",
+    "information": "https://www.slimkm.com/",
     "library_id": 9384,
     "state": "Maharashtra",
     "title": "SLIM Test Library"
