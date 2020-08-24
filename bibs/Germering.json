@@ -47,6 +47,11 @@
             "5.gif": "AUDIO_CASSETTE",
             "53.gif": "CD",
             "54.gif": "EBOOK",
+            "57.gif": "GAME_CONSOLE",
+            "58.gif": "GAME_CONSOLE",
+            "59.gif": "GAME_CONSOLE",
+            "60.gif": "GAME_CONSOLE",
+            "61.gif": "GAME_CONSOLE",
             "8.gif": "BOARDGAME"
         },
         "onleihe": "https://digibobb.onleihe.de/digibobb",
