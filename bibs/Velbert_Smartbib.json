@@ -13,7 +13,9 @@
         "baseurl": "https://www.bibnet.smartbib.de",
         "copystyle": "smartbib",
         "customssl": true,
-        "library": "HAAN"
+        "hiddenfilters": true,
+        "library": "VELB",
+        "library_long": "Velb"
     },
     "geo": [
         51.3417248,
