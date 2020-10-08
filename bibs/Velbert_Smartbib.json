@@ -17,6 +17,7 @@
         "library": "VELB",
         "library_long": "Velbert"
     },
+    "displayname": "Stadtb\u00fccherei Velbert",
     "geo": [
         51.3417248,
         7.04733
@@ -24,5 +25,5 @@
     "information": "https://stadtbuecherei.velbert.de/startseite",
     "library_id": 8784,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei Forum Niederberg"
+    "title": "Stadtb\u00fccherei"
 }
