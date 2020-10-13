@@ -1,0 +1,17 @@
+{
+    "account_supported": true,
+    "api": "slub",
+    "city": "Dresden",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.slub-dresden.de",
+        "illrenewurl": "https://primoproxybeta.slub-dresden.de/cgi-bin/renewWish.pl"
+    },
+    "geo": [
+        51.028725,
+        13.736718
+    ],
+    "information": "https://www.slub-dresden.de/service/oeffnungszeiten/",
+    "state": "Sachsen",
+    "title": "S\u00e4chsische Landes- und Universit\u00e4tsbibliothek"
+}
