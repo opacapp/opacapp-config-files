@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -20,7 +20,7 @@
             "status": 5,
             "title": 7
         },
-        "baseurl": "https://www.hagen.de",
+        "baseurl": "https://buecherei-katalog.hagen.de",
         "copiestable": {
             "barcode": 2,
             "branch": 1,
