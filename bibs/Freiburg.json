@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": "Informationen zu den aktuellen Corona-Zutrittsbedingungen:\r\n\r\n- Kinder unter 10 J. mit einer erwachsenen Person\r\n- Nur mit einem Bibliothekskorb\r\n- nur mit Mund-Nasenschutz\r\n- beachten Sie die Boden- und Abstandsmarkierungen und halten Sie1,50 m Abstand zu Ihren Mitmenschen\r\n- eingeschr\u00e4nkter Service:\u00b7Ausleihe, R\u00fcckgabe, Abholung von Vormerkungen\u00b7Anmeldungen, Verl\u00e4ngerungen des Bibliotheksausweises",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.freiburg",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Freiburg (Breisgau)",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.stadtbibliothek.freiburg.de/webOPACClient",
+        "libopacplus": true,
+        "onleihe": "http://www3.onleihe.de/freiburg",
+        "onleihe_libraryId": "145",
+        "onleihe_singleLibrary": true,
+        "suppress_fee_warnings": true
+    },
+    "displayname": "Stadtbibliothek Freiburg",
+    "geo": [
+        47.9960214,
+        7.8532714
+    ],
+    "information": "https://info.opacapp.de/freiburg.html",
+    "library_id": 8668,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
