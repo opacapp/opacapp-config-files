@@ -13,7 +13,7 @@
         "baseurl": "https://open.rz-kiru.de/rottweil",
         "customssl": true,
         "libopacplus": true,
-        "onleihe": "https://www1.onleihe.de/schwalbe",
+        "onleihe": "https://www.onleihe.de/schwalbe",
         "onleihe_libraryId": "398",
         "urls": {
             "account": "Leserkonto",
