@@ -13,8 +13,8 @@
         "baseurl": "https://emsdetten.bibliotheca-open.de",
         "urls": {
             "account": "Mein-Konto",
-            "advanced_search": "",
-            "simple_search": "Mediensuche"
+            "advanced_search": "Mediensuche",
+            "simple_search": ""
         }
     },
     "geo": [
