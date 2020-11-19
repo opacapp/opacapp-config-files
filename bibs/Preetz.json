@@ -10,7 +10,7 @@
     "city": "Preetz",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://90.187.52.17"
+        "baseurl": "https://iopac.preetz.de/iopac/index.htm"
     },
     "geo": [
         54.23356,
