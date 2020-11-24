@@ -9,7 +9,19 @@
     "api": "bibliotheca",
     "city": "K\u00f6ngen",
     "country": "Deutschland",
-    "data": {},
+    "data": {
+        "baseurl": "https://wwwopac.rz-kiru.de/koengen",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": 0,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 4,
+            "status": 3
+        },
+        "customssl": true
+    },
     "geo": [
         48.6842352,
         9.3612182
