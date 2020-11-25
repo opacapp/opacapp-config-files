@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -10,7 +10,7 @@
     "city": "Preetz",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://90.187.52.17"
+        "baseurl": "https://iopac.preetz.de/"
     },
     "geo": [
         54.23356,
