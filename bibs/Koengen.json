@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "Infoseite under construction",
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -20,7 +20,8 @@
             "returndate": 4,
             "status": 3
         },
-        "customssl": true
+        "customssl": true,
+        "libopacplus": true
     },
     "geo": [
         48.6842352,
