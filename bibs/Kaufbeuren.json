@@ -10,7 +10,7 @@
     "city": "Kaufbeuren",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://62.154.173.189/webOPACClient",
+        "baseurl": "https://buch.kaufbeuren.de/webOPACClient",
         "libopacplus": true,
         "startparams": "Login=opacint"
     },
