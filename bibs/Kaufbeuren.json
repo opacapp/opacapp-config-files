@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -11,6 +11,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "http://62.154.173.189/webOPACClient",
+        "libopacplus": true,
         "startparams": "Login=opacint"
     },
     "geo": [
