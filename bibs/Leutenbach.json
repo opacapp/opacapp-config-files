@@ -9,7 +9,9 @@
     "api": "koha",
     "city": "Leutenbach",
     "country": "Deutschland",
-    "data": {},
+    "data": {
+        "baseurl": "https://gb-leutenbach.lmscloud.net"
+    },
     "geo": [
         48.8879254,
         9.3926506
