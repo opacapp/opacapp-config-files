@@ -5,13 +5,14 @@
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
-    "account_supported": false,
+    "account_supported": true,
     "api": "open",
     "city": "Reutlingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www5.stadtbibliothek-reutlingen.de",
+        "baseurl": "http://www5.stadtbibliothek-reutlingen.de/",
         "urls": {
+            "account": "Mein-Konto",
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
