@@ -15,7 +15,7 @@
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
-            "new_acq": "Medienempfehlungen",
+            "new_acq": "Mediensuche/Neue-Medien",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
