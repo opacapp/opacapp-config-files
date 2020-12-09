@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": "Ihr B\u00fccherei-Besuch in Corona-Zeiten:\r\nDie Stadtb\u00fccherei Backnang hat unter Einhaltung von Hygienevorschriften mit eingeschr\u00e4nkten Diensten und \u00d6ffnungszeiten f\u00fcr Besucher ge\u00f6ffnet.\r\nVorl\u00e4ufige \u00d6ffnungszeiten der Stadtb\u00fccherei:\r\nMontag\tgeschlossen\r\nDienstag\t14.00 - 18.00 Uhr\r\nMittwoch\t09.00 - 18.00 Uhr\r\nDonnerstag\t14.00 - 18.00 Uhr\r\nFreitag\t        09.00 - 16.00 Uhr\r\nSamstag\tgeschlossen",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -10,15 +10,15 @@
     "city": "Backnang",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www5.stadtbibliothek-reutlingen.de/",
+        "baseurl": "https://open.rz-kiru.de/backnang/",
         "libopacplus": true,
-        "onleihe": "https://www.onleihe.de/neckar-alb",
-        "onleihe_libraryId": 44,
+        "onleihe": "https://www.onleihe.de/rems-murr/",
+        "onleihe_libraryId": 462,
         "urls": {
             "account": "Mein-Konto",
-            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
-            "new_acq": "Mediensuche/Neue-Medien",
-            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+            "advanced_search": "Mediensuche/Erweiterte-Suche.aspx",
+            "new_acq": "Mediensuche/Medientipps",
+            "simple_search": "Mediensuche/Einfache-Suche.aspx"
         }
     },
     "geo": [
