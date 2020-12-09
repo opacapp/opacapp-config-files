@@ -24,7 +24,9 @@
         "libopacplus": true,
         "mediatypes": {
             "247.gif": "EBOOK"
-        }
+        },
+        "onleihe": "https://www.onleihe.de/247online-bibliothek",
+        "onleihe_libraryId": "644"
     },
     "geo": [
         48.6842352,
