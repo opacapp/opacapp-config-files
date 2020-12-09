@@ -21,7 +21,10 @@
             "status": 3
         },
         "customssl": true,
-        "libopacplus": true
+        "libopacplus": true,
+        "mediatypes": {
+            "247.gif": "EBOOK"
+        }
     },
     "geo": [
         48.6842352,
