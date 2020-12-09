@@ -5,13 +5,12 @@
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
-    "account_supported": false,
+    "account_supported": true,
     "api": "open",
     "city": "Reutlingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://www5.stadtbibliothek-reutlingen.de/",
-        "customssl": true,
+        "baseurl": "http://www5.stadtbibliothek-reutlingen.de/",
         "libopacplus": true,
         "urls": {
             "account": "Mein-Konto",
@@ -20,6 +19,7 @@
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
+    "displayname": "Stadtbibliothek Reutlingen",
     "geo": [
         48.4903415,
         9.2106778
