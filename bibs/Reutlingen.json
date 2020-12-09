@@ -12,8 +12,6 @@
     "data": {
         "baseurl": "http://www5.stadtbibliothek-reutlingen.de/",
         "libopacplus": true,
-        "onleihe": "https://www.onleihe.de/neckar-alb",
-        "onleihe_libraryId": 44,
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
