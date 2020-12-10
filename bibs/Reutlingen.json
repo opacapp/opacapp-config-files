@@ -3,7 +3,7 @@
     "_notice_text": "Wir haben ge\u00f6ffnet!\r\n\r\nUnsere Dienstleistungen unter Corona-Bedingungen finden Sie auf der Startseite unserer Website www.stadtbibliothek-reutlingen.de, Facebook und Instagram.\r\n\r\nBleiben Sie gesund!\r\nIhre Stadtbibliothek Reutlingen",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": false,
+    "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
     "api": "open",
