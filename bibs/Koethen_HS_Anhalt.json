@@ -10,6 +10,7 @@
     "city": "K\u00f6then/Anhalt",
     "country": "Deutschland",
     "data": {
+        "account_system": "lbs",
         "baseurl": "https://lhanh.gbv.de",
         "customssl": true,
         "db": "1",
