@@ -6,37 +6,15 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Hechingen",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 1,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 5,
-            "returndate": 3,
-            "status": 4,
-            "title": 2
-        },
-        "baseurl": "https://wwwopac.rz-kiru.de/hechingen",
-        "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": 0,
-            "location": 1,
-            "reservations": -1,
-            "returndate": 3,
-            "status": 2
-        },
-        "reservationtable": {
-            "author": 1,
-            "availability": 3,
-            "branch": -1,
-            "cancelurl": 4,
-            "expirationdate": null,
-            "title": 2
+        "baseurl": "https://open.rz-kiru.de/hechingen",
+        "urls": {
+            "account": "Konto",
+            "advanced_search": "Mediensuche/erweiterte-Suche",
+            "simple_search": "Mediensuche/einfache-Suche"
         }
     },
     "geo": [
