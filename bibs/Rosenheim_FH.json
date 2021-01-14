@@ -6,13 +6,13 @@
     "_support_contract": true,
     "_version_required": 1,
     "account_supported": true,
-    "api": "sisis",
+    "api": "touchpoint",
     "city": "Rosenheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.fh-rosenheim.de/InfoGuideClient.frosis",
+        "baseurl": "https://touchpoint.th-rosenheim.de/TouchPoint",
         "customssl": true,
-        "startparams": "Login=wofro",
+        "startparams": "View=fro",
         "suppress_fee_warnings": true
     },
     "displayname": "TH Rosenheim",
