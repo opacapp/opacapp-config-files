@@ -25,6 +25,7 @@
             "status": 3
         },
         "customssl": true,
+        "libopacplus": true,
         "mediatypes": {
             "cdkl.gif": "AUDIOBOOK",
             "mCasetteS.gif": "AUDIO_CASSETTE",
