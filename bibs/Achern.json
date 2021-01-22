@@ -2,8 +2,8 @@
     "_active": true,
     "_notice_text": "Aufgrund der aktuellen Corona-Verordnung ist die Stadtbibliothek zur Zeit geschlossen. N\u00e4here Informationen unter https://www.achern.de/de/Leben-Lernen/Stadtbibliothek/Aktuelles-Corona",
     "_plus_required": false,
-    "_plus_store_url": null,
-    "_support_contract": false,
+    "_plus_store_url": "http://achern.de/index.php?id=513",
+    "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
@@ -45,7 +45,7 @@
         48.62838,
         8.07162
     ],
-    "information": "http://achern.de/index.php?id=513",
+    "information": "https://info.opacapp.de/achern.html",
     "library_id": 17,
     "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
