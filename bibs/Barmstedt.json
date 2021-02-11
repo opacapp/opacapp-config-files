@@ -6,12 +6,11 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "iopac",
+    "api": "koha",
     "city": "Barmstedt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://iopac.stadtbuecherei-barmstedt.de",
-        "customssl": true
+        "baseurl": "https://sb-barmstedt.lmscloud.net"
     },
     "geo": [
         53.7905563,
