@@ -4,60 +4,16 @@
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.waiblingen",
     "_support_contract": true,
-    "_version_required": 0,
+    "_version_required": 1,
     "account_supported": true,
     "api": "koha",
     "city": "Waiblingen",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 7,
-            "barcode": 4,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 4,
-            "returndate": 3,
-            "status": 8,
-            "title": 7
-        },
-        "baseurl": "http://www.stabue-online.waiblingen.de",
-        "copiestable": {
-            "barcode": 3,
-            "branch": 1,
-            "department": -1,
-            "location": 2,
-            "reservations": 0,
-            "returndate": -1,
-            "status": 4
-        },
-        "mediatypes": {
-            "1": "BOOK",
-            "10": "MAP",
-            "11": "DVD",
-            "19": "BOOK",
-            "2": "MAGAZINE",
-            "24": "BLURAY",
-            "25": "GAME_CONSOLE_WII",
-            "3": "CD_SOFTWARE",
-            "30": "EDOC",
-            "31": "EBOOK",
-            "6": "CD",
-            "9": "BOARDGAME"
-        },
-        "opacdir": "opax",
-        "reservationtable": {
-            "author": 3,
-            "availability": 6,
-            "branch": -1,
-            "cancelurl": -1,
-            "expirationdate": 5,
-            "title": 3
-        },
-        "searchtable": [
-            2,
-            3,
-            4
-        ]
+        "baseurl": "https://sb-waiblingen.lmscloud.net",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/rems-murr",
+        "onleihe_libraryId": "468"
     },
     "geo": [
         48.8320277,
