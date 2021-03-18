@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Schmalkalden",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://80.153.179.99",
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        50.7218206,
+        10.4500381
+    ],
+    "information": "http://www.schmalkalden.de/kultur-freizeit/kultur-sport-soziales/bibliothek-schmalkalden.html",
+    "library_id": 7021,
+    "state": "Th\u00fcringen",
+    "title": "Stadt- und Kreisbibliothek \"Heinrich Heine\""
+}
