@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "vufind",
+    "city": "Canberra",
+    "country": "Australia",
+    "data": {
+        "baseurl": "https://catalogue.nla.gov.au"
+    },
+    "geo": [
+        -35.2966239,
+        149.1298218
+    ],
+    "information": "https://www.nla.gov.au/visit",
+    "library_id": 9378,
+    "state": "Australian Capital Territory",
+    "title": "National Library"
+}
