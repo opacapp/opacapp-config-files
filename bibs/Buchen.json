@@ -10,11 +10,12 @@
     "city": "Buchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bibliotheken.kivbf.de/buchen",
+        "baseurl": "https://bibliotheken.kivbf.de/buchen",
         "customssl": true,
         "urls": {
-            "advanced_search": "Mediensuche.aspx",
-            "simple_search": "Mediensuche.aspx"
+            "account": "Ihr-Konto",
+            "advanced_search": "Mediensuche",
+            "simple_search": "Mediensuche"
         }
     },
     "geo": [
