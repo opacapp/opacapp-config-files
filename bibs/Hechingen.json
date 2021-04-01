@@ -10,7 +10,7 @@
     "city": "Hechingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/hechingen",
+        "baseurl": "https://bibliothek.komm.one/hechingen",
         "urls": {
             "account": "Konto",
             "advanced_search": "Mediensuche/erweiterte-Suche",
