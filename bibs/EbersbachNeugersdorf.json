@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://bibo.ebersbach-neugersdorf.de",
+        "baseurl": "http://bibo.ebersbach-neugersdorf.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -41,7 +41,7 @@
         51.0,
         14.6
     ],
-    "information": "http://www.ebersbach-neugersdorf.de/Bibliotheken",
+    "information": "http://bibliothek.ebersbach-neugersdorf.de",
     "library_id": 8908,
     "state": "Sachsen",
     "title": "Stadtbibliothek"
