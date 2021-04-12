@@ -6,10 +6,20 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Eberbach",
     "country": "Deutschland",
-    "data": {},
+    "data": {
+        "baseurl": "https://bibliotheken.kivbf.de/eberbach",
+        "customssl": true,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Mediensuche",
+            "new_acq": "Neuerwerbungen"
+        }
+    },
     "geo": [
         49.463279,
         8.9831899
