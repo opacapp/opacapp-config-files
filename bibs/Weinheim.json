@@ -10,9 +10,14 @@
     "city": "Weinheim/Bergstra\u00dfe",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bibliotheken.kivbf.de/weinheim",
+        "baseurl": "https://bibliotheken.kivbf.de/weinheim",
+        "customssl": true,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
         "urls": {
+            "account": "Meine-Bibliothek",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "Medientipps",
             "simple_search": "Mediensuche"
         }
     },
