@@ -9,7 +9,18 @@
     "api": "open",
     "city": "Eppelheim",
     "country": "Deutschland",
-    "data": {},
+    "data": {
+        "baseurl": "https://www.eppelheim.de/webopac/",
+        "customssl": true,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "Mediensuche/Neue-Medien-Bestandseinblicke",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
     "geo": [
         49.3953755,
         8.6317306
