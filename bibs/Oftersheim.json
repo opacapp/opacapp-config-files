@@ -10,9 +10,14 @@
     "city": "Oftersheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bibliotheken.kivbf.de/oftersheim",
+        "baseurl": "https://bibliotheken.kivbf.de/oftersheim",
+        "customssl": true,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
         "urls": {
+            "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "Neuerwerbungen",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
