@@ -11,7 +11,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://open.rz-kiru.de/weinstadt",
-        "customssl": true,
+        "customssMediensuche/NeueMedien.aspxl": true,
         "libopacplus": true,
         "onleihe": "https://www4.onleihe.de/rems-murr",
         "onleihe_libraryId": "469",
