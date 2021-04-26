@@ -10,7 +10,7 @@
     "city": "Sendenhorst",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.bistum-muenster.de/sendenhorst",
+        "baseurl": "https://webopac.bistum-muenster.de/sendenhorst/woload.asp?DB=OPAC_Sendenhorst&startzwst=SEN",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -28,5 +28,5 @@
     "information": "https://www.st-martinus-und-ludgerus.de/kirchen-einrichtungen/buecherei-st-martin/",
     "library_id": 7250,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B St. Martin"
+    "title": "B\u00FCcherei St. Martin"
 }
