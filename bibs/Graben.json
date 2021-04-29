@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Graben",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/graben",
+        "customssl": true
+    },
+    "geo": [
+        48.1885044,
+        10.8252601
+    ],
+    "information": "http://www.graben.de/index.php?id=162,10",
+    "library_id": 3320,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
