@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Immenstadt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/immenstadt/index.aspx",
+        "customssl": true
+    },
+    "geo": [
+        47.55993,
+        10.21864
+    ],
+    "information": "http://www.stadt-immenstadt.de/staedtische-einrichtungen/stadtbuecherei.html",
+    "library_id": 4136,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}

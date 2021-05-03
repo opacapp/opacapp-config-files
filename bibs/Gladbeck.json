@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 195,
+    "account_supported": true,
+    "api": "vufind",
+    "city": "Gladbeck",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.bib-kreisre.de",
+        "copystyle": "smartbib",
+        "library": "GLAD"
+    },
+    "geo": [
+        51.5713297,
+        6.9896315
+    ],
+    "information": "http://www.stadtbuecherei-gladbeck.de/#home",
+    "library_id": 8673,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}

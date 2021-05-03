@@ -1,0 +1,20 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "koha",
+    "city": "F\u00fcrstenwalde/Spree",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://sb-fuerstenwalde.lmscloud.net"
+    },
+    "geo": null,
+    "information": "http://bibliothek.stadt-fuerstenwalde.de/seite/195379/service.html",
+    "library_id": 3072,
+    "state": "Brandenburg",
+    "title": "Stadtbibliothek"
+}
