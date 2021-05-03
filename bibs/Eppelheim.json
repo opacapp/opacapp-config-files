@@ -5,28 +5,28 @@
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
-    "account_supported": false,
+    "account_supported": true,
     "api": "open",
-    "city": "Oftersheim",
+    "city": "Eppelheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/oftersheim",
+        "baseurl": "https://www.eppelheim.de/webopac/",
         "customssl": true,
         "reservation_branch_choice": true,
         "reservation_copy_choice": false,
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
-            "new_acq": "Neuerwerbungen",
+            "new_acq": "Mediensuche/Neue-Medien-Bestandseinblicke",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
-        49.3704439,
-        8.5818038
+        49.3953755,
+        8.6317306
     ],
-    "information": "http://www.oftersheim.de/gemeinde/einrichtungen/buecherei/",
-    "library_id": 6148,
+    "information": "http://www.eppelheim.de/pb/,Lde/Start/Leben+in+Eppelheim/Stadtbibliothek+Eppelheim.html",
+    "library_id": 2663,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

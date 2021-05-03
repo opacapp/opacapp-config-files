@@ -5,28 +5,28 @@
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
-    "account_supported": false,
+    "account_supported": true,
     "api": "open",
-    "city": "Oftersheim",
+    "city": "Bad D\u00fcrkheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/oftersheim",
+        "baseurl": "https://stadtbuecherei-bad-duerkheim.bibliotheca-open.de",
         "customssl": true,
-        "reservation_branch_choice": true,
+        "reservation_branch_choice": false,
         "reservation_copy_choice": false,
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
-            "new_acq": "Neuerwerbungen",
+            "new_acq": "Mediensuche/Neuerwerbungen",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
-        49.3704439,
-        8.5818038
+        49.46026,
+        8.16622
     ],
-    "information": "http://www.oftersheim.de/gemeinde/einrichtungen/buecherei/",
-    "library_id": 6148,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.stadtbuecherei-bad-duerkheim.de/startseite/oeffnungszeiten.html",
+    "library_id": 1233,
+    "state": "Rheinland-Pfalz",
+    "title": "Stadtb\u00fccherei"
 }

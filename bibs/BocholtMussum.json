@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Everswinkel",
+    "city": "Bocholt-Mussum",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/everswinkel",
+        "baseurl": "https://webopac.bistum-muenster.de/mussum",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -34,7 +34,7 @@
             "Comicklein.GIF": "BOOK",
             "DVD-ROMklein.GIF": "DVD",
             "DVDklein.GIF": "DVD",
-            "Diaserieklein.GIF": "UNKNOWN",
+            "Diaserieklein.GIF": "ART",
             "Hoerbuch1klein.GIF": "MP3",
             "Hoerbuchklein.GIF": "AUDIOBOOK",
             "Jugendbuchklein.GIF": "BOOK",
@@ -43,7 +43,7 @@
             "Kinderbuch_aklein.GIF": "BOOK",
             "Kindersachbuch_aklein.GIF": "BOOK",
             "Medien-Paketklein.GIF": "PACKAGE",
-            "NDS1klein.GIF": "BOARDGAME",
+            "NDS1klein.GIF": "GAME_CONSOLE_NINTENDO",
             "NDSklein.GIF": "GAME_CONSOLE_NINTENDO",
             "Ostern1klein .GIF": "UNKNOWN",
             "PS21klein.GIF": "GAME_CONSOLE_PLAYSTATION",
@@ -52,7 +52,7 @@
             "PS3klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "SachDVDklein.GIF": "DVD",
             "Sachbuchklein.GIF": "BOOK",
-            "SommerleseclubBuchklein.GIF": "UNKNOWN",
+            "SommerleseclubBuchklein.GIF": "BOOK",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
             "Weihnachten1klein.GIF": "UNKNOWN",
@@ -61,8 +61,8 @@
             "Zeitschriftklein.GIF": "MAGAZINE",
             "eAudio_bibloadklein.GIF": "MP3",
             "eBook_bibloadklein.GIF": "EBOOK",
-            "ePaper_bibloadklein.GIF": "EBOOK",
-            "eVideo_bibloadklein.GIF": "UNKNOWN"
+            "ePaper_bibloadklein.GIF": "EDOC",
+            "eVideo_bibloadklein.GIF": "EVIDEO"
         },
         "reservationtable": {
             "author": 0,
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.9246665,
-        7.8488964
+        51.8143538,
+        6.5682424
     ],
-    "information": "https://www.magnus-agatha.de/einrichtungen_/st-magnus-everswinkel/buecherei-everswinkel/",
-    "library_id": 2832,
+    "information": "http://gemeinde.maria-troesterin.de/node/17",
+    "library_id": 1722,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B St. Magnus"
+    "title": "Kath. \u00d6B Maria Tr\u00f6sterin"
 }
