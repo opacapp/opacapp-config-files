@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Wachtendonk",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.bistum-muenster.de/wachtendonk",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": -1,
+            "location": 2,
+            "reservations": -1,
+            "returndate": 5,
+            "signature": 1,
+            "status": 3
+        }
+    },
+    "geo": [
+        51.4072273,
+        6.3342217
+    ],
+    "information": "http://www.koeb-st-michael-wachtendonk.de/",
+    "library_id": 7924,
+    "state": "Nordrhein-Westfalen",
+    "title": "Kath. \u00d6B St. Michael"
+}
