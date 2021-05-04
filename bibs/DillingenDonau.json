@@ -1,0 +1,54 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "biber1992",
+    "city": "Dillingen/Donau",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 8,
+            "barcode": 4,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "status": 6,
+            "title": 8
+        },
+        "baseurl": "https://dillingen.bibdia-hosts.de",
+        "customssl": true,
+        "disguise": true,
+        "mediatypes": {
+            "1": "BOOK",
+            "11": "DVD",
+            "12": "BOOK",
+            "19": "BOOK",
+            "2": "MAGAZINE",
+            "20": "AUDIOBOOK",
+            "3": "GAME_CONSOLE",
+            "30": "EBOOK",
+            "32": "AUDIOBOOK",
+            "4": "MOVIE",
+            "6": "CD",
+            "9": "BOARDGAME"
+        },
+        "opacdir": "opax13",
+        "searchtable": [
+            2,
+            3
+        ]
+    },
+    "geo": [
+        48.5790918,
+        10.4940239
+    ],
+    "information": "https://stadtbuecherei-dlg.de",
+    "library_id": 2276,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
