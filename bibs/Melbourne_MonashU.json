@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Melbourne",
+    "country": "Australia",
+    "data": {
+        "baseurl": "http://search.lib.monash.edu/primo_library/libweb",
+        "db": "MUL",
+        "languages": [
+            "en"
+        ]
+    },
+    "geo": [
+        -37.8763311,
+        145.0444169
+    ],
+    "information": "http://monash.edu/library/",
+    "library_id": 9079,
+    "state": "Victoria",
+    "title": "Monash University"
+}

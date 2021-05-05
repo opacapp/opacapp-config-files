@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Troisdorf",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.troisdorf-open.de",
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        50.8139579,
+        7.1630809
+    ],
+    "information": "http://www.troisdorf.de/web/de/familie_bildung/Bildung/Stadtbibliothek/index.htm",
+    "library_id": 8780,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
