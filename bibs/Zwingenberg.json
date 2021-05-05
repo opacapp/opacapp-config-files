@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Zwingenberg/B",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/zwingenberg",
+        "customssl": true
+    },
+    "geo": [
+        49.7228046,
+        8.6137839
+    ],
+    "information": "http://www.zwingenberg.de/d1/bildung-kultur/buecherei.php?navid=27",
+    "library_id": 8601,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
+}
