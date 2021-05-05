@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "M\u00fcnchen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://dmmoz2.bib-bvb.de/webOPACClient.dmmsis",
+        "startparams": "Login=wodmm"
+    },
+    "geo": [
+        48.1298707,
+        11.5834522
+    ],
+    "information": "http://www.deutsches-museum.de/bibliothek/",
+    "library_id": 9099,
+    "state": "Bayern",
+    "title": "Deutsches Museum"
+}
