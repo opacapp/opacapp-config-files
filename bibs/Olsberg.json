@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Bochum",
+    "api": "winbiap",
+    "city": "Olsberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.ub.ruhr-uni-bochum.de/webOPACClient"
+        "baseurl": "https://webopac.citkomm.de/olsberg"
     },
     "geo": [
-        51.4450318,
-        7.2607264
+        51.3556649,
+        8.4801828
     ],
-    "information": "http://www.ub.rub.de/informationen/oeffnungszeiten.html",
-    "library_id": 8864,
+    "information": "http://www.olsberg.de/_rathaus/bildung/stadtbuecherei/",
+    "library_id": 6176,
     "state": "Nordrhein-Westfalen",
-    "title": "Unibibliothek RUB"
+    "title": "Stadtb\u00fccherei"
 }

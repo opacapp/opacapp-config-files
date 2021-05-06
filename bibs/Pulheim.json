@@ -1,23 +1,23 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Bochum",
+    "city": "Pulheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.ub.ruhr-uni-bochum.de/webOPACClient"
+        "baseurl": "http://173.212.235.246/webOPACClient"
     },
     "geo": [
-        51.4450318,
-        7.2607264
+        51.0184841,
+        6.7581365
     ],
-    "information": "http://www.ub.rub.de/informationen/oeffnungszeiten.html",
-    "library_id": 8864,
+    "information": "https://www.stadtbuecherei-pulheim.de/stb-kontakt/oeffnungszeiten/index.php",
+    "library_id": 8755,
     "state": "Nordrhein-Westfalen",
-    "title": "Unibibliothek RUB"
+    "title": "Stadtb\u00fccherei"
 }

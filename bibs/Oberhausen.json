@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Bochum",
+    "city": "Oberhausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.ub.ruhr-uni-bochum.de/webOPACClient"
+        "baseurl": "https://bibliothek.oberhausen.de/webOPACClient.sisis"
     },
     "geo": [
-        51.4450318,
-        7.2607264
+        51.4707876,
+        6.8527569
     ],
-    "information": "http://www.ub.rub.de/informationen/oeffnungszeiten.html",
-    "library_id": 8864,
+    "information": "http://www.oberhausen.de/0A1C46AD57614F1B8C5CD011AF1C5911.php",
+    "library_id": 8744,
     "state": "Nordrhein-Westfalen",
-    "title": "Unibibliothek RUB"
+    "title": "Stadtbibliothek"
 }

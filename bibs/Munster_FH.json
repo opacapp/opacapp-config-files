@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Bochum",
+    "city": "M\u00fcnster",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.ub.ruhr-uni-bochum.de/webOPACClient"
+        "baseurl": "https://hb063.fh-muenster.de/webOPACClient",
+        "startparams": "Login=jopacf"
     },
     "geo": [
-        51.4450318,
-        7.2607264
+        51.9606649,
+        7.6261347
     ],
-    "information": "http://www.ub.rub.de/informationen/oeffnungszeiten.html",
-    "library_id": 8864,
+    "information": "https://www.fh-muenster.de/BIBL/index.php",
+    "library_id": 9102,
     "state": "Nordrhein-Westfalen",
-    "title": "Unibibliothek RUB"
+    "title": "Fachhochschule"
 }

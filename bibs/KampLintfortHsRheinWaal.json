@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Bochum",
+    "city": "Kamp-Lintfort",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.ub.ruhr-uni-bochum.de/webOPACClient"
+        "baseurl": "https://nrwoz2.bib-bvb.de/webOPACClient.nrwsis"
     },
     "geo": [
-        51.4450318,
-        7.2607264
+        51.500196,
+        6.546012
     ],
-    "information": "http://www.ub.rub.de/informationen/oeffnungszeiten.html",
-    "library_id": 8864,
+    "information": "http://www.hochschule-rhein-waal.de/hochschulbibliothek/oeffnungszeiten.html",
+    "library_id": 9022,
     "state": "Nordrhein-Westfalen",
-    "title": "Unibibliothek RUB"
+    "title": "Hochschule Rhein-Waal"
 }
