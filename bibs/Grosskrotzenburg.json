@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Gro\u00dfkrotzenburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/grosskrotzenburg",
+        "customssl": true
+    },
+    "geo": [
+        50.0818163,
+        8.9839637
+    ],
+    "information": "http://www.grosskrotzenburg.de/Buechereien.34.0.html",
+    "library_id": 3436,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
+}

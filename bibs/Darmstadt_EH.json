@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Darmstadt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://lbsopac.rz.uni-frankfurt.de",
+        "charset": "ISO-8859-1",
+        "db": "69"
+    },
+    "geo": [
+        49.8728253,
+        8.6511929
+    ],
+    "information": "http://www.eh-darmstadt.de/hochschule/bibliothek/",
+    "library_id": 8893,
+    "state": "Hessen",
+    "title": "Evangelische Hochschule"
+}
