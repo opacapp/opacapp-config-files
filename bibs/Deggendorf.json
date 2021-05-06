@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Deggendorf",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://www.stadtbibliothek-deggendorf.de",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        48.8319874,
+        12.9634665
+    ],
+    "information": "http://www.stadtbibliothek-deggendorf.de/%C3%9Cber-uns/Info-Kontakt",
+    "library_id": 2196,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}
