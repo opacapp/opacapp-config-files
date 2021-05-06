@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "primo",
-    "city": "Oxford",
+    "city": "Nottingham",
     "country": "United Kingdom",
     "data": {
-        "baseurl": "http://solo.bodleian.ox.ac.uk/primo_library/libweb",
-        "db": "OXVU1",
+        "baseurl": "http://nusearch.nottingham.ac.uk/primo_library/libweb",
+        "db": "UNNC",
         "languages": [
             "en"
         ]
     },
     "geo": [
-        51.7520209,
-        -1.2577263
+        52.9409985,
+        -1.1909528
     ],
-    "information": "http://www.bodley.ox.ac.uk/",
-    "library_id": 9134,
+    "information": "https://nottingham.ac.uk/library/index.aspx",
+    "library_id": 9116,
     "state": "England",
-    "title": "Bodleian (SOLO)"
+    "title": "University library"
 }

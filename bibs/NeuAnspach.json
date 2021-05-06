@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Buchholz in der Nordheide",
+    "city": "Neu-Anspach",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,16 +16,22 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://185.44.4.136/webopac",
+        "baseurl": "http://217.24.13.139:20700/webopac",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
             "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
         "mediatypes": {
+            "Icon_onleihe.gif": "EBOOK",
+            "eAudio.gif": "MP3",
+            "eBook.gif": "EBOOK",
+            "eMusik.gif": "MP3",
+            "eVideo.gif": "EVIDEO",
+            "eonleihe.gif": "EBOOK",
+            "icon.gif": "EDOC",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -38,11 +44,11 @@
         }
     },
     "geo": [
-        53.3176971,
-        9.8694845
+        50.3002502,
+        8.5055315
     ],
-    "information": "https://www.buchholz.de/portal/seiten/stadtbuecherei-3000064-20101.html",
-    "library_id": 8880,
-    "state": "Niedersachsen",
+    "information": "http://www.neu-anspach.de/sv_neu_anspach/Rathaus%20&%20Politik/%C3%96ffentliche%20Einrichtungen/Stadtb%C3%BCcherei/",
+    "library_id": 5718,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }
