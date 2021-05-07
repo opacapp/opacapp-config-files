@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ebersbach-Neugersdorf",
+    "city": "H\u00fcnfeld",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://bibo.ebersbach-neugersdorf.de",
+        "baseurl": "http://46.252.139.122/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -38,11 +38,11 @@
         }
     },
     "geo": [
-        51.0,
-        14.6
+        50.6736895,
+        9.7671004
     ],
-    "information": "http://www.ebersbach-neugersdorf.de/Bibliotheken",
-    "library_id": 8908,
-    "state": "Sachsen",
+    "information": "http://huenfeld.de/anmeldung/bibliothek.html",
+    "library_id": 8801,
+    "state": "Hessen",
     "title": "Stadtbibliothek"
 }
