@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "data": {
+        "baseurl": "http://a-z.lu/primo_library/libweb",
+        "db": "BIBNET",
+        "languages": [
+            "de",
+            "en",
+            "fr"
+        ]
+    },
+    "geo": [
+        49.6257409,
+        6.14949430000001
+    ],
+    "information": "http://www.bibnet.lu",
+    "library_id": 9358,
+    "state": "Luxembourg",
+    "title": "bibnet.lu - R\u00e9seau de bibliotheques luxembourgeoises"
+}
