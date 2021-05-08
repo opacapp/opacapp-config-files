@@ -1,0 +1,63 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Kreuztal",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "status": -1,
+            "title": 1
+        },
+        "baseurl": "https://bibliothek.kdz-ws.net/webverbund",
+        "copiestable": {
+            "barcode": 0,
+            "branch": -1,
+            "department": 4,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 3,
+            "status": 2
+        },
+        "db": "BIBLIO-060",
+        "mediatypes": {
+            "cdkl.gif": "CD_SOFTWARE",
+            "dvdkl.gif": "DVD",
+            "kassettekl.gif": "AUDIO_CASSETTE",
+            "mAboS.gif": "MAGAZINE",
+            "mBmonoS.gif": "BOOK",
+            "mComicS.gif": "BOOK",
+            "mMusikCDS.gif": "CD_MUSIC",
+            "mZeitS.gif": "NEWSPAPER",
+            "musersS.gif": "CD",
+            "videokl.gif": "MOVIE"
+        },
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "branch": -1,
+            "cancelurl": 3,
+            "expirationdate": null,
+            "title": 1
+        }
+    },
+    "geo": [
+        50.96266,
+        7.9888
+    ],
+    "information": "http://www.stadtbibliothek-kreuztal.de/",
+    "library_id": 4686,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
