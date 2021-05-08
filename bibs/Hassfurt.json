@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bruck i.d. Opf.",
+    "city": "Hassfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bruck",
+        "baseurl": "https://opac.winbiap.net/hassfurt",
         "customssl": true
     },
     "geo": [
-        49.2463308,
-        12.3064839
+        50.0343812,
+        10.5169747
     ],
-    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
-    "library_id": 1972,
+    "information": "http://www.biz-hassfurt.de/",
+    "library_id": 3662,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Bibliotheks- und Informationszentrum (BIZ)"
 }

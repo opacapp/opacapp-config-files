@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bruck i.d. Opf.",
+    "city": "Gro\u00dfkrotzenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bruck",
+        "baseurl": "https://webopac.winbiap.net/grosskrotzenburg",
         "customssl": true
     },
     "geo": [
-        49.2463308,
-        12.3064839
+        50.0818163,
+        8.9839637
     ],
-    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
-    "library_id": 1972,
-    "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "information": "http://www.grosskrotzenburg.de/Buechereien.34.0.html",
+    "library_id": 3436,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

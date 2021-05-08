@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bruck i.d. Opf.",
+    "city": "K\u00f6sching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bruck",
+        "baseurl": "https://webopac.winbiap.de/koesching",
         "customssl": true
     },
     "geo": [
-        49.2463308,
-        12.3064839
+        48.8126389,
+        11.5004614
     ],
-    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
-    "library_id": 1972,
+    "information": "http://www.koesching.de/Bildung/Buecherei.aspx",
+    "library_id": 4640,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

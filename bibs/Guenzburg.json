@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bruck i.d. Opf.",
+    "city": "G\u00fcnzburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bruck",
+        "baseurl": "https://webopac.winbiap.net/guenzburg",
         "customssl": true
     },
     "geo": [
-        49.2463308,
-        12.3064839
+        48.4547792,
+        10.27904
     ],
-    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
-    "library_id": 1972,
+    "information": "http://host4.guenzburg.de/html/user_de_Kultur+Stadtbuecherei+Information.html",
+    "library_id": 3505,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bruck i.d. Opf.",
+    "city": "Gerolzhofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bruck",
+        "baseurl": "https://webopac.winbiap.net/gerolzhofen",
         "customssl": true
     },
     "geo": [
-        49.2463308,
-        12.3064839
+        49.9002,
+        10.35001
     ],
-    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
-    "library_id": 1972,
+    "information": "http://www.gerolzhofen.de/Stadtbibliothek.html",
+    "library_id": 3214,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

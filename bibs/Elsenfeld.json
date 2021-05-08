@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bruck i.d. Opf.",
+    "city": "Elsenfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bruck",
+        "baseurl": "https://webopac.winbiap.net/elsenfeld",
         "customssl": true
     },
     "geo": [
-        49.2463308,
-        12.3064839
+        49.8458735,
+        9.1607868
     ],
-    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
-    "library_id": 1972,
+    "information": "http://www.elsenfeld.de/kuturfreizeit/bibliothek/",
+    "library_id": 2593,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Gemeindebibliothek"
 }

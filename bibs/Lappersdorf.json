@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bruck i.d. Opf.",
+    "city": "Lappersdorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bruck",
+        "baseurl": "https://cloudopac.winbiap.de/lappersdorf",
         "customssl": true
     },
     "geo": [
-        49.2463308,
-        12.3064839
+        49.04968,
+        12.09003
     ],
-    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
-    "library_id": 1972,
+    "information": "http://www.lappersdorf.de/leben-in-lappersdorf/bildung/marktbuecherei-lappersdorf/",
+    "library_id": 4828,
     "state": "Bayern",
     "title": "Marktb\u00fccherei"
 }

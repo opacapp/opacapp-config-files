@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bruck i.d. Opf.",
+    "city": "Gersthofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bruck",
+        "baseurl": "https://webopac.winbiap.net/gersthofen",
         "customssl": true
     },
     "geo": [
-        49.2463308,
-        12.3064839
+        48.4242503,
+        10.876347
     ],
-    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
-    "library_id": 1972,
+    "information": "http://www.stadt-gersthofen.de/seite/leben-in-gersthofen/stadtbibliothek.php",
+    "library_id": 3223,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

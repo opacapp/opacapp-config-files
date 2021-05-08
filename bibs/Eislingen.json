@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bruck i.d. Opf.",
+    "city": "Eislingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bruck",
+        "baseurl": "https://webopac.winbiap.de/eislingen",
         "customssl": true
     },
     "geo": [
-        49.2463308,
-        12.3064839
+        48.693333,
+        9.706667
     ],
-    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
-    "library_id": 1972,
-    "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "information": "http://www.eislingen.de/de/Unsere-Stadt/Stadtb%C3%BCcherei",
+    "library_id": 2571,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei im Schlo\u00df"
 }
