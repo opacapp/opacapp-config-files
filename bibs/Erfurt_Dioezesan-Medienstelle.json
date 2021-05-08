@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Erfurt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://medienstelle-erfurt.internetopac.de",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 5,
+            "status": 3
+        },
+        "customssl": true
+    },
+    "geo": [
+        50.973459,
+        11.0227744
+    ],
+    "information": "http://www.bistum-erfurt.de/bildung/dioezesan-medienstelle/index.html",
+    "library_id": 9292,
+    "state": "Th\u00fcringen",
+    "title": "Di\u00f6zesan-Medienstelle"
+}
