@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Eislingen",
+    "city": "Lenggries",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/eislingen",
+        "baseurl": "https://webopac.winbiap.net/lenggries",
         "customssl": true
     },
     "geo": [
-        48.693333,
-        9.706667
+        47.6825636,
+        11.5765039
     ],
-    "information": "http://www.eislingen.de/de/Unsere-Stadt/Stadtb%C3%BCcherei",
-    "library_id": 2571,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei im Schlo\u00df"
+    "information": "http://www.lenggries.de/de/buecherei",
+    "library_id": 4927,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

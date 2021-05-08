@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Eislingen",
+    "city": "Kirchheim unter Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/eislingen",
+        "baseurl": "https://webopac.kirchheim-teck.de",
         "customssl": true
     },
     "geo": [
-        48.693333,
-        9.706667
+        48.64855,
+        9.4499
     ],
-    "information": "http://www.eislingen.de/de/Unsere-Stadt/Stadtb%C3%BCcherei",
-    "library_id": 2571,
+    "information": "http://www.kirchheim-teck.de/stadtbuecherei",
+    "library_id": 4430,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei im Schlo\u00df"
+    "title": "Stadtb\u00fccherei"
 }

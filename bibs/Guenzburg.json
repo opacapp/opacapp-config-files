@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Eislingen",
+    "city": "G\u00fcnzburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/eislingen",
+        "baseurl": "https://webopac.winbiap.net/guenzburg",
         "customssl": true
     },
     "geo": [
-        48.693333,
-        9.706667
+        48.4547792,
+        10.27904
     ],
-    "information": "http://www.eislingen.de/de/Unsere-Stadt/Stadtb%C3%BCcherei",
-    "library_id": 2571,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei im Schlo\u00df"
+    "information": "http://host4.guenzburg.de/html/user_de_Kultur+Stadtbuecherei+Information.html",
+    "library_id": 3505,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
 }

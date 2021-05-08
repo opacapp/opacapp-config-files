@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Eislingen",
+    "city": "Haar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/eislingen",
+        "baseurl": "https://webopac.winbiap.net/haar",
         "customssl": true
     },
     "geo": [
-        48.693333,
-        9.706667
+        48.1103758,
+        11.7321151
     ],
-    "information": "http://www.eislingen.de/de/Unsere-Stadt/Stadtb%C3%BCcherei",
-    "library_id": 2571,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei im Schlo\u00df"
+    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
+    "library_id": 3513,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

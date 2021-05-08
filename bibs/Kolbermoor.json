@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Eislingen",
+    "city": "Kolbermoor",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/eislingen",
+        "baseurl": "https://webopac.winbiap.net/kolbermoor",
         "customssl": true
     },
     "geo": [
-        48.693333,
-        9.706667
+        47.8483311,
+        12.0611921
     ],
-    "information": "http://www.eislingen.de/de/Unsere-Stadt/Stadtb%C3%BCcherei",
-    "library_id": 2571,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei im Schlo\u00df"
+    "information": "http://www.stadt-kolbermoor.de/index.php?option=com_content&task=view&id=154&Itemid=195",
+    "library_id": 4513,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
 }
