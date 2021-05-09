@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Weil/Rh.",
+    "city": "Schwetzingen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -15,17 +15,17 @@
             "barcode": -1,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
+            "prolongurl": 3,
             "returndate": 2,
-            "status": 3,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/weil-am-rhein",
+        "baseurl": "https://web-opac.kivbf.de/schwetzingen",
         "copiestable": {
             "barcode": -1,
-            "branch": -1,
-            "department": 1,
-            "location": 0,
+            "branch": 0,
+            "department": -1,
+            "location": 1,
             "reservations": -1,
             "returndate": 3,
             "status": 2
@@ -33,19 +33,19 @@
         "customssl": true,
         "reservationtable": {
             "author": 0,
-            "availability": 2,
+            "availability": -1,
             "branch": -1,
-            "cancelurl": 3,
+            "cancelurl": 2,
             "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        47.59495,
-        7.61085
+        49.3852193,
+        8.5722445
     ],
-    "information": "http://www.weil-am-rhein.de/pb/stadt,Lde/Home/Kultur+_+Freizeit/Stadtbibliothek.html",
-    "library_id": 8139,
+    "information": "http://www.schwetzingen.de/pb/,Lde/120127.html",
+    "library_id": 7196,
     "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtbibliothek"
 }
