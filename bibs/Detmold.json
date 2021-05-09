@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Salzuflen",
+    "city": "Detmold",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.bad-salzuflen.de"
+        "baseurl": "https://webopac.detmold.de"
     },
     "geo": [
-        52.08243,
-        8.74855
+        51.9322941,
+        8.8809499
     ],
-    "information": "http://www.stadt-bad-salzuflen.de/kinder-jugend-bildung/stadtbuecherei.html",
-    "library_id": 8610,
+    "information": "https://info.opacapp.de/detmold.html",
+    "library_id": 63,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei Ostertor Galerie"
+    "title": "Stadtb\u00fccherei"
 }

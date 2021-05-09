@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Salzuflen",
+    "city": "Menden",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.bad-salzuflen.de"
+        "baseurl": "https://webopac.citkomm.de/menden"
     },
     "geo": [
-        52.08243,
-        8.74855
+        51.43805,
+        7.79512
     ],
-    "information": "http://www.stadt-bad-salzuflen.de/kinder-jugend-bildung/stadtbuecherei.html",
-    "library_id": 8610,
+    "information": "http://www.menden.de/lim/bi/bc/index.php",
+    "library_id": 9080,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei Ostertor Galerie"
+    "title": "Dorte-Hilleke-B\u00fccherei"
 }

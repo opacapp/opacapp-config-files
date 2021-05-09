@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Salzuflen",
+    "city": "Kierspe",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.bad-salzuflen.de"
+        "baseurl": "https://webopac.citkomm.de/kierspe"
     },
     "geo": [
-        52.08243,
-        8.74855
+        51.12874,
+        7.59402
     ],
-    "information": "http://www.stadt-bad-salzuflen.de/kinder-jugend-bildung/stadtbuecherei.html",
-    "library_id": 8610,
+    "information": "http://www.stadtbibliothek-kierspe.de/",
+    "library_id": 4387,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei Ostertor Galerie"
+    "title": "Stadtbibliothek"
 }
