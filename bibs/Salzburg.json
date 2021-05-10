@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Salzburg",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "https://buch.stadt-salzburg.at",
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        47.8134608,
+        13.026824
+    ],
+    "information": "https://buch.stadt-salzburg.at/mobile/InfoKontakt.aspx",
+    "library_id": 9163,
+    "state": "Salzburg",
+    "title": "Stadt:Bibliothek"
+}
