@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Villach",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://buechersuche.akktn.at/webOPACClient",
+        "startparams": "Login=villach"
+    },
+    "geo": [
+        46.60856,
+        13.85062
+    ],
+    "information": "https://kaernten.arbeiterkammer.at/service/akbibliotheken/mediathekvillach/Oeffnungszeiten.html",
+    "library_id": 9278,
+    "state": "K\u00e4rnten",
+    "title": "Alpen-Adria-Mediathek (Arbeiterkammer)"
+}
