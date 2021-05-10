@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "B\u00f6tzingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/boetzingen",
+        "customssl": true
+    },
+    "geo": [
+        48.0696129,
+        7.7184098
+    ],
+    "information": "http://www.boetzingen.de/pb/,Lde/192533.html",
+    "library_id": 1872,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
+}
