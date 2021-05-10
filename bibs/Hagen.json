@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Bielefeld",
+    "api": "arena",
+    "city": "Hagen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bib5w.fh-bielefeld.de/webOPACClient"
+        "baseurl": "https://hagen.arena.axiell.de"
     },
     "geo": [
-        52.0302285,
-        8.5324708
+        51.35463,
+        7.47955
     ],
-    "information": "http://www.fh-bielefeld.de/bib",
-    "library_id": 8858,
+    "information": "https://www.hagen.de/stadtbuecherei",
+    "library_id": 8682,
     "state": "Nordrhein-Westfalen",
-    "title": "Fachhochschule"
+    "title": "Stadtb\u00fccherei"
 }

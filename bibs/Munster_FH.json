@@ -1,23 +1,24 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Bielefeld",
+    "city": "M\u00fcnster",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bib5w.fh-bielefeld.de/webOPACClient"
+        "baseurl": "https://hb063.fh-muenster.de/webOPACClient",
+        "startparams": "Login=jopacf"
     },
     "geo": [
-        52.0302285,
-        8.5324708
+        51.9606649,
+        7.6261347
     ],
-    "information": "http://www.fh-bielefeld.de/bib",
-    "library_id": 8858,
+    "information": "https://www.fh-muenster.de/BIBL/index.php",
+    "library_id": 9102,
     "state": "Nordrhein-Westfalen",
     "title": "Fachhochschule"
 }

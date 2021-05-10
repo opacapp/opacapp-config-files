@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Bielefeld",
+    "api": "winbiap",
+    "city": "Herford",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bib5w.fh-bielefeld.de/webOPACClient"
+        "baseurl": "https://webopac.herford.de",
+        "customssl": true
     },
     "geo": [
-        52.0302285,
-        8.5324708
+        52.11601,
+        8.67282
     ],
-    "information": "http://www.fh-bielefeld.de/bib",
-    "library_id": 8858,
+    "information": "http://www.bibliothek.herford.de",
+    "library_id": 8692,
     "state": "Nordrhein-Westfalen",
-    "title": "Fachhochschule"
+    "title": "Stadtbibliothek"
 }

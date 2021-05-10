@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Bielefeld",
+    "api": "winbiap",
+    "city": "Lemgo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bib5w.fh-bielefeld.de/webOPACClient"
+        "baseurl": "https://webopac.lemgo.de"
     },
     "geo": [
-        52.0302285,
-        8.5324708
+        52.0272932,
+        8.9050278
     ],
-    "information": "http://www.fh-bielefeld.de/bib",
-    "library_id": 8858,
+    "information": "http://www.stadtbuecherei-lemgo.de/startseite/",
+    "library_id": 4918,
     "state": "Nordrhein-Westfalen",
-    "title": "Fachhochschule"
+    "title": "Stadtb\u00fccherei"
 }
