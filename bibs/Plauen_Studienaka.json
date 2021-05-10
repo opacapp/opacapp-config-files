@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "Plauen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,20 +16,25 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "http://webopac.ba-plauen.de/webopac",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "department": 2,
-            "location": 1,
-            "returndate": 5,
-            "status": 3
+            "returndate": 1,
+            "status": 0
         },
-        "customssl": true,
         "mediatypes": {
+            "mCDROMs.gif": "CD_SOFTWARE",
+            "mCDS.gif": "CD",
             "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mComput2S.gif": "UNKNOWN",
+            "mDIPLS.gif": "UNKNOWN",
             "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "mDbKS.gif": "UNKNOWN",
+            "mEbooks.gif": "EBOOK",
+            "mFilmS.gif": "MOVIE",
+            "mMBMONOS.gif": "BOOK",
+            "mMonoS.gif": "BOOK",
+            "mSPKS.gif": "UNKNOWN",
+            "mZTSS.gif": "NEWSPAPER"
         },
         "reservationtable": {
             "author": 0,
@@ -39,11 +44,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        50.4976133,
+        12.1368679
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
+    "information": "http://www.ba-plauen.de/de/studienakademie-plauen/bibliothek",
+    "library_id": 9140,
     "state": "Sachsen",
-    "title": "Mediothek"
+    "title": "Staatliche Studienakademie"
 }

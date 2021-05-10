@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "Prenzlau",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "https://prenzlau.internetopac.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -39,11 +39,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        53.3173433,
+        13.8633409
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
-    "state": "Sachsen",
-    "title": "Mediothek"
+    "information": "http://www.prenzlau.eu/cms/detail.php/land_bb_boa_01.c.164613.de",
+    "library_id": 6410,
+    "state": "Brandenburg",
+    "title": "Stadtbibliothek im Dominikanerkloster"
 }
