@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "adis",
+    "city": "Dortmund",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.dortmund.de/aDISWeb/app",
+        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1%3A24022"
+    },
+    "geo": [
+        51.5081979,
+        7.4416173
+    ],
+    "information": "http://www.dortmund.de/de/leben_in_dortmund/bildungwissenschaft/bibliothek/start_bibliothek/",
+    "library_id": 8652,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadt- und Landesbibliothek"
+}
