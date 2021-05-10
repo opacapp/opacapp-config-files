@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Korneuburg",
+    "city": "\u00dcbersaxen",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.bib-korneuburg.webopac.at"
+        "baseurl": "http://www.dorfbuecherei-uebersaxen.web-opac.at"
     },
     "geo": [
-        48.3450806,
-        16.3347235
+        47.2524023,
+        9.6707364
     ],
-    "information": "http://www.korneuburg.gv.at/bik/",
-    "library_id": 9040,
-    "state": "Nieder\u00f6sterreich",
-    "title": "BIK B\u00fccherei Internetcafe"
+    "information": "http://www.uebersaxen.bvoe.at",
+    "library_id": 9203,
+    "state": "Vorarlberg",
+    "title": "Dorfb\u00fccherei"
 }

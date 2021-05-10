@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Korneuburg",
+    "city": "Maria",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.bib-korneuburg.webopac.at"
+        "baseurl": "http://www.suedstadt.web-opac.at"
     },
     "geo": [
-        48.3450806,
-        16.3347235
+        48.0950444,
+        16.3039643
     ],
-    "information": "http://www.korneuburg.gv.at/bik/",
-    "library_id": 9040,
+    "information": "http://www.mariaenzersdorf.bvoe.at",
+    "library_id": 9076,
     "state": "Nieder\u00f6sterreich",
-    "title": "BIK B\u00fccherei Internetcafe"
+    "title": "Gemeindebibliothek Maria Enzersdorf"
 }

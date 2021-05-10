@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Korneuburg",
+    "city": "Wolfurt",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.bib-korneuburg.webopac.at"
+        "baseurl": "http://www.buechereiwolfurt.webopac.at"
     },
     "geo": [
-        48.3450806,
-        16.3347235
+        47.4672875,
+        9.7497216
     ],
-    "information": "http://www.korneuburg.gv.at/bik/",
-    "library_id": 9040,
-    "state": "Nieder\u00f6sterreich",
-    "title": "BIK B\u00fccherei Internetcafe"
+    "information": "http://www.wolfurt.bvoe.at",
+    "library_id": 9248,
+    "state": "Vorarlberg",
+    "title": "\u00d6ffentliche B\u00fccherei"
 }

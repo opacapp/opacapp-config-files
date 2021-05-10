@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Korneuburg",
+    "city": "Oberalm",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.bib-korneuburg.webopac.at"
+        "baseurl": "http://buecherei-oberalm.webopac.at"
     },
     "geo": [
-        48.3450806,
-        16.3347235
+        47.7009473,
+        13.0990746
     ],
-    "information": "http://www.korneuburg.gv.at/bik/",
-    "library_id": 9040,
-    "state": "Nieder\u00f6sterreich",
-    "title": "BIK B\u00fccherei Internetcafe"
+    "information": "http://www.oberalm.bvoe.at",
+    "library_id": 9121,
+    "state": "Salzburg",
+    "title": "B\u00fccherei"
 }

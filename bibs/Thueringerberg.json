@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Korneuburg",
+    "city": "Th\u00fcringerberg",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.bib-korneuburg.webopac.at"
+        "baseurl": "http://www.oebthueringerberg.web-opac.at"
     },
     "geo": [
-        48.3450806,
-        16.3347235
+        47.2154525,
+        9.7836496
     ],
-    "information": "http://www.korneuburg.gv.at/bik/",
-    "library_id": 9040,
-    "state": "Nieder\u00f6sterreich",
-    "title": "BIK B\u00fccherei Internetcafe"
+    "information": "http://www.thueringerberg.bvoe.at",
+    "library_id": 9194,
+    "state": "Vorarlberg",
+    "title": "Walserbibliothek"
 }
