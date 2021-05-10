@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Herzogenaurach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/herzogenaurach",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.5682987,
+        10.8828577
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
+    "information": "http://www.herzogenaurach.de/de/bildung-familie-und-soziales/stadtbuecherei.html",
+    "library_id": 3831,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

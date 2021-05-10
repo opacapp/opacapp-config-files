@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Lappersdorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://cloudopac.winbiap.de/lappersdorf",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.04968,
+        12.09003
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.lappersdorf.de/leben-in-lappersdorf/bildung/marktbuecherei-lappersdorf/",
+    "library_id": 4828,
+    "state": "Bayern",
+    "title": "Marktb\u00fccherei"
 }

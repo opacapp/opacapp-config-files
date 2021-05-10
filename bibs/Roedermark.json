@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "R\u00f6dermark",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
-        "customssl": true
+        "baseurl": "https://medienkatalog.stadtbuecherei.info/webopac"
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.9767859,
+        8.8277224
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
+    "information": "http://www.roedermark.de/index.php?id=40",
+    "library_id": 6832,
     "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

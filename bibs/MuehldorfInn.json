@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "M\u00fchldorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/muehldorf",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        48.2417,
+        12.52699
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://buecherei.muehldorf.org/",
+    "library_id": 5539,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei im Kornkasten"
 }

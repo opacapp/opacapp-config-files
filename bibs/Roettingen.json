@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "R\u00f6ttingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/roettingen",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.5122355,
+        9.9718105
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
+    "information": "http://www.roettingen.de/index.php?id=59",
+    "library_id": 6858,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Roding",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/roding",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.1944493,
+        12.5212772
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
+    "information": "http://www.roding.de/Rathaus/OeffentlicheEinrichtungen/Bildungseinrichtungen/Stadtbuecherei.aspx",
+    "library_id": 6728,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Raubling",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/raubling",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        47.7908741,
+        12.1115921
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.raubling.de/leben-und-freizeit/gemeindebuecherei.html",
+    "library_id": 6507,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

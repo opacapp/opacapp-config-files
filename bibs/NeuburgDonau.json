@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Neuburg/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.net/neuburg",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        48.734458,
+        11.180675
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
+    "information": "http://www.neuburg-donau.de/kultur/bildung/buecherturm",
+    "library_id": 5733,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

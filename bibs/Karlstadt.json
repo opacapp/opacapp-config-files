@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Karlstadt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/karlstadt",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.96026,
+        9.76447
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.karlstadt.de/Sites/gensite.asp?SID=cms190820141716084232293&Art=0379",
+    "library_id": 4314,
+    "state": "Bayern",
+    "title": "Stadtbibliothek i.d. Hohen Kemenate"
 }

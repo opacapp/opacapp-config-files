@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "H\u00f6chstadt/Aisch",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/hoechstadt",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.7095692,
+        10.8128359
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
+    "information": "http://www.fortuna-kulturfabrik.de/de/stadtbuecherei.html",
+    "library_id": 4020,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

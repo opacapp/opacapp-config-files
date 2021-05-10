@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Oberammergau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/oberammergau",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        47.5956599,
+        11.072352
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.buecherei-oberammergau.de/",
+    "library_id": 6009,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

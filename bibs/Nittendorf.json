@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Nittendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/nittendorf",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.02405,
+        11.95459
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.nittendorf.de/rathaus/?Buecherei&view=org&orgid=bfb04f7e-2325-49ea-bf11-cd229f088834",
+    "library_id": 5946,
+    "state": "Bayern",
+    "title": "Marktbibliothek"
 }

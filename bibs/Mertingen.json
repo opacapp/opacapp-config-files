@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Mertingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/mertingen",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        48.6571023,
+        10.8058245
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.mertingen.de/index.php/mertingen/Rathaus-Verwaltung/Buecherei",
+    "library_id": 5364,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

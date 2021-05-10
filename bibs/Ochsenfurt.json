@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Ochsenfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.net/ochsenfurt",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.6640025,
+        10.0709014
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.bibliothek.ochsenfurt.de/",
+    "library_id": 6110,
+    "state": "Bayern",
+    "title": "Stadtbibliothek \"Altes Rathaus\""
 }

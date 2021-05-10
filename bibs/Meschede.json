@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Meschede",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
-        "customssl": true
+        "baseurl": "https://webopac.citkomm.de/meschede"
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        51.34758,
+        8.2814
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
+    "information": "http://www.meschede.de/buecherei/startseite_buecherei.php",
+    "library_id": 5381,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }
