@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Waldkraiburg",
+    "city": "Gr\u00e4felfing",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/waldkraiburg",
+        "baseurl": "https://webopac.winbiap.net/graefelfing",
         "customssl": true
     },
     "geo": [
-        48.209504,
-        12.400563
+        48.1227429,
+        11.4340549
     ],
-    "information": "http://www.waldkraiburg.de/de/haus-des-buches/",
-    "library_id": 7989,
+    "information": "http://www.buecherei-graefelfing.de/rund-um-die-buecherei/startseite-aktuelles-veranstaltungen-fuer-erwachsene.html",
+    "library_id": 3344,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei im Haus des Buches"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Waldkraiburg",
+    "city": "Gunzenhausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/waldkraiburg",
-        "customssl": true
+        "baseurl": "https://webopac.gunzenhausen.de"
     },
     "geo": [
-        48.209504,
-        12.400563
+        49.114722,
+        10.754167
     ],
-    "information": "http://www.waldkraiburg.de/de/haus-des-buches/",
-    "library_id": 7989,
+    "information": "http://www.buecherei.gunzenhausen.de/index.php/startseite.html",
+    "library_id": 3493,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei im Haus des Buches"
+    "title": "Stadt- und Schulb\u00fccherei"
 }

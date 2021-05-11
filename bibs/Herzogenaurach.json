@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Waldkraiburg",
+    "city": "Herzogenaurach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/waldkraiburg",
+        "baseurl": "https://webopac.winbiap.de/herzogenaurach",
         "customssl": true
     },
     "geo": [
-        48.209504,
-        12.400563
+        49.5682987,
+        10.8828577
     ],
-    "information": "http://www.waldkraiburg.de/de/haus-des-buches/",
-    "library_id": 7989,
+    "information": "http://www.herzogenaurach.de/de/bildung-familie-und-soziales/stadtbuecherei.html",
+    "library_id": 3831,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei im Haus des Buches"
+    "title": "Stadtb\u00fccherei"
 }

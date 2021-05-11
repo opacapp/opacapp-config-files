@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Waldkraiburg",
+    "city": "Haar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/waldkraiburg",
+        "baseurl": "https://webopac.winbiap.net/haar",
         "customssl": true
     },
     "geo": [
-        48.209504,
-        12.400563
+        48.1103758,
+        11.7321151
     ],
-    "information": "http://www.waldkraiburg.de/de/haus-des-buches/",
-    "library_id": 7989,
+    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
+    "library_id": 3513,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei im Haus des Buches"
+    "title": "Gemeindeb\u00fccherei"
 }
