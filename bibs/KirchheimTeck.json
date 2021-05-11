@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Kirchheim unter Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.kirchheim-teck.de",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        48.64855,
+        9.4499
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
+    "information": "http://www.kirchheim-teck.de/stadtbuecherei",
+    "library_id": 4430,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
 }

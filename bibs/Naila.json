@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Naila",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.net/naila",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        50.3294246,
+        11.7021823
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.naila.de/cgi-bin/show.pl?action=einrichtungen",
+    "library_id": 5661,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
 }

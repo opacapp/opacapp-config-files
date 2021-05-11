@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Hallbergmoos",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/hallbergmoos",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        48.3250947,
+        11.7432155
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.hallbergmoos.de/index.php?id=0,52",
+    "library_id": 3568,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

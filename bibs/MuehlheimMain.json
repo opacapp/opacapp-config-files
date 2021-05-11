@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "M\u00fchlheim/M",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://opac.winbiap.net/muehlheim",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        50.12529,
+        8.84515
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
+    "information": "https://www.muehlheim.de/buecherei-informationen.html+",
+    "library_id": 5553,
     "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Gro\u00dfkrotzenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.net/grosskrotzenburg",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        50.0818163,
+        8.9839637
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
+    "information": "http://www.grosskrotzenburg.de/Buechereien.34.0.html",
+    "library_id": 3436,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

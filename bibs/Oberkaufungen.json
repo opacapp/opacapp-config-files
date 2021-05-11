@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Kaufungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.net/kaufungen",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        51.2828417,
+        9.6337135
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
+    "information": "http://www.kaufungen.eu/Startseite/B%C3%BCchereien/",
+    "library_id": 4337,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei Oberkaufungen"
 }

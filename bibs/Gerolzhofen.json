@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Gerolzhofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.net/gerolzhofen",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.9002,
+        10.35001
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.gerolzhofen.de/Stadtbibliothek.html",
+    "library_id": 3214,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
 }

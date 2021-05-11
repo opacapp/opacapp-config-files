@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Memmingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://bibliothek.memmingen.de",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        47.9837999,
+        10.1801883
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "https://www.memmingen.de/stadtbibliothek.html",
+    "library_id": 5345,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
 }

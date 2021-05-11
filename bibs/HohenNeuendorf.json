@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Hohen Neuendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://cloudopac.winbiap.de/hohenneuendorf",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        52.66326,
+        13.28427
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.hohen-neuendorf.de/hnd/admin/bibliotheken.htm",
+    "library_id": 3944,
+    "state": "Brandenburg",
+    "title": "Stadtbibliothek"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Hassfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://opac.winbiap.net/hassfurt",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        50.0343812,
+        10.5169747
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.biz-hassfurt.de/",
+    "library_id": 3662,
+    "state": "Bayern",
+    "title": "Bibliotheks- und Informationszentrum (BIZ)"
 }

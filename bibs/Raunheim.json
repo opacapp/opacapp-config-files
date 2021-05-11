@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Raunheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/raunheim",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        50.0104109,
+        8.4529177
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
+    "information": "http://raunheim.de/sites/gensite.asp?SID=cms100820141646047420923&Art=232",
+    "library_id": 6508,
     "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

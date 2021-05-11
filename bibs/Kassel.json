@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Kassel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
-        "customssl": true
+        "baseurl": "https://bibliothek.stadt-kassel.de"
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        51.3121729,
+        9.4936895
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
+    "information": "http://www.kassel.de/miniwebs/stadtbib/01816/",
+    "library_id": 8705,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Herborn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
-        "customssl": true
+        "baseurl": "https://webopac.herborn.de"
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        50.6784088,
+        8.2997096
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
+    "information": "http://www.herborn.de/kultur/stadtbuecherei/",
+    "library_id": 3792,
     "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Geltendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/geltendorf",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        48.1169151,
+        11.0328009
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.geltendorf.de/index.php?id=287,57",
+    "library_id": 3174,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/vuk",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        48.1351253,
+        11.5819806
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.vaterunserkirche.de/buecherei/",
+    "library_id": 5606,
+    "state": "Bayern",
+    "title": "\u00d6ffentliche B\u00fccherei Vaterunserkirche/St. Thomas"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Hungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.net/hungenlich",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        50.4768,
+        8.89981
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
+    "information": "http://www.lich.de/kultur-bildung/stadtbibliothek/",
+    "library_id": 4057,
     "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Hofgeismar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.net/hofgeismar",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        51.4970925,
+        9.3860472
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
+    "information": "http://www.hofgeismar.de/cms/LebenHofgeismar/Stadtb%C3%BCcherei/",
+    "library_id": 3938,
     "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

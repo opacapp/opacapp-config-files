@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Fuldatal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.net/fuldatal",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        51.383333,
+        9.55
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
+    "information": "http://www.fuldatal.de/?kommunal/ortsteil/ihringsh/ihringshausen.htm",
+    "library_id": 3060,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeteil- und Sch\u00fclerb\u00fccherei Ihringshausen"
 }

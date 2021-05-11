@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Knetzgau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/knetzgau",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.9925629,
+        10.5463718
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.knetzgau.de/index.php?id=5050",
+    "library_id": 4497,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

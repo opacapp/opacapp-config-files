@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Ostheim v.d. Rh\u00f6n",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.net/ostheim",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        50.4608058,
+        10.2305055
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
+    "information": "http://www.ostheim.de/internet/index.php?page=12485",
+    "library_id": 6218,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

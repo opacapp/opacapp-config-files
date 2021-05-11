@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Offenbach/M",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://opac.winbiap.net/offenbach",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        50.1070493,
+        8.7615989
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
+    "information": "http://www.offenbach.de/stadtbibliothek",
+    "library_id": 8745,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

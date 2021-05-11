@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Bad Vilbel",
+    "api": "iopac",
+    "city": "Glinde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
-        "customssl": true
+        "baseurl": "http://iopac-glinde.dyndns.org"
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        53.5435908,
+        10.2165943
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
+    "information": "http://www.stadtbuecherei-glinde.de/",
+    "library_id": 3271,
+    "state": "Schleswig-Holstein",
     "title": "Stadtb\u00fccherei"
 }

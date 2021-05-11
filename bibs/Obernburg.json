@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Obernburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.net/obernburg",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        49.8381779,
+        9.1323585
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
+    "information": "http://www.stadtbuecherei-obernburg.de/",
+    "library_id": 6060,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

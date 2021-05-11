@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Vilbel",
+    "city": "Maisach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "baseurl": "https://webopac.winbiap.de/maisach",
         "customssl": true
     },
     "geo": [
-        50.1827055,
-        8.7386798
+        48.2165127,
+        11.2572401
     ],
-    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
-    "library_id": 1372,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.maisach.de/index.php?id=0,51",
+    "library_id": 5195,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }
