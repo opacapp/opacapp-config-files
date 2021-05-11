@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Altst\u00e4tten",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.winmedio.net/Altstaetten"
+    },
+    "geo": [
+        47.378,
+        9.54104
+    ],
+    "information": "http://www.bibliothek-reburg.ch/",
+    "library_id": 8822,
+    "state": "St. Gallen",
+    "title": "Bibliothek Reburg"
+}
