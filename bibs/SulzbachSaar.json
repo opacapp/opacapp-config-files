@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": true,
+    "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Weikersheim",
+    "city": "Sulzbach/Saar",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,15 +20,15 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/weikersheim",
+        "baseurl": "https://stadtbibliothek-sulzbach.internetopac.de",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
-            "department": 0,
-            "location": 1,
-            "reservations": -1,
-            "returndate": 3,
-            "status": 2
+            "department": 2,
+            "location": -1,
+            "reservations": 5,
+            "returndate": 1,
+            "status": 0
         },
         "customssl": true,
         "reservationtable": {
@@ -41,11 +41,11 @@
         }
     },
     "geo": [
-        49.4800267,
-        9.899171
+        49.2976724,
+        7.0618791
     ],
-    "information": "https://www.weikersheim.de/einrichtungen/stadtbuecherei/",
-    "library_id": 8133,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.stadt-sulzbach.de/index.php/bildung-und-soziales/stadt-bibliothek",
+    "library_id": 7532,
+    "state": "Saarland",
+    "title": "Stadtbibliothek"
 }

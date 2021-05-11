@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": true,
+    "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Weikersheim",
+    "city": "Steinfurt",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,32 +20,31 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/weikersheim",
+        "baseurl": "http://opac84.citeq.de",
         "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": 0,
-            "location": 1,
-            "reservations": -1,
-            "returndate": 3,
-            "status": 2
+            "barcode": 0,
+            "branch": 3,
+            "department": -1,
+            "location": 2,
+            "reservations": 6,
+            "returndate": 5,
+            "status": 4
         },
-        "customssl": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
             "branch": -1,
             "cancelurl": 3,
-            "expirationdate": -1,
+            "expirationdate": null,
             "title": 1
         }
     },
     "geo": [
-        49.4800267,
-        9.899171
+        52.1472086,
+        7.3394112
     ],
-    "information": "https://www.weikersheim.de/einrichtungen/stadtbuecherei/",
-    "library_id": 8133,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://steinfurt.active-city.net/city_info/display/bs/amt/details.cfm?region_id=125&id=772&design_id=968&keyword=0",
+    "library_id": 7453,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": true,
+    "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Weikersheim",
+    "city": "Denkingen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -15,22 +15,21 @@
             "barcode": -1,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 3,
+            "prolongurl": 4,
             "returndate": 2,
-            "status": -1,
+            "status": 3,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/weikersheim",
+        "baseurl": "https://wwwopac.rz-kiru.de/denkingen",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
-            "department": 0,
+            "department": 2,
             "location": 1,
-            "reservations": -1,
-            "returndate": 3,
-            "status": 2
+            "reservations": 5,
+            "returndate": 4,
+            "status": 3
         },
-        "customssl": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -41,11 +40,11 @@
         }
     },
     "geo": [
-        49.4800267,
-        9.899171
+        48.1105102,
+        8.7385696
     ],
-    "information": "https://www.weikersheim.de/einrichtungen/stadtbuecherei/",
-    "library_id": 8133,
+    "information": "http://www.denkingen.de/pb/,Lde/143170.html",
+    "library_id": 2222,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei"
+    "title": "Mediathek"
 }
