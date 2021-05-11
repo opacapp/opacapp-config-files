@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Lohr/Main",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://cloudopac.winbiap.de/lohr",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        49.9947684,
+        9.57413
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.lohr.de/leben-und-arbeiten/leben-in-lohr/meine-bildung/stadtbibliothek/",
+    "library_id": 5071,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

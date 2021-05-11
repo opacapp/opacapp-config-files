@@ -1,24 +1,24 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Neuried/Kr M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.de/neuried",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        48.09238,
+        11.46492
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.neuried.de/leben/buecherei/gemeindebuecherei-neuried/",
+    "library_id": 5814,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

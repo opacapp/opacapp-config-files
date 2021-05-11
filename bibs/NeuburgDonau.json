@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Neuburg/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.net/neuburg",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        48.734458,
+        11.180675
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.neuburg-donau.de/kultur/bildung/buecherturm",
+    "library_id": 5733,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

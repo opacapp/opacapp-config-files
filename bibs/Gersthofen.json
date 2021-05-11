@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Gersthofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.net/gersthofen",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        48.4242503,
+        10.876347
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.stadt-gersthofen.de/seite/leben-in-gersthofen/stadtbibliothek.php",
+    "library_id": 3223,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

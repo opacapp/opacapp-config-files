@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Nettersheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.net/nettersheim",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        50.4931868,
+        6.6285592
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
-    "state": "Bayern",
+    "information": "http://www.nettersheim.de/bildung-kultur/literaturhaus-mit-buecherei.html",
+    "library_id": 5712,
+    "state": "Nordrhein-Westfalen",
     "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Bubenreuth",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.net/bubenreuth",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        49.6269937,
+        11.0167038
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.bubenreuth.de/index.php?id=0,57",
+    "library_id": 1992,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

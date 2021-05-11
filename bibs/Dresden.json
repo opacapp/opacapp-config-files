@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Dresden",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.bibo-dresden.de/webOPACClient",
+        "startparams": "Login=webopac"
+    },
+    "geo": [
+        51.05062,
+        13.738771
+    ],
+    "information": "https://www.bibo-dresden.de/",
+    "library_id": 8653,
+    "state": "Sachsen",
+    "title": "St\u00e4dtische Bibliotheken"
+}

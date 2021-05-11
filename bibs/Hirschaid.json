@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Wiggensbach",
+    "api": "iopac",
+    "city": "Hirschaid",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
-        "customssl": true
+        "baseurl": "http://87.138.173.74"
     },
     "geo": [
-        47.745133,
-        10.2314395
+        49.8190535,
+        10.992433
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.hirschaid.de/seite/de/markt/380/-/Gemeindebuecherei.html",
+    "library_id": 3908,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

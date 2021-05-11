@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Bad Wildungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.de/badwildungen",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        51.1196745,
+        9.1241131
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
+    "library_id": 1379,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }

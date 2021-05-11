@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Bad Vilbel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.de/badvilbel",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        50.1827055,
+        8.7386798
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
+    "library_id": 1372,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }

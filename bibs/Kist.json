@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Kist",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.net/kist",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        49.7440821,
+        9.8417865
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.gemeinde-kist.de/index.php?id=56",
+    "library_id": 4455,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

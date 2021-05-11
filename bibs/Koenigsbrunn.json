@@ -7,18 +7,15 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "K\u00f6nigsbrunn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://cloudopac.winbiap.de/koenigsbrunn",
         "customssl": true
     },
-    "geo": [
-        47.745133,
-        10.2314395
-    ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "geo": null,
+    "information": "https://www.koenigsbrunn.de/kultur/einrichtungen/stadtbuecherei/",
+    "library_id": 4615,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Denklingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.de/denklingen",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        47.9139271,
+        10.8490461
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.denklingen.de/sites/rathaus/index/index_buecherei.htm",
+    "library_id": 2223,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

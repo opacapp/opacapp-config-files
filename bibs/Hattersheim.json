@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Hattersheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://opac.winbiap.net/hattersheim",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        50.0704,
+        8.48494
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://kulturforum.de/index.php/kontakt-oeffnungszeiten.html",
+    "library_id": 3669,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }

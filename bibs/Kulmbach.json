@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Kulmbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
-        "customssl": true
+        "baseurl": "http://webopac.buecherei-kulmbach.de"
     },
     "geo": [
-        47.745133,
-        10.2314395
+        50.1064304,
+        11.4495461
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.kulmbach.de/xist4c/web/Anschrift/Teledaten/Oeffnungszeiten_id_981_.htm",
+    "library_id": 4713,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "B\u00fccherei am Stadtpark"
 }

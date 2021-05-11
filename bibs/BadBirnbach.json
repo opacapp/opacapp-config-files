@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Bad Birnbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.de/badbirnbach",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        48.4432078,
+        13.0898068
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.badbirnbach.de/start.php",
+    "library_id": 1211,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Bibliothek Mamertus"
 }

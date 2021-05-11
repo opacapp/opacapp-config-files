@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Espenau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://opac.winbiap.net/espenau",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        51.388344,
+        9.4548082
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
-    "state": "Bayern",
+    "information": "http://www.gemeinde-espenau.de/index.php?option=com_content&view=article&id=108&Itemid=533",
+    "library_id": 2747,
+    "state": "Hessen",
     "title": "Gemeindeb\u00fccherei"
 }

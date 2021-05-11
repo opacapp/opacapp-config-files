@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Bergrheinfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        50.0051421,
+        10.1794312
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
+    "library_id": 1572,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Gemeindebibliothek"
 }

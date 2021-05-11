@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Wiggensbach",
+    "api": "iopac",
+    "city": "Ergolding",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
-        "customssl": true
+        "baseurl": "http://217.7.224.180"
     },
     "geo": [
-        47.745133,
-        10.2314395
+        48.5645942,
+        12.1660056
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.ergolding.de/buecherei",
+    "library_id": 2698,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

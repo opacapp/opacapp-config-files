@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Knetzgau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.de/knetzgau",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        49.9925629,
+        10.5463718
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.knetzgau.de/index.php?id=5050",
+    "library_id": 4497,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Heroldsberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.net/heroldsberg",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        49.5323509,
+        11.1540547
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.heroldsberg.de/kultur-und-bildung/gemeindebuecherei",
+    "library_id": 3808,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei im B\u00fcrgerzentrum"
 }

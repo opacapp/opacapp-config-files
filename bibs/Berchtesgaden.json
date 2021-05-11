@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Berchtesgaden",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://opac.winbiap.net/berchtesgaden",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        47.63091,
+        12.9981313
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.gemeinde.berchtesgaden.de/pages/einrichtungen/gemeindliche-einrichtungen/buecherei.php",
+    "library_id": 1535,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Marktb\u00fccherei"
 }

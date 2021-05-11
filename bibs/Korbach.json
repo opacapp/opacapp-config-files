@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Korbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://cloudopac.winbiap.de/korbach",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        51.27257,
+        8.8702
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.korbach.de/Leben/Freizeit-Sport/Stadtb%C3%BCcherei/%C3%96ffnungszeiten",
+    "library_id": 4532,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }

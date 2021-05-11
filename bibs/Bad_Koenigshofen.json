@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Bad K\u00f6nigshofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.de/badkoenigshofen",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        50.30101,
+        10.4734212
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.badkoenigshofen.rhoen-saale.net/Bildung--Soziales/Stadtbibliothek",
+    "library_id": 1279,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

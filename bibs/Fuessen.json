@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "F\u00fcssen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://cloudopac.winbiap.de/fuessen",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        47.569648,
+        10.7004328
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "https://www.stadt-fuessen.de/bibliothek.html",
+    "library_id": 3079,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

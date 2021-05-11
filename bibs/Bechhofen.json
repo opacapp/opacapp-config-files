@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Bechhofen an der Heide",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.de/bechhofen",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        49.1577,
+        10.5481913
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "https://webopac.winbiap.de/bechhofen/index.aspx",
+    "library_id": 1472,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

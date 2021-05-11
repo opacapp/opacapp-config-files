@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Augsburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.de/stetten-institut",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        48.37419,
+        10.88845
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
+    "information": "http://www.stetten-institut.de/index.php?id=758",
+    "library_id": 9325,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "A. B. v. Stettensches Institut"
 }

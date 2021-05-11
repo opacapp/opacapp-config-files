@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Dillenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://webopac.winbiap.de/dillenburg",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        50.7452841,
+        8.2807631
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.stadtbuecherei-dillenburg.de/",
+    "library_id": 2274,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }

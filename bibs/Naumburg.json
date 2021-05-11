@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Wiggensbach",
+    "city": "Naumburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "baseurl": "https://cloudopac.winbiap.de/naumburg",
         "customssl": true
     },
     "geo": [
-        47.745133,
-        10.2314395
+        51.1583134,
+        11.8050747
     ],
-    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
-    "library_id": 8329,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "https://cloudopac.winbiap.de/naumburg/index.aspx?data=cGFnZUlkPTIx-LTswk1bSs/M=",
+    "library_id": 5671,
+    "state": "Sachsen-Anhalt",
+    "title": "Stadtbibliothek"
 }
