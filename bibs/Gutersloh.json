@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "G\u00fctersloh",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.stadtbibliothek-guetersloh.de"
+    },
+    "geo": [
+        51.90409,
+        8.37634
+    ],
+    "information": "http://www.stadtbibliothek-guetersloh.de/",
+    "library_id": 8681,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
