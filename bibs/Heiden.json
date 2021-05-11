@@ -7,36 +7,29 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Iserlohn",
+    "city": "Heiden",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "https://ekvw.cidoli.de",
+        "baseurl": "https://webopac.bistum-muenster.de/heiden",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
-            "department": 2,
-            "location": 1,
+            "department": -1,
+            "location": 2,
+            "reservations": -1,
             "returndate": 5,
+            "signature": 1,
             "status": 3
-        },
-        "db": "w_iserlohn",
-        "mediatypes": {
-            "Bild_PI.gif": "ART",
-            "Buch_PI.gif": "BOOK",
-            "CD_ROM_PI.gif": "CD_SOFTWARE",
-            "Dia_PI.gif": "ART",
-            "Folie_PI.gif": "ART",
-            "Go_PI.gif": "UNKNOWN",
-            "Video_PI.gif": "MOVIE",
-            "mCasette.gif": "AUDIO_CASSETTE",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVD_PI.gif": "DVD"
         },
         "reservationtable": {
             "author": 0,
@@ -46,11 +39,11 @@
         }
     },
     "geo": [
-        51.3731684,
-        7.6743911
+        51.8255419,
+        6.9359164
     ],
-    "information": "http://www.kirchenkreis-iserlohn.de/Mediothek.216.0.html",
-    "library_id": 9017,
+    "information": "http://buecherei.sankt-georg-heiden.de/",
+    "library_id": 3714,
     "state": "Nordrhein-Westfalen",
-    "title": "Mediothek Kirchenkreis"
+    "title": "Die B\u00fccherei St. Georg"
 }
