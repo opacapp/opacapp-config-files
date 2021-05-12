@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "pica",
-    "city": "Darmstadt",
+    "api": "winbiap",
+    "city": "Herborn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://pica1l.ulb.tu-darmstadt.de",
-        "db": "FHBDA"
+        "baseurl": "https://webopac.herborn.de"
     },
     "geo": [
-        49.8134336,
-        8.6526188
+        50.6784088,
+        8.2997096
     ],
-    "information": "http://bib.h-da.de/",
-    "library_id": 8894,
+    "information": "http://www.herborn.de/kultur/stadtbuecherei/",
+    "library_id": 3792,
     "state": "Hessen",
-    "title": "Hochschulbibliothek h_da"
+    "title": "Stadtb\u00fccherei"
 }

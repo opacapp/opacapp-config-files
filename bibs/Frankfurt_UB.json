@@ -7,18 +7,19 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Darmstadt",
+    "city": "Frankfurt/Main",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://pica1l.ulb.tu-darmstadt.de",
-        "db": "FHBDA"
+        "baseurl": "https://lbsopac.rz.uni-frankfurt.de",
+        "charset": "ISO-8859-1",
+        "db": "30"
     },
     "geo": [
-        49.8134336,
-        8.6526188
+        50.1247013,
+        8.6677742
     ],
-    "information": "http://bib.h-da.de/",
-    "library_id": 8894,
+    "information": "http://www.ub.uni-frankfurt.de/",
+    "library_id": 8934,
     "state": "Hessen",
-    "title": "Hochschulbibliothek h_da"
+    "title": "UB Goethe-Universit\u00e4t"
 }

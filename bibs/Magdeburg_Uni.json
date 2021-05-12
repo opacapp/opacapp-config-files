@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Darmstadt",
+    "city": "Magdeburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://pica1l.ulb.tu-darmstadt.de",
-        "db": "FHBDA"
+        "baseurl": "https://opac.lbs-magdeburg.gbv.de",
+        "db": "1"
     },
     "geo": [
-        49.8134336,
-        8.6526188
+        52.139144,
+        11.6409926
     ],
-    "information": "http://bib.h-da.de/",
-    "library_id": 8894,
-    "state": "Hessen",
-    "title": "Hochschulbibliothek h_da"
+    "information": "http://www.ub.ovgu.de/",
+    "library_id": 9068,
+    "state": "Sachsen-Anhalt",
+    "title": "Universit\u00e4tsbibliothek"
 }

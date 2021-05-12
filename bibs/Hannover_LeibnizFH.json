@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Darmstadt",
+    "city": "Hannover",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://pica1l.ulb.tu-darmstadt.de",
-        "db": "FHBDA"
+        "baseurl": "https://vzlbs2.gbv.de",
+        "db": "57"
     },
     "geo": [
-        49.8134336,
-        8.6526188
+        52.3758916,
+        9.7320104
     ],
-    "information": "http://bib.h-da.de/",
-    "library_id": 8894,
-    "state": "Hessen",
-    "title": "Hochschulbibliothek h_da"
+    "information": "http://www.leibniz-fh.de/kontakt.html",
+    "library_id": 8981,
+    "state": "Niedersachsen",
+    "title": "Leibniz-FH"
 }

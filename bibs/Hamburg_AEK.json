@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Darmstadt",
+    "city": "Hamburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://pica1l.ulb.tu-darmstadt.de",
-        "db": "FHBDA"
+        "baseurl": "https://vzopc4.gbv.de",
+        "db": "21"
     },
     "geo": [
-        49.8134336,
-        8.6526188
+        53.5510846,
+        9.9936818
     ],
-    "information": "http://bib.h-da.de/",
-    "library_id": 8894,
-    "state": "Hessen",
-    "title": "Hochschulbibliothek h_da"
+    "information": "http://www.aekbibl.de/",
+    "library_id": 8964,
+    "state": "Hamburg",
+    "title": "Bibliothek des \u00c4rztlichen Vereins"
 }

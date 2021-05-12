@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Darmstadt",
+    "city": "Hannover",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://pica1l.ulb.tu-darmstadt.de",
-        "db": "FHBDA"
+        "baseurl": "https://opac.tib.eu",
+        "db": "1"
     },
     "geo": [
-        49.8134336,
-        8.6526188
+        52.38142,
+        9.72007
     ],
-    "information": "http://bib.h-da.de/",
-    "library_id": 8894,
-    "state": "Hessen",
-    "title": "Hochschulbibliothek h_da"
+    "information": "https://tib.eu",
+    "library_id": 8985,
+    "state": "Niedersachsen",
+    "title": "Unibibliothek + techn. Informationsbibliothek"
 }

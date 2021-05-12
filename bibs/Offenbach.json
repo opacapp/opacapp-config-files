@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "pica",
-    "city": "Darmstadt",
+    "api": "winbiap",
+    "city": "Offenbach/M",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://pica1l.ulb.tu-darmstadt.de",
-        "db": "FHBDA"
+        "baseurl": "https://opac.winbiap.net/offenbach",
+        "customssl": true
     },
     "geo": [
-        49.8134336,
-        8.6526188
+        50.1070493,
+        8.7615989
     ],
-    "information": "http://bib.h-da.de/",
-    "library_id": 8894,
+    "information": "http://www.offenbach.de/stadtbibliothek",
+    "library_id": 8745,
     "state": "Hessen",
-    "title": "Hochschulbibliothek h_da"
+    "title": "Stadtbibliothek"
 }

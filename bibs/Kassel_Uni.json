@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Darmstadt",
+    "city": "Kassel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://pica1l.ulb.tu-darmstadt.de",
-        "db": "FHBDA"
+        "baseurl": "http://opac.bibliothek.uni-kassel.de",
+        "db": "1"
     },
     "geo": [
-        49.8134336,
-        8.6526188
+        51.3127114,
+        9.4797461
     ],
-    "information": "http://bib.h-da.de/",
-    "library_id": 8894,
+    "information": "http://www.uni-kassel.de/ub/",
+    "library_id": 9026,
     "state": "Hessen",
-    "title": "Hochschulbibliothek h_da"
+    "title": "Unibibliothek"
 }

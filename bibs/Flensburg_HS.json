@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Darmstadt",
+    "city": "Flensburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://pica1l.ulb.tu-darmstadt.de",
-        "db": "FHBDA"
+        "baseurl": "https://katalog.ub.uni-kiel.de",
+        "db": "5"
     },
     "geo": [
-        49.8134336,
-        8.6526188
+        54.7757066,
+        9.4550131
     ],
-    "information": "http://bib.h-da.de/",
-    "library_id": 8894,
-    "state": "Hessen",
-    "title": "Hochschulbibliothek h_da"
+    "information": "http://www.zhb-flensburg.de/",
+    "library_id": 8928,
+    "state": "Schleswig-Holstein",
+    "title": "Zentrale Hochschulbibliothek"
 }
