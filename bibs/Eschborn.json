@@ -1,51 +1,50 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Aichtal",
+    "city": "Eschborn",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 1,
+            "author": 0,
             "barcode": -1,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
-            "returndate": 3,
+            "prolongurl": 3,
+            "returndate": 2,
             "status": -1,
-            "title": 2
+            "title": 1
         },
-        "baseurl": "https://wwwopac.rz-kiru.de/aichtal",
+        "baseurl": "https://webopac.eschborn.de/webopac",
         "copiestable": {
             "barcode": -1,
-            "branch": -1,
-            "department": -1,
-            "location": 2,
+            "branch": 3,
+            "department": 1,
+            "location": 0,
             "reservations": -1,
             "returndate": 4,
-            "status": 3
+            "status": 2
         },
-        "customssl": true,
         "reservationtable": {
-            "author": 1,
-            "availability": 3,
+            "author": 0,
+            "availability": 2,
             "branch": -1,
-            "cancelurl": 4,
+            "cancelurl": 3,
             "expirationdate": -1,
-            "title": 2
+            "title": 1
         }
     },
     "geo": [
-        48.6262015,
-        9.263369
+        50.1467469,
+        8.5614555
     ],
-    "information": "http://www.aichtal.de/de/oeffentliche-einrichtungen/buecherei/info-kontakt.html",
-    "library_id": 915,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://www.eschborn.de/de/leben-in-eschborn/schulen-und-bildung/stadtbuechereien",
+    "library_id": 2734,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }
