@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Wohlen",
+    "city": "B\u00e4retswil",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/wohlenbe"
+        "baseurl": "http://www.bibliotheken-zh.ch/Baeretswil"
     },
     "geo": [
-        46.9692,
-        7.38067
+        47.33813,
+        8.85835
     ],
-    "information": "http://www.wohlen-be.ch/de/inhalte/freizeitKultur/bibliothek.php",
-    "library_id": 9245,
-    "state": "Bern",
+    "information": "http://www.baeretswil.ch/de/bildung/mediothek/",
+    "library_id": 8834,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

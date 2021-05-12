@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Wohlen",
+    "city": "D\u00e4llikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/wohlenbe"
+        "baseurl": "http://www.winmedio.net/daellikon"
     },
     "geo": [
-        46.9692,
-        7.38067
+        47.4392,
+        8.4387399
     ],
-    "information": "http://www.wohlen-be.ch/de/inhalte/freizeitKultur/bibliothek.php",
-    "library_id": 9245,
-    "state": "Bern",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.mediothek-daellikon.ch/de/",
+    "library_id": 8892,
+    "state": "Z\u00fcrich",
+    "title": "Mediothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Wohlen",
+    "city": "Elsau",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/wohlenbe"
+        "baseurl": "http://www.bibliotheken-zh.ch/Elsau"
     },
     "geo": [
-        46.9692,
-        7.38067
+        47.5054326,
+        8.8020704
     ],
-    "information": "http://www.wohlen-be.ch/de/inhalte/freizeitKultur/bibliothek.php",
-    "library_id": 9245,
-    "state": "Bern",
+    "information": "https://secure.i-web.ch/gemweb/elsau/de/kultur-freizeit/bibliotheken/",
+    "library_id": 8914,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

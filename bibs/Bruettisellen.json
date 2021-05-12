@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Wohlen",
+    "city": "Br\u00fcttisellen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/wohlenbe"
+        "baseurl": "http://www.bibliotheken-zh.ch/Bruettisellen"
     },
     "geo": [
-        46.9692,
-        7.38067
+        47.42319,
+        8.62971
     ],
-    "information": "http://www.wohlen-be.ch/de/inhalte/freizeitKultur/bibliothek.php",
-    "library_id": 9245,
-    "state": "Bern",
+    "information": "http://www.bibliothek.bruggwiesen.ch/",
+    "library_id": 8877,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

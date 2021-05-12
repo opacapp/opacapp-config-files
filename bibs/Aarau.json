@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Wohlen",
+    "city": "Aarau",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/wohlenbe"
+        "baseurl": "http://www.winmedio.net/aarau"
     },
     "geo": [
-        46.9692,
-        7.38067
+        47.3924914,
+        8.0460447
     ],
-    "information": "http://www.wohlen-be.ch/de/inhalte/freizeitKultur/bibliothek.php",
-    "library_id": 9245,
-    "state": "Bern",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.stadtbibliothekaarau.ch/xml_1/internet/de/intro.cfm",
+    "library_id": 8818,
+    "state": "Aargau",
+    "title": "Stadtbibliothek"
 }

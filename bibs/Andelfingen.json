@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Wohlen",
+    "city": "Andelfingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/wohlenbe"
+        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
     },
     "geo": [
-        46.9692,
-        7.38067
+        47.5963,
+        8.67657
     ],
-    "information": "http://www.wohlen-be.ch/de/inhalte/freizeitKultur/bibliothek.php",
-    "library_id": 9245,
-    "state": "Bern",
+    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
+    "library_id": 8825,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

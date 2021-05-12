@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Wohlen",
+    "city": "Bubikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/wohlenbe"
+        "baseurl": "http://www.bibliotheken-zh.ch/Bubikon"
     },
     "geo": [
-        46.9692,
-        7.38067
+        47.267935,
+        8.8185296
     ],
-    "information": "http://www.wohlen-be.ch/de/inhalte/freizeitKultur/bibliothek.php",
-    "library_id": 9245,
-    "state": "Bern",
+    "information": "http://www.schule-bubikon.ch/p22001869.html",
+    "library_id": 8879,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

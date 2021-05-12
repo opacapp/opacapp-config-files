@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Wohlen",
+    "city": "Affoltern",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/wohlenbe"
+        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
     },
     "geo": [
-        46.9692,
-        7.38067
+        47.2775064,
+        8.4503277
     ],
-    "information": "http://www.wohlen-be.ch/de/inhalte/freizeitKultur/bibliothek.php",
-    "library_id": 9245,
-    "state": "Bern",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.bibliothek-affoltern.ch/",
+    "library_id": 8821,
+    "state": "Z\u00fcrich",
+    "title": "Regionalbibliothek"
 }

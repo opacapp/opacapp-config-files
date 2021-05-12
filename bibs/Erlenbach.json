@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Wohlen",
+    "city": "Erlenbach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/wohlenbe"
+        "baseurl": "http://www.bibliotheken-zh.ch/Erlenbach"
     },
     "geo": [
-        46.9692,
-        7.38067
+        47.3027783,
+        8.6006925
     ],
-    "information": "http://www.wohlen-be.ch/de/inhalte/freizeitKultur/bibliothek.php",
-    "library_id": 9245,
-    "state": "Bern",
+    "information": "http://www.schule-erlenbach.ch/bibliothek",
+    "library_id": 8923,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Wohlen",
+    "city": "Altst\u00e4tten",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/wohlenbe"
+        "baseurl": "http://www.winmedio.net/Altstaetten"
     },
     "geo": [
-        46.9692,
-        7.38067
+        47.378,
+        9.54104
     ],
-    "information": "http://www.wohlen-be.ch/de/inhalte/freizeitKultur/bibliothek.php",
-    "library_id": 9245,
-    "state": "Bern",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.bibliothek-reburg.ch/",
+    "library_id": 8822,
+    "state": "St. Gallen",
+    "title": "Bibliothek Reburg"
 }
