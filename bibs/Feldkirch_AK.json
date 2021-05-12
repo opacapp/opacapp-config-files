@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wolfsberg",
+    "city": "Feldkirch",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.wolfsberg.web-opac.at"
+        "baseurl": "http://www.ak-feldkirch.webopac.at"
     },
     "geo": [
-        46.8381813,
-        14.8461718
+        47.2392935,
+        9.5976395
     ],
-    "information": "http://www.wolfsberg.at",
-    "library_id": 9247,
-    "state": "K\u00e4rnten",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.ak-vorarlberg.at",
+    "library_id": 8927,
+    "state": "Vorarlberg",
+    "title": "AK-Bibliothek"
 }

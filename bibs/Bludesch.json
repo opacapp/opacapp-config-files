@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wolfsberg",
+    "city": "Bludesch",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.wolfsberg.web-opac.at"
+        "baseurl": "http://www.buechereibludesch.webopac.at"
     },
     "geo": [
-        46.8381813,
-        14.8461718
+        47.1974876,
+        9.7452881
     ],
-    "information": "http://www.wolfsberg.at",
-    "library_id": 9247,
-    "state": "K\u00e4rnten",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.bludesch.bvoe.at",
+    "library_id": 8861,
+    "state": "Vorarlberg",
+    "title": "\u00d6ffentliche B\u00fccherei"
 }

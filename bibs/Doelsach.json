@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wolfsberg",
+    "city": "D\u00f6lsach",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.wolfsberg.web-opac.at"
+        "baseurl": "http://www.bib-doelsach.web-opac.at"
     },
     "geo": [
-        46.8381813,
-        14.8461718
+        46.8243081,
+        12.8370301
     ],
-    "information": "http://www.wolfsberg.at",
-    "library_id": 9247,
-    "state": "K\u00e4rnten",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.doelsach.bvoe.at",
+    "library_id": 8901,
+    "state": "Tirol",
+    "title": "\u00d6ffentliche B\u00fccherei"
 }
