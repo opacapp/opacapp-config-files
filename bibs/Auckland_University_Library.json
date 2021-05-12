@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "data": {
+        "baseurl": "https://catalogue.library.auckland.ac.nz/primo_library/libweb",
+        "db": "NEWUI",
+        "languages": [
+            "en"
+        ]
+    },
+    "geo": [
+        -36.8512521,
+        174.769334
+    ],
+    "information": "https://www.library.auckland.ac.nz/hours",
+    "library_id": 9357,
+    "state": "Auckland",
+    "title": "University Library"
+}
