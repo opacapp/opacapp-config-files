@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Worms",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://pica1l.lhb.tu-darmstadt.de",
+        "charset": "ISO-8859-1",
+        "db": "STBWO"
+    },
+    "geo": [
+        49.6290294,
+        8.3703118
+    ],
+    "information": "http://www.worms.de/de/kultur/bibliotheken/",
+    "library_id": 8796,
+    "state": "Rheinland-Pfalz",
+    "title": "Stadtbibliothek"
+}
