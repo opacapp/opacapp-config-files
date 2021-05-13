@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ebersbach-Neugersdorf",
+    "city": "Me\u00dfstetten",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://bibo.ebersbach-neugersdorf.de",
+        "baseurl": "http://buecherei.selfhost.bz/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -38,11 +38,11 @@
         }
     },
     "geo": [
-        51.0,
-        14.6
+        48.1812912,
+        8.9626843
     ],
-    "information": "http://www.ebersbach-neugersdorf.de/Bibliotheken",
-    "library_id": 8908,
-    "state": "Sachsen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.stadt-messstetten.de/Stadtbuecherei.346.0.html",
+    "library_id": 5389,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
 }

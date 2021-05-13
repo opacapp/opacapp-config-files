@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ebersbach-Neugersdorf",
+    "city": "Lauf/P",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://bibo.ebersbach-neugersdorf.de",
+        "baseurl": "http://88.217.155.35/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,6 +26,8 @@
             "status": 3
         },
         "mediatypes": {
+            "blu-ray.gif": "BLURAY",
+            "emedien.gif": "EDOC",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -38,11 +40,11 @@
         }
     },
     "geo": [
-        51.0,
-        14.6
+        49.5104449,
+        11.2770723
     ],
-    "information": "http://www.ebersbach-neugersdorf.de/Bibliotheken",
-    "library_id": 8908,
-    "state": "Sachsen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.stadtbuecherei-lauf.de/",
+    "library_id": 4857,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
 }

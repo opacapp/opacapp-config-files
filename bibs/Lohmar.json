@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ebersbach-Neugersdorf",
+    "city": "Lohmar",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://bibo.ebersbach-neugersdorf.de",
+        "baseurl": "http://biblio.lohmar.de/wopac116",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -38,11 +38,11 @@
         }
     },
     "geo": [
-        51.0,
-        14.6
+        50.83883,
+        7.20932
     ],
-    "information": "http://www.ebersbach-neugersdorf.de/Bibliotheken",
-    "library_id": 8908,
-    "state": "Sachsen",
+    "information": "http://www.lohmar.de/schule-bibliotheken-musikkunstschule/bibliotheken/stadtbibliothek/standorte/",
+    "library_id": 5063,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtbibliothek"
 }
