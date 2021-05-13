@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ebersbach-Neugersdorf",
+    "city": "Neunkirchen-Seelscheid",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://bibo.ebersbach-neugersdorf.de",
+        "baseurl": "http://biblio.neunkirchen-seelscheid.de/wopac119",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -38,11 +38,11 @@
         }
     },
     "geo": [
-        51.0,
-        14.6
+        50.84061,
+        7.33617
     ],
-    "information": "http://www.ebersbach-neugersdorf.de/Bibliotheken",
-    "library_id": 8908,
-    "state": "Sachsen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.neunkirchen-seelscheid.de/buecher/katalog.htm",
+    "library_id": 5805,
+    "state": "Nordrhein-Westfalen",
+    "title": "Gemeindeb\u00fccherei"
 }
