@@ -11,15 +11,15 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://recherche.bibkatalog.de/InfoGuideClient.fwssis",
-        "homebranch": "4",
-        "startparams": "Login=wofwsh"
+        "homebranch": "3",
+        "startparams": "Login=wofwsa"
     },
     "geo": [
-        49.9735474,
-        9.1525973
+        49.971918,
+        9.1605
     ],
-    "information": "http://www.hofbibliothek-ab.de/",
-    "library_id": 8826,
+    "information": "http://www.h-ab.de/ueber-die-hochschule/organisation/einrichtungen/bibliothek/kontakt/oeffnungszeiten/",
+    "library_id": 8827,
     "state": "Bayern",
-    "title": "Hofbibliothek"
+    "title": "Hochschulbibliothek"
 }
