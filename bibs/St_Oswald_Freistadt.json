@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "St.",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://www.gemeindebuecherei-oswald.web-opac.at"
+    },
+    "geo": [
+        48.5007058,
+        14.5869181
+    ],
+    "information": "http://www.stoswald.at/Gemeindebuecherei_Bibliothek_11",
+    "library_id": 9181,
+    "state": "Ober\u00f6sterreich",
+    "title": "\u00d6ffentliche B\u00fccherei der Marktgemeinde St.Oswald"
+}
