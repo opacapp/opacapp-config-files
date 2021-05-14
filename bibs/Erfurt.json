@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Erfurt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.erfurt.de/webOPACClient",
+        "startparams": "Login=sisis"
+    },
+    "geo": [
+        50.978151,
+        11.0242081
+    ],
+    "information": "http://www.erfurt.de/ef/de/leben/bildung/sturb/index.html",
+    "library_id": 8658,
+    "state": "Th\u00fcringen",
+    "title": "Stadt- und Regionalbibliothek"
+}
