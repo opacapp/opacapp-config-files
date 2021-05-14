@@ -7,21 +7,24 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "G\u00f6ttingen",
+    "city": "Herrenberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://stadtbibliothek.goettingen.de",
+        "baseurl": "https://open.rz-kiru.de/herrenberg",
+        "customssl": true,
         "urls": {
+            "account": "Konto.aspx",
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "new_acq": "NeueMedien.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        51.5336064,
-        9.9340052
+        48.59424,
+        8.8731
     ],
-    "information": "https://stadtbibliothek.goettingen.de/Bibliotheken/Zentralbibliothek.aspx",
-    "library_id": 8677,
-    "state": "Niedersachsen",
+    "information": "http://www.stadtbibliothek.herrenberg.de/",
+    "library_id": 22,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtbibliothek"
 }
