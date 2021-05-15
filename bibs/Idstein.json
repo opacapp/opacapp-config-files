@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "biber1992",
+    "city": "Idstein",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://stadtbuecherei.idstein.de",
+        "opacdir": "opax",
+        "searchtable": [
+            2,
+            3,
+            4
+        ]
+    },
+    "geo": [
+        50.2202541,
+        8.2696347
+    ],
+    "information": "https://www.idstein.de/Startseite/Leben-in-Idstein/Kultur/Stadtbuecherei/E1363.htm",
+    "library_id": 4100,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
+}
