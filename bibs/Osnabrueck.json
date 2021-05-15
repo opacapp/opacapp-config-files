@@ -1,48 +1,47 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": true,
+    "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Bad Kreuznach",
+    "city": "Osnabr\u00fcck",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 8,
+            "author": 7,
             "barcode": 4,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
+            "prolongurl": 5,
             "returndate": 3,
             "status": 5,
-            "title": 8
+            "title": 7
         },
-        "baseurl": "https://badkreuznach.bibdia-hosts.de",
+        "baseurl": "https://katalog.stadtbibliothek.osnabrueck.de",
         "copiestable": {
-            "barcode": 2,
-            "branch": 0,
+            "barcode": 3,
+            "branch": 1,
             "department": -1,
-            "location": 1,
+            "location": 2,
             "reservations": -1,
             "returndate": -1,
-            "status": 3
+            "status": 4
         },
         "mediatypes": {
             "1": "BOOK",
+            "10": "MAP",
             "11": "DVD",
-            "12": "DVD",
-            "19": "BOOK",
             "2": "MAGAZINE",
-            "20": "AUDIOBOOK",
-            "21": "AUDIOBOOK",
-            "26": "GAME_CONSOLE",
-            "3": "CD_SOFTWARE",
-            "30": "EBOOK",
-            "33": "BOOK",
-            "6": "CD"
+            "23": "CD_SOFTWARE",
+            "30": "EDOC",
+            "35": "EBOOK",
+            "4": "MOVIE",
+            "6": "CD",
+            "8": "SCORE_MUSIC",
+            "9": "BOARDGAME"
         },
         "opacdir": "opax",
         "searchtable": [
@@ -52,11 +51,11 @@
         ]
     },
     "geo": [
-        49.8440162,
-        7.8731346
+        52.2774174,
+        8.0420652
     ],
-    "information": "http://www.bad-kreuznach.de/sv_bad_kreuznach/Tourismus,%20Kultur,%20Sport/Stadtbibliothek/",
-    "library_id": 1281,
-    "state": "Rheinland-Pfalz",
+    "information": "https://katalog.stadtbibliothek.osnabrueck.de/opax/de/RBK/pA_B.html.S",
+    "library_id": 8748,
+    "state": "Niedersachsen",
     "title": "Stadtbibliothek"
 }
