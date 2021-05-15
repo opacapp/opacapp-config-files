@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Traunstein",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://www.stadtbuecherei-traunstein.de",
+        "urls": {
+            "advanced_search": "Mediensuche/UnserKatalog.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        47.8696971,
+        12.6441366
+    ],
+    "information": "http://stadtbuecherei-traunstein.de/Info/InfoKontakt.aspx",
+    "library_id": 7676,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
