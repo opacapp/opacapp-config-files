@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "Schweinfurt",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,12 +16,12 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "http://schweinfurtonline1.bayern.de/wwwopac",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "location": 1,
-            "returndate": 5,
+            "branch": 0,
+            "department": 1,
+            "location": 2,
+            "returndate": 4,
             "status": 3
         },
         "mediatypes": {
@@ -31,17 +31,16 @@
         },
         "reservationtable": {
             "author": 0,
-            "availability": 2,
-            "cancelurl": 3,
+            "cancelurl": 2,
             "title": 1
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        50.04428,
+        10.2365
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
+    "information": "http://www.schweinfurt.de/kultur-tourismus/stadtbuecherei/",
+    "library_id": 7182,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

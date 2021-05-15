@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "Rinteln",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,10 +16,11 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "https://buecherei.rinteln.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
+            "department": 2,
             "location": 1,
             "returndate": 5,
             "status": 3
@@ -37,11 +38,11 @@
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        52.18468,
+        9.07724
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
+    "information": "http://www.rinteln.de/stadtbuecherei",
+    "library_id": 6710,
+    "state": "Niedersachsen",
     "title": "Stadtb\u00fccherei"
 }

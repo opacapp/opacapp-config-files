@@ -1,33 +1,35 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "Heiden",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "https://webopac.bistum-muenster.de/heiden",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
-            "location": 1,
+            "department": -1,
+            "location": 2,
+            "reservations": -1,
             "returndate": 5,
+            "signature": 1,
             "status": 3
-        },
-        "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -37,11 +39,11 @@
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        51.8255419,
+        6.9359164
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://buecherei.sankt-georg-heiden.de/",
+    "library_id": 3714,
+    "state": "Nordrhein-Westfalen",
+    "title": "Die B\u00fccherei St. Georg"
 }

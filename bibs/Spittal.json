@@ -1,14 +1,14 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
-    "country": "Deutschland",
+    "city": "Spittal an der Drau",
+    "country": "\u00d6sterreich",
     "data": {
         "accounttable": {
             "author": 0,
@@ -16,10 +16,11 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "https://katalog-buecherei.spittal-drau.at/WebOpac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
+            "department": 2,
             "location": 1,
             "returndate": 5,
             "status": 3
@@ -37,11 +38,11 @@
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        46.7983351,
+        13.4966003
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
+    "information": "http://www.stadtbuecherei-spittal.at/",
+    "library_id": 9174,
+    "state": "K\u00e4rnten",
     "title": "Stadtb\u00fccherei"
 }

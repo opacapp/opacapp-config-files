@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "Andernach",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,18 +16,21 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "https://webopac.andernach.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
+            "department": 2,
             "location": 1,
             "returndate": 5,
             "status": 3
         },
         "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "eaudio.gif": "EAUDIO",
+            "ebook.gif": "EBOOK",
+            "emusic.gif": "EAUDIO",
+            "epaper.gif": "EDOC",
+            "evideo.gif": "EVIDEO"
         },
         "reservationtable": {
             "author": 0,
@@ -37,11 +40,11 @@
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        50.4398716,
+        7.4000356
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
+    "information": "http://www.andernach.de/de/kultur_bildung/beh_buecherei.html",
+    "library_id": 1050,
+    "state": "Rheinland-Pfalz",
     "title": "Stadtb\u00fccherei"
 }
