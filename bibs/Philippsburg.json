@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": true,
+    "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Bad Kreuznach",
+    "city": "Philippsburg",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -17,10 +17,10 @@
             "lendingbranch": -1,
             "prolongurl": 4,
             "returndate": 3,
-            "status": 5,
+            "status": 6,
             "title": 8
         },
-        "baseurl": "https://badkreuznach.bibdia-hosts.de",
+        "baseurl": "http://philippsburg.bibdia-hosts.de",
         "copiestable": {
             "barcode": 2,
             "branch": 0,
@@ -30,19 +30,17 @@
             "returndate": -1,
             "status": 3
         },
+        "disguise": true,
         "mediatypes": {
             "1": "BOOK",
             "11": "DVD",
-            "12": "DVD",
-            "19": "BOOK",
             "2": "MAGAZINE",
-            "20": "AUDIOBOOK",
-            "21": "AUDIOBOOK",
-            "26": "GAME_CONSOLE",
             "3": "CD_SOFTWARE",
             "30": "EBOOK",
-            "33": "BOOK",
-            "6": "CD"
+            "4": "MOVIE",
+            "5": "AUDIO_CASSETTE",
+            "6": "CD",
+            "9": "BOARDGAME"
         },
         "opacdir": "opax",
         "searchtable": [
@@ -52,11 +50,11 @@
         ]
     },
     "geo": [
-        49.8440162,
-        7.8731346
+        49.2352532,
+        8.458036
     ],
-    "information": "http://www.bad-kreuznach.de/sv_bad_kreuznach/Tourismus,%20Kultur,%20Sport/Stadtbibliothek/",
-    "library_id": 1281,
-    "state": "Rheinland-Pfalz",
+    "information": "http://www.bibliothek-ph.de/",
+    "library_id": 6347,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtbibliothek"
 }
