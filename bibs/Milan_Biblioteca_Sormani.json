@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 173,
+    "account_supported": false,
+    "api": "vufind",
+    "city": "Milano",
+    "country": "Italia",
+    "data": {
+        "baseurl": "https://www.biblioteche.regione.lombardia.it/OPACMI01"
+    },
+    "geo": [
+        45.4621641,
+        9.198145
+    ],
+    "information": "http://www.comune.milano.it/wps/portal/ist/it/vivicitta/luoghicultura/biblioteche/sistema_bibliotecario_milano/sedi/biblioteca_sormani",
+    "library_id": 9319,
+    "state": "Lombardia",
+    "title": "Biblioteca Sormani"
+}
