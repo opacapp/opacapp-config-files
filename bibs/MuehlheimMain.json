@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "M\u00fchlheim/M",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://opac.winbiap.net/muehlheim",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        50.12529,
+        8.84515
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "https://www.muehlheim.de/buecherei-informationen.html+",
+    "library_id": 5553,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }

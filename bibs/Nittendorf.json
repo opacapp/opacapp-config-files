@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "Nittendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://webopac.winbiap.de/nittendorf",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        49.02405,
+        11.95459
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
+    "information": "http://www.nittendorf.de/rathaus/?Buecherei&view=org&orgid=bfb04f7e-2325-49ea-bf11-cd229f088834",
+    "library_id": 5946,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Marktbibliothek"
 }
