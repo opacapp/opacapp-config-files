@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Plettenberg",
+    "api": "iopac",
+    "city": "Nieb\u00fcll",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.citkomm.de/plettenberg",
-        "customssl": true
+        "baseurl": "https://niebuell.iopac.de"
     },
     "geo": [
-        51.21463,
-        7.87439
+        54.7859,
+        8.82601
     ],
-    "information": "http://www.stadtbuecherei-plettenberg.de/",
-    "library_id": 6373,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.stadtbuecherei-niebuell.de/de/index_de.html",
+    "library_id": 5889,
+    "state": "Schleswig-Holstein",
     "title": "Stadtb\u00fccherei"
 }
