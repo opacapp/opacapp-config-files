@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Augsburg",
+    "city": "R\u00fcsselsheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "http://stadtbuecherei.ruesselsheim.de/webOPACClient"
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        49.9910539,
+        8.425014
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
-    "state": "Bayern",
+    "information": "http://www.stadt-ruesselsheim.de/Stadtbuecherei.html",
+    "library_id": 8765,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

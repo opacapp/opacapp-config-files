@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Augsburg",
+    "api": "winbiap",
+    "city": "Roth bei Nbg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://opac.winbiap.net/roth",
+        "customssl": true
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        49.2456337,
+        11.0911607
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://www.stadt-roth.de/lwwcm-rh/rh-publish.nsf/Content/GE-1-SL-BildungKultur-Stadtbuecherei/",
+    "library_id": 6792,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

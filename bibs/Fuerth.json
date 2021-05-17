@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Augsburg",
+    "city": "F\u00fcrth",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://serviceweb.fuerth.de/webOPACClient"
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        49.4564168,
+        10.991838
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://fuerth.de/Home/Leben-in-Fuerth/schulen-bildung/volksbuecherei.aspx#ctl00_ctl16_cdvBigView_ctl00",
+    "library_id": 8670,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Volksb\u00fccherei"
 }

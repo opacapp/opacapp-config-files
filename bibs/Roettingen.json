@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Augsburg",
+    "api": "winbiap",
+    "city": "R\u00f6ttingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://webopac.winbiap.de/roettingen",
+        "customssl": true
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        49.5122355,
+        9.9718105
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://www.roettingen.de/index.php?id=59",
+    "library_id": 6858,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

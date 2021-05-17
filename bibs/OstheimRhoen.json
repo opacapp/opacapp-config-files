@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Augsburg",
+    "api": "winbiap",
+    "city": "Ostheim v.d. Rh\u00f6n",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://webopac.winbiap.net/ostheim",
+        "customssl": true
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        50.4608058,
+        10.2305055
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://www.ostheim.de/internet/index.php?page=12485",
+    "library_id": 6218,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

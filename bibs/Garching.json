@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Augsburg",
+    "city": "Garching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://stgoz2.bib-bvb.de/webOPACClient.stgsis",
+        "startparams": "Login=wostg"
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        48.2488721,
+        11.6532477
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://stadtbuechereigarching.de/",
+    "library_id": 3097,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

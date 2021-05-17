@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Augsburg",
+    "api": "winbiap",
+    "city": "Herborn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://webopac.herborn.de"
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        50.6784088,
+        8.2997096
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
-    "state": "Bayern",
+    "information": "http://www.herborn.de/kultur/stadtbuecherei/",
+    "library_id": 3792,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

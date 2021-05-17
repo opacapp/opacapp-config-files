@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Augsburg",
+    "api": "winbiap",
+    "city": "Kolbermoor",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://webopac.winbiap.net/kolbermoor",
+        "customssl": true
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        47.8483311,
+        12.0611921
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://www.stadt-kolbermoor.de/index.php?option=com_content&task=view&id=154&Itemid=195",
+    "library_id": 4513,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }
