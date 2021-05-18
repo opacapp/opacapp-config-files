@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Hersfeld",
+    "city": "Nidda",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://195.158.43.74/webopac"
+        "baseurl": "http://time.nidda.de/webopac"
     },
     "geo": [
-        50.8701345,
-        9.7019675
+        50.414224,
+        9.0099518
     ],
-    "information": "http://www.badhersfeld-tourismus.de/freizeit-und-hobby/stadtbibliothek.html",
-    "library_id": 1261,
+    "information": "http://www.stadtbibliothek-nidda.de/",
+    "library_id": 5880,
     "state": "Hessen",
-    "title": "Konrad-Duden-Stadtbibliothek"
+    "title": "Stadtbibliothek"
 }

@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Hersfeld",
+    "city": "Bad Vilbel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://195.158.43.74/webopac"
+        "baseurl": "https://webopac.winbiap.de/badvilbel",
+        "customssl": true
     },
     "geo": [
-        50.8701345,
-        9.7019675
+        50.1827055,
+        8.7386798
     ],
-    "information": "http://www.badhersfeld-tourismus.de/freizeit-und-hobby/stadtbibliothek.html",
-    "library_id": 1261,
+    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
+    "library_id": 1372,
     "state": "Hessen",
-    "title": "Konrad-Duden-Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

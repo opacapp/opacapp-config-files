@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Hersfeld",
+    "city": "Bad Wildungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://195.158.43.74/webopac"
+        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "customssl": true
     },
     "geo": [
-        50.8701345,
-        9.7019675
+        51.1196745,
+        9.1241131
     ],
-    "information": "http://www.badhersfeld-tourismus.de/freizeit-und-hobby/stadtbibliothek.html",
-    "library_id": 1261,
+    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
+    "library_id": 1379,
     "state": "Hessen",
-    "title": "Konrad-Duden-Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

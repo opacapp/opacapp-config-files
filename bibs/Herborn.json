@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Hersfeld",
+    "city": "Herborn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://195.158.43.74/webopac"
+        "baseurl": "https://webopac.herborn.de"
     },
     "geo": [
-        50.8701345,
-        9.7019675
+        50.6784088,
+        8.2997096
     ],
-    "information": "http://www.badhersfeld-tourismus.de/freizeit-und-hobby/stadtbibliothek.html",
-    "library_id": 1261,
+    "information": "http://www.herborn.de/kultur/stadtbuecherei/",
+    "library_id": 3792,
     "state": "Hessen",
-    "title": "Konrad-Duden-Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

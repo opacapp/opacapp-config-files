@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Hersfeld",
+    "city": "Hofgeismar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://195.158.43.74/webopac"
+        "baseurl": "https://webopac.winbiap.net/hofgeismar",
+        "customssl": true
     },
     "geo": [
-        50.8701345,
-        9.7019675
+        51.4970925,
+        9.3860472
     ],
-    "information": "http://www.badhersfeld-tourismus.de/freizeit-und-hobby/stadtbibliothek.html",
-    "library_id": 1261,
+    "information": "http://www.hofgeismar.de/cms/LebenHofgeismar/Stadtb%C3%BCcherei/",
+    "library_id": 3938,
     "state": "Hessen",
-    "title": "Konrad-Duden-Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }
