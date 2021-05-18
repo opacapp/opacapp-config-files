@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Altst\u00e4tten",
+    "city": "Rafz",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/Altstaetten"
+        "baseurl": "http://www.bibliotheken-zh.ch/Rafz"
     },
     "geo": [
-        47.378,
-        9.54104
+        47.61242,
+        8.54002
     ],
-    "information": "http://www.bibliothek-reburg.ch/",
-    "library_id": 8822,
-    "state": "St. Gallen",
-    "title": "Bibliothek Reburg"
+    "information": "http://www.rafz.ch/de/tourismus/bibliotheken/",
+    "library_id": 9145,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

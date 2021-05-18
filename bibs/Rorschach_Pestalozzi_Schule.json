@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Altst\u00e4tten",
+    "city": "Rorschach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/Altstaetten"
+        "baseurl": "http://www.winmedio.net/rorschach-pestalozzi"
     },
     "geo": [
-        47.378,
-        9.54104
+        47.4738018,
+        9.4927814
     ],
-    "information": "http://www.bibliothek-reburg.ch/",
-    "library_id": 8822,
+    "information": "http://www.schule.rorschach.ch/pestalozzi/pages/bibliothek.html",
+    "library_id": 9155,
     "state": "St. Gallen",
-    "title": "Bibliothek Reburg"
+    "title": "Schulbibliothek Pestalozzi"
 }

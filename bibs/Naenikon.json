@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Altst\u00e4tten",
+    "city": "N\u00e4nikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/Altstaetten"
+        "baseurl": "http://www.bibliotheken-zh.ch/Naenikon"
     },
     "geo": [
-        47.378,
-        9.54104
+        47.3693646,
+        8.6893138
     ],
-    "information": "http://www.bibliothek-reburg.ch/",
-    "library_id": 8822,
-    "state": "St. Gallen",
-    "title": "Bibliothek Reburg"
+    "information": "http://www.naenikon.ch/freizeit/bibliothek/bibliothek.htm",
+    "library_id": 9105,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

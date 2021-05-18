@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Altst\u00e4tten",
+    "city": "N\u00fcrensdorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/Altstaetten"
+        "baseurl": "http://www.winmedio.net/nuerensdorf"
     },
     "geo": [
-        47.378,
-        9.54104
+        47.447,
+        8.64935
     ],
-    "information": "http://www.bibliothek-reburg.ch/",
-    "library_id": 8822,
-    "state": "St. Gallen",
-    "title": "Bibliothek Reburg"
+    "information": "http://www.nuerensdorf.ch/de/freizeit_kultur/bibliothek.html",
+    "library_id": 9117,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

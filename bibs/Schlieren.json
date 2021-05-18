@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Altst\u00e4tten",
+    "city": "Schlieren",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/Altstaetten"
+        "baseurl": "http://www.bibliotheken-zh.ch/Schlieren"
     },
     "geo": [
-        47.378,
-        9.54104
+        47.3984409,
+        8.4440533
     ],
-    "information": "http://www.bibliothek-reburg.ch/",
-    "library_id": 8822,
-    "state": "St. Gallen",
-    "title": "Bibliothek Reburg"
+    "information": "http://www.schlieren.ch/de/verwaltung/aemter/?amt_id=573",
+    "library_id": 9167,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

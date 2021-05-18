@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Altst\u00e4tten",
+    "city": "Niederhasli",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/Altstaetten"
+        "baseurl": "http://www.bibliotheken-zh.ch/Niederhasli"
     },
     "geo": [
-        47.378,
-        9.54104
+        47.4815538,
+        8.4918366
     ],
-    "information": "http://www.bibliothek-reburg.ch/",
-    "library_id": 8822,
-    "state": "St. Gallen",
-    "title": "Bibliothek Reburg"
+    "information": "http://www.mediothek-niederhasli.ch/",
+    "library_id": 9112,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }
