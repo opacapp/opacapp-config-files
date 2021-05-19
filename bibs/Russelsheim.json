@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Altena/Westf",
+    "api": "sisis",
+    "city": "R\u00fcsselsheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.citkomm.de/altena"
+        "baseurl": "http://stadtbuecherei.ruesselsheim.de/webOPACClient"
     },
     "geo": [
-        51.3015239,
-        7.6714387
+        49.9910539,
+        8.425014
     ],
-    "information": "http://www.stadtbuecherei.de/",
-    "library_id": 980,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.stadt-ruesselsheim.de/Stadtbuecherei.html",
+    "library_id": 8765,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Altena/Westf",
+    "city": "Schwerte",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.citkomm.de/altena"
+        "baseurl": "https://webopac.citkomm.de/schwerte"
     },
     "geo": [
-        51.3015239,
-        7.6714387
+        51.4406,
+        7.56864
     ],
-    "information": "http://www.stadtbuecherei.de/",
-    "library_id": 980,
+    "information": "http://www.kuwebe.de/html/bucherei_-_aktuelles.html",
+    "library_id": 8771,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

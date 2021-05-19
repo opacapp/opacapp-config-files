@@ -1,23 +1,23 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Altena/Westf",
+    "api": "sisis",
+    "city": "Pulheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.citkomm.de/altena"
+        "baseurl": "http://173.212.235.246/webOPACClient"
     },
     "geo": [
-        51.3015239,
-        7.6714387
+        51.0184841,
+        6.7581365
     ],
-    "information": "http://www.stadtbuecherei.de/",
-    "library_id": 980,
+    "information": "https://www.stadtbuecherei-pulheim.de/stb-kontakt/oeffnungszeiten/index.php",
+    "library_id": 8755,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

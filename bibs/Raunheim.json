@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Altena/Westf",
+    "city": "Raunheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.citkomm.de/altena"
+        "baseurl": "https://webopac.winbiap.de/raunheim",
+        "customssl": true
     },
     "geo": [
-        51.3015239,
-        7.6714387
+        50.0104109,
+        8.4529177
     ],
-    "information": "http://www.stadtbuecherei.de/",
-    "library_id": 980,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://raunheim.de/sites/gensite.asp?SID=cms100820141646047420923&Art=232",
+    "library_id": 6508,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

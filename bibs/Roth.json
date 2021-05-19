@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Altena/Westf",
+    "city": "Roth bei Nbg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.citkomm.de/altena"
+        "baseurl": "https://opac.winbiap.net/roth",
+        "customssl": true
     },
     "geo": [
-        51.3015239,
-        7.6714387
+        49.2456337,
+        11.0911607
     ],
-    "information": "http://www.stadtbuecherei.de/",
-    "library_id": 980,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.stadt-roth.de/lwwcm-rh/rh-publish.nsf/Content/GE-1-SL-BildungKultur-Stadtbuecherei/",
+    "library_id": 6792,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

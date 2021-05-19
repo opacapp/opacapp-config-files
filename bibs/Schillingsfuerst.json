@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Altena/Westf",
+    "city": "Schillingsf\u00fcrst",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.citkomm.de/altena"
+        "baseurl": "https://webopac.winbiap.net/schillingsfuerst",
+        "customssl": true
     },
     "geo": [
-        51.3015239,
-        7.6714387
+        49.2862476,
+        10.2622504
     ],
-    "information": "http://www.stadtbuecherei.de/",
-    "library_id": 980,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.schillingsfuerst.de/OEffentliche-Einrichtungen.604.0.html",
+    "library_id": 6978,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

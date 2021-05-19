@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Altena/Westf",
+    "city": "Salzkotten",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.citkomm.de/altena"
+        "baseurl": "http://www.stadtbibliothek-salzkotten.de"
     },
     "geo": [
-        51.3015239,
-        7.6714387
+        51.67029,
+        8.60671
     ],
-    "information": "http://www.stadtbuecherei.de/",
-    "library_id": 980,
+    "information": "http://www.stadtbibliothek-salzkotten.de/index.aspx",
+    "library_id": 6916,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

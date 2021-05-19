@@ -1,23 +1,24 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Altena/Westf",
+    "city": "Plettenberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.citkomm.de/altena"
+        "baseurl": "https://webopac.citkomm.de/plettenberg",
+        "customssl": true
     },
     "geo": [
-        51.3015239,
-        7.6714387
+        51.21463,
+        7.87439
     ],
-    "information": "http://www.stadtbuecherei.de/",
-    "library_id": 980,
+    "information": "http://www.stadtbuecherei-plettenberg.de/",
+    "library_id": 6373,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

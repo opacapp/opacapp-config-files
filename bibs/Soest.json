@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Altena/Westf",
+    "city": "Soest",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.citkomm.de/altena"
+        "baseurl": "https://stadtbuecherei.soest.de",
+        "customssl": true
     },
     "geo": [
-        51.3015239,
-        7.6714387
+        51.5732483,
+        8.1107111
     ],
-    "information": "http://www.stadtbuecherei.de/",
-    "library_id": 980,
+    "information": "http://www.stadtbuecherei-soest.de/",
+    "library_id": 7294,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Altena/Westf",
+    "city": "Schwabm\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.citkomm.de/altena"
+        "baseurl": "https://webopac.winbiap.de/schwabmuenchen",
+        "customssl": true
     },
     "geo": [
-        51.3015239,
-        7.6714387
+        48.1800343,
+        10.7557069
     ],
-    "information": "http://www.stadtbuecherei.de/",
-    "library_id": 980,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.schwabmuenchen.de/index.php?id=0,56",
+    "library_id": 7128,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }
