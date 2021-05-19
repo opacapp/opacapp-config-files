@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.zuerich",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "adis",
+    "city": "Z\u00fcrich",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "https://www.pbz.ch/aDISWeb/app",
+        "calendar": "https://info.opacapp.de/zuerich.ics",
+        "calendarparser": "ical",
+        "libopacplus": true,
+        "reservation_notification_enabled": true,
+        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1%3A23002&sp=SS100000000",
+        "suppress_fee_warnings": true
+    },
+    "geo": [
+        47.3747542,
+        8.5444511
+    ],
+    "information": "https://info.opacapp.net/zuerich.html",
+    "library_id": 8,
+    "state": "Z\u00fcrich",
+    "title": "Pestalozzi-Bibliothek"
+}
