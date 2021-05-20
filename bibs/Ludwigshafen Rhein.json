@@ -7,21 +7,24 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Forchheim/Oberfr",
+    "city": "Ludwigshafen/Rh.",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://buecherei-open.forchheim.de",
+        "baseurl": "https://open-stadtbibliothek.ludwigshafen.de",
+        "libopacplus": true,
         "urls": {
+            "account": "Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "Medientipps.aspx",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
-        49.7215725,
-        11.0581937
+        49.4806999,
+        8.4486117
     ],
-    "information": "http://www.forchheim.de/content/stadtbuecherei",
-    "library_id": 2914,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.ludwigshafen.de/lebenswert/stadtbibliothek/adressen-und-oeffnungszeiten/",
+    "library_id": 8719,
+    "state": "Rheinland-Pfalz",
+    "title": "Stadtbibliothek"
 }

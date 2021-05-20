@@ -1,27 +1,27 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Forchheim/Oberfr",
+    "city": "Leopoldsh\u00f6he",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://buecherei-open.forchheim.de",
+        "baseurl": "http://leopoldshoehe.bibliotheken-in-owl.de",
         "urls": {
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
-        49.7215725,
-        11.0581937
+        52.0119,
+        8.70059
     ],
-    "information": "http://www.forchheim.de/content/stadtbuecherei",
-    "library_id": 2914,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.leopoldshoehe.de/Themen/kultur-und-bildung/buecherei-1/",
+    "library_id": 4944,
+    "state": "Nordrhein-Westfalen",
+    "title": "Gemeindeb\u00fccherei"
 }
