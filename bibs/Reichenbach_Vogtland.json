@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Reichenbach/Vogtland",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.reichenbach-vogtland.de",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        50.62113,
+        12.30374
+    ],
+    "information": "http://www.reichenbach-vogtland.de/Deutsch/Kultur/Juergen-Fuchs-Bibliothek/",
+    "library_id": 6554,
+    "state": "Sachsen",
+    "title": "J\u00fcrgen-Fuchs-Bibliothek"
+}
