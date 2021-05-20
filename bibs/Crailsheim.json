@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Crailsheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://bibliotheken.kivbf.de/crailsheim",
+        "customssl": true,
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        49.13593,
+        10.07299
+    ],
+    "information": "http://bibliotheken.kivbf.de/crailsheim/mobile/InfoKontakt.aspx",
+    "library_id": 2145,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}
