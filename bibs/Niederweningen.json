@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Chur",
+    "city": "Niederweningen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-gr.ch/Chur"
+        "baseurl": "http://www.bibliotheken-zh.ch/Niederweningen"
     },
     "geo": [
-        46.8507835,
-        9.5319859
+        47.5044456,
+        8.3770777
     ],
-    "information": "http://www.stadtbibliothekchur.ch/",
-    "library_id": 8888,
-    "state": "Graub\u00fcnden",
-    "title": "Stadtbibliothek"
+    "information": "http://www.mediothek-niederweningen.ch/",
+    "library_id": 9114,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }
