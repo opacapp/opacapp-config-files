@@ -1,23 +1,22 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Schwalmstadt",
+    "city": "Prenzlau",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "barcode": 3,
-            "prolongurl": 4,
+            "prolongurl": 3,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://hephata.cidoli.de",
+        "baseurl": "https://prenzlau.internetopac.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,6 +25,7 @@
             "returndate": 5,
             "status": 3
         },
+        "customssl": true,
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
@@ -39,11 +39,11 @@
         }
     },
     "geo": [
-        50.9216009,
-        9.2551871
+        53.3173433,
+        13.8633409
     ],
-    "information": "http://www.hephata.de/organisation/bibliothek.php",
-    "library_id": 9170,
-    "state": "Hessen",
-    "title": "Hephata"
+    "information": "http://www.prenzlau.eu/cms/detail.php/land_bb_boa_01.c.164613.de",
+    "library_id": 6410,
+    "state": "Brandenburg",
+    "title": "Stadtbibliothek im Dominikanerkloster"
 }

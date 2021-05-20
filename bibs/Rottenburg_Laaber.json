@@ -1,23 +1,22 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Schwalmstadt",
+    "city": "Rottenburg/Laaber",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "barcode": 3,
-            "prolongurl": 4,
+            "prolongurl": 3,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://hephata.cidoli.de",
+        "baseurl": "http://bibliothek.rottenburg-laaber.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -39,11 +38,11 @@
         }
     },
     "geo": [
-        50.9216009,
-        9.2551871
+        48.7011913,
+        12.0293715
     ],
-    "information": "http://www.hephata.de/organisation/bibliothek.php",
-    "library_id": 9170,
-    "state": "Hessen",
-    "title": "Hephata"
+    "information": "http://www.rottenburg-laaber.de/index.php?id=0,60",
+    "library_id": 6806,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
 }
