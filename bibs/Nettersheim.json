@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Salzuflen",
+    "city": "Nettersheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.bad-salzuflen.de"
+        "baseurl": "https://webopac.winbiap.net/nettersheim",
+        "customssl": true
     },
     "geo": [
-        52.08243,
-        8.74855
+        50.4931868,
+        6.6285592
     ],
-    "information": "http://www.stadt-bad-salzuflen.de/kinder-jugend-bildung/stadtbuecherei.html",
-    "library_id": 8610,
+    "information": "http://www.nettersheim.de/bildung-kultur/literaturhaus-mit-buecherei.html",
+    "library_id": 5712,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei Ostertor Galerie"
+    "title": "Gemeindeb\u00fccherei"
 }

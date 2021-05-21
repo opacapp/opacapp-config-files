@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Salzuflen",
+    "city": "Rietberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.bad-salzuflen.de"
+        "baseurl": "https://webopac.winbiap.de/rietberg",
+        "customssl": true
     },
     "geo": [
-        52.08243,
-        8.74855
+        51.8089877,
+        8.4290704
     ],
-    "information": "http://www.stadt-bad-salzuflen.de/kinder-jugend-bildung/stadtbuecherei.html",
-    "library_id": 8610,
+    "information": "http://www.rietberg.de/leben-in-rietberg/stadtbibliothek.html",
+    "library_id": 6695,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei Ostertor Galerie"
+    "title": "Stadtbibliothek"
 }

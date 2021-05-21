@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Salzuflen",
+    "city": "Olsberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.bad-salzuflen.de"
+        "baseurl": "https://webopac.citkomm.de/olsberg"
     },
     "geo": [
-        52.08243,
-        8.74855
+        51.3556649,
+        8.4801828
     ],
-    "information": "http://www.stadt-bad-salzuflen.de/kinder-jugend-bildung/stadtbuecherei.html",
-    "library_id": 8610,
+    "information": "http://www.olsberg.de/_rathaus/bildung/stadtbuecherei/",
+    "library_id": 6176,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei Ostertor Galerie"
+    "title": "Stadtb\u00fccherei"
 }
