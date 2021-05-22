@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Kierspe",
+    "city": "Hohen Neuendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.citkomm.de/kierspe"
+        "baseurl": "https://cloudopac.winbiap.de/hohenneuendorf",
+        "customssl": true
     },
     "geo": [
-        51.12874,
-        7.59402
+        52.66326,
+        13.28427
     ],
-    "information": "http://www.stadtbibliothek-kierspe.de/",
-    "library_id": 4387,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.hohen-neuendorf.de/hnd/admin/bibliotheken.htm",
+    "library_id": 3944,
+    "state": "Brandenburg",
     "title": "Stadtbibliothek"
 }
