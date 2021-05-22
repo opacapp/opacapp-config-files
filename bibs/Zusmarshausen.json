@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Zusmarshausen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://buch-zus.istmein.de/iopac"
+    },
+    "geo": [
+        48.38106,
+        10.56897
+    ],
+    "information": "http://www.zusmarshausen.de/Bildung-Soziales/Buecherei.aspx",
+    "library_id": 8592,
+    "state": "Bayern",
+    "title": "Volksb\u00fccherei"
+}

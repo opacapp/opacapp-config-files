@@ -1,0 +1,31 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Bad Langensalza",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.badlangensalza.de/webopac",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "returndate": 5,
+            "status": 3
+        }
+    },
+    "geo": [
+        51.107872,
+        10.648731
+    ],
+    "information": "https://www.badlangensalza.de/erleben/stadtbibliothek/",
+    "library_id": 1286,
+    "state": "Th\u00fcringen",
+    "title": "Stadtbibliothek"
+}
