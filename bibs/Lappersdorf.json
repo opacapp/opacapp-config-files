@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Lappersdorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://cloudopac.winbiap.de/lappersdorf",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        49.04968,
+        12.09003
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.lappersdorf.de/leben-in-lappersdorf/bildung/marktbuecherei-lappersdorf/",
+    "library_id": 4828,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Marktb\u00fccherei"
 }

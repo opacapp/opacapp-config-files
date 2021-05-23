@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Schillingsf\u00fcrst",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.net/schillingsfuerst",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        49.2862476,
+        10.2622504
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.schillingsfuerst.de/OEffentliche-Einrichtungen.604.0.html",
+    "library_id": 6978,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

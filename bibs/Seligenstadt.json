@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Seligenstadt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.net/seligenstadt",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        50.0437013,
+        8.9711343
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
+    "information": "http://www.seligenstadt.de/index.phtml?sNavID=1803.219&La=1",
+    "library_id": 7232,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

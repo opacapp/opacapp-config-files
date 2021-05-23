@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "P\u00f6ttmes",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/poettmes",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        48.583001,
+        11.0913163
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.markt-poettmes.de/index.php?id=315,57",
+    "library_id": 6405,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Marktb\u00fccherei"
 }

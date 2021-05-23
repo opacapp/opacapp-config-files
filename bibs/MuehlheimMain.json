@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "M\u00fchlheim/M",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://opac.winbiap.net/muehlheim",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        50.12529,
+        8.84515
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
+    "information": "https://www.muehlheim.de/buecherei-informationen.html+",
+    "library_id": 5553,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Raunheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/raunheim",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        50.0104109,
+        8.4529177
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
+    "information": "http://raunheim.de/sites/gensite.asp?SID=cms100820141646047420923&Art=232",
+    "library_id": 6508,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }
