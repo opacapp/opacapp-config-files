@@ -10,7 +10,7 @@
     "city": "Adelsheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://stadtbibliothek-opacklassik.erlangen.de/wwwopac",
+        "baseurl": "https://web-opac.kivbf.de/adelsheim/index.asp?DB=Adelsheim",
         "copiestable": {
             "barcode": 0,
             "branch": -1,
