@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Feuchtwangen",
+    "city": "Herzogenaurach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/feuchtwangen",
+        "baseurl": "https://webopac.winbiap.de/herzogenaurach",
         "customssl": true
     },
     "geo": [
-        49.1680911,
-        10.3297982
+        49.5682987,
+        10.8828577
     ],
-    "information": "http://www.feuchtwangen.de/de/leben-wohnen/stadtbuecherei/kontakt-oeffungszeiten/",
-    "library_id": 2870,
+    "information": "http://www.herzogenaurach.de/de/bildung-familie-und-soziales/stadtbuecherei.html",
+    "library_id": 3831,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei im Haus Binz"
+    "title": "Stadtb\u00fccherei"
 }

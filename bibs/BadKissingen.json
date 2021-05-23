@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Feuchtwangen",
+    "city": "Bad Kissingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/feuchtwangen",
+        "baseurl": "https://webopac.winbiap.net/badkissingen",
         "customssl": true
     },
     "geo": [
-        49.1680911,
-        10.3297982
+        50.2008463,
+        10.0765115
     ],
-    "information": "http://www.feuchtwangen.de/de/leben-wohnen/stadtbuecherei/kontakt-oeffungszeiten/",
-    "library_id": 2870,
+    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
+    "library_id": 1275,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei im Haus Binz"
+    "title": "Stadtb\u00fccherei"
 }

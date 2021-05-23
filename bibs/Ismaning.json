@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Feuchtwangen",
+    "city": "Ismaning",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/feuchtwangen",
+        "baseurl": "https://webopac.winbiap.de/ismaning",
         "customssl": true
     },
     "geo": [
-        49.1680911,
-        10.3297982
+        48.2221552,
+        11.6764621
     ],
-    "information": "http://www.feuchtwangen.de/de/leben-wohnen/stadtbuecherei/kontakt-oeffungszeiten/",
-    "library_id": 2870,
+    "information": "http://bibliothek.ismaning.de/bibliothek",
+    "library_id": 4175,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei im Haus Binz"
+    "title": "Schlossb\u00fccherei Gemeindebibliothek"
 }

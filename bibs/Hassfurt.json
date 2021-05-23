@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Feuchtwangen",
+    "city": "Hassfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/feuchtwangen",
+        "baseurl": "https://opac.winbiap.net/hassfurt",
         "customssl": true
     },
     "geo": [
-        49.1680911,
-        10.3297982
+        50.0343812,
+        10.5169747
     ],
-    "information": "http://www.feuchtwangen.de/de/leben-wohnen/stadtbuecherei/kontakt-oeffungszeiten/",
-    "library_id": 2870,
+    "information": "http://www.biz-hassfurt.de/",
+    "library_id": 3662,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei im Haus Binz"
+    "title": "Bibliotheks- und Informationszentrum (BIZ)"
 }

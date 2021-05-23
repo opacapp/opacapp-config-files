@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Feuchtwangen",
+    "city": "F\u00fcssen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/feuchtwangen",
+        "baseurl": "https://cloudopac.winbiap.de/fuessen",
         "customssl": true
     },
     "geo": [
-        49.1680911,
-        10.3297982
+        47.569648,
+        10.7004328
     ],
-    "information": "http://www.feuchtwangen.de/de/leben-wohnen/stadtbuecherei/kontakt-oeffungszeiten/",
-    "library_id": 2870,
+    "information": "https://www.stadt-fuessen.de/bibliothek.html",
+    "library_id": 3079,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei im Haus Binz"
+    "title": "Stadtbibliothek"
 }

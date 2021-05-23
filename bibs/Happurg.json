@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Feuchtwangen",
+    "city": "Happurg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/feuchtwangen",
+        "baseurl": "https://webopac.winbiap.de/happurg",
         "customssl": true
     },
     "geo": [
-        49.1680911,
-        10.3297982
+        49.4937364,
+        11.4719457
     ],
-    "information": "http://www.feuchtwangen.de/de/leben-wohnen/stadtbuecherei/kontakt-oeffungszeiten/",
-    "library_id": 2870,
+    "information": "http://www.happurg.de/Gemeinde/Buecherei/Buecherei.html",
+    "library_id": 3627,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei im Haus Binz"
+    "title": "Gemeindeb\u00fccherei"
 }
