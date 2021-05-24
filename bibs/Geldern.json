@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ennigerloh",
+    "city": "Geldern",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/ennigerloh",
+        "baseurl": "https://webopac.bistum-muenster.de/geldern",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.8360951,
-        8.0218369
+        51.5175043,
+        6.320647
     ],
-    "information": "http://www.stadt-ennigerloh.de/2384_DEU_WWW.php",
-    "library_id": 2654,
+    "information": "http://www.st-mariamagdalena-geldern.de/html/gruppen-und-verbaende/katholische-oeffentliche-buechereien.html",
+    "library_id": 3161,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B St. Jakobus"
+    "title": "Kath. \u00d6B St. Maria Magdalena"
 }
