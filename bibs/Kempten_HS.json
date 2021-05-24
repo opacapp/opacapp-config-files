@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Freising",
+    "city": "Kempten",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.hswt.de/InfoGuideClient.ffwsis",
-        "startparams": "Login=woffwzb"
+        "baseurl": "https://fkeoz3.bib-bvb.de/InfoGuideClient.fkesis",
+        "startparams": "Login=wofkeext"
     },
     "geo": [
-        48.4028796,
-        11.7411846
+        47.7285699,
+        10.3157835
     ],
-    "information": "http://www.hswt.de/hochschule/zentrale-einrichtungen/bibliothek.html",
-    "library_id": 8936,
+    "information": "http://www.hochschule-kempten.de/services/bibliothek.html",
+    "library_id": 9027,
     "state": "Bayern",
     "title": "Hochschulbibliothek"
 }
