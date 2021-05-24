@@ -7,19 +7,19 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "pica",
-    "city": "Frankfurt/Main",
+    "city": "Leipzig",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://lbsopac.rz.uni-frankfurt.de",
+        "baseurl": "http://dispatch.opac.d-nb.de",
         "charset": "ISO-8859-1",
-        "db": "77"
+        "db": "4.1"
     },
     "geo": [
-        50.1109221,
-        8.6821267
+        51.3396955,
+        12.3730747
     ],
-    "information": "http://www.hfmdk-frankfurt.info/index.php?id=246",
-    "library_id": 8931,
-    "state": "Hessen",
-    "title": "HfMDK"
+    "information": "http://www.dnb.de/DE/Service/Benutzung/oeffnungGesamt.html",
+    "library_id": 9048,
+    "state": "Sachsen",
+    "title": "Deutsche Nationalbibliothek"
 }
