@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Elixhausen",
+    "city": "Feldkirch",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.elixhausen.webopac.at"
+        "baseurl": "http://www.ak-feldkirch.webopac.at"
     },
     "geo": [
-        47.8661513,
-        13.0650524
+        47.2392935,
+        9.5976395
     ],
-    "information": "http://www.elixhausen.bvoe.at",
-    "library_id": 8913,
-    "state": "Salzburg",
-    "title": "Die Bibliothek"
+    "information": "http://www.ak-vorarlberg.at",
+    "library_id": 8927,
+    "state": "Vorarlberg",
+    "title": "AK-Bibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Elixhausen",
+    "city": "Graz",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.elixhausen.webopac.at"
+        "baseurl": "http://www.lesezentrum-steiermark.webopac.at"
     },
     "geo": [
-        47.8661513,
-        13.0650524
+        47.0699327,
+        15.4061884
     ],
-    "information": "http://www.elixhausen.bvoe.at",
-    "library_id": 8913,
-    "state": "Salzburg",
-    "title": "Die Bibliothek"
+    "information": "http://www.lesezentrum.at",
+    "library_id": 8954,
+    "state": "Steiermark",
+    "title": "Fremdsprachige Bibliothek Lesezentrum Steiermark"
 }

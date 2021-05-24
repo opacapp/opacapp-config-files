@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Elixhausen",
+    "city": "Ludesch",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.elixhausen.webopac.at"
+        "baseurl": "http://www.ludesch.web-opac.at"
     },
     "geo": [
-        47.8661513,
-        13.0650524
+        47.1928348,
+        9.7831256
     ],
-    "information": "http://www.elixhausen.bvoe.at",
-    "library_id": 8913,
-    "state": "Salzburg",
-    "title": "Die Bibliothek"
+    "information": "http://www.buecherei.ludesch.at",
+    "library_id": 9059,
+    "state": "Vorarlberg",
+    "title": "B\u00fccherei"
 }

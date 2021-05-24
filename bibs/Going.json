@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Elixhausen",
+    "city": "Going",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.elixhausen.webopac.at"
+        "baseurl": "http://www.going.webopac.at"
     },
     "geo": [
-        47.8661513,
-        13.0650524
+        47.5156105,
+        12.3304381
     ],
-    "information": "http://www.elixhausen.bvoe.at",
-    "library_id": 8913,
-    "state": "Salzburg",
-    "title": "Die Bibliothek"
+    "information": "http://www.bibliothek-going.bvoe.at/",
+    "library_id": 8950,
+    "state": "Tirol",
+    "title": "\u00d6ffentliche und Schulbibliothek Going a. W. K."
 }

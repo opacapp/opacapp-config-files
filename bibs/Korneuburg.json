@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Elixhausen",
+    "city": "Korneuburg",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.elixhausen.webopac.at"
+        "baseurl": "http://www.bib-korneuburg.webopac.at"
     },
     "geo": [
-        47.8661513,
-        13.0650524
+        48.3450806,
+        16.3347235
     ],
-    "information": "http://www.elixhausen.bvoe.at",
-    "library_id": 8913,
-    "state": "Salzburg",
-    "title": "Die Bibliothek"
+    "information": "http://www.korneuburg.gv.at/bik/",
+    "library_id": 9040,
+    "state": "Nieder\u00f6sterreich",
+    "title": "BIK B\u00fccherei Internetcafe"
 }

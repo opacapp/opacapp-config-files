@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Elixhausen",
+    "city": "M\u00f6nchhof",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.elixhausen.webopac.at"
+        "baseurl": "http://www.moenchhof.web-opac.at"
     },
     "geo": [
-        47.8661513,
-        13.0650524
+        47.8820615,
+        16.939894
     ],
-    "information": "http://www.elixhausen.bvoe.at",
-    "library_id": 8913,
-    "state": "Salzburg",
-    "title": "Die Bibliothek"
+    "information": "http://www.moenchhof.bvoe.at",
+    "library_id": 9085,
+    "state": "Burgenland",
+    "title": "\u00d6ffentliche B\u00fccherei"
 }

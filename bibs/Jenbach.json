@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Elixhausen",
+    "city": "Jenbach",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.elixhausen.webopac.at"
+        "baseurl": "http://www.jenbuch.web-opac.at"
     },
     "geo": [
-        47.8661513,
-        13.0650524
+        47.3911103,
+        11.7729904
     ],
-    "information": "http://www.elixhausen.bvoe.at",
-    "library_id": 8913,
-    "state": "Salzburg",
-    "title": "Die Bibliothek"
+    "information": "http://www.facebook.com/buecherei.jen.buch",
+    "library_id": 9020,
+    "state": "Tirol",
+    "title": "Markt- und Schulb\u00fccherei jen.buch"
 }

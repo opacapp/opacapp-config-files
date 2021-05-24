@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Elixhausen",
+    "city": "Henndorf",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.elixhausen.webopac.at"
+        "baseurl": "http://henndorf.web-opac.at"
     },
     "geo": [
-        47.8661513,
-        13.0650524
+        47.9015307,
+        13.1898478
     ],
-    "information": "http://www.elixhausen.bvoe.at",
-    "library_id": 8913,
+    "information": "http://www.henndorf.bvoe.at",
+    "library_id": 8992,
     "state": "Salzburg",
-    "title": "Die Bibliothek"
+    "title": "Bibliothek"
 }

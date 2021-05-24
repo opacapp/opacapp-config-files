@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Elixhausen",
+    "city": "Imst",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.elixhausen.webopac.at"
+        "baseurl": "http://imst.webopac.at"
     },
     "geo": [
-        47.8661513,
-        13.0650524
+        47.2387997,
+        10.7420248
     ],
-    "information": "http://www.elixhausen.bvoe.at",
-    "library_id": 8913,
-    "state": "Salzburg",
-    "title": "Die Bibliothek"
+    "information": "http://www.imst.bvoe.at",
+    "library_id": 9009,
+    "state": "Tirol",
+    "title": "Stadtb\u00fccherei Imst (\u00d6ffentliche B\u00fccherei der Stadt und Pfarre Imst)"
 }

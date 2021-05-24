@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Elixhausen",
+    "city": "Hall",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.elixhausen.webopac.at"
+        "baseurl": "http://www.hall.web-opac.at"
     },
     "geo": [
-        47.8661513,
-        13.0650524
+        47.2811987,
+        11.5065928
     ],
-    "information": "http://www.elixhausen.bvoe.at",
-    "library_id": 8913,
-    "state": "Salzburg",
-    "title": "Die Bibliothek"
+    "information": "http://www.hall-in-tirol.at",
+    "library_id": 8963,
+    "state": "Tirol",
+    "title": "Stadtb\u00fccherei Hall in Tirol"
 }
