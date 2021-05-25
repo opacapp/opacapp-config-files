@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Lohfelden",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/lohfelden",
+        "customssl": true
+    },
+    "geo": [
+        51.2748078,
+        9.5512759
+    ],
+    "information": "http://www.lohfelden.de/w3a/cms/Lohfelden_Erleben/Oeffentliche_Einrichtungen/Buechereien/index.11713.html",
+    "library_id": 5060,
+    "state": "Hessen",
+    "title": "Gemeinde- und Schulb\u00fccherei"
+}
