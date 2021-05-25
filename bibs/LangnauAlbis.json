@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Elgg",
+    "city": "Langnau am Albis",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Elgg"
+        "baseurl": "http://www.winmedio.net/langnau-am-albis"
     },
     "geo": [
-        47.4985,
-        8.86332
+        47.2880053,
+        8.5365507
     ],
-    "information": "http://www.schule-elgg.ch/p152000946.html",
-    "library_id": 8912,
+    "information": "http://www.langnauamalbis.ch/de/bildung/bibliotheken/?action=showbibi&bibi_id=92",
+    "library_id": 9045,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

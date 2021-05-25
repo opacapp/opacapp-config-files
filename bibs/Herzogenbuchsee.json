@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Elgg",
+    "city": "Herzogenbuchsee",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Elgg"
+        "baseurl": "http://www.winmedio.net/herzogenbuchsee"
     },
     "geo": [
-        47.4985,
-        8.86332
+        47.1881119,
+        7.7009241
     ],
-    "information": "http://www.schule-elgg.ch/p152000946.html",
-    "library_id": 8912,
-    "state": "Z\u00fcrich",
+    "information": "http://www.herzogenbuchsee.ch/topic2729.html",
+    "library_id": 8994,
+    "state": "Bern",
     "title": "Gemeindebibliothek"
 }

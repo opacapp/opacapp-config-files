@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Elgg",
+    "city": "Hinwil",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Elgg"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hinwil"
     },
     "geo": [
-        47.4985,
-        8.86332
+        47.3025158,
+        8.8453674
     ],
-    "information": "http://www.schule-elgg.ch/p152000946.html",
-    "library_id": 8912,
+    "information": "http://www.hinwil.ch/de/dorffreizeitkultur/bibliotheken/?action=showbibi&bibi_id=91",
+    "library_id": 8999,
     "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "title": "Mediothek"
 }
