@@ -6,20 +6,11 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Heddesheim",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://web-opac.kivbf.de/heddesheim",
-        "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": 1,
-            "location": 0,
-            "reservations": -1,
-            "returndate": 5,
-            "status": 2
-        },
         "customssl": true
     },
     "geo": [
