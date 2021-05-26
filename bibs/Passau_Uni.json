@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Amberg/Oberpf.",
+    "city": "Passau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.haw-aw.de/InfoGuideClient.fawsis"
+        "baseurl": "https://infoguide.ub.uni-passau.de/InfoGuideClient.upasis",
+        "startparams": "Login=igupa"
     },
     "geo": [
-        49.67059,
-        12.17761
+        48.5667364,
+        13.4319466
     ],
-    "information": "http://www.haw-aw.de/einrichtungen/bibliothek/oeffnungszeiten/",
-    "library_id": 8823,
+    "information": "http://www.ub.uni-passau.de/?id=6261",
+    "library_id": 9136,
     "state": "Bayern",
-    "title": "Hochschule"
+    "title": "Unibibliothek"
 }

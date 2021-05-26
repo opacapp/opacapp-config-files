@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Amberg/Oberpf.",
+    "city": "Neubiberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.haw-aw.de/InfoGuideClient.fawsis"
+        "baseurl": "https://opac.unibw.de/InfoGuideClient.ubysis",
+        "startparams": "Login=iguby"
     },
     "geo": [
-        49.67059,
-        12.17761
+        48.0747033,
+        11.6714622
     ],
-    "information": "http://www.haw-aw.de/einrichtungen/bibliothek/oeffnungszeiten/",
-    "library_id": 8823,
+    "information": "https://www.unibw.de/unibib/ubinfo/oeffnungszeiten/index_html",
+    "library_id": 9101,
     "state": "Bayern",
-    "title": "Hochschule"
+    "title": "Unibibliothek UniBw M"
 }

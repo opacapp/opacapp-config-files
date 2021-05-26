@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Amberg/Oberpf.",
+    "api": "winbiap",
+    "city": "Lenggries",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.haw-aw.de/InfoGuideClient.fawsis"
+        "baseurl": "https://webopac.winbiap.net/lenggries",
+        "customssl": true
     },
     "geo": [
-        49.67059,
-        12.17761
+        47.6825636,
+        11.5765039
     ],
-    "information": "http://www.haw-aw.de/einrichtungen/bibliothek/oeffnungszeiten/",
-    "library_id": 8823,
+    "information": "http://www.lenggries.de/de/buecherei",
+    "library_id": 4927,
     "state": "Bayern",
-    "title": "Hochschule"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Amberg/Oberpf.",
+    "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.haw-aw.de/InfoGuideClient.fawsis"
+        "baseurl": "https://opac.ifz-muenchen.de/webOPACClient.ifzsis"
     },
     "geo": [
-        49.67059,
-        12.17761
+        48.1351253,
+        11.5819806
     ],
-    "information": "http://www.haw-aw.de/einrichtungen/bibliothek/oeffnungszeiten/",
-    "library_id": 8823,
+    "information": "http://www.ifz-muenchen.de/bibliothek/",
+    "library_id": 9100,
     "state": "Bayern",
-    "title": "Hochschule"
+    "title": "Institut f\u00fcr Zeitgeschichte"
 }
