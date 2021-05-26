@@ -7,49 +7,45 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Beckum",
+    "city": "Neuensalza-Spr.",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "https://neusalza-spremberg.internetopac.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
-            "department": 2,
+            "department": -1,
             "location": 1,
+            "reservations": -1,
             "returndate": 5,
             "status": 3
         },
-        "db": "Beckum",
-        "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
-        },
+        "customssl": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
+            "branch": -1,
             "cancelurl": 3,
+            "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        51.7537536,
-        8.0407579
+        51.0380155,
+        14.5276012
     ],
-    "information": "http://www.beckum.de/oeffentliche_buecherei_beckum.html",
-    "library_id": 1479,
-    "state": "Nordrhein-Westfalen",
-    "title": "\u00d6ffentliche B\u00fccherei"
+    "information": "http://www.neusalza-spremberg.de/index.php/bibliothek",
+    "library_id": 9110,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek"
 }
