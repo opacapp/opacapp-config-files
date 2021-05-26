@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wolfurt",
+    "city": "Bludesch",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.buechereiwolfurt.webopac.at"
+        "baseurl": "http://www.buechereibludesch.webopac.at"
     },
     "geo": [
-        47.4672875,
-        9.7497216
+        47.1974876,
+        9.7452881
     ],
-    "information": "http://www.wolfurt.bvoe.at",
-    "library_id": 9248,
+    "information": "http://www.bludesch.bvoe.at",
+    "library_id": 8861,
     "state": "Vorarlberg",
     "title": "\u00d6ffentliche B\u00fccherei"
 }
