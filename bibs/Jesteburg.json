@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Lemf\u00f6rde",
+    "city": "Jesteburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/lemfoerde",
+        "baseurl": "https://webopac.winbiap.net/jesteburg",
         "customssl": true
     },
     "geo": [
-        52.4641331,
-        8.3739804
+        53.3160201,
+        9.953973
     ],
-    "information": "http://www.lemfoerde.de/oeffentliche-einrichtungen/buecherei-am-amtshof/",
-    "library_id": 4917,
+    "information": "http://www.jesteburg.de/kindertageseinrichtungen-schulen-bildung/samtgemeindebuecherei/buecherei-zehntscheune/",
+    "library_id": 4199,
     "state": "Niedersachsen",
-    "title": "B\u00fccherei am Amtshof"
+    "title": "Samtgemeindeb\u00fccherei"
 }
