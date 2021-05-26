@@ -10,7 +10,7 @@
     "city": "Adelsheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://web-opac.kivbf.de/adelsheim",
+        "baseurl": "https://web-opac.kivbf.de/adelsheim/",
         "copiestable": {
             "barcode": 0,
             "branch": -1,
