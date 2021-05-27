@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Arlesheim",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://webopac.bibliothek.arlesheim.ch",
+        "urls": {
+            "advanced_search": "Online-Katalog/ErweiterteSuche.aspx",
+            "simple_search": "Online-Katalog/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        47.4946217,
+        7.61968530000001
+    ],
+    "information": "http://webopac.bibliothek.arlesheim.ch/Willkommen.aspx",
+    "library_id": 9348,
+    "state": "Basel-Landschaft",
+    "title": "Gemeindebibliothek"
+}
