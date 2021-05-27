@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "W\u00fcrzburg",
+    "city": "Bottrop",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,7 +20,7 @@
             "status": 6,
             "title": 8
         },
-        "baseurl": "https://opac.stadt.wuerzburg.de",
+        "baseurl": "https://opax.bottrop.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,
@@ -35,29 +35,26 @@
             "1": "BOOK",
             "10": "MAP",
             "11": "DVD",
-            "19": "BOOK",
             "2": "MAGAZINE",
-            "24": "BLURAY",
+            "20": "AUDIOBOOK",
             "3": "CD_SOFTWARE",
             "30": "EBOOK",
             "6": "CD_MUSIC",
-            "8": "SCORE_MUSIC",
             "9": "BOARDGAME"
         },
         "opacdir": "opax",
         "searchtable": [
             2,
             3,
-            4,
-            5
+            4
         ]
     },
     "geo": [
-        49.79496,
-        9.93017
+        51.52348,
+        6.92219
     ],
-    "information": "http://www.wuerzburg.de/de/buerger/stadtbuecherei/index.html",
-    "library_id": 58,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.bottrop.de/stadtleben/bildung/bibliothek/index.php",
+    "library_id": 8634,
+    "state": "Nordrhein-Westfalen",
+    "title": "Lebendige Bibliothek"
 }

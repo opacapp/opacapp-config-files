@@ -1,44 +1,37 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "W\u00fcrzburg",
+    "city": "Bochum",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 8,
+            "author": 7,
             "barcode": 4,
             "homebranch": -1,
             "lendingbranch": -1,
             "prolongurl": 4,
             "returndate": 3,
-            "status": 6,
-            "title": 8
+            "status": 8,
+            "title": 7
         },
-        "baseurl": "https://opac.stadt.wuerzburg.de",
+        "baseurl": "https://stadtbuecherei.bochum.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,
-            "department": 2,
-            "location": -1,
-            "reservations": -1,
-            "returndate": -1,
+            "location": 2,
             "status": 4
         },
         "customssl": true,
         "mediatypes": {
             "1": "BOOK",
-            "10": "MAP",
             "11": "DVD",
-            "19": "BOOK",
-            "2": "MAGAZINE",
-            "24": "BLURAY",
-            "3": "CD_SOFTWARE",
+            "20": "AUDIOBOOK",
             "30": "EBOOK",
             "6": "CD_MUSIC",
             "8": "SCORE_MUSIC",
@@ -47,17 +40,15 @@
         "opacdir": "opax",
         "searchtable": [
             2,
-            3,
-            4,
-            5
+            3
         ]
     },
     "geo": [
-        49.79496,
-        9.93017
+        51.4813394,
+        7.2168733
     ],
-    "information": "http://www.wuerzburg.de/de/buerger/stadtbuecherei/index.html",
-    "library_id": 58,
-    "state": "Bayern",
+    "information": "http://www.bochum.de/stadtbuecherei",
+    "library_id": 8631,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }
