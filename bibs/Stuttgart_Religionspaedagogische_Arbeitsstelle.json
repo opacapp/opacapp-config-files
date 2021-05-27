@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Stuttgart",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/stuttgart-rpas",
+        "customssl": true
+    },
+    "geo": [
+        48.7777181,
+        9.17322890000003
+    ],
+    "information": "http://www.schuldekane-stuttgart.de/website/de/st/schul_dienstleistungen",
+    "library_id": 9296,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Religionsp\u00e4dagogische Arbeitsstelle"
+}
