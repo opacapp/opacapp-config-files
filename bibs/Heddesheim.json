@@ -10,7 +10,7 @@
     "city": "Heddesheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://web-opac.kivbf.de/heddesheim",
+        "baseurl": "https://bibliotheken.kivbf.de/heddesheim",
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
