@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Bad Mergentheim",
+    "api": "koha",
+    "city": "Schwaikheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bma.bad-mergentheim.de/webopac"
+        "baseurl": "https://gb-schwaikheim.lmscloud.net"
     },
     "geo": [
-        49.488537,
-        9.7704158
+        48.8732234,
+        9.3526778
     ],
-    "information": "http://www.bad-mergentheim.de/de/stadtbuecherei/",
-    "library_id": 1302,
+    "information": "http://www.schwaikheim.de/index.php?id=141",
+    "library_id": 7132,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

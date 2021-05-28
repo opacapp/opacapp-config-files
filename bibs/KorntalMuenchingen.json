@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Bad Mergentheim",
+    "api": "koha",
+    "city": "Korntal-M\u00fcnchingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bma.bad-mergentheim.de/webopac"
+        "baseurl": "https://sb-kornmuen.lmscloud.net"
     },
     "geo": [
-        49.488537,
-        9.7704158
+        48.8463801,
+        9.1072089
     ],
-    "information": "http://www.bad-mergentheim.de/de/stadtbuecherei/",
-    "library_id": 1302,
+    "information": "http://www.korntal-muenchingen.de/servlet/PB/menu/1222559_l1/index.html",
+    "library_id": 4534,
     "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
 }

@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Bad Mergentheim",
+    "api": "arena",
+    "city": "Hagen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bma.bad-mergentheim.de/webopac"
+        "baseurl": "https://hagen.arena.axiell.de"
     },
     "geo": [
-        49.488537,
-        9.7704158
+        51.35463,
+        7.47955
     ],
-    "information": "http://www.bad-mergentheim.de/de/stadtbuecherei/",
-    "library_id": 1302,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "https://www.hagen.de/stadtbuecherei",
+    "library_id": 8682,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Bad Mergentheim",
+    "api": "koha",
+    "city": "Pforzheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bma.bad-mergentheim.de/webopac"
+        "baseurl": "https://sb-pforzheim.lmscloud.net"
     },
     "geo": [
-        49.488537,
-        9.7704158
+        48.8896028,
+        8.7035587
     ],
-    "information": "http://www.bad-mergentheim.de/de/stadtbuecherei/",
-    "library_id": 1302,
+    "information": "https://stadtbibliothek.pforzheim.de/filialen.html",
+    "library_id": 8751,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

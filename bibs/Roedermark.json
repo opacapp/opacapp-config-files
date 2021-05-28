@@ -1,23 +1,23 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Mergentheim",
+    "city": "R\u00f6dermark",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bma.bad-mergentheim.de/webopac"
+        "baseurl": "https://medienkatalog.stadtbuecherei.info/webopac"
     },
     "geo": [
-        49.488537,
-        9.7704158
+        49.9767859,
+        8.8277224
     ],
-    "information": "http://www.bad-mergentheim.de/de/stadtbuecherei/",
-    "library_id": 1302,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://www.roedermark.de/index.php?id=40",
+    "library_id": 6832,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }
