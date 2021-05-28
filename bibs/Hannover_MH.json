@@ -7,19 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Aurich",
+    "city": "Hannover",
     "country": "Deutschland",
     "data": {
-        "account_system": "default",
-        "baseurl": "http://lhemd.gbv.de",
-        "db": "1.1"
+        "baseurl": "https://opac.tib.eu",
+        "db": "2"
     },
     "geo": [
-        53.4674232,
-        7.4816445
+        52.384268,
+        9.808572
     ],
-    "information": "http://www.ostfriesischelandschaft.de/4.html",
-    "library_id": 9321,
+    "information": "http://www.mh-hannover.de/bibliothek_kontakt.html#c97088",
+    "library_id": 8982,
     "state": "Niedersachsen",
-    "title": "Landschaftsbibliothek"
+    "title": "Medizinische Hochschule"
 }

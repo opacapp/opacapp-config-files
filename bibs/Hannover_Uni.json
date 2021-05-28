@@ -7,19 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Aurich",
+    "city": "Hannover",
     "country": "Deutschland",
     "data": {
-        "account_system": "default",
-        "baseurl": "http://lhemd.gbv.de",
-        "db": "1.1"
+        "baseurl": "https://opac.tib.eu",
+        "db": "1"
     },
     "geo": [
-        53.4674232,
-        7.4816445
+        52.38142,
+        9.72007
     ],
-    "information": "http://www.ostfriesischelandschaft.de/4.html",
-    "library_id": 9321,
+    "information": "https://tib.eu",
+    "library_id": 8985,
     "state": "Niedersachsen",
-    "title": "Landschaftsbibliothek"
+    "title": "Unibibliothek + techn. Informationsbibliothek"
 }

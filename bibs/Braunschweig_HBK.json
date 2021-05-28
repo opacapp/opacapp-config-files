@@ -7,19 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Aurich",
+    "city": "Braunschweig",
     "country": "Deutschland",
     "data": {
-        "account_system": "default",
-        "baseurl": "http://lhemd.gbv.de",
-        "db": "1.1"
+        "baseurl": "https://opac.lbs-braunschweig.gbv.de",
+        "db": "3"
     },
     "geo": [
-        53.4674232,
-        7.4816445
+        52.2688736,
+        10.5267696
     ],
-    "information": "http://www.ostfriesischelandschaft.de/4.html",
-    "library_id": 9321,
+    "information": "https://www.hbk-bs.de/einrichtungen/bibliothek/",
+    "library_id": 8872,
     "state": "Niedersachsen",
-    "title": "Landschaftsbibliothek"
+    "title": "Hochschule f\u00fcr Bildende K\u00fcnste"
 }
