@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wolfsberg",
+    "city": "Going",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.wolfsberg.web-opac.at"
+        "baseurl": "http://www.going.webopac.at"
     },
     "geo": [
-        46.8381813,
-        14.8461718
+        47.5156105,
+        12.3304381
     ],
-    "information": "http://www.wolfsberg.at",
-    "library_id": 9247,
-    "state": "K\u00e4rnten",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.bibliothek-going.bvoe.at/",
+    "library_id": 8950,
+    "state": "Tirol",
+    "title": "\u00d6ffentliche und Schulbibliothek Going a. W. K."
 }

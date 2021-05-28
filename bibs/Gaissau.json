@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wolfsberg",
+    "city": "Gai\u00dfau",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.wolfsberg.web-opac.at"
+        "baseurl": "http://bib-gaissau@web-opac.at"
     },
     "geo": [
-        46.8381813,
-        14.8461718
+        47.4656016,
+        9.5976887
     ],
-    "information": "http://www.wolfsberg.at",
-    "library_id": 9247,
-    "state": "K\u00e4rnten",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www-gaissau.bvoe.at",
+    "library_id": 8943,
+    "state": "Vorarlberg",
+    "title": "B\u00fccherei"
 }

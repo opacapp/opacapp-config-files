@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wolfsberg",
+    "city": "Brunn",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.wolfsberg.web-opac.at"
+        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
     },
     "geo": [
-        46.8381813,
-        14.8461718
+        48.108677,
+        16.2829165
     ],
-    "information": "http://www.wolfsberg.at",
-    "library_id": 9247,
-    "state": "K\u00e4rnten",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.brunnamgebirge.bvoe.at",
+    "library_id": 8878,
+    "state": "Nieder\u00f6sterreich",
+    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
 }

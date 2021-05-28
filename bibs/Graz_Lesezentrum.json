@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wolfsberg",
+    "city": "Graz",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.wolfsberg.web-opac.at"
+        "baseurl": "http://www.lesezentrum-steiermark.webopac.at"
     },
     "geo": [
-        46.8381813,
-        14.8461718
+        47.0699327,
+        15.4061884
     ],
-    "information": "http://www.wolfsberg.at",
-    "library_id": 9247,
-    "state": "K\u00e4rnten",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.lesezentrum.at",
+    "library_id": 8954,
+    "state": "Steiermark",
+    "title": "Fremdsprachige Bibliothek Lesezentrum Steiermark"
 }

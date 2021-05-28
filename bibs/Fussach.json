@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wolfsberg",
+    "city": "Fu\u00dfach",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.wolfsberg.web-opac.at"
+        "baseurl": "http://www.buecherei-fussach.webopac.at"
     },
     "geo": [
-        46.8381813,
-        14.8461718
+        47.4795734,
+        9.6595139
     ],
-    "information": "http://www.wolfsberg.at",
-    "library_id": 9247,
-    "state": "K\u00e4rnten",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.fussach.bvoe.at",
+    "library_id": 8941,
+    "state": "Vorarlberg",
+    "title": "B\u00fccherei und Spielothek"
 }

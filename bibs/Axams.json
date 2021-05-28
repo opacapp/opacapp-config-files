@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wolfsberg",
+    "city": "Axams",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.wolfsberg.web-opac.at"
+        "baseurl": "http://buecherei-axams.webopac.at"
     },
     "geo": [
-        46.8381813,
-        14.8461718
+        47.2325964,
+        11.2801251
     ],
-    "information": "http://www.wolfsberg.at",
-    "library_id": 9247,
-    "state": "K\u00e4rnten",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://buecherei-axams.webopac.at",
+    "library_id": 8831,
+    "state": "Tirol",
+    "title": "\u00d6ffentliche B\u00fccherei"
 }

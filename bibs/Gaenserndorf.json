@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wolfsberg",
+    "city": "G\u00e4nserndorf",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.wolfsberg.web-opac.at"
+        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
     },
     "geo": [
-        46.8381813,
-        14.8461718
+        48.3403159,
+        16.7241521
     ],
-    "information": "http://www.wolfsberg.at",
-    "library_id": 9247,
-    "state": "K\u00e4rnten",
+    "information": "http://gaenserndorf.bvoe.at/",
+    "library_id": 8942,
+    "state": "Nieder\u00f6sterreich",
     "title": "Stadtb\u00fccherei"
 }
