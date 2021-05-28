@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietlikon",
+    "city": "Hinwil",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietlikon"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hinwil"
     },
     "geo": [
-        47.423855,
-        8.6162229
+        47.3025158,
+        8.8453674
     ],
-    "information": "http://www.schule-dietlikon.ch/bibliothek/aktuelles/",
-    "library_id": 8900,
+    "information": "http://www.hinwil.ch/de/dorffreizeitkultur/bibliotheken/?action=showbibi&bibi_id=91",
+    "library_id": 8999,
     "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "title": "Mediothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietlikon",
+    "city": "Goldach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietlikon"
+        "baseurl": "http://www.winmedio.net/goldach"
     },
     "geo": [
-        47.423855,
-        8.6162229
+        47.4761387,
+        9.4713509
     ],
-    "information": "http://www.schule-dietlikon.ch/bibliothek/aktuelles/",
-    "library_id": 8900,
-    "state": "Z\u00fcrich",
+    "information": "http://www.goldach.ch/de/bildung/bibliotheken/",
+    "library_id": 8951,
+    "state": "St. Gallen",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietlikon",
+    "city": "H\u00fcntwangen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietlikon"
+        "baseurl": "http://www.bibliotheken-zh.ch/Huentwangen"
     },
     "geo": [
-        47.423855,
-        8.6162229
+        47.5955,
+        8.49293
     ],
-    "information": "http://www.schule-dietlikon.ch/bibliothek/aktuelles/",
-    "library_id": 8900,
+    "information": "http://www.huentwangen.ch/?page_id=1455",
+    "library_id": 9006,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

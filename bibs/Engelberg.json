@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietlikon",
+    "city": "Engelberg",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietlikon"
+        "baseurl": "http://www.winmedio.net/engelberg"
     },
     "geo": [
-        47.423855,
-        8.6162229
+        46.8199317,
+        8.4069869
     ],
-    "information": "http://www.schule-dietlikon.ch/bibliothek/aktuelles/",
-    "library_id": 8900,
-    "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.gde-engelberg.ch/de/bildung/bibliothekfs/",
+    "library_id": 8917,
+    "state": "Obwalden",
+    "title": "Schul- und Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietlikon",
+    "city": "Gossau",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietlikon"
+        "baseurl": "http://www.winmedio.net/gossau"
     },
     "geo": [
-        47.423855,
-        8.6162229
+        47.4138069,
+        9.2579168
     ],
-    "information": "http://www.schule-dietlikon.ch/bibliothek/aktuelles/",
-    "library_id": 8900,
-    "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.bibliogossau.ch/",
+    "library_id": 8952,
+    "state": "St. Gallen",
+    "title": "Stadtbibliothek"
 }

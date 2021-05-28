@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietlikon",
+    "city": "Kilchberg",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietlikon"
+        "baseurl": "http://www.bibliotheken-zh.ch/Kilchberg"
     },
     "geo": [
-        47.423855,
-        8.6162229
+        47.3231299,
+        8.5445378
     ],
-    "information": "http://www.schule-dietlikon.ch/bibliothek/aktuelles/",
-    "library_id": 8900,
+    "information": "http://www.kilchberg.ch/xml_1/internet/de/application/d47/f152.cfm",
+    "library_id": 9034,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
