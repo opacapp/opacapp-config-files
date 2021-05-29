@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Friesoythe",
+    "city": "Harsewinkel",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://webopac.bmo-vechta.de/friesoythe",
+        "baseurl": "https://webopac.bistum-muenster.de/harsewinkel",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,15 +25,14 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "OPAC_Friesoythe",
         "mediatypes": {
             "Buchklein.GIF": "BOOK",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
             "CD1klein.GIF": "CD",
-            "CDklein.GIF": "CD",
+            "CDklein.GIF": "AUDIOBOOK",
             "Cassetteklein.GIF": "AUDIO_CASSETTE",
             "Comicklein.GIF": "BOOK",
-            "DVD-ROMklein.GIF": "DVD",
+            "DVD-ROMklein.GIF": "CD_SOFTWARE",
             "DVDklein.GIF": "DVD",
             "Diaserieklein.GIF": "ART",
             "Hoerbuch1klein.GIF": "MP3",
@@ -44,21 +43,21 @@
             "Kinderbuch_aklein.GIF": "BOOK",
             "Kindersachbuch_aklein.GIF": "BOOK",
             "Medien-Paketklein.GIF": "PACKAGE",
-            "NDS1klein.GIF": "GAME_CONSOLE_NINTENDO",
-            "NDSklein.GIF": "GAME_CONSOLE_NINTENDO",
+            "NDS1klein.GIF": "GAME_CONSOLE",
+            "NDSklein.GIF": "GAME_CONSOLE",
             "Ostern1klein .GIF": "PACKAGE",
-            "PS21klein.GIF": "GAME_CONSOLE_PLAYSTATION",
-            "PS2klein.GIF": "GAME_CONSOLE_PLAYSTATION",
-            "PS31klein.GIF": "GAME_CONSOLE_PLAYSTATION",
-            "PS3klein.GIF": "GAME_CONSOLE_PLAYSTATION",
+            "PS21klein.GIF": "GAME_CONSOLE",
+            "PS2klein.GIF": "GAME_CONSOLE",
+            "PS31klein.GIF": "GAME_CONSOLE",
+            "PS3klein.GIF": "GAME_CONSOLE",
             "SachDVDklein.GIF": "DVD",
             "Sachbuchklein.GIF": "BOOK",
             "SommerleseclubBuchklein.GIF": "BOOK",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
-            "Weihnachten1klein.GIF": "PACKAGE",
-            "Wii1klein.GIF": "GAME_CONSOLE_WII",
-            "Wiiklein.GIF": "GAME_CONSOLE_WII",
+            "Weihnachten1klein.GIF": "UNKNOWN",
+            "Wii1klein.GIF": "GAME_CONSOLE",
+            "Wiiklein.GIF": "GAME_CONSOLE",
             "Zeitschriftklein.GIF": "MAGAZINE",
             "eAudio_bibloadklein.GIF": "MP3",
             "eBook_bibloadklein.GIF": "EBOOK",
@@ -73,11 +72,11 @@
         }
     },
     "geo": [
-        53.0244916,
-        7.8589508
+        51.960667,
+        8.22534
     ],
-    "information": "http://www.stmarienfriesoythe.de/",
-    "library_id": 3037,
-    "state": "Niedersachsen",
-    "title": "Kath. \u00d6B St. Marien"
+    "information": "http://www.stadtbuecherei-harsewinkel.de/#",
+    "library_id": 3640,
+    "state": "Nordrhein-Westfalen",
+    "title": "Kath. \u00d6B St. Lucia"
 }
