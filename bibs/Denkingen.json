@@ -7,47 +7,44 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wolfschlugen",
+    "city": "Denkingen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 1,
-            "barcode": 1,
-            "format": 0,
+            "author": 0,
+            "barcode": -1,
             "homebranch": -1,
             "lendingbranch": -1,
             "prolongurl": 4,
-            "returndate": 3,
-            "status": -1,
-            "title": 2
+            "returndate": 2,
+            "status": 3,
+            "title": 1
         },
-        "baseurl": "https://wwwopac.rz-kiru.de/wolfschlugen",
+        "baseurl": "https://wwwopac.rz-kiru.de/denkingen",
         "copiestable": {
             "barcode": -1,
-            "branch": 2,
-            "department": 0,
+            "branch": -1,
+            "department": 2,
             "location": 1,
             "reservations": 5,
             "returndate": 4,
             "status": 3
         },
-        "customssl": true,
         "reservationtable": {
-            "author": 1,
-            "availability": 3,
+            "author": 0,
+            "availability": 2,
             "branch": -1,
-            "cancelurl": 4,
+            "cancelurl": 3,
             "expirationdate": -1,
-            "format": 0,
-            "title": 2
+            "title": 1
         }
     },
     "geo": [
-        48.65224,
-        9.2869101
+        48.1105102,
+        8.7385696
     ],
-    "information": "http://www.wolfschlugen.de/Buecherei-01.aspx#Bibliothekskatalog",
-    "library_id": 8441,
+    "information": "http://www.denkingen.de/pb/,Lde/143170.html",
+    "library_id": 2222,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Ortsb\u00fccherei"
+    "title": "Mediathek"
 }

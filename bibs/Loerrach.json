@@ -7,47 +7,48 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wolfschlugen",
+    "city": "L\u00f6rrach",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 1,
-            "barcode": 1,
-            "format": 0,
+            "author": 0,
+            "barcode": 3,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
-            "returndate": 3,
-            "status": -1,
-            "title": 2
+            "prolongurl": 6,
+            "returndate": 4,
+            "status": 5,
+            "title": 1
         },
-        "baseurl": "https://wwwopac.rz-kiru.de/wolfschlugen",
+        "baseurl": "https://wwwopac.rz-kiru.de/loerrach",
         "copiestable": {
             "barcode": -1,
-            "branch": 2,
-            "department": 0,
+            "branch": 0,
+            "department": -1,
             "location": 1,
-            "reservations": 5,
-            "returndate": 4,
-            "status": 3
+            "reservations": 4,
+            "returndate": 3,
+            "status": 2
         },
         "customssl": true,
+        "mediatypes": {
+            "mouse.jpg": "EBOOK"
+        },
         "reservationtable": {
-            "author": 1,
+            "author": 0,
             "availability": 3,
             "branch": -1,
             "cancelurl": 4,
             "expirationdate": -1,
-            "format": 0,
-            "title": 2
+            "title": 1
         }
     },
     "geo": [
-        48.65224,
-        9.2869101
+        47.6169191,
+        7.6709248
     ],
-    "information": "http://www.wolfschlugen.de/Buecherei-01.aspx#Bibliothekskatalog",
-    "library_id": 8441,
+    "information": "http://bibliothek.loerrach.de/index.php?module=cGFnZXM=&load=MTI1NQ==&subCategs=&catid=",
+    "library_id": 5113,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Ortsb\u00fccherei"
+    "title": "Stadtbibliothek"
 }
