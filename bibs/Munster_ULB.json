@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Bochum",
+    "city": "M\u00fcnster",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.tfh-bochum.de/webOPACClient"
+        "baseurl": "https://katalogix.uni-muenster.de/Katalog",
+        "customssl": true
     },
     "geo": [
-        51.4818445,
-        7.2162363
+        51.9606649,
+        7.6261347
     ],
-    "information": "http://www.tfh-bochum.de/bibliothek.html",
-    "library_id": 8863,
+    "information": "http://www.ulb.uni-muenster.de/bibliothek/standorte/",
+    "library_id": 9103,
     "state": "Nordrhein-Westfalen",
-    "title": "Technische Fachhochschule"
+    "title": "Uni- und Landesbibliothek"
 }
