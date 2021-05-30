@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Bremen",
+    "city": "Marburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://vhweb.suub.uni-bremen.de",
+        "baseurl": "https://opac.ub.uni-marburg.de",
         "db": "1"
     },
     "geo": [
-        53.1081566,
-        8.8537933
+        50.8021728,
+        8.7667933
     ],
-    "information": "http://www.suub.uni-bremen.de/",
-    "library_id": 8874,
-    "state": "Bremen",
-    "title": "Staats- und Unibibliothek"
+    "information": "http://www.uni-marburg.de/bis/",
+    "library_id": 9075,
+    "state": "Hessen",
+    "title": "Unibibliothek"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Bremen",
+    "city": "Hamburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://vhweb.suub.uni-bremen.de",
-        "db": "1"
+        "baseurl": "https://vzopc4.gbv.de",
+        "db": "21"
     },
     "geo": [
-        53.1081566,
-        8.8537933
+        53.5510846,
+        9.9936818
     ],
-    "information": "http://www.suub.uni-bremen.de/",
-    "library_id": 8874,
-    "state": "Bremen",
-    "title": "Staats- und Unibibliothek"
+    "information": "http://www.aekbibl.de/",
+    "library_id": 8964,
+    "state": "Hamburg",
+    "title": "Bibliothek des \u00c4rztlichen Vereins"
 }

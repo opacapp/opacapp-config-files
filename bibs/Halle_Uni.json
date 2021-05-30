@@ -7,18 +7,19 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Bremen",
+    "city": "Halle (Saale)",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://vhweb.suub.uni-bremen.de",
+        "baseurl": "https://lhhal.gbv.de",
+        "customssl": "true",
         "db": "1"
     },
     "geo": [
-        53.1081566,
-        8.8537933
+        51.4969802,
+        11.9688029
     ],
-    "information": "http://www.suub.uni-bremen.de/",
-    "library_id": 8874,
-    "state": "Bremen",
-    "title": "Staats- und Unibibliothek"
+    "information": "http://bibliothek.uni-halle.de/",
+    "library_id": 8962,
+    "state": "Sachsen-Anhalt",
+    "title": "Unibibliothek"
 }
