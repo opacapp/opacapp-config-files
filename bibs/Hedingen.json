@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Embrach",
+    "city": "Hedingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Embrach"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hedingen"
     },
     "geo": [
-        47.5124,
-        8.5905799
+        47.29779,
+        8.44669
     ],
-    "information": "http://kulturembrach.ch/bibliothek/",
-    "library_id": 8916,
+    "information": "http://www.bibliothek-hedingen.ch/page/bib.php",
+    "library_id": 8987,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

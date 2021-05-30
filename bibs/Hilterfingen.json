@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Embrach",
+    "city": "Hilterfingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Embrach"
+        "baseurl": "http://www.winmedio.net/hilterfingen"
     },
     "geo": [
-        47.5124,
-        8.5905799
+        46.7449317,
+        7.6501302
     ],
-    "information": "http://kulturembrach.ch/bibliothek/",
-    "library_id": 8916,
-    "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.hilterfingen.ch/kultur-freizeit/bibliothek/",
+    "library_id": 8998,
+    "state": "Bern",
+    "title": "Bibliothek"
 }

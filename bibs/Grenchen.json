@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Embrach",
+    "city": "Grenchen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Embrach"
+        "baseurl": "http://www.winmedio.net/grenchen"
     },
     "geo": [
-        47.5124,
-        8.5905799
+        47.193585,
+        7.3954451
     ],
-    "information": "http://kulturembrach.ch/bibliothek/",
-    "library_id": 8916,
-    "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.grenchen.ch/de/verwaltung/aemter/?amt_id=5399",
+    "library_id": 8958,
+    "state": "Solothurn",
+    "title": "Stadtbibliothek"
 }

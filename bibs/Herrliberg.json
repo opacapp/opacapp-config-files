@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Embrach",
+    "city": "Herrliberg",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Embrach"
+        "baseurl": "http://www.bibliotheken-zh.ch/Herrliberg"
     },
     "geo": [
-        47.5124,
-        8.5905799
+        47.2860094,
+        8.6167699
     ],
-    "information": "http://kulturembrach.ch/bibliothek/",
-    "library_id": 8916,
+    "information": "http://www.schule-herrliberg.ch/freizeitmenu/gemeinde-und-schulbibliothek",
+    "library_id": 8993,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

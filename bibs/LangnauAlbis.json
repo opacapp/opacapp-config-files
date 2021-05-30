@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Embrach",
+    "city": "Langnau am Albis",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Embrach"
+        "baseurl": "http://www.winmedio.net/langnau-am-albis"
     },
     "geo": [
-        47.5124,
-        8.5905799
+        47.2880053,
+        8.5365507
     ],
-    "information": "http://kulturembrach.ch/bibliothek/",
-    "library_id": 8916,
+    "information": "http://www.langnauamalbis.ch/de/bildung/bibliotheken/?action=showbibi&bibi_id=92",
+    "library_id": 9045,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

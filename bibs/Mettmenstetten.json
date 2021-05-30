@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Embrach",
+    "city": "Mettmenstetten",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Embrach"
+        "baseurl": "http://www.bibliotheken-zh.ch/Mettmenstetten"
     },
     "geo": [
-        47.5124,
-        8.5905799
+        47.2435601,
+        8.4633095
     ],
-    "information": "http://kulturembrach.ch/bibliothek/",
-    "library_id": 8916,
+    "information": "http://www.bibliothek-mettmenstetten.ch/",
+    "library_id": 9082,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

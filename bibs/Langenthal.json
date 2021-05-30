@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Embrach",
+    "city": "Langenthal",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Embrach"
+        "baseurl": "http://www.winmedio.net/langenthal"
     },
     "geo": [
-        47.5124,
-        8.5905799
+        47.2139734,
+        7.7847334
     ],
-    "information": "http://kulturembrach.ch/bibliothek/",
-    "library_id": 8916,
-    "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.bibliothek-langenthal.ch/de/",
+    "library_id": 9044,
+    "state": "Bern",
+    "title": "Bibliothek"
 }
