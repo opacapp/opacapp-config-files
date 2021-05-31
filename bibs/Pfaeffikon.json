@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Adliswil",
+    "city": "Pfaeffikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Adliswil"
+        "baseurl": "http://www.bibliotheken-zh.ch/Pfaeffikon"
     },
     "geo": [
-        47.3116759,
-        8.5245079
+        47.395,
+        8.77652
     ],
-    "information": "http://www.adliswil.ch/de/verwaltung/organisation/aemter/welcome.php?amt_id=13378",
-    "library_id": 8820,
+    "information": "http://www.bibli-pfaeffikon.ch/",
+    "library_id": 9137,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

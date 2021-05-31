@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Adliswil",
+    "city": "Neftenbach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Adliswil"
+        "baseurl": "http://www.bibliotheken-zh.ch/Neftenbach"
     },
     "geo": [
-        47.3116759,
-        8.5245079
+        47.5261643,
+        8.6674421
     ],
-    "information": "http://www.adliswil.ch/de/verwaltung/organisation/aemter/welcome.php?amt_id=13378",
-    "library_id": 8820,
+    "information": "http://www.neftenbach.ch/gemeinde/index.php?pageID=213",
+    "library_id": 9108,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Adliswil",
+    "city": "Maur/Ebmatingen/Aesch-Forch",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Adliswil"
+        "baseurl": "http://www.bibliotheken-zh.ch/Maur"
     },
     "geo": [
-        47.3116759,
-        8.5245079
+        47.338416,
+        8.6515131
     ],
-    "information": "http://www.adliswil.ch/de/verwaltung/organisation/aemter/welcome.php?amt_id=13378",
-    "library_id": 8820,
+    "information": "http://www.bibliothek-maur.ch/",
+    "library_id": 9077,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Adliswil",
+    "city": "Samedan",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Adliswil"
+        "baseurl": "http://www.winmedio.net/samedan-bever"
     },
     "geo": [
-        47.3116759,
-        8.5245079
+        46.4189818,
+        9.8607328
     ],
-    "information": "http://www.adliswil.ch/de/verwaltung/organisation/aemter/welcome.php?amt_id=13378",
-    "library_id": 8820,
-    "state": "Z\u00fcrich",
+    "information": "http://www.biblioteca-samedan.ch/",
+    "library_id": 9164,
+    "state": "Graub\u00fcnden",
     "title": "Gemeindebibliothek"
 }

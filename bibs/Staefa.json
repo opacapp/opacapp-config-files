@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Adliswil",
+    "city": "St\u00e4fa",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Adliswil"
+        "baseurl": "http://www.bibliotheken-zh.ch/Staefa"
     },
     "geo": [
-        47.3116759,
-        8.5245079
+        47.2416735,
+        8.7311418
     ],
-    "information": "http://www.adliswil.ch/de/verwaltung/organisation/aemter/welcome.php?amt_id=13378",
-    "library_id": 8820,
+    "information": "http://www.lesegesellschaft.ch/bibliothek/",
+    "library_id": 9176,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

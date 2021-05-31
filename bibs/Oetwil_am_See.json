@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Adliswil",
+    "city": "Oetwil am See",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Adliswil"
+        "baseurl": "http://www.bibliotheken-zh.ch/Oetwil-am-See"
     },
     "geo": [
-        47.3116759,
-        8.5245079
+        47.2709,
+        8.72148
     ],
-    "information": "http://www.adliswil.ch/de/verwaltung/organisation/aemter/welcome.php?amt_id=13378",
-    "library_id": 8820,
+    "information": "http://www.schule-oetwil.ch/index.php?page_request=112&id=23/",
+    "library_id": 9126,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Adliswil",
+    "city": "Menzingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Adliswil"
+        "baseurl": "http://www.winmedio.net/menzingen"
     },
     "geo": [
-        47.3116759,
-        8.5245079
+        47.178,
+        8.58951
     ],
-    "information": "http://www.adliswil.ch/de/verwaltung/organisation/aemter/welcome.php?amt_id=13378",
-    "library_id": 8820,
-    "state": "Z\u00fcrich",
+    "information": "http://www.zg.ch/behoerden/gemeinden/menzingen/de/verwaltung/schulabteilung/bibliothek",
+    "library_id": 9081,
+    "state": "Zug",
     "title": "Gemeindebibliothek"
 }
