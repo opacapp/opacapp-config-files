@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "touchpoint",
+    "city": "W\u00fcrzburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://recherche.bibkatalog.de/TouchPoint",
+        "customssl": true,
+        "startparams": "View=fws&Language=de&Branch=0"
+    },
+    "geo": [
+        49.7915953,
+        9.9535715
+    ],
+    "information": "https://bibliothek.fhws.de/services/oeffnungszeiten/",
+    "library_id": 9249,
+    "state": "Bayern",
+    "title": "Hochschulbibliothek"
+}
