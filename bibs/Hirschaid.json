@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "iopac",
-    "city": "Eggolsheim",
+    "city": "Hirschaid",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://87.138.90.146"
+        "baseurl": "http://87.138.173.74"
     },
     "geo": [
-        49.770304,
-        11.0558092
+        49.8190535,
+        10.992433
     ],
-    "information": "http://www.eggolsheim.de/buecherei-stmartin.html",
-    "library_id": 2521,
+    "information": "http://www.hirschaid.de/seite/de/markt/380/-/Gemeindebuecherei.html",
+    "library_id": 3908,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei St. Martin"
+    "title": "Gemeindeb\u00fccherei"
 }

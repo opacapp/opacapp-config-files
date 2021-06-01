@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "iopac",
-    "city": "Eggolsheim",
+    "api": "winbiap",
+    "city": "Maisach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://87.138.90.146"
+        "baseurl": "https://webopac.winbiap.de/maisach",
+        "customssl": true
     },
     "geo": [
-        49.770304,
-        11.0558092
+        48.2165127,
+        11.2572401
     ],
-    "information": "http://www.eggolsheim.de/buecherei-stmartin.html",
-    "library_id": 2521,
+    "information": "http://www.maisach.de/index.php?id=0,51",
+    "library_id": 5195,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei St. Martin"
+    "title": "Gemeindeb\u00fccherei"
 }

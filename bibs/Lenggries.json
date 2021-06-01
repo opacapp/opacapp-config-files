@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "iopac",
-    "city": "Eggolsheim",
+    "api": "winbiap",
+    "city": "Lenggries",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://87.138.90.146"
+        "baseurl": "https://webopac.winbiap.net/lenggries",
+        "customssl": true
     },
     "geo": [
-        49.770304,
-        11.0558092
+        47.6825636,
+        11.5765039
     ],
-    "information": "http://www.eggolsheim.de/buecherei-stmartin.html",
-    "library_id": 2521,
+    "information": "http://www.lenggries.de/de/buecherei",
+    "library_id": 4927,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei St. Martin"
+    "title": "Gemeindeb\u00fccherei"
 }

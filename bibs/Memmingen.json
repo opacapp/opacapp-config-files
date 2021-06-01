@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "iopac",
-    "city": "Eggolsheim",
+    "api": "winbiap",
+    "city": "Memmingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://87.138.90.146"
+        "baseurl": "https://bibliothek.memmingen.de",
+        "customssl": true
     },
     "geo": [
-        49.770304,
-        11.0558092
+        47.9837999,
+        10.1801883
     ],
-    "information": "http://www.eggolsheim.de/buecherei-stmartin.html",
-    "library_id": 2521,
+    "information": "https://www.memmingen.de/stadtbibliothek.html",
+    "library_id": 5345,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei St. Martin"
+    "title": "Stadtbibliothek"
 }

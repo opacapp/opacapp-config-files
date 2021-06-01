@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "iopac",
-    "city": "Eggolsheim",
+    "api": "sisis",
+    "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://87.138.90.146"
+        "baseurl": "https://opac.ifz-muenchen.de/webOPACClient.ifzsis"
     },
     "geo": [
-        49.770304,
-        11.0558092
+        48.1351253,
+        11.5819806
     ],
-    "information": "http://www.eggolsheim.de/buecherei-stmartin.html",
-    "library_id": 2521,
+    "information": "http://www.ifz-muenchen.de/bibliothek/",
+    "library_id": 9100,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei St. Martin"
+    "title": "Institut f\u00fcr Zeitgeschichte"
 }

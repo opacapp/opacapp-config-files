@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "iopac",
-    "city": "Eggolsheim",
+    "api": "winbiap",
+    "city": "Lindau/Bo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://87.138.90.146"
+        "baseurl": "http://93.184.180.130"
     },
     "geo": [
-        49.770304,
-        11.0558092
+        47.5797815,
+        9.6789333
     ],
-    "information": "http://www.eggolsheim.de/buecherei-stmartin.html",
-    "library_id": 2521,
+    "information": "http://www.lindau.de/Kunst-Kultur/Stadtb%C3%BCcherei",
+    "library_id": 5013,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei St. Martin"
+    "title": "Stadtb\u00fccherei"
 }

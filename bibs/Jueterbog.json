@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "iopac",
-    "city": "Eggolsheim",
+    "city": "J\u00fcterbog",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://87.138.90.146"
+        "baseurl": "http://bibliothek.jueterbog.de:1025"
     },
     "geo": [
-        49.770304,
-        11.0558092
+        51.9964734,
+        13.0756312
     ],
-    "information": "http://www.eggolsheim.de/buecherei-stmartin.html",
-    "library_id": 2521,
-    "state": "Bayern",
-    "title": "Marktb\u00fccherei St. Martin"
+    "information": "https://www.jueterbog.eu/seite/180125/stadtbibliothek.html",
+    "library_id": 4226,
+    "state": "Brandenburg",
+    "title": "Stadtbibliothek"
 }
