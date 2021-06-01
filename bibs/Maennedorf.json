@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Menzingen",
+    "city": "M\u00e4nnedorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/menzingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Maennedorf"
     },
     "geo": [
-        47.178,
-        8.58951
+        47.2549491,
+        8.7008502
     ],
-    "information": "http://www.zg.ch/behoerden/gemeinden/menzingen/de/verwaltung/schulabteilung/bibliothek",
-    "library_id": 9081,
-    "state": "Zug",
+    "information": "http://www.maennedorf.ch/schule/de/bibliothek/",
+    "library_id": 9066,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

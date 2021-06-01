@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Menzingen",
+    "city": "Meilen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/menzingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Meilen"
     },
     "geo": [
-        47.178,
-        8.58951
+        47.269389,
+        8.6437363
     ],
-    "information": "http://www.zg.ch/behoerden/gemeinden/menzingen/de/verwaltung/schulabteilung/bibliothek",
-    "library_id": 9081,
-    "state": "Zug",
+    "information": "http://www.meilen.ch/de/freizeit/bibliothek/",
+    "library_id": 9078,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
