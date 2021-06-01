@@ -7,10 +7,16 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Marl",
+    "city": "Essen/Oldenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.bistum-muenster.de/polsum",
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 3,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "http://www.opac.bmo-vechta.de/essen",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -19,7 +25,6 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "OPAC_Polsum",
         "mediatypes": {
             "Buchklein.GIF": "BOOK",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
@@ -29,7 +34,7 @@
             "Comicklein.GIF": "BOOK",
             "DVD-ROMklein.GIF": "DVD",
             "DVDklein.GIF": "DVD",
-            "Diaserieklein.GIF": "UNKNOWN",
+            "Diaserieklein.GIF": "ART",
             "Hoerbuch1klein.GIF": "MP3",
             "Hoerbuchklein.GIF": "AUDIOBOOK",
             "Jugendbuchklein.GIF": "BOOK",
@@ -38,7 +43,7 @@
             "Kinderbuch_aklein.GIF": "BOOK",
             "Kindersachbuch_aklein.GIF": "BOOK",
             "Medien-Paketklein.GIF": "PACKAGE",
-            "NDS1klein.GIF": "BOARDGAME",
+            "NDS1klein.GIF": "GAME_CONSOLE_NINTENDO",
             "NDSklein.GIF": "GAME_CONSOLE_NINTENDO",
             "Ostern1klein .GIF": "UNKNOWN",
             "PS21klein.GIF": "GAME_CONSOLE_PLAYSTATION",
@@ -54,18 +59,24 @@
             "Wii1klein.GIF": "GAME_CONSOLE_WII",
             "Wiiklein.GIF": "GAME_CONSOLE_WII",
             "Zeitschriftklein.GIF": "MAGAZINE",
-            "eAudio_bibloadklein.GIF": "MP3",
+            "eAudio_bibloadklein.GIF": "EAUDIO",
             "eBook_bibloadklein.GIF": "EBOOK",
-            "ePaper_bibloadklein.GIF": "EBOOK",
-            "eVideo_bibloadklein.GIF": "UNKNOWN"
+            "ePaper_bibloadklein.GIF": "EDOC",
+            "eVideo_bibloadklein.GIF": "EVIDEO"
+        },
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
         }
     },
     "geo": [
-        51.6265314,
-        7.0494072
+        52.717731,
+        7.9396505
     ],
-    "information": "https://buechereipolsum.wordpress.com/",
-    "library_id": 9298,
-    "state": "Nordrhein-Westfalen",
-    "title": "B\u00fccherei St. Bartholom\u00e4us Polsum"
+    "information": "http://www.essen-oldb.de/index.php?id=208",
+    "library_id": 2797,
+    "state": "Niedersachsen",
+    "title": "Kath. \u00d6B St. Bartholom\u00e4us"
 }
