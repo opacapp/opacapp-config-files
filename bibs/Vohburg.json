@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Vohburg/Do",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/vohburg",
+        "customssl": true
+    },
+    "geo": [
+        48.7659737,
+        11.6227267
+    ],
+    "information": "http://www.vohburg.de/documente/stadtverwaltung/kommunale_einrichtungen.php",
+    "library_id": 7887,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
