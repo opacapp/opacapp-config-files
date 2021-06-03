@@ -1,32 +1,34 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Aschaffenburg",
+    "city": "Ibbenb\u00fcren",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 8,
+            "author": 7,
             "barcode": 4,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 2,
             "returndate": 3,
-            "status": 9,
-            "title": 8
+            "status": 5,
+            "title": 7
         },
-        "baseurl": "https://aschaffenburg.bibdia-hosts.de",
+        "baseurl": "http://opac.stadtbuecherei-ibbenbueren.de",
         "mediatypes": {
             "1": "BOOK",
-            "10": "MAP",
             "11": "DVD",
-            "19": "BOOK",
             "2": "MAGAZINE",
-            "20": "CD_MUSIC",
+            "25": "GAME_CONSOLE_WII",
             "3": "CD_SOFTWARE",
             "30": "EBOOK",
+            "6": "CD",
             "9": "BOARDGAME"
         },
         "opacdir": "opax",
@@ -37,11 +39,11 @@
         ]
     },
     "geo": [
-        49.9763875,
-        9.1433494
+        52.274064,
+        7.717601
     ],
-    "information": "http://www.stadtbibliothek-aschaffenburg.de/relaunch/content/start/anschrift_oeffnungszeit.html",
-    "library_id": 8607,
-    "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.stadtbuecherei-ibbenbueren.de/",
+    "library_id": 42,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
 }
