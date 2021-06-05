@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Kassel",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://opac.bibliothek.uni-kassel.de",
+        "db": "1"
+    },
+    "geo": [
+        51.3127114,
+        9.4797461
+    ],
+    "information": "http://www.uni-kassel.de/ub/",
+    "library_id": 9026,
+    "state": "Hessen",
+    "title": "Unibibliothek"
+}
