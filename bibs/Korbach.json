@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Korbach",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://cloudopac.winbiap.de/korbach",
+        "customssl": true
+    },
+    "geo": [
+        51.27257,
+        8.8702
+    ],
+    "information": "http://www.korbach.de/Leben/Freizeit-Sport/Stadtb%C3%BCcherei/%C3%96ffnungszeiten",
+    "library_id": 4532,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
+}

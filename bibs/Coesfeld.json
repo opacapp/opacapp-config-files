@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Coesfeld",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://buecherei.coesfeld.de",
+        "customssl": true,
+        "urls": {
+            "advanced_search": "de-de/Mediensuche/Erweiterte-Suche",
+            "simple_search": "de-de/Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        51.9466943,
+        7.1703584
+    ],
+    "information": "http://stadtbuecherei.coesfeld.de/",
+    "library_id": 2133,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
