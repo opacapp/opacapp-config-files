@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Lippstadt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://webopac.citkomm.de/lippstadt"
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        51.6737655,
+        8.3466242
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
+    "information": "http://www.lippstadt.de/kultur/buecherei/117260100000012474.php",
+    "library_id": 8717,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Thomas-Valentin-Stadtb\u00fccherei"
 }

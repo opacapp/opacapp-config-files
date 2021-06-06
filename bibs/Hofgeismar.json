@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Hofgeismar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://webopac.winbiap.net/hofgeismar",
+        "customssl": true
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        51.4970925,
+        9.3860472
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.hofgeismar.de/cms/LebenHofgeismar/Stadtb%C3%BCcherei/",
+    "library_id": 3938,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

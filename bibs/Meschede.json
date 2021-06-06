@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Meschede",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://webopac.citkomm.de/meschede"
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        51.34758,
+        8.2814
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
+    "information": "http://www.meschede.de/buecherei/startseite_buecherei.php",
+    "library_id": 5381,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

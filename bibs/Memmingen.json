@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Memmingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://bibliothek.memmingen.de",
+        "customssl": true
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        47.9837999,
+        10.1801883
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "information": "https://www.memmingen.de/stadtbibliothek.html",
+    "library_id": 5345,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
 }

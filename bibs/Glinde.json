@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Detmold",
+    "api": "iopac",
+    "city": "Glinde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "http://iopac-glinde.dyndns.org"
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        53.5435908,
+        10.2165943
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.stadtbuecherei-glinde.de/",
+    "library_id": 3271,
+    "state": "Schleswig-Holstein",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Friedberg/Bay",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://webopac.winbiap.de/friedberg",
+        "customssl": true
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        48.3559766,
+        10.9865457
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
+    "library_id": 2999,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

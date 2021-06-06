@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Detmold",
+    "api": "sisis",
+    "city": "Garching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://stgoz2.bib-bvb.de/webOPACClient.stgsis",
+        "startparams": "Login=wostg"
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        48.2488721,
+        11.6532477
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://stadtbuechereigarching.de/",
+    "library_id": 3097,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

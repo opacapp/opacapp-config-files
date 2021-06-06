@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Kierspe",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://webopac.citkomm.de/kierspe"
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        51.12874,
+        7.59402
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
+    "information": "http://www.stadtbibliothek-kierspe.de/",
+    "library_id": 4387,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

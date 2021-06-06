@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Menden",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://webopac.citkomm.de/menden"
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        51.43805,
+        7.79512
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
+    "information": "http://www.menden.de/lim/bi/bc/index.php",
+    "library_id": 9080,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Dorte-Hilleke-B\u00fccherei"
 }

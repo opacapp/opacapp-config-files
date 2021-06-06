@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "M\u00fchlheim/M",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://opac.winbiap.net/muehlheim",
+        "customssl": true
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        50.12529,
+        8.84515
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
-    "state": "Nordrhein-Westfalen",
+    "information": "https://www.muehlheim.de/buecherei-informationen.html+",
+    "library_id": 5553,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

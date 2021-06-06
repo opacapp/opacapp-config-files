@@ -1,23 +1,24 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Herford",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://webopac.herford.de",
+        "customssl": true
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        52.11601,
+        8.67282
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
+    "information": "http://www.bibliothek.herford.de",
+    "library_id": 8692,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Langenzenn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://webopac.winbiap.de/langenzenn",
+        "customssl": true
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        49.4946712,
+        10.796038
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.langenzenn.de/freizeit-tourismus/freizeitmoeglichkeiten/buecherei/",
+    "library_id": 4818,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

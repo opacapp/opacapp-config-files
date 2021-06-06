@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Kassel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://bibliothek.stadt-kassel.de"
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        51.3121729,
+        9.4936895
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.kassel.de/miniwebs/stadtbib/01816/",
+    "library_id": 8705,
+    "state": "Hessen",
+    "title": "Stadtbibliothek"
 }

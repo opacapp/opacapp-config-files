@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Espelkamp",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "http://webopac.espelkamp.de"
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        52.37691,
+        8.62809
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
+    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
+    "library_id": 2746,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

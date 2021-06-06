@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "G\u00f6ppingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "http://opac.goeppingen.de"
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        48.70334,
+        9.65528
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.stadtbibliothek.goeppingen.de/6014388.html",
+    "library_id": 8675,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
 }

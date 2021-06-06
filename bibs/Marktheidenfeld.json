@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Detmold",
+    "city": "Marktheidenfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.detmold.de"
+        "baseurl": "https://webopac.winbiap.net/marktheidenfeld",
+        "customssl": true
     },
     "geo": [
-        51.9322941,
-        8.8809499
+        49.84477,
+        9.61204
     ],
-    "information": "https://info.opacapp.de/detmold.html",
-    "library_id": 63,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://stadt-marktheidenfeld.de/page2/kultur-bildung/stadtbucherei",
+    "library_id": 5255,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }
