@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Memmingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliothek.memmingen.de",
+        "customssl": true
+    },
+    "geo": [
+        47.9837999,
+        10.1801883
+    ],
+    "information": "https://www.memmingen.de/stadtbibliothek.html",
+    "library_id": 5345,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}
