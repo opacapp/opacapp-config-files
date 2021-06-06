@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Telfs",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "https://bibliothek-telfs.webopac.at"
+    },
+    "geo": [
+        47.3069441,
+        11.0734221
+    ],
+    "information": "http://www.telfs.bvoe.at/",
+    "library_id": 9331,
+    "state": "Tirol",
+    "title": "\u00d6ffentliche B\u00fccherei"
+}
