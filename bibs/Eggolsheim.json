@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Eggolsheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://87.138.90.146"
+    },
+    "geo": [
+        49.770304,
+        11.0558092
+    ],
+    "information": "http://www.eggolsheim.de/buecherei-stmartin.html",
+    "library_id": 2521,
+    "state": "Bayern",
+    "title": "Marktb\u00fccherei St. Martin"
+}
