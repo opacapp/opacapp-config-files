@@ -1,0 +1,26 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.erkrath",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "koha",
+    "city": "Erkrath",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://sb-erkrath.lmscloud.net",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/kreis-mettmann",
+        "onleihe_libraryId": "62"
+    },
+    "geo": [
+        51.20756,
+        6.9607
+    ],
+    "information": "https://info.opacapp.de/erkrath.html",
+    "library_id": 2706,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
