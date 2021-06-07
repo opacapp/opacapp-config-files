@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Lausanne",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://explore.rero.ch/primo_library/libweb",
+        "db": "VD_V1",
+        "languages": [
+            "de_DE",
+            "en_US",
+            "fr_FR"
+        ]
+    },
+    "geo": [
+        46.5196535,
+        6.6322734
+    ],
+    "information": "http://www.bcu-lausanne.ch/",
+    "library_id": 9047,
+    "state": "Waadt",
+    "title": "BCU"
+}
