@@ -1,0 +1,52 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "http://achern.de/index.php?id=513",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Achern",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 3,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "https://webopac.achernonline.de/webopac",
+        "copiestable": {
+            "barcode": 0,
+            "department": 2,
+            "location": 1,
+            "returndate": 4,
+            "status": 3
+        },
+        "customssl": true,
+        "libopacplus": true,
+        "mediatypes": {
+            "cdkl.gif": "AUDIOBOOK",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE",
+            "munzkl.gif": "EDOC",
+            "onleihe.jpg": "EBOOK"
+        },
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
+    },
+    "geo": [
+        48.62838,
+        8.07162
+    ],
+    "information": "https://info.opacapp.de/achern.html",
+    "library_id": 17,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}
