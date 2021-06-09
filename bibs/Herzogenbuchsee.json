@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietikon",
+    "city": "Herzogenbuchsee",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietikon"
+        "baseurl": "http://www.winmedio.net/herzogenbuchsee"
     },
     "geo": [
-        47.4029025,
-        8.3988207
+        47.1881119,
+        7.7009241
     ],
-    "information": "http://www.dietikon.ch/de/verwaltung/unterinstanzen/?amt_id=8239",
-    "library_id": 8899,
-    "state": "Z\u00fcrich",
-    "title": "Stadtbibliothek"
+    "information": "http://www.herzogenbuchsee.ch/topic2729.html",
+    "library_id": 8994,
+    "state": "Bern",
+    "title": "Gemeindebibliothek"
 }

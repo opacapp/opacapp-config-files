@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Donauw\u00f6rth",
+    "city": "Kassel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/donauwoerth",
-        "customssl": true
+        "baseurl": "https://bibliothek.stadt-kassel.de"
     },
     "geo": [
-        48.71924,
-        10.77917
+        51.3121729,
+        9.4936895
     ],
-    "information": "http://www.donauwoerth.de/html/user_de_Stadtbibliothek+Startseite.html",
-    "library_id": 2318,
-    "state": "Bayern",
+    "information": "http://www.kassel.de/miniwebs/stadtbib/01816/",
+    "library_id": 8705,
+    "state": "Hessen",
     "title": "Stadtbibliothek"
 }

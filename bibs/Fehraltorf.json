@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietikon",
+    "city": "Fehraltorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietikon"
+        "baseurl": "http://www.bibliotheken-zh.ch/Fehraltorf"
     },
     "geo": [
-        47.4029025,
-        8.3988207
+        47.3895762,
+        8.7510778
     ],
-    "information": "http://www.dietikon.ch/de/verwaltung/unterinstanzen/?amt_id=8239",
-    "library_id": 8899,
+    "information": "http://www.fehraltorf.ch/bibliothek",
+    "library_id": 8926,
     "state": "Z\u00fcrich",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindebibliothek"
 }

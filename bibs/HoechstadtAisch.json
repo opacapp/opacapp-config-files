@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Donauw\u00f6rth",
+    "city": "H\u00f6chstadt/Aisch",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/donauwoerth",
+        "baseurl": "https://webopac.winbiap.de/hoechstadt",
         "customssl": true
     },
     "geo": [
-        48.71924,
-        10.77917
+        49.7095692,
+        10.8128359
     ],
-    "information": "http://www.donauwoerth.de/html/user_de_Stadtbibliothek+Startseite.html",
-    "library_id": 2318,
+    "information": "http://www.fortuna-kulturfabrik.de/de/stadtbuecherei.html",
+    "library_id": 4020,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

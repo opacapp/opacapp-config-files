@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietikon",
+    "city": "Langenthal",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietikon"
+        "baseurl": "http://www.winmedio.net/langenthal_bzl"
     },
     "geo": [
-        47.4029025,
-        8.3988207
+        47.2139734,
+        7.7847334
     ],
-    "information": "http://www.dietikon.ch/de/verwaltung/unterinstanzen/?amt_id=8239",
-    "library_id": 8899,
-    "state": "Z\u00fcrich",
-    "title": "Stadtbibliothek"
+    "information": "http://www.gymo.ch/bibliothek1.html",
+    "library_id": 9043,
+    "state": "Bern",
+    "title": "BZL Bibliothek"
 }

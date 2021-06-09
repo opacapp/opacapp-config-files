@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Donauw\u00f6rth",
+    "city": "Hohen Neuendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/donauwoerth",
+        "baseurl": "https://cloudopac.winbiap.de/hohenneuendorf",
         "customssl": true
     },
     "geo": [
-        48.71924,
-        10.77917
+        52.66326,
+        13.28427
     ],
-    "information": "http://www.donauwoerth.de/html/user_de_Stadtbibliothek+Startseite.html",
-    "library_id": 2318,
-    "state": "Bayern",
+    "information": "http://www.hohen-neuendorf.de/hnd/admin/bibliotheken.htm",
+    "library_id": 3944,
+    "state": "Brandenburg",
     "title": "Stadtbibliothek"
 }

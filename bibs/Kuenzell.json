@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Donauw\u00f6rth",
+    "city": "K\u00fcnzell",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/donauwoerth",
+        "baseurl": "https://webopac.winbiap.de/kuenzell",
         "customssl": true
     },
     "geo": [
-        48.71924,
-        10.77917
+        50.5356779,
+        9.7200616
     ],
-    "information": "http://www.donauwoerth.de/html/user_de_Stadtbibliothek+Startseite.html",
-    "library_id": 2318,
-    "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.kuenzell.de/gemeindebuecherei-kuenzell-im-gemeindezentrum-kuenzell_4472.html",
+    "library_id": 4726,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

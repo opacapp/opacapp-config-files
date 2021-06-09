@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Donauw\u00f6rth",
+    "city": "Kulmbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/donauwoerth",
-        "customssl": true
+        "baseurl": "http://webopac.buecherei-kulmbach.de"
     },
     "geo": [
-        48.71924,
-        10.77917
+        50.1064304,
+        11.4495461
     ],
-    "information": "http://www.donauwoerth.de/html/user_de_Stadtbibliothek+Startseite.html",
-    "library_id": 2318,
+    "information": "http://www.kulmbach.de/xist4c/web/Anschrift/Teledaten/Oeffnungszeiten_id_981_.htm",
+    "library_id": 4713,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "B\u00fccherei am Stadtpark"
 }

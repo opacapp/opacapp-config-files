@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Donauw\u00f6rth",
+    "city": "Kierspe",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/donauwoerth",
-        "customssl": true
+        "baseurl": "https://webopac.citkomm.de/kierspe"
     },
     "geo": [
-        48.71924,
-        10.77917
+        51.12874,
+        7.59402
     ],
-    "information": "http://www.donauwoerth.de/html/user_de_Stadtbibliothek+Startseite.html",
-    "library_id": 2318,
-    "state": "Bayern",
+    "information": "http://www.stadtbibliothek-kierspe.de/",
+    "library_id": 4387,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtbibliothek"
 }

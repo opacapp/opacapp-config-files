@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietikon",
+    "city": "Grenchen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietikon"
+        "baseurl": "http://www.winmedio.net/grenchen"
     },
     "geo": [
-        47.4029025,
-        8.3988207
+        47.193585,
+        7.3954451
     ],
-    "information": "http://www.dietikon.ch/de/verwaltung/unterinstanzen/?amt_id=8239",
-    "library_id": 8899,
-    "state": "Z\u00fcrich",
+    "information": "http://www.grenchen.ch/de/verwaltung/aemter/?amt_id=5399",
+    "library_id": 8958,
+    "state": "Solothurn",
     "title": "Stadtbibliothek"
 }
