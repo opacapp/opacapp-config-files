@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Donaueschingen",
+    "city": "Niefern-\u00d6schelbronn",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -15,24 +15,25 @@
             "barcode": -1,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 3,
+            "prolongurl": 4,
             "returndate": 2,
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://wwwopac.rz-kiru.de/donaueschingen",
+        "baseurl": "https://web-opac.kivbf.de/niefern-oeschelbronn",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
-            "department": 2,
-            "location": 1,
+            "department": 0,
+            "location": 2,
             "reservations": -1,
-            "returndate": 4,
-            "status": 3
+            "returndate": 3,
+            "status": 1
         },
+        "customssl": true,
         "reservationtable": {
             "author": 0,
-            "availability": -2,
+            "availability": 2,
             "branch": -1,
             "cancelurl": 3,
             "expirationdate": -1,
@@ -40,11 +41,11 @@
         }
     },
     "geo": [
-        47.9524098,
-        8.5013052
+        48.9057311,
+        8.8106548
     ],
-    "information": "https://wwwopac.rz-kiru.de/readdonaueschingen/startseite.html",
-    "library_id": 2315,
+    "information": "http://www.niefern-oeschelbronn.de/index.cfm?fuseaction=buerger&rubrik=gemeindebuecherei&id=70",
+    "library_id": 5932,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }
