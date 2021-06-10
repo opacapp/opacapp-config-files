@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Eschborn",
+    "city": "Luckenwalde",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,15 +20,20 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://webopac.eschborn.de/webopac",
+        "baseurl": "http://80.153.36.38/webopac",
         "copiestable": {
-            "barcode": -1,
-            "branch": 3,
-            "department": 1,
-            "location": 0,
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
             "reservations": -1,
-            "returndate": 4,
-            "status": 2
+            "returndate": 5,
+            "status": 3
+        },
+        "mediatypes": {
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -40,11 +45,11 @@
         }
     },
     "geo": [
-        50.1467469,
-        8.5614555
+        52.0939967,
+        13.16933
     ],
-    "information": "http://www.eschborn.de/de/leben-in-eschborn/schulen-und-bildung/stadtbuechereien",
-    "library_id": 2734,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.bibliothek.luckenwalde.de/",
+    "library_id": 5123,
+    "state": "Brandenburg",
+    "title": "Bibliothek im Bahnhof"
 }

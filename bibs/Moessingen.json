@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Eschborn",
+    "city": "M\u00f6ssingen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -15,36 +15,37 @@
             "barcode": -1,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 3,
-            "returndate": 2,
-            "status": -1,
+            "prolongurl": 5,
+            "returndate": 3,
+            "status": 4,
             "title": 1
         },
-        "baseurl": "https://webopac.eschborn.de/webopac",
+        "baseurl": "https://wwwopac.rz-kiru.de/moessingen",
         "copiestable": {
             "barcode": -1,
-            "branch": 3,
-            "department": 1,
-            "location": 0,
+            "branch": -1,
+            "department": -1,
+            "location": 1,
             "reservations": -1,
-            "returndate": 4,
+            "returndate": 3,
             "status": 2
         },
+        "customssl": true,
         "reservationtable": {
             "author": 0,
-            "availability": 2,
+            "availability": 3,
             "branch": -1,
-            "cancelurl": 3,
+            "cancelurl": 4,
             "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        50.1467469,
-        8.5614555
+        48.4071646,
+        9.0563024
     ],
-    "information": "http://www.eschborn.de/de/leben-in-eschborn/schulen-und-bildung/stadtbuechereien",
-    "library_id": 2734,
-    "state": "Hessen",
+    "information": "http://www.moessingen.de/de/Leben-in-M%C3%B6ssingen/Stadtb%C3%BCcherei",
+    "library_id": 5509,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
 }
