@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Geldern",
+    "city": "L\u00fcdinghausen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/geldern",
+        "baseurl": "https://webopac.bistum-muenster.de/luedinghausen",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.5175043,
-        6.320647
+        51.7704326,
+        7.4427558
     ],
-    "information": "http://www.st-mariamagdalena-geldern.de/html/gruppen-und-verbaende/katholische-oeffentliche-buechereien.html",
-    "library_id": 3161,
+    "information": "http://www.buecherei-lh.de/",
+    "library_id": 5156,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B St. Maria Magdalena"
+    "title": "Stadtb\u00fccherei St. Felizitas"
 }

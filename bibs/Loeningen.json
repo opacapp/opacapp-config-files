@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Geldern",
+    "city": "L\u00f6ningen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/geldern",
+        "baseurl": "http://opac.bmo-vechta.de/loeningen",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,7 +26,7 @@
             "status": 3
         },
         "mediatypes": {
-            "Buchklein.GIF": "BOOK",
+            "Buchklein.GIF": "UNKNOWN",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
             "CD1klein.GIF": "CD",
             "CDklein.GIF": "CD",
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.5175043,
-        6.320647
+        52.73278,
+        7.76012
     ],
-    "information": "http://www.st-mariamagdalena-geldern.de/html/gruppen-und-verbaende/katholische-oeffentliche-buechereien.html",
-    "library_id": 3161,
-    "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B St. Maria Magdalena"
+    "information": "http://www.buechereiloeningen.de/",
+    "library_id": 5108,
+    "state": "Niedersachsen",
+    "title": "Kath. \u00d6B St. Vitus"
 }

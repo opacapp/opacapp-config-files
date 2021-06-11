@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Giessen",
+    "city": "Magdeburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.uni-giessen.de",
-        "db": "40"
+        "baseurl": "https://opac.lbs-magdeburg.gbv.de",
+        "db": "1"
     },
     "geo": [
-        50.333333,
-        8.75
+        52.139144,
+        11.6409926
     ],
-    "information": "http://www.thm.de/bibliothek/",
-    "library_id": 8947,
-    "state": "Hessen",
-    "title": "Hochschulbibliothek THM"
+    "information": "http://www.ub.ovgu.de/",
+    "library_id": 9068,
+    "state": "Sachsen-Anhalt",
+    "title": "Universit\u00e4tsbibliothek"
 }
