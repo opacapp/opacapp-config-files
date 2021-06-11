@@ -12,8 +12,8 @@
     "data": {
         "baseurl": "https://sb-burghausen.lmscloud.net",
         "libopacplus": true,
-        "onleihe": "https://www.onleihe.de/kreis-mettmann",
-        "onleihe_libraryId": "62"
+        "onleihe": "https://biblioload.onleihe.de/verbund_burghausen",
+        "onleihe_libraryId": "1158"
     },
     "geo": [
         48.15823,
