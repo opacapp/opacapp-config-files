@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Walenstadt",
+    "city": "Bremgarten",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/walenstadt"
+        "baseurl": "http://www.winmedio.net/bremgarten"
     },
     "geo": [
-        47.123,
-        9.3143
+        47.3508802,
+        8.3438081
     ],
-    "information": "http://www.walenstadt.ch//de/freizeit/bibliothek/",
-    "library_id": 9219,
-    "state": "St. Gallen",
-    "title": "Bibliothek"
+    "information": "http://www.bibliothek-bremgarten.ch/",
+    "library_id": 8875,
+    "state": "Aargau",
+    "title": "Stadtbibliothek"
 }

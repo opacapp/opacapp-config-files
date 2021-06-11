@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Walenstadt",
+    "city": "B\u00e4retswil",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/walenstadt"
+        "baseurl": "http://www.bibliotheken-zh.ch/Baeretswil"
     },
     "geo": [
-        47.123,
-        9.3143
+        47.33813,
+        8.85835
     ],
-    "information": "http://www.walenstadt.ch//de/freizeit/bibliothek/",
-    "library_id": 9219,
-    "state": "St. Gallen",
-    "title": "Bibliothek"
+    "information": "http://www.baeretswil.ch/de/bildung/mediothek/",
+    "library_id": 8834,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

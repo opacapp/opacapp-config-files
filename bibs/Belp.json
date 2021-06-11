@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Walenstadt",
+    "city": "Belp",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/walenstadt"
+        "baseurl": "http://www.winmedio.net/belp"
     },
     "geo": [
-        47.123,
-        9.3143
+        46.8927297,
+        7.4981
     ],
-    "information": "http://www.walenstadt.ch//de/freizeit/bibliothek/",
-    "library_id": 9219,
-    "state": "St. Gallen",
-    "title": "Bibliothek"
+    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
+    "library_id": 8843,
+    "state": "Bern",
+    "title": "Gemeindebibliothek"
 }
