@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Brandenburg",
+    "city": "Potsdam",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.th-brandenburg.de/InfoGuideClient.bfbsis",
-        "startparams": "Login=igbfb"
+        "baseurl": "https://opac.fh-potsdam.de/InfoGuideClient.bfpsis",
+        "startparams": "Login=wobfp01"
     },
     "geo": [
-        52.4116802,
-        12.5369775
+        52.39593,
+        13.05973
     ],
-    "information": "http://www.fh-brandenburg.de/1558.html",
-    "library_id": 8870,
+    "information": "http://bibliothek.fh-potsdam.de/bibliothek/obere-navigation/oeffnungszeiten/",
+    "library_id": 9141,
     "state": "Brandenburg",
     "title": "Fachhochschule"
 }
