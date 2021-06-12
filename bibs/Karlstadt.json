@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Knetzgau",
+    "city": "Karlstadt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/knetzgau",
+        "baseurl": "https://webopac.winbiap.de/karlstadt",
         "customssl": true
     },
     "geo": [
-        49.9925629,
-        10.5463718
+        49.96026,
+        9.76447
     ],
-    "information": "http://www.knetzgau.de/index.php?id=5050",
-    "library_id": 4497,
+    "information": "http://www.karlstadt.de/Sites/gensite.asp?SID=cms190820141716084232293&Art=0379",
+    "library_id": 4314,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek i.d. Hohen Kemenate"
 }

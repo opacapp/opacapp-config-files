@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Knetzgau",
+    "city": "Kirchheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/knetzgau",
+        "baseurl": "https://webopac.winbiap.de/kirchheim",
         "customssl": true
     },
     "geo": [
-        49.9925629,
-        10.5463718
+        48.16824,
+        11.75613
     ],
-    "information": "http://www.knetzgau.de/index.php?id=5050",
-    "library_id": 4497,
+    "information": "http://www.awm-muenchen.de/privathaushalte/abfallvermeidung/leihlexikon/eintrag.html?no_cache=1&tx_awmleihlexikon_pi1%5Bid%5D=211",
+    "library_id": 4427,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

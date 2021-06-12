@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Knetzgau",
+    "city": "H\u00f6sbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/knetzgau",
-        "customssl": true
+        "baseurl": "https://bibliothekszentrum-mediensuche.lra-ab.de"
     },
     "geo": [
-        49.9925629,
-        10.5463718
+        50.0059288,
+        9.2077442
     ],
-    "information": "http://www.knetzgau.de/index.php?id=5050",
-    "library_id": 4497,
+    "information": "http://www.landkreis-aschaffenburg.de/wer-macht-was/bildungsportkul/bibliothek/",
+    "library_id": 4041,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Bibliothekszentrum"
 }
