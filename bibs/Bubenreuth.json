@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Untermerzbach",
+    "city": "Bubenreuth",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/untermerzbach",
+        "baseurl": "https://webopac.winbiap.net/bubenreuth",
         "customssl": true
     },
     "geo": [
-        50.1271283,
-        10.8557936
+        49.6269937,
+        11.0167038
     ],
-    "information": "http://www.untermerzbach.de/Startseite/Kultur-Bildung-Freizeit/KOMM/Buecherei/Oeffnungszeiten/E1029.htm",
-    "library_id": 7784,
+    "information": "http://www.bubenreuth.de/index.php?id=0,57",
+    "library_id": 1992,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Untermerzbach",
+    "city": "Bad T\u00f6lz",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/untermerzbach",
+        "baseurl": "https://webopac.winbiap.de/badtoelz",
         "customssl": true
     },
     "geo": [
-        50.1271283,
-        10.8557936
+        47.7640421,
+        11.5635549
     ],
-    "information": "http://www.untermerzbach.de/Startseite/Kultur-Bildung-Freizeit/KOMM/Buecherei/Oeffnungszeiten/E1029.htm",
-    "library_id": 7784,
+    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
+    "library_id": 1367,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Stadtbibliothek"
 }

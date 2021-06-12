@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Untermerzbach",
+    "city": "Bad Birnbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/untermerzbach",
+        "baseurl": "https://webopac.winbiap.de/badbirnbach",
         "customssl": true
     },
     "geo": [
-        50.1271283,
-        10.8557936
+        48.4432078,
+        13.0898068
     ],
-    "information": "http://www.untermerzbach.de/Startseite/Kultur-Bildung-Freizeit/KOMM/Buecherei/Oeffnungszeiten/E1029.htm",
-    "library_id": 7784,
+    "information": "http://www.badbirnbach.de/start.php",
+    "library_id": 1211,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Bibliothek Mamertus"
 }

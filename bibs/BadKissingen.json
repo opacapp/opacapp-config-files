@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Untermerzbach",
+    "city": "Bad Kissingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/untermerzbach",
+        "baseurl": "https://webopac.winbiap.net/badkissingen",
         "customssl": true
     },
     "geo": [
-        50.1271283,
-        10.8557936
+        50.2008463,
+        10.0765115
     ],
-    "information": "http://www.untermerzbach.de/Startseite/Kultur-Bildung-Freizeit/KOMM/Buecherei/Oeffnungszeiten/E1029.htm",
-    "library_id": 7784,
+    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
+    "library_id": 1275,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Untermerzbach",
+    "city": "Schwaig",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/untermerzbach",
+        "baseurl": "https://opac.winbiap.net/schwaig",
         "customssl": true
     },
     "geo": [
-        50.1271283,
-        10.8557936
+        49.4718884,
+        11.199634
     ],
-    "information": "http://www.untermerzbach.de/Startseite/Kultur-Bildung-Freizeit/KOMM/Buecherei/Oeffnungszeiten/E1029.htm",
-    "library_id": 7784,
+    "information": "http://www.schwaig.de/seite/de/gemeinde/036:71/-/Gemeindebuecherei.html",
+    "library_id": 7129,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

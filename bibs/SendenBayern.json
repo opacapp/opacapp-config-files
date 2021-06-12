@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Untermerzbach",
+    "city": "Senden/Bay",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/untermerzbach",
+        "baseurl": "https://webopac.winbiap.de/senden",
         "customssl": true
     },
     "geo": [
-        50.1271283,
-        10.8557936
+        48.32666,
+        10.03958
     ],
-    "information": "http://www.untermerzbach.de/Startseite/Kultur-Bildung-Freizeit/KOMM/Buecherei/Oeffnungszeiten/E1029.htm",
-    "library_id": 7784,
+    "information": "http://www.josef-senden.de/index.php?g=einrichtungen-stadtbuecherei",
+    "library_id": 7246,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Stadtb\u00fccherei"
 }
