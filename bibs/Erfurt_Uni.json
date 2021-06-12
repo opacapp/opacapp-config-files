@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Erfurt",
+    "country": "Deutschland",
+    "data": {
+        "account_system": "lbs",
+        "baseurl": "http://opac.uni-erfurt.de/",
+        "db": "1",
+        "httpsbaseurl": "https://opac.uni-erfurt.de/",
+        "lbs_url": "https://lherf.gbv.de"
+    },
+    "geo": [
+        50.9847679,
+        11.0298799
+    ],
+    "information": "http://www.uni-erfurt.de/bibliothek/ub/",
+    "library_id": 8920,
+    "state": "Th\u00fcringen",
+    "title": "Universit\u00e4tsbibliothek Erfurt / Forschungsbibliothek Gotha"
+}
