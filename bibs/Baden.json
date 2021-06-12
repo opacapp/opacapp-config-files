@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Baden",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://opac.baden.ch/webOPACClient.baden"
+    },
+    "geo": [
+        47.4737667,
+        8.3064732
+    ],
+    "information": "http://www.baden.ch/xml_1/internet/de/application/d1/d59/f60.cfm#content",
+    "library_id": 8832,
+    "state": "Aargau",
+    "title": "Stadtbibliothek"
+}
