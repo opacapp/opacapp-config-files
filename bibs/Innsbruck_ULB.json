@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Innsbruck",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "https://bibsearch.uibk.ac.at/primo_library/libweb",
+        "db": "UIB",
+        "languages": [
+            "de",
+            "en"
+        ]
+    },
+    "geo": [
+        47.2642707,
+        11.3857222
+    ],
+    "information": "http://www.uibk.ac.at/ulb/",
+    "library_id": 9015,
+    "state": "Tirol",
+    "title": "ULB"
+}
