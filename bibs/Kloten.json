@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Hittnau",
+    "city": "Kloten",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Hittnau"
+        "baseurl": "http://www.bibliotheken-zh.ch/Kloten"
     },
     "geo": [
-        47.3643942,
-        8.8241512
+        47.4526616,
+        8.5852412
     ],
-    "information": "http://www.bibliohit.ch/",
-    "library_id": 9001,
+    "information": "http://www.schluefweg.ch/de/bibliothek/",
+    "library_id": 9037,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
