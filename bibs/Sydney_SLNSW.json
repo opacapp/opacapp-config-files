@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Sydney",
+    "country": "Australia",
+    "data": {
+        "baseurl": "https://search.sl.nsw.gov.au/primo_library/libweb",
+        "db": "SLNSW",
+        "languages": [
+            "en"
+        ]
+    },
+    "geo": [
+        -33.866754,
+        151.212784
+    ],
+    "information": "https://www.sl.nsw.gov.au/plan-your-visit/opening-hours",
+    "library_id": 9379,
+    "state": "New South Wales",
+    "title": "State Library of New South Wales"
+}
