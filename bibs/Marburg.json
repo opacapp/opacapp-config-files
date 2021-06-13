@@ -1,0 +1,66 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "biber1992",
+    "city": "Marburg",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 7,
+            "barcode": 4,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "status": 5,
+            "title": 7
+        },
+        "baseurl": "https://katalog.stadtbuecherei-marburg.de",
+        "copiestable": {
+            "barcode": 3,
+            "branch": 1,
+            "department": -1,
+            "location": 2,
+            "reservations": -1,
+            "returndate": -1,
+            "status": 4
+        },
+        "mediatypes": {
+            "1": "BOOK",
+            "10": "DVD",
+            "11": "MAGAZINE",
+            "2": "BOOK",
+            "22": "GAME_CONSOLE",
+            "3": "BOOK",
+            "30": "EBOOK",
+            "31": "MP3",
+            "32": "EVIDEO",
+            "33": "EDOC",
+            "4": "BOOK",
+            "5": "MAP",
+            "6": "CD_SOFTWARE",
+            "7": "AUDIOBOOK",
+            "8": "CD_MUSIC",
+            "9": "CD"
+        },
+        "opacdir": "opax",
+        "searchtable": [
+            2,
+            3,
+            4
+        ]
+    },
+    "geo": [
+        50.8143006,
+        8.7686786
+    ],
+    "information": "https://www.marburg.de/portal/seiten/stadtbuecherei-marburg-medienvielfalt-erleben-900000003-23001.html",
+    "library_id": 48,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
+}

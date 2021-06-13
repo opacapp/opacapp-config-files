@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Giessen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.uni-giessen.de",
+        "db": "1"
+    },
+    "geo": [
+        50.57617,
+        8.6952601
+    ],
+    "information": "http://www.uni-giessen.de/ub/rnavi/standorte",
+    "library_id": 8948,
+    "state": "Hessen",
+    "title": "Unibibliothek"
+}
