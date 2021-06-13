@@ -1,0 +1,26 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "koha",
+    "city": "Burghausen/Sal",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://sb-burghausen.lmscloud.net",
+        "libopacplus": true,
+        "onleihe": "https://biblioload.onleihe.de/verbund_burghausen",
+        "onleihe_libraryId": "1158"
+    },
+    "geo": [
+        48.15823,
+        12.83324
+    ],
+    "information": "https://www.burghausen.de/unsere-stadt/kulturstadt/stadtbibliothek/oeffnungszeiten-leihfristen.html",
+    "library_id": 2025,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}

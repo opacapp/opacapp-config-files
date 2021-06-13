@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Pfaffenhofen",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://www.bib-pfaffenhofen.webopac.at"
+    },
+    "geo": [
+        47.29937,
+        11.0800019
+    ],
+    "information": "http://www.pfaffenhofen.bvoe.at/",
+    "library_id": 9138,
+    "state": "Tirol",
+    "title": "\u00d6ffentliche B\u00fccherei"
+}
