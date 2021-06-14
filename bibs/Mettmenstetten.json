@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietikon",
+    "city": "Mettmenstetten",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietikon"
+        "baseurl": "http://www.bibliotheken-zh.ch/Mettmenstetten"
     },
     "geo": [
-        47.4029025,
-        8.3988207
+        47.2435601,
+        8.4633095
     ],
-    "information": "http://www.dietikon.ch/de/verwaltung/unterinstanzen/?amt_id=8239",
-    "library_id": 8899,
+    "information": "http://www.bibliothek-mettmenstetten.ch/",
+    "library_id": 9082,
     "state": "Z\u00fcrich",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindebibliothek"
 }

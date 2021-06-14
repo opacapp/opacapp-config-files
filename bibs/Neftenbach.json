@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietikon",
+    "city": "Neftenbach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietikon"
+        "baseurl": "http://www.bibliotheken-zh.ch/Neftenbach"
     },
     "geo": [
-        47.4029025,
-        8.3988207
+        47.5261643,
+        8.6674421
     ],
-    "information": "http://www.dietikon.ch/de/verwaltung/unterinstanzen/?amt_id=8239",
-    "library_id": 8899,
+    "information": "http://www.neftenbach.ch/gemeinde/index.php?pageID=213",
+    "library_id": 9108,
     "state": "Z\u00fcrich",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindebibliothek"
 }

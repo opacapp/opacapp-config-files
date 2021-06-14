@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Dietikon",
+    "city": "Neuheim",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Dietikon"
+        "baseurl": "http://www.winmedio.net/neuheim"
     },
     "geo": [
-        47.4029025,
-        8.3988207
+        47.2048365,
+        8.5757774
     ],
-    "information": "http://www.dietikon.ch/de/verwaltung/unterinstanzen/?amt_id=8239",
-    "library_id": 8899,
-    "state": "Z\u00fcrich",
-    "title": "Stadtbibliothek"
+    "information": "http://www.neuheim.ch/verwaltung/abteilungen/bibliothek/",
+    "library_id": 9109,
+    "state": "Zug",
+    "title": "Bibliothek"
 }
