@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Weimar",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.stadtbibliothek-weimar.de/webOPACClient",
+        "startparams": "Login=opextern&BaseURL=this"
+    },
+    "geo": [
+        50.9770568,
+        11.3268594
+    ],
+    "information": "http://www.stadtbibo-weimar.de/opac.html",
+    "library_id": 8788,
+    "state": "Th\u00fcringen",
+    "title": "Stadtb\u00fccherei"
+}
