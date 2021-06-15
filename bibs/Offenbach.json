@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "Offenbach/M",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://opac.winbiap.net/offenbach",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        50.1070493,
+        8.7615989
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
-    "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.offenbach.de/stadtbibliothek",
+    "library_id": 8745,
+    "state": "Hessen",
+    "title": "Stadtbibliothek"
 }

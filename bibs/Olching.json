@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "Olching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://webopac.winbiap.de/olching",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        48.20707,
+        11.3334755
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
+    "information": "http://www.olching.de/index.php?id=306,55",
+    "library_id": 6154,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

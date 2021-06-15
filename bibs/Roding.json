@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "Roding",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://webopac.winbiap.de/roding",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        49.1944493,
+        12.5212772
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
+    "information": "http://www.roding.de/Rathaus/OeffentlicheEinrichtungen/Bildungseinrichtungen/Stadtbuecherei.aspx",
+    "library_id": 6728,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Stadtb\u00fccherei"
 }

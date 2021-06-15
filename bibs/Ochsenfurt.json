@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "Ochsenfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://webopac.winbiap.net/ochsenfurt",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        49.6640025,
+        10.0709014
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
+    "information": "http://www.bibliothek.ochsenfurt.de/",
+    "library_id": 6110,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Stadtbibliothek \"Altes Rathaus\""
 }

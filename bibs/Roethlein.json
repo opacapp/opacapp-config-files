@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "R\u00f6thlein",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://webopac.winbiap.de/roethlein",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        49.9850727,
+        10.2181693
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
+    "information": "http://www.roethlein.de/Bibliotheken.html",
+    "library_id": 6853,
     "state": "Bayern",
     "title": "Gemeindebibliothek"
 }
