@@ -1,27 +1,27 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "D\u00fclmen",
+    "city": "M\u00fcnster",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.duelmen.de/",
+        "baseurl": "https://open.stadt-muenster.de",
         "urls": {
-            "advanced_search": "Medien-suchen/Erweiterte-Suche",
-            "simple_search": "Medien-suchen/Einfache-Suche"
+            "advanced_search": "Erweiterte-Suche",
+            "simple_search": "Einfache-Suche"
         }
     },
     "geo": [
-        51.8317132,
-        7.2757298
+        51.9627713,
+        7.6311652
     ],
-    "information": "http://www.stadtbuecherei-duelmen.de/",
-    "library_id": 2416,
+    "information": "https://info.opacapp.net/muenster.html",
+    "library_id": 67,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }
