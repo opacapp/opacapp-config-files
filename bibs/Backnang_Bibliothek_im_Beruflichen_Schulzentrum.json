@@ -7,44 +7,42 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "M\u00fcnsingen",
+    "city": "Backnang",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
-            "status": -1,
             "title": 1
         },
-        "baseurl": "https://wwwopac.rz-kiru.de/muensingen",
+        "baseurl": "http://bibliothek-bk.no-ip.org/wwwopac",
         "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": 1,
-            "location": 0,
-            "reservations": -1,
-            "returndate": 3,
-            "status": 2
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "returndate": 5,
+            "status": 3
+        },
+        "mediatypes": {
+            "mCasetteS.gif": "Musik-Kassette",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "Video"
         },
         "reservationtable": {
             "author": 0,
             "availability": 2,
-            "branch": -1,
             "cancelurl": 3,
-            "expirationdate": null,
             "title": 1
         }
     },
     "geo": [
-        48.41263,
-        9.49674
+        48.9377421,
+        9.43487890000006
     ],
-    "information": "http://www.muensingen.de/,Lde/Startseite/Stadtleben/Stadtbuecherei.html",
-    "library_id": 5617,
+    "information": "http://bibliothek.ebs-backnang.de/",
+    "library_id": 9313,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei"
+    "title": "Bibliothek im Beruflichen Schulzentrum"
 }
