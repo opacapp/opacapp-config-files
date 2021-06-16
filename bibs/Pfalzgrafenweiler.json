@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Pfalzgrafenweiler",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/pfalzgrafenweiler",
+        "customssl": true
+    },
+    "geo": [
+        48.5245074,
+        8.56161350000002
+    ],
+    "information": "http://www.pfalzgrafenweiler.de/index.php?id=182",
+    "library_id": 6331,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindebibliothek"
+}
