@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Rellingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://rellingen.iopac.de"
+    },
+    "geo": [
+        53.63128,
+        9.8708
+    ],
+    "information": "http://www.rellingen.de/index.phtml?sNavID=1859.39&La=1",
+    "library_id": 6582,
+    "state": "Schleswig-Holstein",
+    "title": "Gemeindeb\u00fccherei"
+}
