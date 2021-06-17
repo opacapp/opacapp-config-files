@@ -6,18 +6,20 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "koha",
-    "city": "Brandenburg",
+    "api": "pica",
+    "city": "Potsdam",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sb-brandenburg.lmscloud.net"
+        "account_system": "lbs",
+        "baseurl": "https://opac.ub.uni-potsdam.de",
+        "db": "1"
     },
     "geo": [
-        52.4137609,
-        12.55414
+        52.4003952,
+        13.0130901
     ],
-    "information": "http://www.stadt-brandenburg.de/bildung/fouque-bibliothek/",
-    "library_id": 8636,
+    "information": "http://info.ub.uni-potsdam.de/",
+    "library_id": 9142,
     "state": "Brandenburg",
-    "title": "Fouqu\u00e9-Bibliothek"
+    "title": "Unibibliothek"
 }
