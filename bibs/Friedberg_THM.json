@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Friedberg/H",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.uni-giessen.de",
+        "db": "40"
+    },
+    "geo": [
+        50.333333,
+        8.75
+    ],
+    "information": "http://www.thm.de/bibliothek/",
+    "library_id": 8938,
+    "state": "Hessen",
+    "title": "Hochschulbibliothek THM"
+}
