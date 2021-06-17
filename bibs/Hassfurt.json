@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Asbach-B\u00e4umenheim",
+    "city": "Hassfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/asbach-baeumenheim",
+        "baseurl": "https://opac.winbiap.net/hassfurt",
         "customssl": true
     },
     "geo": [
-        48.68163,
-        10.814457
+        50.0343812,
+        10.5169747
     ],
-    "information": "http://www.asbach-baeumenheim.de/index.php?id=0,56",
-    "library_id": 1100,
+    "information": "http://www.biz-hassfurt.de/",
+    "library_id": 3662,
     "state": "Bayern",
-    "title": "B\u00fccherei"
+    "title": "Bibliotheks- und Informationszentrum (BIZ)"
 }
