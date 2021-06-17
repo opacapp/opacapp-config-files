@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "\u00dcbersaxen",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://www.dorfbuecherei-uebersaxen.web-opac.at"
+    },
+    "geo": [
+        47.2524023,
+        9.6707364
+    ],
+    "information": "http://www.uebersaxen.bvoe.at",
+    "library_id": 9203,
+    "state": "Vorarlberg",
+    "title": "Dorfb\u00fccherei"
+}
