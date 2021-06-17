@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Wil",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.winmedio.net/wil"
+    },
+    "geo": [
+        47.4676955,
+        9.0500767
+    ],
+    "information": "http://www.stadtwil.ch/desktopdefault.aspx/tabid-644/",
+    "library_id": 9240,
+    "state": "St. Gallen",
+    "title": "Stadtbibliothek"
+}
