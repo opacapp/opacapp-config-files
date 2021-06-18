@@ -1,0 +1,18 @@
+{
+    "_active": true,
+    "_notice_text": "Noch kein aktueller Hinweis",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Neulu\u00dfheim",
+    "country": "Deutschland",
+    "data": {},
+    "geo": null,
+    "information": "https://web-opac.kivbf.de/neulussheim/index.asp?DB=Neulussheim",
+    "library_id": 5791,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
+}
