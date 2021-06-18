@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Frammersbach",
+    "city": "Lemf\u00f6rde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/frammersbach",
+        "baseurl": "https://webopac.winbiap.net/lemfoerde",
         "customssl": true
     },
     "geo": [
-        50.0621954,
-        9.4724531
+        52.4641331,
+        8.3739804
     ],
-    "information": "http://www.frammersbach.de/Sites/gensite.asp?SID=cms19082014164845791437&Art=0348",
-    "library_id": 2923,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.lemfoerde.de/oeffentliche-einrichtungen/buecherei-am-amtshof/",
+    "library_id": 4917,
+    "state": "Niedersachsen",
+    "title": "B\u00fccherei am Amtshof"
 }

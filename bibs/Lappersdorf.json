@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Frammersbach",
+    "city": "Lappersdorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/frammersbach",
+        "baseurl": "https://cloudopac.winbiap.de/lappersdorf",
         "customssl": true
     },
     "geo": [
-        50.0621954,
-        9.4724531
+        49.04968,
+        12.09003
     ],
-    "information": "http://www.frammersbach.de/Sites/gensite.asp?SID=cms19082014164845791437&Art=0348",
-    "library_id": 2923,
+    "information": "http://www.lappersdorf.de/leben-in-lappersdorf/bildung/marktbuecherei-lappersdorf/",
+    "library_id": 4828,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Marktb\u00fccherei"
 }

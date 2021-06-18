@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Frammersbach",
+    "city": "Memmingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/frammersbach",
+        "baseurl": "https://bibliothek.memmingen.de",
         "customssl": true
     },
     "geo": [
-        50.0621954,
-        9.4724531
+        47.9837999,
+        10.1801883
     ],
-    "information": "http://www.frammersbach.de/Sites/gensite.asp?SID=cms19082014164845791437&Art=0348",
-    "library_id": 2923,
+    "information": "https://www.memmingen.de/stadtbibliothek.html",
+    "library_id": 5345,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }
