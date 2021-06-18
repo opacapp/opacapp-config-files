@@ -9,7 +9,29 @@
     "api": "bibliotheca",
     "city": "Neulu\u00dfheim",
     "country": "Deutschland",
-    "data": {},
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 3,
+            "returndate": 2,
+            "status": -1,
+            "title": 1
+        },
+        "baseurl": "https://web-opac.kivbf.de/neulussheim",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": 3,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 2,
+            "status": 0
+        },
+        "customssl": true
+    },
     "geo": null,
     "information": "https://web-opac.kivbf.de/neulussheim/index.asp?DB=Neulussheim",
     "library_id": 5791,
