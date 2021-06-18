@@ -1,0 +1,52 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Hoyerswerda",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "title": 2
+        },
+        "baseurl": "http://85.183.149.21",
+        "copiestable": {
+            "barcode": 1,
+            "branch": 0,
+            "location": 2,
+            "returndate": 5,
+            "status": 4
+        },
+        "mediatypes": {
+            "Icon_eAudio.gif": "MP3",
+            "Icon_eBook.gif": "EBOOK",
+            "Icon_ePaper.gif": "EDOC",
+            "Icon_eVideo.gif": "EVIDEO",
+            "Spiele.gif": "BOARDGAME",
+            "dvdgms.gif": "GAME_CONSOLE",
+            "eText2.gif": "EDOC",
+            "film.gif": "BLURAY",
+            "mCasetteS.gif": "AUDIO_CASSETTE"
+        },
+        "reservationtable": {
+            "author": 0,
+            "cancelurl": 2,
+            "title": 1
+        }
+    },
+    "geo": [
+        51.43637,
+        14.25677
+    ],
+    "information": "http://www.bibliothek-hy.de/",
+    "library_id": 8698,
+    "state": "Sachsen",
+    "title": "Brigitte-Reimann Stadtbibliothek"
+}
