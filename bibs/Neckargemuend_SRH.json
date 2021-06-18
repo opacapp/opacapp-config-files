@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": "Noch kein aktueller Hinweis",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -10,10 +10,14 @@
     "city": "Neckargem\u00fcnd",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.mediothek-srh.de",
+        "baseurl": "https://mediothek-srh.bibliotheca-open.de/",
+        "customssl": false,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
         "urls": {
-            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
-            "simple_search": "Mediensuche.aspx"
+            "account": "Mein-Konto",
+            "advanced_search": "mediensuche/erweiterte-suche",
+            "simple_search": "mediensuche"
         }
     },
     "geo": [
