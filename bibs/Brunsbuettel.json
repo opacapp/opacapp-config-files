@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Brunsb\u00fcttel",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://brunsbuettel.iopac.de"
+    },
+    "geo": [
+        53.90107,
+        9.12631
+    ],
+    "information": "https://www.brunsbuettel.de/Familie_Bildung/Stadtb\u00fccherei/",
+    "library_id": 1977,
+    "state": "Schleswig-Holstein",
+    "title": "Stadtb\u00fccherei"
+}
