@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Weilburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/weilburg",
+        "customssl": true
+    },
+    "geo": [
+        50.48527,
+        8.25896
+    ],
+    "information": "http://www.buecherei-weilburg.de/",
+    "library_id": 8142,
+    "state": "Hessen",
+    "title": "Kreis- und Stadtb\u00fccherei"
+}
