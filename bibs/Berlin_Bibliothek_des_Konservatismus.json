@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "pica",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "data": {
+        "account_system": "default",
+        "baseurl": "https://vzlbs2.gbv.de",
+        "db": "68"
+    },
+    "geo": [
+        52.5073637,
+        13.3277736
+    ],
+    "information": "https://www.bdk-berlin.org/bibliothek/",
+    "library_id": 9336,
+    "state": "Berlin",
+    "title": "Bibliothek des Konservatismus"
+}
