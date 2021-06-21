@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "touchpoint",
+    "city": "Bayreuth",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "customssl": true
+    },
+    "geo": [
+        49.9456399,
+        11.5713346
+    ],
+    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
+    "library_id": 8841,
+    "state": "Bayern",
+    "title": "Unibibliothek"
+}

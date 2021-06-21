@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Heidenau",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliothekskatalog.heidenau.de/webOPACClient"
+    },
+    "geo": [
+        50.9813664,
+        13.8630918
+    ],
+    "information": "http://www.heidenau.de/stadtbibliothek",
+    "library_id": 3715,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek"
+}
