@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "vufind",
+    "city": "Freiberg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.ub.tu-freiberg.de/vufind_tuf"
+    },
+    "geo": [
+        50.92464,
+        13.339233
+    ],
+    "information": "http://tu-freiberg.de/ub",
+    "library_id": 9327,
+    "state": "Sachsen",
+    "title": "Universit\u00e4tsbibliothek"
+}
