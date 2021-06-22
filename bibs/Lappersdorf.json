@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Lappersdorf",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://cloudopac.winbiap.de/lappersdorf",
+        "customssl": true
+    },
+    "geo": [
+        49.04968,
+        12.09003
+    ],
+    "information": "http://www.lappersdorf.de/leben-in-lappersdorf/bildung/marktbuecherei-lappersdorf/",
+    "library_id": 4828,
+    "state": "Bayern",
+    "title": "Marktb\u00fccherei"
+}
