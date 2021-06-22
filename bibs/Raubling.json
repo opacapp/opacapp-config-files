@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Raubling",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/raubling",
+        "customssl": true
+    },
+    "geo": [
+        47.7908741,
+        12.1115921
+    ],
+    "information": "http://www.raubling.de/leben-und-freizeit/gemeindebuecherei.html",
+    "library_id": 6507,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
