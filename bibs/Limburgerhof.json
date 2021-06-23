@@ -16,8 +16,8 @@
         "reservation_copy_choice": false,
         "urls": {
             "account": "Mein-Konto",
-            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
-            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+            "advanced_search": "Mediensuche/Erweiterte-Suche.aspx",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [

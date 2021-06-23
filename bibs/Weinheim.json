@@ -17,7 +17,7 @@
         "urls": {
             "account": "Meine-Bibliothek",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
-            "new_acq": "Medientipps",
+            "new_acq": "Medientipp",
             "simple_search": "Mediensuche"
         }
     },
