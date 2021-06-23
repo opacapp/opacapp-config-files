@@ -12,6 +12,7 @@
     "data": {
         "baseurl": "https://katalog.mannheim.de/de-de",
         "customssl": true,
+        "libopacplus": true,
         "reservation_branch_choice": true,
         "reservation_copy_choice": false,
         "urls": {
