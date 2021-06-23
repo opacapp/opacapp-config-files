@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Aschaffenburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://recherche.bibkatalog.de/InfoGuideClient.fwssis",
+        "homebranch": "4",
+        "startparams": "Login=wofwsh"
+    },
+    "geo": [
+        49.9735474,
+        9.1525973
+    ],
+    "information": "http://www.hofbibliothek-ab.de/",
+    "library_id": 8826,
+    "state": "Bayern",
+    "title": "Hofbibliothek"
+}
