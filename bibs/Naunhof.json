@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Prenzlau",
+    "city": "Naunhof",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,20 +16,21 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://prenzlau.internetopac.de",
+        "baseurl": "http://bibliothek-naunhof.no-ip.org/webopac",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
             "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
-        "customssl": true,
         "mediatypes": {
+            "DiViBib_s.gif": "EDOC",
+            "cdrom.gif": "CD_SOFTWARE",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "mFilmS.gif": "MOVIE",
+            "mMusik2S.gif": "AUDIOBOOK"
         },
         "reservationtable": {
             "author": 0,
@@ -39,11 +40,11 @@
         }
     },
     "geo": [
-        53.3173433,
-        13.8633409
+        51.2780795,
+        12.5889347
     ],
-    "information": "http://www.prenzlau.eu/cms/detail.php/land_bb_boa_01.c.164613.de",
-    "library_id": 6410,
-    "state": "Brandenburg",
-    "title": "Stadtbibliothek im Dominikanerkloster"
+    "information": "http://stadtbibliothek-naunhof.de/",
+    "library_id": 5673,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek"
 }
