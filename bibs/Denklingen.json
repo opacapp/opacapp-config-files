@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Denklingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/denklingen",
+        "customssl": true
+    },
+    "geo": [
+        47.9139271,
+        10.8490461
+    ],
+    "information": "http://www.denklingen.de/sites/rathaus/index/index_buecherei.htm",
+    "library_id": 2223,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}

@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "touchpoint",
+    "city": "Chemnitz",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac2.stadtbibliothek-chemnitz.de/TouchPoint_touchpoint"
+    },
+    "geo": [
+        50.8309235,
+        12.9233111
+    ],
+    "information": "http://www.stadtbibliothek-chemnitz.de/service-auskunft/oeffnungszeiten.html",
+    "library_id": 8642,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek"
+}

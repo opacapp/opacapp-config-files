@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Kellinghusen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://server2012-1.buergerhaus-kellinghusen.de"
+    },
+    "geo": [
+        53.9540255,
+        9.7157793
+    ],
+    "information": "http://www.buecherei-kellinghusen.de/",
+    "library_id": 4349,
+    "state": "Schleswig-Holstein",
+    "title": "Stadtb\u00fccherei"
+}

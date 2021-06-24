@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Holzkirchen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://holzkirchen.internetopac.de",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 1,
+            "location": 2,
+            "reservations": -1,
+            "returndate": 5,
+            "status": 3
+        },
+        "customssl": true
+    },
+    "geo": [
+        47.8775579,
+        11.7015559
+    ],
+    "information": "http://www.gemeindebuecherei-holzkirchen.de/aktuelles.html",
+    "library_id": 3983,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
