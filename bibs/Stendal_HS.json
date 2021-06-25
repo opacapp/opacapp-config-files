@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Stendal",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.lbs-magdeburg.gbv.de",
+        "db": "5"
+    },
+    "geo": [
+        52.6041444,
+        11.8517729
+    ],
+    "information": "https://www.hs-magdeburg.de/hochschule/einrichtung/hochschulbibliothek/kontakt",
+    "library_id": 9179,
+    "state": "Sachsen-Anhalt",
+    "title": "Hochschulbibliothek"
+}
