@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Bad Oldesloe",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://stadtbibliothek-badoldesloe.bibliotheca-open.de",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        53.80788,
+        10.3734018
+    ],
+    "information": "https://stadtbibliothek-badoldesloe.bibliotheca-open.de/Informationen/Info-%C3%96ffnungszeiten",
+    "library_id": 1325,
+    "state": "Schleswig-Holstein",
+    "title": "Stadtbibliothek"
+}
