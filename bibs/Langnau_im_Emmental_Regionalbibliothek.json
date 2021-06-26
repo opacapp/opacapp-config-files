@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Langnau im Emmental",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.winmedio.net/LangnauIE"
+    },
+    "geo": [
+        46.9390959,
+        7.7860973
+    ],
+    "information": "https://langnau-ie.ch/bibliothek",
+    "library_id": 9365,
+    "state": "Bern",
+    "title": "Regionalbibliothek"
+}
