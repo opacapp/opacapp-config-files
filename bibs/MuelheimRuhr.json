@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Osnabr\u00fcck",
+    "city": "M\u00fclheim an der Ruhr",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -15,17 +15,17 @@
             "barcode": 4,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 5,
+            "prolongurl": 4,
             "returndate": 3,
             "status": 5,
             "title": 7
         },
-        "baseurl": "https://katalog.stadtbibliothek.osnabrueck.de",
+        "baseurl": "http://www.muelheim-ruhr.de",
         "copiestable": {
-            "barcode": 3,
+            "barcode": 2,
             "branch": 1,
-            "department": -1,
-            "location": 2,
+            "department": 3,
+            "location": -1,
             "reservations": -1,
             "returndate": -1,
             "status": 4
@@ -36,10 +36,12 @@
             "11": "DVD",
             "2": "MAGAZINE",
             "23": "CD_SOFTWARE",
-            "30": "EDOC",
-            "35": "EBOOK",
-            "4": "MOVIE",
-            "6": "CD",
+            "29": "GAME_CONSOLE_WII",
+            "3": "CD_SOFTWARE",
+            "30": "EBOOK",
+            "31": "EBOOK",
+            "5": "AUDIO_CASSETTE",
+            "6": "CD_MUSIC",
             "8": "SCORE_MUSIC",
             "9": "BOARDGAME"
         },
@@ -47,15 +49,16 @@
         "searchtable": [
             2,
             3,
-            4
+            4,
+            5
         ]
     },
     "geo": [
-        52.2774174,
-        8.0420652
+        51.4291001,
+        6.8823416
     ],
-    "information": "https://katalog.stadtbibliothek.osnabrueck.de/opax/de/RBK/pA_B.html.S",
-    "library_id": 8748,
-    "state": "Niedersachsen",
+    "information": "http://www.muelheim-ruhr.de/cms/oeffnungszeiten__anschriften.html",
+    "library_id": 8733,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtbibliothek"
 }
