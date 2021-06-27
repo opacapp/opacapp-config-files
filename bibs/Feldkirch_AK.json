@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Feldkirch",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://www.ak-feldkirch.webopac.at"
+    },
+    "geo": [
+        47.2392935,
+        9.5976395
+    ],
+    "information": "http://www.ak-vorarlberg.at",
+    "library_id": 8927,
+    "state": "Vorarlberg",
+    "title": "AK-Bibliothek"
+}

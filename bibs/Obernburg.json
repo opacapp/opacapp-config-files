@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Obernburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/obernburg",
+        "customssl": true
+    },
+    "geo": [
+        49.8381779,
+        9.1323585
+    ],
+    "information": "http://www.stadtbuecherei-obernburg.de/",
+    "library_id": 6060,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}

@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "adis",
+    "city": "Karlsruhe",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bsz.ibs-bw.de/aDISWeb/app",
+        "startparams": "service=direct/0/Home/%24DirectLink&sp=SOPAC33"
+    },
+    "geo": [
+        49.009148,
+        8.3799444
+    ],
+    "information": "http://www.hit-karlsruhe.de/hfm-ka/hfm/04-hochschule/09-bibliothek.htm",
+    "library_id": 9025,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Musikhochschule"
+}
