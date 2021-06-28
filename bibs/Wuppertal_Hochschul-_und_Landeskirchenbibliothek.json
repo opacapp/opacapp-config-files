@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "netbiblio",
+    "city": "Wuppertal",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.hlb-wuppertal.de/webOPACClient"
+    },
+    "geo": [
+        51.2652308,
+        7.1712076
+    ],
+    "information": "https://www.hlb-wuppertal.de/",
+    "library_id": 9338,
+    "state": "Nordrhein-Westfalen",
+    "title": "Hochschul- und Landeskirchenbibliothek"
+}
