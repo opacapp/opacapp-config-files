@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 195,
+    "account_supported": true,
+    "api": "vufind",
+    "city": "Castrop-Rauxel",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.bib-kreisre.de",
+        "copystyle": "smartbib",
+        "library": "CAST"
+    },
+    "geo": [
+        51.548846,
+        7.3095099
+    ],
+    "information": "http://www.castrop-rauxel.de/Stadtinformation_Kultur_Freizeit_und_Sport/Kultur/Stadtbibliothek/autostart.asp?B_highmain=2&B_highsub=3&B_highsubsub=0",
+    "library_id": 8640,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
