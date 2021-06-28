@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Fuldatal",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/fuldatal",
+        "customssl": true
+    },
+    "geo": [
+        51.383333,
+        9.55
+    ],
+    "information": "http://www.fuldatal.de/?kommunal/ortsteil/ihringsh/ihringshausen.htm",
+    "library_id": 3060,
+    "state": "Hessen",
+    "title": "Gemeindeteil- und Sch\u00fclerb\u00fccherei Ihringshausen"
+}
