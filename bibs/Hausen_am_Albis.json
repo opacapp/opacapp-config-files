@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Glattfelden",
+    "city": "Hausen am Albis",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Glattfelden"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hausen"
     },
     "geo": [
-        47.55982,
-        8.4994
+        47.244856,
+        8.5332266
     ],
-    "information": "http://www.glattfelden.ch/xml_1/internet/de/application/d49/f300.cfm",
-    "library_id": 8949,
+    "information": "http://www.hausen.ch/xml_1/internet/de/application/d2/d307/f309.cfm",
+    "library_id": 8986,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

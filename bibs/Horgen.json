@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Glattfelden",
+    "city": "Horgen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Glattfelden"
+        "baseurl": "http://www.bibliotheken-zh.ch/Horgen"
     },
     "geo": [
-        47.55982,
-        8.4994
+        47.2570654,
+        8.596906
     ],
-    "information": "http://www.glattfelden.ch/xml_1/internet/de/application/d49/f300.cfm",
-    "library_id": 8949,
+    "information": "http://www.horgen.ch/de/bildunggesellschaft/bildung/bibliotheken/",
+    "library_id": 9005,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Glattfelden",
+    "city": "Hombrechtikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Glattfelden"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hombrechtikon"
     },
     "geo": [
-        47.55982,
-        8.4994
+        47.2513291,
+        8.7717709
     ],
-    "information": "http://www.glattfelden.ch/xml_1/internet/de/application/d49/f300.cfm",
-    "library_id": 8949,
+    "information": "http://www.hombrechtikon.ch/xml_1/internet/de/application/d7/f95.cfm",
+    "library_id": 9004,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

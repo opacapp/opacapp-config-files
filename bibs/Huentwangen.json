@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Glattfelden",
+    "city": "H\u00fcntwangen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Glattfelden"
+        "baseurl": "http://www.bibliotheken-zh.ch/Huentwangen"
     },
     "geo": [
-        47.55982,
-        8.4994
+        47.5955,
+        8.49293
     ],
-    "information": "http://www.glattfelden.ch/xml_1/internet/de/application/d49/f300.cfm",
-    "library_id": 8949,
+    "information": "http://www.huentwangen.ch/?page_id=1455",
+    "library_id": 9006,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

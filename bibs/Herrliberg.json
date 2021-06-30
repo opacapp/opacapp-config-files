@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Glattfelden",
+    "city": "Herrliberg",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Glattfelden"
+        "baseurl": "http://www.bibliotheken-zh.ch/Herrliberg"
     },
     "geo": [
-        47.55982,
-        8.4994
+        47.2860094,
+        8.6167699
     ],
-    "information": "http://www.glattfelden.ch/xml_1/internet/de/application/d49/f300.cfm",
-    "library_id": 8949,
+    "information": "http://www.schule-herrliberg.ch/freizeitmenu/gemeinde-und-schulbibliothek",
+    "library_id": 8993,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
