@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Hirschaid",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://87.138.173.74"
+    },
+    "geo": [
+        49.8190535,
+        10.992433
+    ],
+    "information": "http://www.hirschaid.de/seite/de/markt/380/-/Gemeindebuecherei.html",
+    "library_id": 3908,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
