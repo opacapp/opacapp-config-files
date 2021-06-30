@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Elsenfeld",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/elsenfeld",
+        "customssl": true
+    },
+    "geo": [
+        49.8458735,
+        9.1607868
+    ],
+    "information": "http://www.elsenfeld.de/kuturfreizeit/bibliothek/",
+    "library_id": 2593,
+    "state": "Bayern",
+    "title": "Gemeindebibliothek"
+}

@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Weimar",
+    "country": "Deutschland",
+    "data": {
+        "account_system": "lbs",
+        "baseurl": "https://opac.lbs-weimar.gbv.de",
+        "db": "1"
+    },
+    "geo": [
+        50.979444,
+        11.329722
+    ],
+    "information": "http://www.uni-weimar.de/de/universitaet/struktur/zentrale-einrichtungen/universitaetsbibliothek/",
+    "library_id": 9225,
+    "state": "Th\u00fcringen",
+    "title": "Unibibliothek"
+}
