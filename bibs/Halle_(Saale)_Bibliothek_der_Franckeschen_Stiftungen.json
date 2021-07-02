@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "pica",
+    "city": "Halle (Saale)",
+    "country": "Deutschland",
+    "data": {
+        "account_system": "default",
+        "baseurl": "https://lhhal.gbv.de",
+        "db": "5"
+    },
+    "geo": [
+        51.4780398,
+        11.9726437
+    ],
+    "information": "http://www.francke-halle.de/studienzentrum-august-hermann-francke-archiv-und-bibliothek-/einrichtungen-e-4.html?sstr=studienzentrum",
+    "library_id": 9339,
+    "state": "Sachsen-Anhalt",
+    "title": "Bibliothek der Franckeschen Stiftungen"
+}
