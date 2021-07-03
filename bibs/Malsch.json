@@ -40,7 +40,10 @@
             "title": 1
         }
     },
-    "geo": null,
+    "geo": [
+        49.24564176282709,
+        8.682621698392433
+    ],
     "information": "http://malsch-weinort.de/buerger/wissen/buecherei",
     "library_id": 5202,
     "state": "Baden-W\u00fcrttemberg",
