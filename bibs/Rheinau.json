@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Rheinau",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/rheinau",
+        "customssl": true
+    },
+    "geo": [
+        48.6538778,
+        7.9478735
+    ],
+    "information": "http://www.rheinau.de/index.cfm?fuseaction=freizeit&rubrik=stadtbibliothek",
+    "library_id": 6632,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
