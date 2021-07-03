@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 195,
+    "account_supported": true,
+    "api": "vufind",
+    "city": "Heiligenhaus",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.bibnet.smartbib.de",
+        "copystyle": "smartbib",
+        "customssl": true,
+        "hiddenfilters": true,
+        "library": "HEIL",
+        "library_long": "Heiligenhaus"
+    },
+    "geo": null,
+    "information": "https://www.heiligenhaus.de/bildung-soziales/staedtische-buecherei",
+    "library_id": 3726,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}

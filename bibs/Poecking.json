@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Pocking",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/poecking",
+        "customssl": true
+    },
+    "geo": [
+        47.9672873,
+        11.3010935
+    ],
+    "information": "http://www.buecherei-poecking.de/index.php?grp=ZEITEN",
+    "library_id": 6402,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
