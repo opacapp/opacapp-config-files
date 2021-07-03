@@ -40,7 +40,10 @@
             "title": 1
         }
     },
-    "geo": null,
+    "geo": [
+        49.2656424043969,
+        8.600558256064927
+    ],
     "information": "http://www.st-leon-rot.de",
     "library_id": 7374,
     "state": "Baden-W\u00fcrttemberg",
