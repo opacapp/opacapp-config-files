@@ -40,7 +40,10 @@
             "title": 1
         }
     },
-    "geo": null,
+    "geo": [
+        49.5002802,
+        8.6607676
+    ],
     "information": "http://www.hirschberg-bergstrasse.de/de/freizeit-kultur/buecherei.html",
     "library_id": 3912,
     "state": "Baden-W\u00fcrttemberg",
