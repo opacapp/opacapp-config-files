@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Geroldswil",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Geroldswil"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.4229,
+        8.4097
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.geroldswil.ch/xml_1/internet/de/application/d5/d88/f110.cfm",
+    "library_id": 8946,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

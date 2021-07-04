@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Dietlikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Dietlikon"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.423855,
+        8.6162229
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.schule-dietlikon.ch/bibliothek/aktuelles/",
+    "library_id": 8900,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Langnau am Albis",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.winmedio.net/ludotheklangnau"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.2880053,
+        8.5365507
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.ludotheklangnau.ch/",
+    "library_id": 9046,
     "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "title": "Ludothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Dielsdorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Dielsdorf"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.4823196,
+        8.4580836
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.primarschule-dielsdorf.ch/de/bibliothek/",
+    "library_id": 8898,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Buchs",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.winmedio.net/buchs"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.1656,
+        9.46865
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
-    "state": "Z\u00fcrich",
+    "information": "http://www.bibliothek-buchs.ch/",
+    "library_id": 8881,
+    "state": "St. Gallen",
     "title": "Gemeindebibliothek"
 }

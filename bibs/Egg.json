@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Egg",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Egg"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.3005301,
+        8.6885824
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.schuleegg.ch/bibliothek-.html",
+    "library_id": 8911,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Niederhasli",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Niederhasli"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.4815538,
+        8.4918366
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.mediothek-niederhasli.ch/",
+    "library_id": 9112,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

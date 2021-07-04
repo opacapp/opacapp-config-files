@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Br\u00fcttisellen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Bruettisellen"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.42319,
+        8.62971
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.bibliothek.bruggwiesen.ch/",
+    "library_id": 8877,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

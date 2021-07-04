@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Lemf\u00f6rde",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/lemfoerde",
+        "customssl": true
+    },
+    "geo": [
+        52.4641331,
+        8.3739804
+    ],
+    "information": "http://www.lemfoerde.de/oeffentliche-einrichtungen/buecherei-am-amtshof/",
+    "library_id": 4917,
+    "state": "Niedersachsen",
+    "title": "B\u00fccherei am Amtshof"
+}

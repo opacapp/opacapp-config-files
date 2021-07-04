@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Hausen am Albis",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hausen"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.244856,
+        8.5332266
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.hausen.ch/xml_1/internet/de/application/d2/d307/f309.cfm",
+    "library_id": 8986,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
