@@ -1,0 +1,31 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Eberbach",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliotheken.kivbf.de/eberbach",
+        "customssl": true,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Mediensuche",
+            "new_acq": "Neuerwerbungen"
+        }
+    },
+    "geo": [
+        49.463279,
+        8.9831899
+    ],
+    "information": "http://www.eberbach.de/pb/,Lde/260337.html",
+    "library_id": 2457,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
