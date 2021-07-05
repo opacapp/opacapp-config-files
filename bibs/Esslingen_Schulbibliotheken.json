@@ -10,7 +10,7 @@
     "city": "Esslingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/schulbib",
+        "baseurl": "https://bibliothek.komm.one/schulbib",
         "customssl": true,
         "urls": {
             "account": "Mein-Konto",
