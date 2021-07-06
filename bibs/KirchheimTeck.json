@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Happurg",
+    "city": "Kirchheim unter Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/happurg",
+        "baseurl": "https://webopac.kirchheim-teck.de",
         "customssl": true
     },
     "geo": [
-        49.4937364,
-        11.4719457
+        48.64855,
+        9.4499
     ],
-    "information": "http://www.happurg.de/Gemeinde/Buecherei/Buecherei.html",
-    "library_id": 3627,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.kirchheim-teck.de/stadtbuecherei",
+    "library_id": 4430,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
 }

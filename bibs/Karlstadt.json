@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Happurg",
+    "city": "Karlstadt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/happurg",
+        "baseurl": "https://webopac.winbiap.de/karlstadt",
         "customssl": true
     },
     "geo": [
-        49.4937364,
-        11.4719457
+        49.96026,
+        9.76447
     ],
-    "information": "http://www.happurg.de/Gemeinde/Buecherei/Buecherei.html",
-    "library_id": 3627,
+    "information": "http://www.karlstadt.de/Sites/gensite.asp?SID=cms190820141716084232293&Art=0379",
+    "library_id": 4314,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek i.d. Hohen Kemenate"
 }

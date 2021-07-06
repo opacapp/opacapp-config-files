@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Happurg",
+    "city": "Kaufungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/happurg",
+        "baseurl": "https://webopac.winbiap.net/kaufungen",
         "customssl": true
     },
     "geo": [
-        49.4937364,
-        11.4719457
+        51.28375,
+        9.6031
     ],
-    "information": "http://www.happurg.de/Gemeinde/Buecherei/Buecherei.html",
-    "library_id": 3627,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.kaufungen.eu/Startseite/B%C3%BCchereien/",
+    "library_id": 4336,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei Niederkaufungen"
 }

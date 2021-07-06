@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Happurg",
+    "city": "Karlstein a. Main",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/happurg",
+        "baseurl": "https://webopac.winbiap.net/karlstein",
         "customssl": true
     },
     "geo": [
-        49.4937364,
-        11.4719457
+        50.048889,
+        9.018333
     ],
-    "information": "http://www.happurg.de/Gemeinde/Buecherei/Buecherei.html",
-    "library_id": 3627,
+    "information": "http://www.dettelbach.de/sites/gensite.asp?SID=cms140820140824258373224&Art=01720&C=2",
+    "library_id": 4316,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Gemeindebibliothek"
 }
