@@ -12,6 +12,7 @@
     "data": {
         "baseurl": "https://bibliotheken.kivbf.de/buchen",
         "customssl": true,
+        "libopacplus": true,
         "urls": {
             "account": "Ihr-Konto",
             "advanced_search": "Mediensuche",
