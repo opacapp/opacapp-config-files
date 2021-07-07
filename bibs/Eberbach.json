@@ -12,7 +12,6 @@
     "data": {
         "baseurl": "https://bibliotheken.kivbf.de/eberbach",
         "customssl": true,
-        "libopacplus": true,
         "reservation_branch_choice": true,
         "reservation_copy_choice": false,
         "urls": {
