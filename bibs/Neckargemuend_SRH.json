@@ -1,0 +1,31 @@
+{
+    "_active": true,
+    "_notice_text": "\u00d6ffnungszeiten: \r\nMontag 09:00 Uhr - 19:00 Uhr \r\nDienstag 09:00 Uhr - 15:00 Uhr \r\nMittwoch 09:00 Uhr - 15:00 Uhr \r\nDonnerstag 09:00 Uhr - 19:00 Uhr\r\nFreitag 09:00 Uhr - 13:00 Uhr",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Neckargem\u00fcnd",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://mediothek-srh.bibliotheca-open.de/",
+        "customssl": false,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "mediensuche/erweiterte-suche",
+            "simple_search": "mediensuche"
+        }
+    },
+    "geo": [
+        49.3866401,
+        8.802281
+    ],
+    "information": "http://www.mediothek-srh.de/%C3%9Cberuns.aspx",
+    "library_id": 9106,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Mediothek SRH"
+}
