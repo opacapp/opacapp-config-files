@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 222,
+    "account_supported": true,
+    "api": "slub",
+    "city": "Dresden",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.slub-dresden.de",
+        "illrenewurl": "https://primoproxybeta.slub-dresden.de/cgi-bin/renewWish.pl"
+    },
+    "geo": [
+        51.0286216,
+        13.737017
+    ],
+    "information": "https://www.slub-dresden.de/service/oeffnungszeiten/",
+    "library_id": 9328,
+    "state": "Sachsen",
+    "title": "S\u00e4chsische Landesbibliothek \u2013 Staats- und Universit\u00e4tsbibliothek"
+}
