@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Innsbruck",
+    "city": "H\u00f6chst",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.imz-tirol.webopac.at"
+        "baseurl": "http://www.buecherei-hoechst.web-opac.at"
     },
     "geo": [
-        47.2721414,
-        11.3883117
+        47.4610692,
+        9.6347067
     ],
-    "information": "http://www.imz-tirol.at",
-    "library_id": 9012,
-    "state": "Tirol",
-    "title": "BIM - Bibliothek Integration Migration - ZeMiT"
+    "information": "http://www.hoechst.bvoe.at",
+    "library_id": 9002,
+    "state": "Vorarlberg",
+    "title": "B\u00fccherei Spielothek"
 }
