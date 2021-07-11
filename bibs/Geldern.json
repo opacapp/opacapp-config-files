@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Gescher",
+    "city": "Geldern",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/gescher",
+        "baseurl": "https://webopac.bistum-muenster.de/geldern",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.957027,
-        7.001665
+        51.5175043,
+        6.320647
     ],
-    "information": "http://www.buecherei-gescher.de/index.php?id=2",
-    "library_id": 3228,
+    "information": "http://www.st-mariamagdalena-geldern.de/html/gruppen-und-verbaende/katholische-oeffentliche-buechereien.html",
+    "library_id": 3161,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei St. Pankratius"
+    "title": "Kath. \u00d6B St. Maria Magdalena"
 }
