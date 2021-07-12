@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Lohmar",
+    "city": "Lauf/P",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://biblio.lohmar.de/wopac116",
+        "baseurl": "http://88.217.155.35/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,6 +26,8 @@
             "status": 3
         },
         "mediatypes": {
+            "blu-ray.gif": "BLURAY",
+            "emedien.gif": "EDOC",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -38,11 +40,11 @@
         }
     },
     "geo": [
-        50.83883,
-        7.20932
+        49.5104449,
+        11.2770723
     ],
-    "information": "http://www.lohmar.de/schule-bibliotheken-musikkunstschule/bibliotheken/stadtbibliothek/standorte/",
-    "library_id": 5063,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.stadtbuecherei-lauf.de/",
+    "library_id": 4857,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
 }
