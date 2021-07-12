@@ -12,6 +12,7 @@
     "data": {
         "baseurl": "https://stadtbuecherei-bad-duerkheim.bibliotheca-open.de",
         "customssl": true,
+        "libopacplus": true,
         "reservation_branch_choice": false,
         "reservation_copy_choice": false,
         "urls": {
