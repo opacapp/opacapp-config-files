@@ -12,7 +12,10 @@
     "data": {
         "baseurl": "https://gb-ilvesheim.lmscloud.net"
     },
-    "geo": null,
+    "geo": [
+        49.4718121,
+        8.5633664
+    ],
     "information": "https://www.ilvesheim.de/index.php?id=117",
     "library_id": 4129,
     "state": "Baden-W\u00fcrttemberg",
