@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Engelberg",
+    "city": "M\u00e4nnedorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/engelberg"
+        "baseurl": "http://www.bibliotheken-zh.ch/Maennedorf"
     },
     "geo": [
-        46.8199317,
-        8.4069869
+        47.2549491,
+        8.7008502
     ],
-    "information": "http://www.gde-engelberg.ch/de/bildung/bibliothekfs/",
-    "library_id": 8917,
-    "state": "Obwalden",
-    "title": "Schul- und Gemeindebibliothek"
+    "information": "http://www.maennedorf.ch/schule/de/bibliothek/",
+    "library_id": 9066,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }
