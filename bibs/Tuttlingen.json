@@ -1,0 +1,54 @@
+{
+    "_active": true,
+    "_notice_text": "BITTE BEACHTEN:\r\n--> Seit dem 02. Juni werden wieder Vers\u00e4umnis- und Mahnentgelte berechnet!\r\n--> Ab sofort ist f\u00fcr den Bibliotheksbesuch KEIN Termin und KEIN \"3G\"-Nachweis (getestet, geimpft, genesen) mehr n\u00f6tig!\r\n\r\n\r\nWIR SAMMELN GEBRAUCHTE CD-H\u00dcLLEN!\r\nMehr Infos unter www.stadtbibliothek-tuttlingen.de --> Aktuelles\r\n\r\nFILMSTREAMING PER FILMFRIEND\r\n\u00dcber 3.000 Filme stehen online kostenlos zum Streamen bereit - einfach auf https://tuttlingen.filmfriend.de einloggen! Einzige Voraussetzung: ein g\u00fcltiger Bibliotheksausweis ;)",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.tuttlingen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Tuttlingen",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "title": 2
+        },
+        "baseurl": "https://webopac.e-tuttlingen.de/webopac07",
+        "copiestable": {
+            "branch": 3,
+            "location": 0,
+            "returndate": 2,
+            "status": 1
+        },
+        "customssl": true,
+        "libopacplus": true,
+        "mediatypes": {
+            "eaudiokl.gif": "MP3",
+            "ebookkl.gif": "EBOOK",
+            "epaperkl.gif": "EDOC",
+            "evideokl.gif": "EVIDEO",
+            "mCDRomS.gif": "CD_SOFTWARE",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mFilmS.gif": "MOVIE"
+        },
+        "onleihe": "https://www1.onleihe.de/schwalbe",
+        "onleihe_libraryId": "645",
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
+    },
+    "geo": [
+        47.9835799,
+        8.8168575
+    ],
+    "information": "https://info.opacapp.net/tuttlingen.html",
+    "library_id": 7717,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
