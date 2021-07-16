@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Rastatt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliotheken.kivbf.de/rastatt",
+        "customssl": true,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche.aspx",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        48.8595516,
+        8.2030992
+    ],
+    "information": "https://www.rastatt.de/index.php?id=7289",
+    "library_id": 6487,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
