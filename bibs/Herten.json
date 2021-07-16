@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 193,
+    "account_supported": true,
+    "api": "vufind",
+    "city": "Herten",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.bib-kreisre.de",
+        "copystyle": "smartbib",
+        "library": "HERT"
+    },
+    "geo": [
+        51.59405,
+        7.13821
+    ],
+    "information": "https://www.herten.de/bildung/stadtbibliothek/kontakt-oeffnungszeiten.html",
+    "library_id": 8694,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek im Glashaus"
+}
