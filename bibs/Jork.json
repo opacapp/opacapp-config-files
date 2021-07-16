@@ -1,0 +1,26 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Jork",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": "1"
+        },
+        "baseurl": "https://jork.iopac.de"
+    },
+    "geo": [
+        53.53249,
+        9.6814
+    ],
+    "information": "http://www.jork.de/portal/seiten/buecherei-904000084-20380.html",
+    "library_id": 4208,
+    "state": "Niedersachsen",
+    "title": "Gemeindeb\u00fccherei"
+}
