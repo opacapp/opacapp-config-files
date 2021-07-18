@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Uetikon am See",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Uetikon-am-See"
+    },
+    "geo": [
+        47.26599,
+        8.6769291
+    ],
+    "information": "http://www.uetikonamsee.ch/de/kulturundfreizeit/kultur/bibliothek/",
+    "library_id": 9204,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}
