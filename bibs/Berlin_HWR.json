@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.hwr-berlin.de/InfoGuideClient.hwrsis",
+        "startparams": "Login=wohwrcs"
+    },
+    "geo": [
+        52.5200066,
+        13.404954
+    ],
+    "information": "http://www.hwr-berlin.de/index.php?id=333",
+    "library_id": 8850,
+    "state": "Berlin",
+    "title": "Hochschulbibliothek HWR"
+}
