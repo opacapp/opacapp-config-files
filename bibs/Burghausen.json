@@ -13,7 +13,7 @@
         "baseurl": "https://sb-burghausen.lmscloud.net",
         "libopacplus": true,
         "onleihe": "https://biblioload.onleihe.de/verbund_burghausen",
-        "onleihe_libraryId": "1158"
+        "onleihe_libraryId": "366"
     },
     "displayname": "Stadtbibliothek Burghausen",
     "geo": [
