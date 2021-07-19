@@ -15,11 +15,12 @@
         "onleihe": "https://biblioload.onleihe.de/verbund_burghausen",
         "onleihe_libraryId": "1158"
     },
+    "displayname": "Stadtbibliothek Burghausen",
     "geo": [
         48.15823,
         12.83324
     ],
-    "information": "https://www.burghausen.de/unsere-stadt/kulturstadt/stadtbibliothek/oeffnungszeiten-leihfristen.html",
+    "information": "https://info.opacapp.de/burghausen.html",
     "library_id": 2025,
     "state": "Bayern",
     "title": "Stadtbibliothek"
