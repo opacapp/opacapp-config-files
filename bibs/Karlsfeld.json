@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Karlsfeld",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/karlsfeld",
+        "customssl": true
+    },
+    "geo": [
+        48.2290733,
+        11.4744386
+    ],
+    "information": "http://www.karlsfeld.de/index.php?id=222,110",
+    "library_id": 4287,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}

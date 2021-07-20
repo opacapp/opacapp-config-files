@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Helmbrechts",
+    "city": "Kolbermoor",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/helmbrechts",
+        "baseurl": "https://webopac.winbiap.net/kolbermoor",
         "customssl": true
     },
     "geo": [
-        50.2358872,
-        11.7190245
+        47.8483311,
+        12.0611921
     ],
-    "information": "http://www.stadt-helmbrechts.de/city_info/webaccessibility/index.cfm?region_id=26&waid=297&design_id=10007&item_id=852506&modul_id=26&record_id=11585&keyword=0&eps=10&cat=42",
-    "library_id": 3752,
+    "information": "http://www.stadt-kolbermoor.de/index.php?option=com_content&task=view&id=154&Itemid=195",
+    "library_id": 4513,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

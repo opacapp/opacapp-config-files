@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Leinfelden-Echterdingen",
+    "api": "winbiap",
+    "city": "Kirchheim unter Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://www.le-extranet.de/webOPACClient",
+        "baseurl": "https://webopac.kirchheim-teck.de",
         "customssl": true
     },
     "geo": [
-        48.6980072,
-        9.1407427
+        48.64855,
+        9.4499
     ],
-    "information": "http://www.leinfelden-echterdingen.de/servlet/PB/menu/1217292_l1/index.html",
-    "library_id": 4909,
+    "information": "http://www.kirchheim-teck.de/stadtbuecherei",
+    "library_id": 4430,
     "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
 }
