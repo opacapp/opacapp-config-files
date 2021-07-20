@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Richterswil",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Richterswil"
+    },
+    "geo": [
+        47.2089492,
+        8.7018527
+    ],
+    "information": "http://www.bibliothek-richterswil.ch/",
+    "library_id": 9151,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}
