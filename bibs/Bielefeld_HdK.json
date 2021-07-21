@@ -1,0 +1,44 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Bielefeld",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 3,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "https://bielefeld.cidoli.de",
+        "copiestable": {
+            "branch": 3,
+            "department": 2,
+            "location": 0
+        },
+        "mediatypes": {
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE"
+        },
+        "reservationtable": {
+            "author": 0,
+            "cancelurl": 2,
+            "title": 1
+        }
+    },
+    "geo": [
+        52.0302285,
+        8.5324708
+    ],
+    "information": "http://www.kirche-bielefeld.de/.cms/327",
+    "library_id": 8859,
+    "state": "Nordrhein-Westfalen",
+    "title": "Mediothek Haus der Kirche"
+}
