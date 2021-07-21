@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Fu\u00dfach",
+    "city": "Feldkirch",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.buecherei-fussach.webopac.at"
+        "baseurl": "http://www.ak-feldkirch.webopac.at"
     },
     "geo": [
-        47.4795734,
-        9.6595139
+        47.2392935,
+        9.5976395
     ],
-    "information": "http://www.fussach.bvoe.at",
-    "library_id": 8941,
+    "information": "http://www.ak-vorarlberg.at",
+    "library_id": 8927,
     "state": "Vorarlberg",
-    "title": "B\u00fccherei und Spielothek"
+    "title": "AK-Bibliothek"
 }
