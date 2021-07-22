@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Burgdorf",
+    "city": "Obfelden",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/burgdorf"
+        "baseurl": "http://www.bibliotheken-zh.ch/Obfelden"
     },
     "geo": [
-        47.0578381,
-        7.620387
+        47.2619,
+        8.42432
     ],
-    "information": "http://www.burgdorf.ch/bibliothek.html",
-    "library_id": 8885,
-    "state": "Bern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.bibliothek-obfelden.ch/",
+    "library_id": 9125,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Burgdorf",
+    "city": "Niederhasli",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/burgdorf"
+        "baseurl": "http://www.bibliotheken-zh.ch/Niederhasli"
     },
     "geo": [
-        47.0578381,
-        7.620387
+        47.4815538,
+        8.4918366
     ],
-    "information": "http://www.burgdorf.ch/bibliothek.html",
-    "library_id": 8885,
-    "state": "Bern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.mediothek-niederhasli.ch/",
+    "library_id": 9112,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

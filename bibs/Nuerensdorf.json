@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Burgdorf",
+    "city": "N\u00fcrensdorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/burgdorf"
+        "baseurl": "http://www.winmedio.net/nuerensdorf"
     },
     "geo": [
-        47.0578381,
-        7.620387
+        47.447,
+        8.64935
     ],
-    "information": "http://www.burgdorf.ch/bibliothek.html",
-    "library_id": 8885,
-    "state": "Bern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.nuerensdorf.ch/de/freizeit_kultur/bibliothek.html",
+    "library_id": 9117,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

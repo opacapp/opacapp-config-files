@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Burgdorf",
+    "city": "Oberglatt",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/burgdorf"
+        "baseurl": "http://www.bibliotheken-zh.ch/Oberglatt"
     },
     "geo": [
-        47.0578381,
-        7.620387
+        47.475151,
+        8.5183378
     ],
-    "information": "http://www.burgdorf.ch/bibliothek.html",
-    "library_id": 8885,
-    "state": "Bern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.oberglatt.ch/de/bildung/bibliotheken/",
+    "library_id": 9123,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

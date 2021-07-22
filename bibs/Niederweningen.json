@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Burgdorf",
+    "city": "Niederweningen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/burgdorf"
+        "baseurl": "http://www.bibliotheken-zh.ch/Niederweningen"
     },
     "geo": [
-        47.0578381,
-        7.620387
+        47.5044456,
+        8.3770777
     ],
-    "information": "http://www.burgdorf.ch/bibliothek.html",
-    "library_id": 8885,
-    "state": "Bern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.mediothek-niederweningen.ch/",
+    "library_id": 9114,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

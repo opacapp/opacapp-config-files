@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Burgdorf",
+    "city": "Niederglatt",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/burgdorf"
+        "baseurl": "http://www.bibliotheken-zh.ch/Niederglatt"
     },
     "geo": [
-        47.0578381,
-        7.620387
+        47.494,
+        8.49996
     ],
-    "information": "http://www.burgdorf.ch/bibliothek.html",
-    "library_id": 8885,
-    "state": "Bern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.bibliothek-niederglatt.ch/",
+    "library_id": 9111,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }
