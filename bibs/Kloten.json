@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Geroldswil",
+    "city": "Kloten",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Geroldswil"
+        "baseurl": "http://www.bibliotheken-zh.ch/Kloten"
     },
     "geo": [
-        47.4229,
-        8.4097
+        47.4526616,
+        8.5852412
     ],
-    "information": "http://www.geroldswil.ch/xml_1/internet/de/application/d5/d88/f110.cfm",
-    "library_id": 8946,
+    "information": "http://www.schluefweg.ch/de/bibliothek/",
+    "library_id": 9037,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
