@@ -1,0 +1,35 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "bibliotheca",
+    "city": "Boxberg",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": null,
+        "baseurl": "https://web-opac.kivbf.de/boxberg",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": -1,
+            "location": 0,
+            "reservations": -1,
+            "returndate": 3,
+            "status": 2
+        },
+        "customssl": true,
+        "reservationtable": null
+    },
+    "geo": [
+        49.4822686,
+        9.6395128
+    ],
+    "information": "https://web-opac.kivbf.de/read-boxberg/info.html",
+    "library_id": 1853,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Mediothek"
+}

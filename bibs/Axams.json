@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Axams",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://buecherei-axams.webopac.at"
+    },
+    "geo": [
+        47.2325964,
+        11.2801251
+    ],
+    "information": "http://buecherei-axams.webopac.at",
+    "library_id": 8831,
+    "state": "Tirol",
+    "title": "\u00d6ffentliche B\u00fccherei"
+}
