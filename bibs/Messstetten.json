@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Neustadt a.d. Weinstr.",
+    "city": "Me\u00dfstetten",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,20 +16,16 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://webopac.neustadt.eu/webopac",
+        "baseurl": "http://buecherei.selfhost.bz/webopac",
         "copiestable": {
             "barcode": 0,
-            "branch": 1,
-            "location": 4,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
             "returndate": 5,
             "status": 3
         },
         "mediatypes": {
-            "eaudio.gif": "MP3",
-            "ebook.gif": "EBOOK",
-            "emusic.gif": "MP3",
-            "epaper.gif": "EDOC",
-            "evideo.gif": "EVIDEO",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -42,11 +38,11 @@
         }
     },
     "geo": [
-        49.3525782,
-        8.1389481
+        48.1812912,
+        8.9626843
     ],
-    "information": "https://www.neustadt.eu/Kultur/Stadtb%C3%BCcherei",
-    "library_id": 8739,
-    "state": "Rheinland-Pfalz",
+    "information": "http://www.stadt-messstetten.de/Stadtbuecherei.346.0.html",
+    "library_id": 5389,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
 }
