@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Bassersdorf",
+    "city": "Hirzel",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Bassersdorf"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hirzel"
     },
     "geo": [
-        47.4426816,
-        8.6277587
+        47.2153,
+        8.60662
     ],
-    "information": "http://www.bassersdorf.ch/xml_1/internet/de/application/d7/f230.cfm",
-    "library_id": 8839,
+    "information": "http://www.hirzel.ch/freizeit_kultur_sport/bibliothek",
+    "library_id": 9000,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

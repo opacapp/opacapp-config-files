@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Bassersdorf",
+    "city": "Obfelden",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Bassersdorf"
+        "baseurl": "http://www.bibliotheken-zh.ch/Obfelden"
     },
     "geo": [
-        47.4426816,
-        8.6277587
+        47.2619,
+        8.42432
     ],
-    "information": "http://www.bassersdorf.ch/xml_1/internet/de/application/d7/f230.cfm",
-    "library_id": 8839,
+    "information": "http://www.bibliothek-obfelden.ch/",
+    "library_id": 9125,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

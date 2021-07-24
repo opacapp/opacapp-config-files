@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Bassersdorf",
+    "city": "Meilen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Bassersdorf"
+        "baseurl": "http://www.bibliotheken-zh.ch/Meilen"
     },
     "geo": [
-        47.4426816,
-        8.6277587
+        47.269389,
+        8.6437363
     ],
-    "information": "http://www.bassersdorf.ch/xml_1/internet/de/application/d7/f230.cfm",
-    "library_id": 8839,
+    "information": "http://www.meilen.ch/de/freizeit/bibliothek/",
+    "library_id": 9078,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
