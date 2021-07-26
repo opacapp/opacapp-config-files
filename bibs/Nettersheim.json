@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Nettersheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/nettersheim",
+        "customssl": true
+    },
+    "geo": [
+        50.4931868,
+        6.6285592
+    ],
+    "information": "http://www.nettersheim.de/bildung-kultur/literaturhaus-mit-buecherei.html",
+    "library_id": 5712,
+    "state": "Nordrhein-Westfalen",
+    "title": "Gemeindeb\u00fccherei"
+}

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Oberglatt",
+    "city": "N\u00e4nikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Oberglatt"
+        "baseurl": "http://www.bibliotheken-zh.ch/Naenikon"
     },
     "geo": [
-        47.475151,
-        8.5183378
+        47.3693646,
+        8.6893138
     ],
-    "information": "http://www.oberglatt.ch/de/bildung/bibliotheken/",
-    "library_id": 9123,
+    "information": "http://www.naenikon.ch/freizeit/bibliothek/bibliothek.htm",
+    "library_id": 9105,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
