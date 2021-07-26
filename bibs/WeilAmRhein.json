@@ -10,34 +10,13 @@
     "city": "Weil/Rh.",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 4,
-            "returndate": 2,
-            "status": 3,
-            "title": 1
-        },
-        "baseurl": "https://web-opac.kivbf.de/weil-am-rhein",
-        "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": 1,
-            "location": 0,
-            "reservations": -1,
-            "returndate": 3,
-            "status": 2
-        },
+        "baseurl": "https://bibliotheken.kivbf.de/weil-am-rhein",
         "customssl": true,
-        "reservationtable": {
-            "author": 0,
-            "availability": 2,
-            "branch": -1,
-            "cancelurl": 3,
-            "expirationdate": -1,
-            "title": 1
+        "libopacplus": true,
+        "urls": {
+            "account": "Konto-und-Verl\u00e4ngerung/Mein-Bibliothekskonto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
