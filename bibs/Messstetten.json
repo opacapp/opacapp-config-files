@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Buchholz in der Nordheide",
+    "city": "Me\u00dfstetten",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://185.44.4.136/webopac",
+        "baseurl": "http://buecherei.selfhost.bz/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -38,11 +38,11 @@
         }
     },
     "geo": [
-        53.3176971,
-        9.8694845
+        48.1812912,
+        8.9626843
     ],
-    "information": "https://www.buchholz.de/portal/seiten/stadtbuecherei-3000064-20101.html",
-    "library_id": 8880,
-    "state": "Niedersachsen",
+    "information": "http://www.stadt-messstetten.de/Stadtbuecherei.346.0.html",
+    "library_id": 5389,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
 }
