@@ -1,0 +1,56 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "M\u00fcnster",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 3,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "https://ekvw.cidoli.de/webopac",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "returndate": 5,
+            "status": 3
+        },
+        "db": "w_muenster",
+        "mediatypes": {
+            "Bild_PI.gif": "Bild",
+            "Buch_PI.gif": "Buch",
+            "CD_ROM_PI.gif": "CD-ROM",
+            "Dia_PI.gif": "Dia",
+            "Folie_PI.gif": "Folie",
+            "Go_PI.gif": "Gottesdienste",
+            "Video_PI.gif": "Video",
+            "mCasette.gif": "Musik-Kassette",
+            "mCasetteS.gif": "Musik-Kassette",
+            "mDVD_PI.gif": "DVD"
+        },
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
+    },
+    "geo": [
+        51.9646752,
+        7.62827219999997
+    ],
+    "information": "https://ekvw.cidoli.de/webopac/index.asp?db=w_muenster",
+    "library_id": 9299,
+    "state": "Nordrhein-Westfalen",
+    "title": "Mediothek Kirchenkreis"
+}
