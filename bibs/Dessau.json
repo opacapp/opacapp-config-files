@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Wei\u00dfenfels",
+    "city": "Dessau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://weissenfels.bibliotheca-open.de",
+        "baseurl": "http://www.bibliothek.dessau-rosslau.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        51.1999722,
-        11.969551
+        51.8355529,
+        12.2472116
     ],
-    "information": "https://weissenfels.bibliotheca-open.de/Ueberuns/InfoKontakt.aspx",
-    "library_id": 8183,
+    "information": "http://www.bibliothek.dessau-rosslau.de/Informationen.aspx",
+    "library_id": 8647,
     "state": "Sachsen-Anhalt",
-    "title": "Stadtbibliothek"
+    "title": "Anhaltische Landesb\u00fccherei"
 }
