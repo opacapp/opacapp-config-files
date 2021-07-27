@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Erfurt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://opac.uni-erfurt.de/",
+        "db": "4",
+        "httpsbaseurl": "https://opac.uni-erfurt.de/"
+    },
+    "geo": [
+        50.9847679,
+        11.0298799
+    ],
+    "information": "http://www.fh-erfurt.de/bibo/",
+    "library_id": 8919,
+    "state": "Th\u00fcringen",
+    "title": "Bibliothek der Fachhochschule"
+}
