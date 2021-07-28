@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Hennigsdorf",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://online.hennigsdorf.de/opac",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        52.6397774,
+        13.2057177
+    ],
+    "information": "http://www.stadtbibliothek-hennigsdorf.de/",
+    "library_id": 3780,
+    "state": "Brandenburg",
+    "title": "Stadtbibliothek"
+}
