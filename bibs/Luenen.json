@@ -7,30 +7,20 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Frechen",
+    "city": "L\u00fcnen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 7,
-            "barcode": 4,
+            "author": 6,
+            "barcode": 3,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
-            "returndate": 3,
-            "status": 5,
-            "title": 7
+            "prolongurl": 3,
+            "returndate": 2,
+            "status": 4,
+            "title": 6
         },
-        "baseurl": "https://frechen.bibdia-hosts.de",
-        "copiestable": {
-            "barcode": 3,
-            "branch": 1,
-            "department": 2,
-            "location": -1,
-            "reservations": -1,
-            "returndate": -1,
-            "status": 4
-        },
-        "disguise": true,
+        "baseurl": "http://opac.luenen.de",
         "mediatypes": {
             "1": "BOOK",
             "2": "MAGAZINE",
@@ -42,19 +32,20 @@
             "6": "CD",
             "8": "BOOK"
         },
-        "opacdir": "opax",
+        "opacdir": "opac",
         "searchtable": [
             2,
             3,
-            4
+            4,
+            5
         ]
     },
     "geo": [
-        50.90886,
-        6.80873
+        51.61407,
+        7.52576
     ],
-    "information": "http://www.stadtbuecherei-frechen.de/",
-    "library_id": 8667,
+    "information": "https://www.luenen.de/kultur/buch/index.php",
+    "library_id": 8723,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }
