@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Essen/Oldenburg",
+    "city": "Metelen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.opac.bmo-vechta.de/essen",
+        "baseurl": "https://webopac.bistum-muenster.de/metelen",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -32,15 +32,15 @@
             "CDklein.GIF": "CD",
             "Cassetteklein.GIF": "AUDIO_CASSETTE",
             "Comicklein.GIF": "BOOK",
-            "DVD-ROMklein.GIF": "DVD",
+            "DVD-ROMklein.GIF": "CD_SOFTWARE",
             "DVDklein.GIF": "DVD",
-            "Diaserieklein.GIF": "ART",
-            "Hoerbuch1klein.GIF": "MP3",
+            "Diaserieklein.GIF": "UNKNOWN",
+            "Hoerbuch1klein.GIF": "AUDIOBOOK",
             "Hoerbuchklein.GIF": "AUDIOBOOK",
             "Jugendbuchklein.GIF": "BOOK",
             "KinderCD_aklein.GIF": "CD",
             "KinderDVD_aklein.GIF": "DVD",
-            "Kinderbuch_aklein.GIF": "BOOK",
+            "Kinderbuch_aklein.GIF": "UNKNOWN",
             "Kindersachbuch_aklein.GIF": "BOOK",
             "Medien-Paketklein.GIF": "PACKAGE",
             "NDS1klein.GIF": "GAME_CONSOLE_NINTENDO",
@@ -52,7 +52,7 @@
             "PS3klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "SachDVDklein.GIF": "DVD",
             "Sachbuchklein.GIF": "BOOK",
-            "SommerleseclubBuchklein.GIF": "UNKNOWN",
+            "SommerleseclubBuchklein.GIF": "BOOK",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
             "Weihnachten1klein.GIF": "UNKNOWN",
@@ -61,7 +61,7 @@
             "Zeitschriftklein.GIF": "MAGAZINE",
             "eAudio_bibloadklein.GIF": "EAUDIO",
             "eBook_bibloadklein.GIF": "EBOOK",
-            "ePaper_bibloadklein.GIF": "EDOC",
+            "ePaper_bibloadklein.GIF": "EBOOK",
             "eVideo_bibloadklein.GIF": "EVIDEO"
         },
         "reservationtable": {
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        52.717731,
-        7.9396505
+        52.1454038,
+        7.2117403
     ],
-    "information": "http://www.essen-oldb.de/index.php?id=208",
-    "library_id": 2797,
-    "state": "Niedersachsen",
-    "title": "Kath. \u00d6B St. Bartholom\u00e4us"
+    "information": "http://www.katholische-kirche-metelen.de/Bucherei/bucherei.html",
+    "library_id": 5390,
+    "state": "Nordrhein-Westfalen",
+    "title": "Katholische \u00d6ffentliche B\u00fccherei St. Cornelius und Cyprianus"
 }

@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Essen/Oldenburg",
+    "city": "L\u00f6ningen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.opac.bmo-vechta.de/essen",
+        "baseurl": "http://opac.bmo-vechta.de/loeningen",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,7 +26,7 @@
             "status": 3
         },
         "mediatypes": {
-            "Buchklein.GIF": "BOOK",
+            "Buchklein.GIF": "UNKNOWN",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
             "CD1klein.GIF": "CD",
             "CDklein.GIF": "CD",
@@ -52,14 +52,14 @@
             "PS3klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "SachDVDklein.GIF": "DVD",
             "Sachbuchklein.GIF": "BOOK",
-            "SommerleseclubBuchklein.GIF": "UNKNOWN",
+            "SommerleseclubBuchklein.GIF": "BOOK",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
             "Weihnachten1klein.GIF": "UNKNOWN",
             "Wii1klein.GIF": "GAME_CONSOLE_WII",
             "Wiiklein.GIF": "GAME_CONSOLE_WII",
             "Zeitschriftklein.GIF": "MAGAZINE",
-            "eAudio_bibloadklein.GIF": "EAUDIO",
+            "eAudio_bibloadklein.GIF": "MP3",
             "eBook_bibloadklein.GIF": "EBOOK",
             "ePaper_bibloadklein.GIF": "EDOC",
             "eVideo_bibloadklein.GIF": "EVIDEO"
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        52.717731,
-        7.9396505
+        52.73278,
+        7.76012
     ],
-    "information": "http://www.essen-oldb.de/index.php?id=208",
-    "library_id": 2797,
+    "information": "http://www.buechereiloeningen.de/",
+    "library_id": 5108,
     "state": "Niedersachsen",
-    "title": "Kath. \u00d6B St. Bartholom\u00e4us"
+    "title": "Kath. \u00d6B St. Vitus"
 }
