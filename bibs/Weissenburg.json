@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Wei\u00dfenburg/Bay",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/weissenburg",
+        "customssl": true
+    },
+    "geo": [
+        49.0288046,
+        10.9700746
+    ],
+    "information": "http://www.weissenburg.de/p/d1.asp?artikel_id=1324",
+    "library_id": 8182,
+    "state": "Bayern",
+    "title": "Stadtbibliothek in der Alten Post"
+}

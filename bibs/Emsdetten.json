@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Emsdetten",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://emsdetten.bibliotheca-open.de",
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche",
+            "simple_search": ""
+        }
+    },
+    "geo": [
+        52.1729641,
+        7.5248312
+    ],
+    "information": "https://www.emsdetten.de/bildung-betreuung-beratung/bildung/stadtbibliothek/",
+    "library_id": 2634,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
