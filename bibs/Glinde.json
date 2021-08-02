@@ -1,23 +1,23 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "koha",
-    "city": "Flensburg",
+    "api": "iopac",
+    "city": "Glinde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sb-flensburg.lmscloud.net"
+        "baseurl": "http://iopac-glinde.dyndns.org"
     },
     "geo": [
-        54.7839267,
-        9.4383472
+        53.5435908,
+        10.2165943
     ],
-    "information": "http://stadtbibliothek.flensburg.de/",
-    "library_id": 8664,
+    "information": "http://www.stadtbuecherei-glinde.de/",
+    "library_id": 3271,
     "state": "Schleswig-Holstein",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }
