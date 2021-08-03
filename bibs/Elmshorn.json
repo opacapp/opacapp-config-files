@@ -7,22 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Crailsheim",
+    "city": "Elmshorn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bibliotheken.kivbf.de/crailsheim",
-        "customssl": true,
+        "baseurl": "https://elmshorn.bibliotheca-open.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        49.13593,
-        10.07299
+        53.7532,
+        9.65363
     ],
-    "information": "http://bibliotheken.kivbf.de/crailsheim/mobile/InfoKontakt.aspx",
-    "library_id": 2145,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei"
+    "information": "https://elmshorn.bibliotheca-open.de/mobile/de-de/infokontakt.aspx",
+    "library_id": 2589,
+    "state": "Schleswig-Holstein",
+    "title": "Stadtb\u00fccherei Carl von Ossietzky"
 }

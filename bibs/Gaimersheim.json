@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "Gaimersheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://webopac.winbiap.net/gaimersheim",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        48.80882,
+        11.37003
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
+    "information": "http://www.gaimersheim.de/index.php?option=com_content&task=view&id=74&Itemid=99&date=2013-03-01",
+    "library_id": 8804,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

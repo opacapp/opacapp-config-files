@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "Mering",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://opac.winbiap.net/mering",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        48.267719,
+        10.984637
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
+    "information": "http://vg-mering.de/staticsite/staticsite.php?menuid=202&topmenu=49&keepmenu=inactive",
+    "library_id": 5359,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

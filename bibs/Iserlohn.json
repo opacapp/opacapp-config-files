@@ -7,22 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Crailsheim",
+    "city": "Iserlohn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bibliotheken.kivbf.de/crailsheim",
-        "customssl": true,
+        "baseurl": "http://opac.iserlohn.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        49.13593,
-        10.07299
+        51.3742721,
+        7.6973195
     ],
-    "information": "http://bibliotheken.kivbf.de/crailsheim/mobile/InfoKontakt.aspx",
-    "library_id": 2145,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://www.iserlohn.de/kultur/stadtbuecherei.html",
+    "library_id": 8701,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "Donauw\u00f6rth",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://webopac.winbiap.de/donauwoerth",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        48.71924,
+        10.77917
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
+    "information": "http://www.donauwoerth.de/html/user_de_Stadtbibliothek+Startseite.html",
+    "library_id": 2318,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

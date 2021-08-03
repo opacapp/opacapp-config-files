@@ -7,22 +7,24 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Crailsheim",
+    "city": "Herrenberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bibliotheken.kivbf.de/crailsheim",
+        "baseurl": "https://open.rz-kiru.de/herrenberg",
         "customssl": true,
         "urls": {
+            "account": "Konto.aspx",
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "new_acq": "NeueMedien.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        49.13593,
-        10.07299
+        48.59424,
+        8.8731
     ],
-    "information": "http://bibliotheken.kivbf.de/crailsheim/mobile/InfoKontakt.aspx",
-    "library_id": 2145,
+    "information": "http://www.stadtbibliothek.herrenberg.de/",
+    "library_id": 22,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }
