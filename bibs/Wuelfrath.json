@@ -1,0 +1,61 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "W\u00fclfrath",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "barcode": 2,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "status": -1,
+            "title": 1
+        },
+        "api_enable": true,
+        "apikey": "3f8d2460-c2d0-4a5c-9737-68c7613a7649",
+        "apiurl": "https://intweb.wuelfrath.de:8316/RESTv1",
+        "baseurl": "https://intweb.wuelfrath.de",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 3,
+            "status": -1
+        },
+        "db": "ha",
+        "libopacplus": "true",
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "branch": -1,
+            "cancelurl": 3,
+            "expirationdate": -1,
+            "title": 1
+        },
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "Mediensuche/Medientipps",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        51.280284,
+        7.0349608
+    ],
+    "information": "https://www.wuelfrath.net/freizeit-bildung/wuelfrather-medien-welt/",
+    "library_id": 8506,
+    "state": "Nordrhein-Westfalen",
+    "title": "W\u00fclfrather Medien Welt"
+}
