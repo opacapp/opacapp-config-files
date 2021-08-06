@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "slim",
+    "city": "Mumbai",
+    "country": "India",
+    "data": {
+        "baseurl": "http://slimkm.org/opacapi/cswnn/",
+        "itemdetail_url": "http://slimkm.org/iopac/ItemDetails.aspx?iM21=1&id="
+    },
+    "geo": [
+        18.9394601,
+        72.8282294
+    ],
+    "information": "https://cswnn.edu.in",
+    "library_id": 9387,
+    "state": "Maharashtra",
+    "title": "College of Social Work, Nirmala Niketan"
+}
