@@ -1,42 +1,21 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": false,
+    "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Steinfurt",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 3,
-            "returndate": 2,
-            "status": -1,
-            "title": 1
-        },
-        "baseurl": "http://opac84.citeq.de",
-        "copiestable": {
-            "barcode": 0,
-            "branch": 3,
-            "department": -1,
-            "location": 2,
-            "reservations": 6,
-            "returndate": 5,
-            "status": 4
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": 2,
-            "branch": -1,
-            "cancelurl": 3,
-            "expirationdate": null,
-            "title": 1
+        "baseurl": "https://opac.steinfurt.de/",
+        "libopacplus": true,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
