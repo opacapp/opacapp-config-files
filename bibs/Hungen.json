@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "K\u00fcnzell",
+    "city": "Hungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/kuenzell",
+        "baseurl": "https://webopac.winbiap.net/hungenlich",
         "customssl": true
     },
     "geo": [
-        50.5356779,
-        9.7200616
+        50.4768,
+        8.89981
     ],
-    "information": "http://www.kuenzell.de/gemeindebuecherei-kuenzell-im-gemeindezentrum-kuenzell_4472.html",
-    "library_id": 4726,
+    "information": "http://www.lich.de/kultur-bildung/stadtbibliothek/",
+    "library_id": 4057,
     "state": "Hessen",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

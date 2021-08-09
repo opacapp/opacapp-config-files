@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "K\u00fcnzell",
+    "city": "Hohen Neuendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/kuenzell",
+        "baseurl": "https://cloudopac.winbiap.de/hohenneuendorf",
         "customssl": true
     },
     "geo": [
-        50.5356779,
-        9.7200616
+        52.66326,
+        13.28427
     ],
-    "information": "http://www.kuenzell.de/gemeindebuecherei-kuenzell-im-gemeindezentrum-kuenzell_4472.html",
-    "library_id": 4726,
-    "state": "Hessen",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.hohen-neuendorf.de/hnd/admin/bibliotheken.htm",
+    "library_id": 3944,
+    "state": "Brandenburg",
+    "title": "Stadtbibliothek"
 }
