@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "Innsbruck",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://www.imz-tirol.webopac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        47.2721414,
+        11.3883117
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
-    "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "information": "http://www.imz-tirol.at",
+    "library_id": 9012,
+    "state": "Tirol",
+    "title": "BIM - Bibliothek Integration Migration - ZeMiT"
 }

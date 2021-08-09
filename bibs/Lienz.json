@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "Lienz",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://www.stadtbuecherei-lienz.webopac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        46.8308203,
+        12.7648213
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
-    "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "information": "http://www.stadtbuecherei-lienz.at",
+    "library_id": 9054,
+    "state": "Tirol",
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "G\u00e4nserndorf",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        48.3403159,
+        16.7241521
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
+    "information": "http://gaenserndorf.bvoe.at/",
+    "library_id": 8942,
     "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "Fu\u00dfach",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://www.buecherei-fussach.webopac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        47.4795734,
+        9.6595139
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
-    "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "information": "http://www.fussach.bvoe.at",
+    "library_id": 8941,
+    "state": "Vorarlberg",
+    "title": "B\u00fccherei und Spielothek"
 }
