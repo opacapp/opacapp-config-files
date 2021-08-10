@@ -1,0 +1,26 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 195,
+    "account_supported": true,
+    "api": "vufind",
+    "city": "Recklinghausen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.bib-kreisre.de",
+        "copystyle": "smartbib",
+        "customssl": true,
+        "library": "VERB"
+    },
+    "geo": [
+        51.61673,
+        7.196
+    ],
+    "information": "https://www.recklinghausen.de/inhalte/startseite/familie_bildung/stadtbibliothek/katalog_und_konto/index.asp",
+    "library_id": 8758,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
