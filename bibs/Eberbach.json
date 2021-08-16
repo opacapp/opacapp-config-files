@@ -18,7 +18,8 @@
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Mediensuche",
-            "new_acq": "Neuerwerbungen"
+            "new_acq": "Neuerwerbungen",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
