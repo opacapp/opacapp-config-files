@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Aachen",
+    "api": "winbiap",
+    "city": "Altena/Westf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://index.ub.rwth-aachen.de/TouchPointClient_touchpoint"
+        "baseurl": "http://webopac.citkomm.de/altena"
     },
     "geo": [
-        50.75968,
-        6.0965247
+        51.3015239,
+        7.6714387
     ],
-    "information": "http://www.bth.rwth-aachen.de/",
-    "library_id": 8816,
+    "information": "http://www.stadtbuecherei.de/",
+    "library_id": 980,
     "state": "Nordrhein-Westfalen",
-    "title": "Unibibliothek RWTH"
+    "title": "Stadtb\u00fccherei"
 }

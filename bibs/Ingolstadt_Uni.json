@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "touchpoint",
-    "city": "Aachen",
+    "city": "Eichst\u00e4tt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://index.ub.rwth-aachen.de/TouchPointClient_touchpoint"
+        "baseurl": "https://opac.ku.de/TouchPoint"
     },
     "geo": [
-        50.75968,
-        6.0965247
+        48.7665351,
+        11.4257541
     ],
-    "information": "http://www.bth.rwth-aachen.de/",
-    "library_id": 8816,
-    "state": "Nordrhein-Westfalen",
-    "title": "Unibibliothek RWTH"
+    "information": "http://www.ku.de/Bibliothek",
+    "library_id": 9010,
+    "state": "Bayern",
+    "title": "Universit\u00e4tsbibliothek und Hochschulbibliothek"
 }

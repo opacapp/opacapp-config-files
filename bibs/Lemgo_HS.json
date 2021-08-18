@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Aachen",
+    "api": "sisis",
+    "city": "Lemgo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://index.ub.rwth-aachen.de/TouchPointClient_touchpoint"
+        "baseurl": "https://www.hs-owl.de/webOPACClient",
+        "startparams": "Login=lemgo"
     },
     "geo": [
-        50.75968,
-        6.0965247
+        52.0266732,
+        8.9018625
     ],
-    "information": "http://www.bth.rwth-aachen.de/",
-    "library_id": 8816,
+    "information": "http://www.hs-owl.de/skim/",
+    "library_id": 9052,
     "state": "Nordrhein-Westfalen",
-    "title": "Unibibliothek RWTH"
+    "title": "S(kim) \u2013 Hochschulbibliothek"
 }

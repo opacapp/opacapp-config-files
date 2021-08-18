@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Aachen",
+    "api": "sisis",
+    "city": "Sankt Augustin",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://index.ub.rwth-aachen.de/TouchPointClient_touchpoint"
+        "baseurl": "https://bib-sisis.bib.hochschule-bonn-rhein-sieg.de/webOPACClient"
     },
     "geo": [
-        50.75968,
-        6.0965247
+        50.7694775,
+        7.1875786
     ],
-    "information": "http://www.bth.rwth-aachen.de/",
-    "library_id": 8816,
+    "information": "http://www.bib.hochschule-bonn-rhein-sieg.de/",
+    "library_id": 8865,
     "state": "Nordrhein-Westfalen",
-    "title": "Unibibliothek RWTH"
+    "title": "FH Bonn-Rhein-Sieg"
 }

@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Aachen",
+    "api": "sisis",
+    "city": "Oberhausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://index.ub.rwth-aachen.de/TouchPointClient_touchpoint"
+        "baseurl": "https://bibliothek.oberhausen.de/webOPACClient.sisis"
     },
     "geo": [
-        50.75968,
-        6.0965247
+        51.4707876,
+        6.8527569
     ],
-    "information": "http://www.bth.rwth-aachen.de/",
-    "library_id": 8816,
+    "information": "http://www.oberhausen.de/0A1C46AD57614F1B8C5CD011AF1C5911.php",
+    "library_id": 8744,
     "state": "Nordrhein-Westfalen",
-    "title": "Unibibliothek RWTH"
+    "title": "Stadtbibliothek"
 }

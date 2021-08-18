@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Aachen",
+    "api": "winbiap",
+    "city": "Schwerte",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://index.ub.rwth-aachen.de/TouchPointClient_touchpoint"
+        "baseurl": "https://webopac.citkomm.de/schwerte"
     },
     "geo": [
-        50.75968,
-        6.0965247
+        51.4406,
+        7.56864
     ],
-    "information": "http://www.bth.rwth-aachen.de/",
-    "library_id": 8816,
+    "information": "http://www.kuwebe.de/html/bucherei_-_aktuelles.html",
+    "library_id": 8771,
     "state": "Nordrhein-Westfalen",
-    "title": "Unibibliothek RWTH"
+    "title": "Stadtb\u00fccherei"
 }
