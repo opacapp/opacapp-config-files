@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Kist",
+    "city": "Hohen Neuendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/kist",
+        "baseurl": "https://cloudopac.winbiap.de/hohenneuendorf",
         "customssl": true
     },
     "geo": [
-        49.7440821,
-        9.8417865
+        52.66326,
+        13.28427
     ],
-    "information": "http://www.gemeinde-kist.de/index.php?id=56",
-    "library_id": 4455,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.hohen-neuendorf.de/hnd/admin/bibliotheken.htm",
+    "library_id": 3944,
+    "state": "Brandenburg",
+    "title": "Stadtbibliothek"
 }
