@@ -20,7 +20,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://wwwopac.rz-kiru.de/donaueschingen",
+        "baseurl": "https://wwwopac.komm.one/donaueschingen",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
