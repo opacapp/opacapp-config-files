@@ -20,7 +20,7 @@
             "status": -1,
             "title": 2
         },
-        "baseurl": "https://stadtbibliothek.sinsheim.cloud",
+        "baseurl": "https://stadtbibliothek.sinsheim.cloud/webopac",
         "copiestable": {
             "barcode": -1,
             "branch": 0,
