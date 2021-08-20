@@ -10,7 +10,7 @@
     "city": "Rottweil",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/rottweil",
+        "baseurl": "https://bibliothek.komm.one/rottweil",
         "customssl": true,
         "libopacplus": true,
         "onleihe": "https://www.onleihe.de/schwalbe",
