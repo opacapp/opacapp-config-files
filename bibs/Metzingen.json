@@ -10,7 +10,7 @@
     "city": "Metzingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/metzingen",
+        "baseurl": "https://wwwopac.komm.one/metzingen",
         "copiestable": {
             "barcode": -1,
             "branch": 0,

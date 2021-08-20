@@ -20,7 +20,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://wwwopac.rz-kiru.de/mzutuebingen",
+        "baseurl": "https://wwwopac.komm.one/mzutuebingen",
         "copiestable": {
             "barcode": 4,
             "branch": 0,

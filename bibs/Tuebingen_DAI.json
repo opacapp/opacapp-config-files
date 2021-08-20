@@ -10,7 +10,7 @@
     "city": "T\u00fcbingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/daituebingen",
+        "baseurl": "https://wwwopac.komm.one/daituebingen",
         "copiestable": {
             "barcode": -1,
             "branch": -1,

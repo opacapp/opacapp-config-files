@@ -10,7 +10,7 @@
     "city": "Wut\u00f6schingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/wutoeschingen",
+        "baseurl": "https://wwwopac.komm.one/wutoeschingen",
         "copiestable": {
             "barcode": -1,
             "branch": -1,

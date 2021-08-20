@@ -10,7 +10,7 @@
     "city": "Kernen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/kernen",
+        "baseurl": "https://wwwopac.komm.one/kernen",
         "copiestable": {
             "barcode": -1,
             "branch": 0,

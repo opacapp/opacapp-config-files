@@ -10,7 +10,7 @@
     "city": "Deizisau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/deizisau",
+        "baseurl": "https://wwwopac.komm.one/deizisau",
         "copiestable": {
             "barcode": -1,
             "branch": 0,

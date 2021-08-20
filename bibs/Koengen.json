@@ -10,7 +10,7 @@
     "city": "K\u00f6ngen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/koengen",
+        "baseurl": "https://wwwopac.komm.one/koengen",
         "copiestable": {
             "barcode": -1,
             "branch": -1,

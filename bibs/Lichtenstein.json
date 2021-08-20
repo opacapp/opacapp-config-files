@@ -10,7 +10,7 @@
     "city": "Lichtenstein",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/lichtenstein",
+        "baseurl": "https://wwwopac.komm.one/lichtenstein",
         "copiestable": {
             "barcode": 0,
             "branch": -1,

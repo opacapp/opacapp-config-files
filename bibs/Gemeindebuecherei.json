@@ -10,7 +10,7 @@
     "city": "Kirchentellinsfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/kirchentellinsfurt",
+        "baseurl": "https://wwwopac.komm.one/kirchentellinsfurt",
         "copiestable": {
             "barcode": 1,
             "branch": -1,

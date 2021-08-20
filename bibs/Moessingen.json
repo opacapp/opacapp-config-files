@@ -20,7 +20,7 @@
             "status": 4,
             "title": 1
         },
-        "baseurl": "https://wwwopac.rz-kiru.de/moessingen",
+        "baseurl": "https://wwwopac.komm.one/moessingen",
         "copiestable": {
             "barcode": -1,
             "branch": -1,

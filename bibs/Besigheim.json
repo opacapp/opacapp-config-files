@@ -10,7 +10,7 @@
     "city": "Besigheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/besigheim",
+        "baseurl": "https://wwwopac.komm.one/besigheim",
         "copiestable": {
             "barcode": -1,
             "branch": 3,

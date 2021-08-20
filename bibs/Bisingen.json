@@ -10,7 +10,7 @@
     "city": "Bisingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/bisingen",
+        "baseurl": "https://wwwopac.komm.one/bisingen",
         "copiestable": {
             "barcode": -1,
             "branch": -1,

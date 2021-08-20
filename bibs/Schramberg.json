@@ -18,7 +18,7 @@
             "returndate": 4,
             "title": 3
         },
-        "baseurl": "https://wwwopac.rz-kiru.de/schramberg",
+        "baseurl": "https://wwwopac.komm.one/schramberg",
         "db": "ja",
         "reservationtable": {
             "author": 1,

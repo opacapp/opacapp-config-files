@@ -10,7 +10,7 @@
     "city": "Wendlingen am Neckar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.rz-kiru.de/wendlingen",
+        "baseurl": "https://wwwopac.komm.one/wendlingen",
         "copiestable": {
             "barcode": 0,
             "branch": -1,
