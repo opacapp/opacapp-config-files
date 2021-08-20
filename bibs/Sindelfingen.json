@@ -10,7 +10,7 @@
     "city": "Sindelfingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/sindelfingen",
+        "baseurl": "https://bibliothek.komm.one/sindelfingen",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"

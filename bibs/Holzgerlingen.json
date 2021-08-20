@@ -10,7 +10,7 @@
     "city": "Holzgerlingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://open.rz-kiru.de/holzgerlingen",
+        "baseurl": "http://bibliothek.komm.one/holzgerlingen",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"

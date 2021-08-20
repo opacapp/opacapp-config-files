@@ -10,7 +10,7 @@
     "city": "Herrenberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/herrenberg",
+        "baseurl": "https://bibliothek.komm.one/herrenberg",
         "customssl": true,
         "urls": {
             "account": "Konto.aspx",

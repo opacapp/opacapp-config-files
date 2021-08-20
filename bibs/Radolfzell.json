@@ -10,7 +10,7 @@
     "city": "Radolfzell",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/radolfzell",
+        "baseurl": "https://bibliothek.komm.one/radolfzell",
         "urls": {
             "account": "Leserkonto",
             "advanced_search": "Medien-finden/erweiterte-Suche",

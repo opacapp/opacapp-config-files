@@ -10,7 +10,7 @@
     "city": "Weilheim an der Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/weilheim",
+        "baseurl": "https://bibliothek.komm.one/weilheim",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"

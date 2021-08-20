@@ -10,7 +10,7 @@
     "city": "Ellwangen/Jagst",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/ellwangen",
+        "baseurl": "https://bibliothek.komm.one/ellwangen",
         "customssl": true,
         "urls": {
             "account": "Leserkonto",

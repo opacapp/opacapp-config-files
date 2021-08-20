@@ -10,7 +10,7 @@
     "city": "Balingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/balingen",
+        "baseurl": "https://bibliothek.komm.one/balingen",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"

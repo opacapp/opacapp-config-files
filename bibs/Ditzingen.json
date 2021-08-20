@@ -10,7 +10,7 @@
     "city": "Ditzingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/ditzingen",
+        "baseurl": "https://bibliothek.komm.one/ditzingen",
         "urls": {
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"

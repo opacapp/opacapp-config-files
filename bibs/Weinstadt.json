@@ -10,7 +10,7 @@
     "city": "Weinstadt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/weinstadt",
+        "baseurl": "https://bibliothek.komm.one/weinstadt",
         "customssl": true,
         "libopacplus": true,
         "onleihe": "https://www4.onleihe.de/rems-murr",

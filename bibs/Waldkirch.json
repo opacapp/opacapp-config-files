@@ -10,7 +10,7 @@
     "city": "Waldkirch",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://open.rz-kiru.de/waldkirch",
+        "baseurl": "https://bibliothek.komm.one/waldkirch",
         "customssl": true,
         "urls": {
             "advanced_search": "Mediensuche/erweiterte-Suche",
