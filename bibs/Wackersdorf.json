@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Wackersdorf",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/wackersdorf",
+        "customssl": true
+    },
+    "geo": [
+        49.3146228,
+        12.1783476
+    ],
+    "information": "http://www.vg-wackersdorf.de/Wackersdorf/Leben_Soziales/Kultur_erleben/Gemeindeb%C3%BCcherei/",
+    "library_id": 7926,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
