@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Utting am Ammersee",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/utting",
+        "customssl": true
+    },
+    "geo": [
+        48.02702,
+        11.0870013
+    ],
+    "information": "https://www.utting.de/bildung-kunst-kultur/gemeindebuecherei/",
+    "library_id": 7811,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}

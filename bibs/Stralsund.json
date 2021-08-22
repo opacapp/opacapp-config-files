@@ -1,0 +1,37 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.stralsund",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Stralsund",
+    "country": "Deutschland",
+    "data": {
+        "api_enable": false,
+        "baseurl": "https://katalog.stralsund.de",
+        "customssl": true,
+        "mediatypes": {
+            "artchap-digital": "EDOC"
+        },
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Profisuche",
+            "new_acq": "Medientipps",
+            "simple_search": "Einfache-Suche"
+        }
+    },
+    "displayname": "Stadtbibliothek Stralsund",
+    "geo": [
+        54.3148514,
+        13.0922388
+    ],
+    "information": "https://info.opacapp.de/stralsund.html",
+    "library_id": 8776,
+    "state": "Mecklenburg-Vorpommern",
+    "title": "Stadtbibliothek"
+}
