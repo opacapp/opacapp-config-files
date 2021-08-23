@@ -10,7 +10,7 @@
     "city": "Glinde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://iopac-glinde.dyndns.org"
+        "baseurl": "https://iopac.stadtbuecherei-glinde.de"
     },
     "geo": [
         53.5435908,
