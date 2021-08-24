@@ -10,16 +10,6 @@
     "city": "Speyer",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 3,
-            "returndate": 2,
-            "status": -1,
-            "title": 1
-        },
         "baseurl": "https://buecherei.speyer.de/webopac",
         "copiestable": {
             "barcode": 0,
