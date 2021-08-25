@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Kloten",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Kloten"
+    },
+    "geo": [
+        47.4526616,
+        8.5852412
+    ],
+    "information": "http://www.schluefweg.ch/de/bibliothek/",
+    "library_id": 9037,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}
