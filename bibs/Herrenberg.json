@@ -1,0 +1,30 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Herrenberg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliothek.komm.one/herrenberg",
+        "customssl": true,
+        "urls": {
+            "account": "Konto.aspx",
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "new_acq": "NeueMedien.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        48.59424,
+        8.8731
+    ],
+    "information": "http://www.stadtbibliothek.herrenberg.de/",
+    "library_id": 22,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
