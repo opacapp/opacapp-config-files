@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": "Wir haben ge\u00f6ffnet!\r\n\r\nDie Stadtbibliothek Reutlingen ist zu den normalen \u00d6ffnungszeiten ge\u00f6ffnet:\r\nDienstag bis Freitag 10 - 19 Uhr, Samstag 10 - 14 Uhr\r\n\r\nDer Besuch der Stadtbibliothek ist nur mit einem negativen Corona-Schnelltest (max. 24 h alt), einem Genesenen- oder Geimpften-Nachweis m\u00f6glich (3G-Nachweis). Kinder bis einschlie\u00dflich 5 Jahre  sowie Sch\u00fcler/innen sind von der Testpflicht ausgenommen. Der Nachweis f\u00fcr Sch\u00fcler/innen erfolgt \u00fcber den Sch\u00fcler- oder Kinderausweis.\r\n\r\nF\u00fcr die ausschlie\u00dfliche Abholung und/oder R\u00fcckgabe von Medien, ohne weiteren Aufenthalt in der Bibliothek, ist kein 3G-Nachweis erforderlich.\r\n\r\nWeitere Informationen zu Zweigstellen und Zugangskonditionen finden Sie auf unserer Website (https://www2.stadtbibliothek-reutlingen.de)\r\n\r\nBleiben Sie gesund!\r\nIhre Stadtbibliothek Reutlingen",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.reutlingen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Reutlingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://www5.stadtbibliothek-reutlingen.de/",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/neckar-alb",
+        "onleihe_libraryId": 44,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "new_acq": "Mediensuche/Neue-Medien/Neue-medien-nach-medienart",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "displayname": "Stadtbibliothek Reutlingen",
+    "geo": [
+        48.4903415,
+        9.2106778
+    ],
+    "information": "https://info.opacapp.de/reutlingen.html",
+    "library_id": 8761,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
