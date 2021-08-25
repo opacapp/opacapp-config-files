@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Brunn",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+    },
+    "geo": [
+        48.108677,
+        16.2829165
+    ],
+    "information": "http://www.brunnamgebirge.bvoe.at",
+    "library_id": 8878,
+    "state": "Nieder\u00f6sterreich",
+    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+}
