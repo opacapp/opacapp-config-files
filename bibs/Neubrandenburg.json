@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Paderborn",
+    "city": "Neubrandenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.stadtbibliothek-paderborn.de",
+        "baseurl": "http://www.bibliothek-nb.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        51.7199006,
-        8.754952
+        53.5573489,
+        13.2681519
     ],
-    "information": "http://www.stadtbibliothek-paderborn.de",
-    "library_id": 8749,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.bibliothek-nb.de/",
+    "library_id": 8736,
+    "state": "Mecklenburg-Vorpommern",
+    "title": "Regionalbibliothek"
 }
