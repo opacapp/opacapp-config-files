@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -10,7 +10,7 @@
     "city": "Glinde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://iopac-glinde.dyndns.org"
+        "baseurl": "https://iopac.stadtbuecherei-glinde.de"
     },
     "geo": [
         53.5435908,
