@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Neuburg/Do",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/neuburg",
+        "customssl": true
+    },
+    "geo": [
+        48.734458,
+        11.180675
+    ],
+    "information": "http://www.neuburg-donau.de/kultur/bildung/buecherturm",
+    "library_id": 5733,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
