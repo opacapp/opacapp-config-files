@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Menzingen",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.winmedio.net/menzingen"
+    },
+    "geo": [
+        47.178,
+        8.58951
+    ],
+    "information": "http://www.zg.ch/behoerden/gemeinden/menzingen/de/verwaltung/schulabteilung/bibliothek",
+    "library_id": 9081,
+    "state": "Zug",
+    "title": "Gemeindebibliothek"
+}
