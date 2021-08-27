@@ -1,0 +1,40 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.koengen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "K\u00f6ngen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://wwwopac.komm.one/koengen",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": 0,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 4,
+            "status": 3
+        },
+        "customssl": true,
+        "libopacplus": true,
+        "mediatypes": {
+            "247.gif": "EBOOK"
+        },
+        "onleihe": "https://www.onleihe.de/247online-bibliothek",
+        "onleihe_libraryId": "644"
+    },
+    "displayname": "B\u00fccherei K\u00f6ngen",
+    "geo": [
+        48.6842352,
+        9.3612182
+    ],
+    "information": "https://info.opacapp.de/koengen.html",
+    "library_id": 4605,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "B\u00fccherei"
+}

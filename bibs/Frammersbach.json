@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Frammersbach",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/frammersbach",
+        "customssl": true
+    },
+    "geo": [
+        50.0621954,
+        9.4724531
+    ],
+    "information": "http://www.frammersbach.de/Sites/gensite.asp?SID=cms19082014164845791437&Art=0348",
+    "library_id": 2923,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
