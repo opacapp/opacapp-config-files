@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Hamburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://ub.hsu-hh.de/",
+        "db": "1"
+    },
+    "geo": [
+        53.5689468,
+        10.1094977
+    ],
+    "information": "http://ub.hsu-hh.de/",
+    "library_id": 8973,
+    "state": "Hamburg",
+    "title": "Bibliothek der Helmut-Schmidt-Universit\u00e4t"
+}
