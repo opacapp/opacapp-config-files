@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Gaimersheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/gaimersheim",
+        "customssl": true
+    },
+    "geo": [
+        48.80882,
+        11.37003
+    ],
+    "information": "http://www.gaimersheim.de/index.php?option=com_content&task=view&id=74&Itemid=99&date=2013-03-01",
+    "library_id": 8804,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
