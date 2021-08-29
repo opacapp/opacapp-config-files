@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Cottbus",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.ub.b-tu.de/InfoGuideClient.btusis"
+    },
+    "geo": [
+        51.7563108,
+        14.3328679
+    ],
+    "information": "http://www.tu-cottbus.de/einrichtungen/de/ikmz/servicebereiche/bibliothek/",
+    "library_id": 8891,
+    "state": "Brandenburg",
+    "title": "Unibibliothek"
+}
