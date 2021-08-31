@@ -1,0 +1,36 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "nfc_supported": true,
+    "api": "wise",
+    "city": "Assen",
+    "country": "Nederland",
+    "data": {
+        "disguise" : true,
+        "api-key-id": "4251d316-b964-44cc-b5fc-2f888d3716a8",
+		"api-key": "218f81af-dcab-4cca-97f3-a4cffe19a0c9",
+		"app-name": "WiseCatPlus",
+        "baseurl": "https://catalogus.biblionetdrenthe.nl",
+        "imgurl": "/cgi-bin/momredir.pl?",
+        "languages": [
+            "nl"
+        ],
+        "search-locations": [
+            {"0" :  "in eigen bibliotheek"},
+            {"2" :  "in de provincie"}
+        ]
+    },
+    "geo": [
+        52.983333,
+        6.55
+   ],
+    "information": "https://www.dnk.nl/agenda-tickets/bibliotheek/",
+    "library_id": 9585,
+    "state": "Drenthe",
+    "title": "DNK bibliotheek"
+}

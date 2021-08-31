@@ -1,0 +1,36 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "wise",
+    "city": "Zwolle",
+    "country": "Nederland",
+    "data": {
+        "disguise" : true,
+        "search-locations": [
+          {"0" :  "in eigen bibliotheek"},
+          {"1" :  "in de buurt"},
+          {"2" :  "in de provincie"}
+        ],
+        "api-key-id": "4251d316-b964-44cc-b5fc-2f888d3716a8",
+		"api-key": "218f81af-dcab-4cca-97f3-a4cffe19a0c9",
+		"app-name": "WiseCatPlus",
+        "baseurl": "https://rijnbrink.hostedwise.nl",
+        "imgurl": "/cgi-bin/momredir.pl?",
+        "languages": [
+            "nl"
+        ]
+    },
+    "geo": [
+        52.4833102,
+        6.1123057
+   ],
+    "information": "https://stadkamer.nl/",
+    "library_id": 3801,
+    "state": "Overijssel",
+    "title": "Stadkamer"
+}
