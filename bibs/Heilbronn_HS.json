@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "adis",
-    "city": "Esslingen",
+    "city": "Heilbronn",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://bsz.ibs-bw.de/aDISWeb/app",
-        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23072"
+        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23042"
     },
     "geo": [
-        48.7433425,
-        9.3201122
+        49.1426929,
+        9.210879
     ],
-    "information": "https://www.hs-esslingen.de/de/hochschule/service/bibliothek.html",
-    "library_id": 8924,
+    "information": "https://www.hs-heilbronn.de/bibliothek",
+    "library_id": 8991,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Hochschulbibliothek"
+    "title": "Hochschule"
 }
