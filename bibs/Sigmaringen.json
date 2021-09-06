@@ -6,45 +6,15 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Sigmaringen",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 3,
-            "returndate": 2,
-            "status": -1,
-            "title": 1
-        },
-        "baseurl": "https://www.bib.sigmaringen.de",
-        "copiestable": {
-            "barcode": 0,
-            "branch": -1,
-            "department": -1,
-            "location": 1,
-            "reservations": -1,
-            "returndate": 3,
-            "status": 2
-        },
-        "mediatypes": {
-            "mBuchS.gif": "BOOK",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE",
-            "schwalbe.gif": "UNKNOWN",
-            "spielekl.gif": "BOARDGAME"
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": 2,
-            "branch": -1,
-            "cancelurl": 3,
-            "expirationdate": null,
-            "title": 1
+        "baseurl": "https://bibliothek.komm.one/sigmaringen",
+        "urls": {
+            "account": "Konto",
+            "advanced_search": "Mediensuche/erweiterte-Suche",
+            "simple_search": "Mediensuche/einfache-Suche"
         }
     },
     "geo": [
