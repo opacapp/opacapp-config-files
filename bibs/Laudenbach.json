@@ -27,10 +27,10 @@
             "department": -1,
             "location": 0,
             "reservations": -1,
-            "returndate": 2,
+            "returndate": 4,
             "status": 3
         },
-        "customssl": false,
+        "customssl": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
