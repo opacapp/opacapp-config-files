@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Denklingen",
+    "city": "Burtenbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/denklingen",
+        "baseurl": "https://webopac.winbiap.de/burtenbach",
         "customssl": true
     },
     "geo": [
-        47.9139271,
-        10.8490461
+        48.3397753,
+        10.4480126
     ],
-    "information": "http://www.denklingen.de/sites/rathaus/index/index_buecherei.htm",
-    "library_id": 2223,
+    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
+    "library_id": 2054,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }
