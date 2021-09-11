@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "M\u00fchlheim/M",
+    "city": "Lohfelden",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/muehlheim",
+        "baseurl": "https://webopac.winbiap.net/lohfelden",
         "customssl": true
     },
     "geo": [
-        50.12529,
-        8.84515
+        51.2748078,
+        9.5512759
     ],
-    "information": "https://www.muehlheim.de/buecherei-informationen.html+",
-    "library_id": 5553,
+    "information": "http://www.lohfelden.de/w3a/cms/Lohfelden_Erleben/Oeffentliche_Einrichtungen/Buechereien/index.11713.html",
+    "library_id": 5060,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeinde- und Schulb\u00fccherei"
 }

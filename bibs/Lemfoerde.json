@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "M\u00fchlheim/M",
+    "city": "Lemf\u00f6rde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/muehlheim",
+        "baseurl": "https://webopac.winbiap.net/lemfoerde",
         "customssl": true
     },
     "geo": [
-        50.12529,
-        8.84515
+        52.4641331,
+        8.3739804
     ],
-    "information": "https://www.muehlheim.de/buecherei-informationen.html+",
-    "library_id": 5553,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.lemfoerde.de/oeffentliche-einrichtungen/buecherei-am-amtshof/",
+    "library_id": 4917,
+    "state": "Niedersachsen",
+    "title": "B\u00fccherei am Amtshof"
 }

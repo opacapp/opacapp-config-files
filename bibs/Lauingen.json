@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "M\u00fchlheim/M",
+    "city": "Lauingen/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/muehlheim",
+        "baseurl": "https://webopac.winbiap.de/lauingen",
         "customssl": true
     },
     "geo": [
-        50.12529,
-        8.84515
+        48.570324,
+        10.4300205
     ],
-    "information": "https://www.muehlheim.de/buecherei-informationen.html+",
-    "library_id": 5553,
-    "state": "Hessen",
+    "information": "http://www.lauingen.de/1524_DEU_HTML.php",
+    "library_id": 4864,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

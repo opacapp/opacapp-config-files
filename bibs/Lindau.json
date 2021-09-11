@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "M\u00fchlheim/M",
+    "city": "Lindau/Bo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/muehlheim",
-        "customssl": true
+        "baseurl": "http://93.184.180.130"
     },
     "geo": [
-        50.12529,
-        8.84515
+        47.5797815,
+        9.6789333
     ],
-    "information": "https://www.muehlheim.de/buecherei-informationen.html+",
-    "library_id": 5553,
-    "state": "Hessen",
+    "information": "http://www.lindau.de/Kunst-Kultur/Stadtb%C3%BCcherei",
+    "library_id": 5013,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

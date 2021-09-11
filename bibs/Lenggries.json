@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "M\u00fchlheim/M",
+    "city": "Lenggries",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/muehlheim",
+        "baseurl": "https://webopac.winbiap.net/lenggries",
         "customssl": true
     },
     "geo": [
-        50.12529,
-        8.84515
+        47.6825636,
+        11.5765039
     ],
-    "information": "https://www.muehlheim.de/buecherei-informationen.html+",
-    "library_id": 5553,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.lenggries.de/de/buecherei",
+    "library_id": 4927,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -1,24 +1,23 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "M\u00fchlheim/M",
+    "city": "Lemgo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/muehlheim",
-        "customssl": true
+        "baseurl": "https://webopac.lemgo.de"
     },
     "geo": [
-        50.12529,
-        8.84515
+        52.0272932,
+        8.9050278
     ],
-    "information": "https://www.muehlheim.de/buecherei-informationen.html+",
-    "library_id": 5553,
-    "state": "Hessen",
+    "information": "http://www.stadtbuecherei-lemgo.de/startseite/",
+    "library_id": 4918,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }
