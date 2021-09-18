@@ -7,23 +7,26 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Gottmadingen",
+    "city": "Lehnin",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "prolongurl": 4,
+            "prolongurl": 3,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/gottmadingen",
+        "baseurl": "https://www5.potsdam-mittelmark.de/webOPAC",
         "copiestable": {
-            "department": 1,
             "location": 0,
-            "returndate": 3,
-            "status": 2
+            "status": 1
         },
-        "customssl": true,
+        "db": "webb_kle",
+        "mediatypes": {
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE"
+        },
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -32,11 +35,11 @@
         }
     },
     "geo": [
-        47.7353946,
-        8.7734556
+        52.31684,
+        12.7451
     ],
-    "information": "http://www.gottmadingen.de/,Lde/startseite/Leben+in+Gottmadingen/Buecherei.html",
-    "library_id": 3307,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.klosterlehnin.de/verzeichnis/visitenkarte.php?mandat=3872",
+    "library_id": 4893,
+    "state": "Brandenburg",
+    "title": "Bibliothek Bettina von Arnim"
 }
