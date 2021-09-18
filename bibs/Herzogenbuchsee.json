@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Langenthal",
+    "city": "Herzogenbuchsee",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/langenthal"
+        "baseurl": "http://www.winmedio.net/herzogenbuchsee"
     },
     "geo": [
-        47.2139734,
-        7.7847334
+        47.1881119,
+        7.7009241
     ],
-    "information": "http://www.bibliothek-langenthal.ch/de/",
-    "library_id": 9044,
+    "information": "http://www.herzogenbuchsee.ch/topic2729.html",
+    "library_id": 8994,
     "state": "Bern",
-    "title": "Bibliothek"
+    "title": "Gemeindebibliothek"
 }

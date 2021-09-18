@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Langenthal",
+    "city": "Hilterfingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/langenthal"
+        "baseurl": "http://www.winmedio.net/hilterfingen"
     },
     "geo": [
-        47.2139734,
-        7.7847334
+        46.7449317,
+        7.6501302
     ],
-    "information": "http://www.bibliothek-langenthal.ch/de/",
-    "library_id": 9044,
+    "information": "http://www.hilterfingen.ch/kultur-freizeit/bibliothek/",
+    "library_id": 8998,
     "state": "Bern",
     "title": "Bibliothek"
 }

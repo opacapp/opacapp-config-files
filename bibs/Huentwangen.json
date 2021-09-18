@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Langenthal",
+    "city": "H\u00fcntwangen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/langenthal"
+        "baseurl": "http://www.bibliotheken-zh.ch/Huentwangen"
     },
     "geo": [
-        47.2139734,
-        7.7847334
+        47.5955,
+        8.49293
     ],
-    "information": "http://www.bibliothek-langenthal.ch/de/",
-    "library_id": 9044,
-    "state": "Bern",
-    "title": "Bibliothek"
+    "information": "http://www.huentwangen.ch/?page_id=1455",
+    "library_id": 9006,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

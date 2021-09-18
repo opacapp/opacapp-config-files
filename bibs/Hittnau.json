@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Langenthal",
+    "city": "Hittnau",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/langenthal"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hittnau"
     },
     "geo": [
-        47.2139734,
-        7.7847334
+        47.3643942,
+        8.8241512
     ],
-    "information": "http://www.bibliothek-langenthal.ch/de/",
-    "library_id": 9044,
-    "state": "Bern",
-    "title": "Bibliothek"
+    "information": "http://www.bibliohit.ch/",
+    "library_id": 9001,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

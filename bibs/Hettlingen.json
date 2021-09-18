@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Langenthal",
+    "city": "Hettlingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/langenthal"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hettlingen"
     },
     "geo": [
-        47.2139734,
-        7.7847334
+        47.5465499,
+        8.7070778
     ],
-    "information": "http://www.bibliothek-langenthal.ch/de/",
-    "library_id": 9044,
-    "state": "Bern",
-    "title": "Bibliothek"
+    "information": "http://www.hettlingen.ch/de/tourismus/bibliotheken/",
+    "library_id": 8995,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }
