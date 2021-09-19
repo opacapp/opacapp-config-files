@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Heidenau",
+    "api": "winbiap",
+    "city": "Gerolzhofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothekskatalog.heidenau.de/webOPACClient"
+        "baseurl": "https://webopac.winbiap.net/gerolzhofen",
+        "customssl": true
     },
     "geo": [
-        50.9813664,
-        13.8630918
+        49.9002,
+        10.35001
     ],
-    "information": "http://www.heidenau.de/stadtbibliothek",
-    "library_id": 3715,
-    "state": "Sachsen",
+    "information": "http://www.gerolzhofen.de/Stadtbibliothek.html",
+    "library_id": 3214,
+    "state": "Bayern",
     "title": "Stadtbibliothek"
 }
