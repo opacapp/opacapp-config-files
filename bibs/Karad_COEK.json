@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "slim",
+    "city": "Karad",
+    "country": "India",
+    "data": {
+        "baseurl": "http://172.16.12.4/OPACAPI/",
+        "itemdetail_url": "http://172.16.12.4/w27/Result/Dtl/w21OneItem.aspx?xC="
+    },
+    "geo": [
+        17.309558,
+        74.187218
+    ],
+    "information": "http://172.16.1.39:81/",
+    "library_id": 9385,
+    "state": "Maharashtra",
+    "title": "Government College of Engineering \u2013 Central Library"
+}
