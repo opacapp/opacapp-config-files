@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Bremen",
+    "city": "Magdeburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://vhweb.suub.uni-bremen.de",
+        "baseurl": "https://opac.lbs-magdeburg.gbv.de",
         "db": "1"
     },
     "geo": [
-        53.1081566,
-        8.8537933
+        52.139144,
+        11.6409926
     ],
-    "information": "http://www.suub.uni-bremen.de/",
-    "library_id": 8874,
-    "state": "Bremen",
-    "title": "Staats- und Unibibliothek"
+    "information": "http://www.ub.ovgu.de/",
+    "library_id": 9068,
+    "state": "Sachsen-Anhalt",
+    "title": "Universit\u00e4tsbibliothek"
 }

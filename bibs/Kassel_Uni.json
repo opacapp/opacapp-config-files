@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Bremen",
+    "city": "Kassel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://vhweb.suub.uni-bremen.de",
+        "baseurl": "http://opac.bibliothek.uni-kassel.de",
         "db": "1"
     },
     "geo": [
-        53.1081566,
-        8.8537933
+        51.3127114,
+        9.4797461
     ],
-    "information": "http://www.suub.uni-bremen.de/",
-    "library_id": 8874,
-    "state": "Bremen",
-    "title": "Staats- und Unibibliothek"
+    "information": "http://www.uni-kassel.de/ub/",
+    "library_id": 9026,
+    "state": "Hessen",
+    "title": "Unibibliothek"
 }

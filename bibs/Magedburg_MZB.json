@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Bremen",
+    "city": "Magdeburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://vhweb.suub.uni-bremen.de",
-        "db": "1"
+        "baseurl": "https://lhmdb.gbv.de",
+        "db": "2"
     },
     "geo": [
-        53.1081566,
-        8.8537933
+        52.1010965,
+        11.6146319
     ],
-    "information": "http://www.suub.uni-bremen.de/",
-    "library_id": 8874,
-    "state": "Bremen",
-    "title": "Staats- und Unibibliothek"
+    "information": "https://www.mzb.ovgu.de/",
+    "library_id": 9069,
+    "state": "Sachsen-Anhalt",
+    "title": "Medizinische Zentralbibliothek"
 }

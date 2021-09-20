@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Bremen",
+    "city": "Hannover",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://vhweb.suub.uni-bremen.de",
-        "db": "1"
+        "baseurl": "https://vzlbs2.gbv.de",
+        "db": "57"
     },
     "geo": [
-        53.1081566,
-        8.8537933
+        52.3758916,
+        9.7320104
     ],
-    "information": "http://www.suub.uni-bremen.de/",
-    "library_id": 8874,
-    "state": "Bremen",
-    "title": "Staats- und Unibibliothek"
+    "information": "http://www.leibniz-fh.de/kontakt.html",
+    "library_id": 8981,
+    "state": "Niedersachsen",
+    "title": "Leibniz-FH"
 }

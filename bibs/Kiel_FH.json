@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Bremen",
+    "city": "Kiel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://vhweb.suub.uni-bremen.de",
-        "db": "1"
+        "baseurl": "https://katalog.ub.uni-kiel.de",
+        "db": "2"
     },
     "geo": [
-        53.1081566,
-        8.8537933
+        54.3232927,
+        10.1227652
     ],
-    "information": "http://www.suub.uni-bremen.de/",
-    "library_id": 8874,
-    "state": "Bremen",
-    "title": "Staats- und Unibibliothek"
+    "information": "http://www.fh-kiel.de/index.php?id=118",
+    "library_id": 9028,
+    "state": "Schleswig-Holstein",
+    "title": "Bibliothek der FH"
 }
