@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "adis",
-    "city": "Furtwangen",
+    "city": "Konstanz",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://bsz.ibs-bw.de/aDISWeb/app",
-        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23292"
+        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23142"
     },
     "geo": [
-        48.0501442,
-        8.2014192
+        47.6669878,
+        9.1705035
     ],
-    "information": "http://www.hs-furtwangen.de/willkommen/die-hochschule/zentrale-services/informations-und-medienzentrum/die-bibliotheken.html",
-    "library_id": 8940,
+    "information": "http://www.htwg-konstanz.de/Infos-zur-Bibliothek.99.0.html",
+    "library_id": 9039,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Hochschulbibliothek"
+    "title": "HTWG"
 }
