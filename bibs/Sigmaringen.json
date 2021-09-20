@@ -12,9 +12,12 @@
     "data": {
         "baseurl": "https://bibliothek.komm.one/sigmaringen",
         "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/schwalbe",
+        "onleihe_libraryId": "400",
         "urls": {
             "account": "Konto",
             "advanced_search": "Mediensuche/erweiterte-Suche",
+            "new_acq": "Neuerwerbungen",
             "simple_search": "Mediensuche/einfache-Suche"
         }
     },
