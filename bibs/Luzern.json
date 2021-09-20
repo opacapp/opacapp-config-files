@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Entlebuch",
+    "city": "Luzern",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/entlebuch"
+        "baseurl": "http://www.winmedio.net/bvl"
     },
     "geo": [
-        46.9932423,
-        8.0623496
+        47.0569654,
+        8.3109466
     ],
-    "information": "http://www.entlebuch.ch/xml_1/internet/de/application/d65/d553/f555.cfm",
-    "library_id": 8918,
+    "information": "http://www.bvl.ch/",
+    "library_id": 9064,
     "state": "Luzern",
-    "title": "Schul- und Gemeindebibliothek"
+    "title": "Stadtbibliothek / Bibliotheksverband"
 }
