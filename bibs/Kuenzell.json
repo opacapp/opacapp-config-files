@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "G\u00fcnzburg",
+    "city": "K\u00fcnzell",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/guenzburg",
+        "baseurl": "https://webopac.winbiap.de/kuenzell",
         "customssl": true
     },
     "geo": [
-        48.4547792,
-        10.27904
+        50.5356779,
+        9.7200616
     ],
-    "information": "http://host4.guenzburg.de/html/user_de_Kultur+Stadtbuecherei+Information.html",
-    "library_id": 3505,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.kuenzell.de/gemeindebuecherei-kuenzell-im-gemeindezentrum-kuenzell_4472.html",
+    "library_id": 4726,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

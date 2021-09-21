@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "G\u00fcnzburg",
+    "city": "Kirchseeon",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/guenzburg",
+        "baseurl": "https://webopac.winbiap.de/kirchseeon",
         "customssl": true
     },
     "geo": [
-        48.4547792,
-        10.27904
+        48.0719266,
+        11.8881543
     ],
-    "information": "http://host4.guenzburg.de/html/user_de_Kultur+Stadtbuecherei+Information.html",
-    "library_id": 3505,
+    "information": "http://www.kirchseeon.de/index.php?id=0,53",
+    "library_id": 4445,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }
