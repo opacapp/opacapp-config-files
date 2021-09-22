@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Dreieich",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://http://www.stadtbuecherei-dreieich.de",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        50.02336,
+        8.68759
+    ],
+    "information": "http://www.stadtbuecherei-dreieich.de/c1476/default.html",
+    "library_id": 2378,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
+}
