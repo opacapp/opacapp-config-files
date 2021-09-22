@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Landquart",
+    "city": "Buchs",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/landquart"
+        "baseurl": "http://www.winmedio.net/buchs"
     },
     "geo": [
-        46.9677937,
-        9.556354
+        47.1656,
+        9.46865
     ],
-    "information": "http://www.bibliothek-landquart.ch/",
-    "library_id": 9330,
-    "state": "Graub\u00fcnden",
-    "title": "Bibliothek"
+    "information": "http://www.bibliothek-buchs.ch/",
+    "library_id": 8881,
+    "state": "St. Gallen",
+    "title": "Gemeindebibliothek"
 }

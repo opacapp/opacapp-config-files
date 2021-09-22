@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Landquart",
+    "city": "B\u00fclach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/landquart"
+        "baseurl": "http://www.bibliotheken-zh.ch/Buelach"
     },
     "geo": [
-        46.9677937,
-        9.556354
+        47.5198977,
+        8.5381102
     ],
-    "information": "http://www.bibliothek-landquart.ch/",
-    "library_id": 9330,
-    "state": "Graub\u00fcnden",
-    "title": "Bibliothek"
+    "information": "http://www.bibliothek-buelach.ch/xml_1/internet/de/intro.cfm",
+    "library_id": 8882,
+    "state": "Z\u00fcrich",
+    "title": "Stadtbibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Landquart",
+    "city": "Aarau",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/landquart"
+        "baseurl": "http://www.winmedio.net/aarau"
     },
     "geo": [
-        46.9677937,
-        9.556354
+        47.3924914,
+        8.0460447
     ],
-    "information": "http://www.bibliothek-landquart.ch/",
-    "library_id": 9330,
-    "state": "Graub\u00fcnden",
-    "title": "Bibliothek"
+    "information": "http://www.stadtbibliothekaarau.ch/xml_1/internet/de/intro.cfm",
+    "library_id": 8818,
+    "state": "Aargau",
+    "title": "Stadtbibliothek"
 }

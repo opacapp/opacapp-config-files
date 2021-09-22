@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Landquart",
+    "city": "Burgdorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/landquart"
+        "baseurl": "http://www.winmedio.net/burgdorf"
     },
     "geo": [
-        46.9677937,
-        9.556354
+        47.0578381,
+        7.620387
     ],
-    "information": "http://www.bibliothek-landquart.ch/",
-    "library_id": 9330,
-    "state": "Graub\u00fcnden",
-    "title": "Bibliothek"
+    "information": "http://www.burgdorf.ch/bibliothek.html",
+    "library_id": 8885,
+    "state": "Bern",
+    "title": "Stadtbibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Landquart",
+    "city": "D\u00fcdingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/landquart"
+        "baseurl": "http://www.winmedio.net/duedingen"
     },
     "geo": [
-        46.9677937,
-        9.556354
+        46.8481195,
+        7.1915796
     ],
-    "information": "http://www.bibliothek-landquart.ch/",
-    "library_id": 9330,
-    "state": "Graub\u00fcnden",
+    "information": "http://www.duedingen.ch/kultur-sport-freizeit/bibliothek/index.html",
+    "library_id": 8905,
+    "state": "Freiburg",
     "title": "Bibliothek"
 }

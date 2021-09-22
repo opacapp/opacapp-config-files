@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Landquart",
+    "city": "Dietikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/landquart"
+        "baseurl": "http://www.bibliotheken-zh.ch/Dietikon"
     },
     "geo": [
-        46.9677937,
-        9.556354
+        47.4029025,
+        8.3988207
     ],
-    "information": "http://www.bibliothek-landquart.ch/",
-    "library_id": 9330,
-    "state": "Graub\u00fcnden",
-    "title": "Bibliothek"
+    "information": "http://www.dietikon.ch/de/verwaltung/unterinstanzen/?amt_id=8239",
+    "library_id": 8899,
+    "state": "Z\u00fcrich",
+    "title": "Stadtbibliothek"
 }

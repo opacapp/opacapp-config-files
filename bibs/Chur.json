@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Landquart",
+    "city": "Chur",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/landquart"
+        "baseurl": "http://www.bibliotheken-gr.ch/Chur"
     },
     "geo": [
-        46.9677937,
-        9.556354
+        46.8507835,
+        9.5319859
     ],
-    "information": "http://www.bibliothek-landquart.ch/",
-    "library_id": 9330,
+    "information": "http://www.stadtbibliothekchur.ch/",
+    "library_id": 8888,
     "state": "Graub\u00fcnden",
-    "title": "Bibliothek"
+    "title": "Stadtbibliothek"
 }

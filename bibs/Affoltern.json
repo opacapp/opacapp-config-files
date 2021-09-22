@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Landquart",
+    "city": "Affoltern",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/landquart"
+        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
     },
     "geo": [
-        46.9677937,
-        9.556354
+        47.2775064,
+        8.4503277
     ],
-    "information": "http://www.bibliothek-landquart.ch/",
-    "library_id": 9330,
-    "state": "Graub\u00fcnden",
-    "title": "Bibliothek"
+    "information": "http://www.bibliothek-affoltern.ch/",
+    "library_id": 8821,
+    "state": "Z\u00fcrich",
+    "title": "Regionalbibliothek"
 }
