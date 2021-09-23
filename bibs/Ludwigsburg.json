@@ -12,7 +12,6 @@
     "data": {
         "baseurl": "https://arena.stabi-ludwigsburg.de/web/arena",
         "libopacplus": true,
-        "newacq": "/neue-medien",
         "onleihe": "https://www.onleihe.de/lb",
         "onleihe_libraryId": "76"
     },
