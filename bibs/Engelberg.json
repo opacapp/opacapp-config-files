@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Engelberg",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.winmedio.net/engelberg"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        46.8199317,
+        8.4069869
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.gde-engelberg.ch/de/bildung/bibliothekfs/",
+    "library_id": 8917,
+    "state": "Obwalden",
+    "title": "Schul- und Gemeindebibliothek"
 }

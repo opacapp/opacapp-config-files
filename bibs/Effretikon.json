@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Effretikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Effretikon"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.4272822,
+        8.6903753
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.bibliotheksverein.ch/effretikon/",
+    "library_id": 8910,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

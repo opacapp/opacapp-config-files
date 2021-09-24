@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Horgen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Horgen"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.2570654,
+        8.596906
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.horgen.ch/de/bildunggesellschaft/bildung/bibliotheken/",
+    "library_id": 9005,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Greifensee",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Greifensee"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.3675699,
+        8.6847529
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.greifensee.ch/de/bildung/bildungbibliothek/",
+    "library_id": 8956,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

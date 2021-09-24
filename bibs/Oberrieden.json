@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Oberrieden",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Oberrieden"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.2752898,
+        8.5771906
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.oberrieden.ch/leben_in_oberrieden/kultur/bibliothek",
+    "library_id": 9124,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

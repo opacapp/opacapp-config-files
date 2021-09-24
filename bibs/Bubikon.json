@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Bubikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Bubikon"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.267935,
+        8.8185296
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.schule-bubikon.ch/p22001869.html",
+    "library_id": 8879,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

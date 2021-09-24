@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Oberglatt",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Oberglatt"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.475151,
+        8.5183378
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.oberglatt.ch/de/bildung/bibliotheken/",
+    "library_id": 9123,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

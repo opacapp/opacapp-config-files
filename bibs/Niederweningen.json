@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Niederweningen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Niederweningen"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.5044456,
+        8.3770777
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.mediothek-niederweningen.ch/",
+    "library_id": 9114,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

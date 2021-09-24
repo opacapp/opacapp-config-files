@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "N\u00e4nikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Naenikon"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.3693646,
+        8.6893138
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.naenikon.ch/freizeit/bibliothek/bibliothek.htm",
+    "library_id": 9105,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Grenchen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.winmedio.net/grenchen"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.193585,
+        7.3954451
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.grenchen.ch/de/verwaltung/aemter/?amt_id=5399",
+    "library_id": 8958,
+    "state": "Solothurn",
+    "title": "Stadtbibliothek"
 }

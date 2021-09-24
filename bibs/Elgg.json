@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Elgg",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Elgg"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.4985,
+        8.86332
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.schule-elgg.ch/p152000946.html",
+    "library_id": 8912,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

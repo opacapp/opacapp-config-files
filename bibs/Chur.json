@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Chur",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-gr.ch/Chur"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        46.8507835,
+        9.5319859
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.stadtbibliothekchur.ch/",
+    "library_id": 8888,
+    "state": "Graub\u00fcnden",
+    "title": "Stadtbibliothek"
 }

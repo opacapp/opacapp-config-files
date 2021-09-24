@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Hedingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hedingen"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.29779,
+        8.44669
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.bibliothek-hedingen.ch/page/bib.php",
+    "library_id": 8987,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

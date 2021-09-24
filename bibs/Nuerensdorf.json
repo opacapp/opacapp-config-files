@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "N\u00fcrensdorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.winmedio.net/nuerensdorf"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.447,
+        8.64935
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.nuerensdorf.ch/de/freizeit_kultur/bibliothek.html",
+    "library_id": 9117,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Meilen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Meilen"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.269389,
+        8.6437363
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.meilen.ch/de/freizeit/bibliothek/",
+    "library_id": 9078,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

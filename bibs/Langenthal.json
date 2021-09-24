@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "Langenthal",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.winmedio.net/langenthal"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.2139734,
+        7.7847334
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
+    "information": "http://www.bibliothek-langenthal.ch/de/",
+    "library_id": 9044,
     "state": "Bern",
-    "title": "Gemeindebibliothek"
+    "title": "Bibliothek"
 }

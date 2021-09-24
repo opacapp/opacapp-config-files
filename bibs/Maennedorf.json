@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Belp",
+    "city": "M\u00e4nnedorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/belp"
+        "baseurl": "http://www.bibliotheken-zh.ch/Maennedorf"
     },
     "geo": [
-        46.8927297,
-        7.4981
+        47.2549491,
+        8.7008502
     ],
-    "information": "http://www.belp.ch/kultur-freizeit-und-sport/freizeit/gemeindebibliothek.html",
-    "library_id": 8843,
-    "state": "Bern",
+    "information": "http://www.maennedorf.ch/schule/de/bibliothek/",
+    "library_id": 9066,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
