@@ -1,0 +1,30 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.bremen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Bremen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.stabi-hb.de/webOPACClient",
+        "customssl": true,
+        "feedurl": "http://www.stadtbibliothek-bremen.de/rss/Aktuelles_aus_der_Stadtbibliothek.xml",
+        "libopacplus": true,
+        "onleihe": "https://www1.onleihe.de/bremen",
+        "onleihe_libraryId": "14",
+        "onleihe_singleLibrary": "yes",
+        "startparams": "sourceid=ConQuery&Login=app"
+    },
+    "geo": [
+        53.073553,
+        8.8126989
+    ],
+    "information": "https://www.stabi-hb.de/standorte",
+    "library_id": 61,
+    "state": "Bremen",
+    "title": "Stadtbibliothek"
+}
