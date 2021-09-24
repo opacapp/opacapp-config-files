@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Markt Schwaben",
+    "city": "Haar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/marktschwaben",
+        "baseurl": "https://webopac.winbiap.net/haar",
         "customssl": true
     },
     "geo": [
-        48.1910381,
-        11.8676681
+        48.1103758,
+        11.7321151
     ],
-    "information": "http://www.markt-schwaben.de/index.php?id=0,32",
-    "library_id": 5251,
+    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
+    "library_id": 3513,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }
