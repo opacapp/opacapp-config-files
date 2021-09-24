@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Schongau",
+    "city": "Geltendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/schongau",
+        "baseurl": "https://webopac.winbiap.de/geltendorf",
         "customssl": true
     },
     "geo": [
-        47.81588,
-        10.89727
+        48.1169151,
+        11.0328009
     ],
-    "information": "http://www.buecherei-muenztor.de/die-buecherei/oeffnungszeiten/",
-    "library_id": 7054,
+    "information": "http://www.geltendorf.de/index.php?id=287,57",
+    "library_id": 3174,
     "state": "Bayern",
-    "title": "B\u00fccherei am M\u00fcnztor"
+    "title": "Gemeindeb\u00fccherei"
 }

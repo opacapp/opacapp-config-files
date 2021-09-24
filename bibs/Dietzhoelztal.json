@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Schongau",
+    "city": "Dietzh\u00f6lztal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/schongau",
+        "baseurl": "https://webopac.winbiap.net/dietzhoelztal",
         "customssl": true
     },
     "geo": [
-        47.81588,
-        10.89727
+        50.833333,
+        8.316667
     ],
-    "information": "http://www.buecherei-muenztor.de/die-buecherei/oeffnungszeiten/",
-    "library_id": 7054,
-    "state": "Bayern",
-    "title": "B\u00fccherei am M\u00fcnztor"
+    "information": "http://www.dietzhoelztal.de/pages/rathaus/verwaltung.php",
+    "library_id": 2271,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

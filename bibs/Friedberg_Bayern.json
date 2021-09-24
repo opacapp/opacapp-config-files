@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Schongau",
+    "city": "Friedberg/Bay",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/schongau",
+        "baseurl": "https://webopac.winbiap.de/friedberg",
         "customssl": true
     },
     "geo": [
-        47.81588,
-        10.89727
+        48.3559766,
+        10.9865457
     ],
-    "information": "http://www.buecherei-muenztor.de/die-buecherei/oeffnungszeiten/",
-    "library_id": 7054,
+    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
+    "library_id": 2999,
     "state": "Bayern",
-    "title": "B\u00fccherei am M\u00fcnztor"
+    "title": "Stadtb\u00fccherei"
 }
