@@ -7,22 +7,22 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "primo",
-    "city": "Duisburg",
+    "city": "Leipzig",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://primo.ub.uni-due.de/primo_library/libweb",
-        "db": "UDE",
+        "baseurl": "http://kapri.htwk-leipzig.de/primo_library/libweb",
+        "db": "49LEIPHTWK_VU1",
         "languages": [
             "de",
             "en"
         ]
     },
     "geo": [
-        51.4272399,
-        6.8000053
+        51.3396955,
+        12.3730747
     ],
-    "information": "http://www.uni-due.de/ub",
-    "library_id": 8907,
-    "state": "Nordrhein-Westfalen",
-    "title": "UB Duisburg-Essen"
+    "information": "http://www.htwk-leipzig.de/de/biblio/",
+    "library_id": 9049,
+    "state": "Sachsen",
+    "title": "HTWK"
 }

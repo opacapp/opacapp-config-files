@@ -7,22 +7,22 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "primo",
-    "city": "Duisburg",
+    "city": "Mannheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://primo.ub.uni-due.de/primo_library/libweb",
-        "db": "UDE",
+        "baseurl": "http://primo.bib.uni-mannheim.de/primo_library/libweb",
+        "db": "MAN_UB",
         "languages": [
             "de",
             "en"
         ]
     },
     "geo": [
-        51.4272399,
-        6.8000053
+        49.4874592,
+        8.4660395
     ],
-    "information": "http://www.uni-due.de/ub",
-    "library_id": 8907,
-    "state": "Nordrhein-Westfalen",
-    "title": "UB Duisburg-Essen"
+    "information": "http://www.bib.uni-mannheim.de/",
+    "library_id": 9073,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Unibibliothek"
 }

@@ -7,22 +7,22 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "primo",
-    "city": "Duisburg",
-    "country": "Deutschland",
+    "city": "Innsbruck",
+    "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://primo.ub.uni-due.de/primo_library/libweb",
-        "db": "UDE",
+        "baseurl": "https://bibsearch.uibk.ac.at/primo_library/libweb",
+        "db": "UIB",
         "languages": [
             "de",
             "en"
         ]
     },
     "geo": [
-        51.4272399,
-        6.8000053
+        47.2642707,
+        11.3857222
     ],
-    "information": "http://www.uni-due.de/ub",
-    "library_id": 8907,
-    "state": "Nordrhein-Westfalen",
-    "title": "UB Duisburg-Essen"
+    "information": "http://www.uibk.ac.at/ulb/",
+    "library_id": 9015,
+    "state": "Tirol",
+    "title": "ULB"
 }
