@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Bitterfeld-Wolfen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bitterfeld-wolfen.internetopac.de",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 5,
+            "status": 3
+        },
+        "customssl": true
+    },
+    "geo": [
+        51.623727,
+        12.328924
+    ],
+    "information": "http://www.bitterfeld-wolfen.de/de/wisl_s-cms/_redaktionell/57/Bibliothek.html",
+    "library_id": 8431,
+    "state": "Sachsen-Anhalt",
+    "title": "Stadtbibliothek"
+}
