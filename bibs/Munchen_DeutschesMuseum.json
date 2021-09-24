@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Augsburg",
+    "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://dmmoz2.bib-bvb.de/webOPACClient.dmmsis",
+        "startparams": "Login=wodmm"
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        48.1298707,
+        11.5834522
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://www.deutsches-museum.de/bibliothek/",
+    "library_id": 9099,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Deutsches Museum"
 }

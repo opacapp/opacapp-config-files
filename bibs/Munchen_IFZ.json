@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Augsburg",
+    "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://opac.ifz-muenchen.de/webOPACClient.ifzsis"
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        48.1351253,
+        11.5819806
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://www.ifz-muenchen.de/bibliothek/",
+    "library_id": 9100,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Institut f\u00fcr Zeitgeschichte"
 }

@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Augsburg",
+    "api": "winbiap",
+    "city": "Bad Kissingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "customssl": true
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        50.2008463,
+        10.0765115
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
+    "library_id": 1275,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

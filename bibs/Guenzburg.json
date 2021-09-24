@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Augsburg",
+    "api": "winbiap",
+    "city": "G\u00fcnzburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://webopac.winbiap.net/guenzburg",
+        "customssl": true
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        48.4547792,
+        10.27904
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://host4.guenzburg.de/html/user_de_Kultur+Stadtbuecherei+Information.html",
+    "library_id": 3505,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

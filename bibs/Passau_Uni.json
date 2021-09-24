@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Augsburg",
+    "city": "Passau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://infoguide.ub.uni-passau.de/InfoGuideClient.upasis",
+        "startparams": "Login=igupa"
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        48.5667364,
+        13.4319466
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://www.ub.uni-passau.de/?id=6261",
+    "library_id": 9136,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Unibibliothek"
 }

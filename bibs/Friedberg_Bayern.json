@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Augsburg",
+    "api": "winbiap",
+    "city": "Friedberg/Bay",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://webopac.winbiap.de/friedberg",
+        "customssl": true
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        48.3559766,
+        10.9865457
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
+    "library_id": 2999,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

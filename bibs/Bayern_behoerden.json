@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Augsburg",
+    "city": "Bibliotheksverbund",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis"
     },
     "geo": [
-        48.3692816,
-        10.8951371
+        53.0792962,
+        8.8016937
     ],
-    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
-    "library_id": 8608,
+    "information": "http://www.bib-bvb.de/",
+    "library_id": 8840,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Beh\u00f6rdenbibliotheken"
 }
