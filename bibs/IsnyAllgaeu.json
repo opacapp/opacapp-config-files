@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "Isny",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,20 +16,22 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "http://www.buecherei-isny.de",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
             "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
-        "customssl": true,
         "mediatypes": {
+            "DIGs.gif": "EBOOK",
+            "MUN.gif": "EDOC",
+            "Spiele.gif": "BOARDGAME",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "mFilmS.gif": "MOVIE",
+            "monooS.gif": "BOOK"
         },
         "reservationtable": {
             "author": 0,
@@ -39,11 +41,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        47.6949747,
+        10.0419676
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
-    "state": "Sachsen",
-    "title": "Mediothek"
+    "information": "http://www.buecherei-isny.de",
+    "library_id": 4176,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
 }

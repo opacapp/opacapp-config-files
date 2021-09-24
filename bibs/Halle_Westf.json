@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "Halle (Westfalen)",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,11 +25,13 @@
             "returndate": 5,
             "status": 3
         },
-        "customssl": true,
+        "db": "halle",
         "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "cdkl.gif": "CD",
+            "dvdkl.gif": "DVD",
+            "eMediumkl.gif": "EBOOK",
+            "kassettekl.gif": "AUDIO_CASSETTE",
+            "videokl.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -39,11 +41,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        52.06073,
+        8.36397
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
-    "state": "Sachsen",
-    "title": "Mediothek"
+    "information": "http://www.hallewestfalen.org/staticsite/staticsite.php?menuid=346&topmenu=336",
+    "library_id": 3570,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "G\u00f6rlitz",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "http://webopac1.goerlitz.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,7 +25,6 @@
             "returndate": 5,
             "status": 3
         },
-        "customssl": true,
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
@@ -39,11 +38,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        51.1534121,
+        14.9782675
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
+    "information": "http://www.stadtbibliothek.goerlitz.de/",
+    "library_id": 8676,
     "state": "Sachsen",
-    "title": "Mediothek"
+    "title": "Stadtbibliothek"
 }
