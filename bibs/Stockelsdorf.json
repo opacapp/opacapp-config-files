@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Stockelsdorf \u00fcber L\u00fcbeck",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://katalog.buecherei-stockelsdorf.de"
+    },
+    "geo": [
+        53.8949953,
+        10.6478635
+    ],
+    "information": "http://www.buecherei-stockelsdorf.de/",
+    "library_id": 7482,
+    "state": "Schleswig-Holstein",
+    "title": "Gemeindeb\u00fccherei"
+}
