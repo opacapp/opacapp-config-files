@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "touchpoint",
+    "city": "Erlangen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.katalog.fau.de/TouchPoint",
+        "customssl": true,
+        "startparams": "View=uer&Language=de&Branch=0"
+    },
+    "geo": [
+        49.5978804,
+        11.0045507
+    ],
+    "information": "http://www.ub.uni-erlangen.de/ub/oeffnungszeiten/",
+    "library_id": 8921,
+    "state": "Bayern",
+    "title": "Universit\u00e4tsbibliothek"
+}

@@ -1,0 +1,30 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Weil/Rh.",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliotheken.kivbf.de/weil-am-rhein",
+        "customssl": true,
+        "libopacplus": true,
+        "urls": {
+            "account": "Konto-und-Verl\u00e4ngerung/Mein-Bibliothekskonto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        47.59495,
+        7.61085
+    ],
+    "information": "http://www.weil-am-rhein.de/pb/stadt,Lde/Home/Kultur+_+Freizeit/Stadtbibliothek.html",
+    "library_id": 8139,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
