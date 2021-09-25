@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Langnau am Albis",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.winmedio.net/langnau-am-albis"
+    },
+    "geo": [
+        47.2880053,
+        8.5365507
+    ],
+    "information": "http://www.langnauamalbis.ch/de/bildung/bibliotheken/?action=showbibi&bibi_id=92",
+    "library_id": 9045,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}
