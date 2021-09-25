@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Bergheim/Erft",
+    "city": "Dessau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.stadtbibliothek.bergheim.de",
+        "baseurl": "http://www.bibliothek.dessau-rosslau.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        50.9543619,
-        6.6410039
+        51.8355529,
+        12.2472116
     ],
-    "information": "https://bergheim.bibliotheca-open.de/mobile/InfoKontakt.aspx",
-    "library_id": 8614,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.bibliothek.dessau-rosslau.de/Informationen.aspx",
+    "library_id": 8647,
+    "state": "Sachsen-Anhalt",
+    "title": "Anhaltische Landesb\u00fccherei"
 }

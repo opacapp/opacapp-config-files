@@ -7,21 +7,24 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Bergheim/Erft",
+    "city": "Herrenberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.stadtbibliothek.bergheim.de",
+        "baseurl": "https://bibliothek.komm.one/herrenberg",
+        "customssl": true,
         "urls": {
+            "account": "Konto.aspx",
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "new_acq": "NeueMedien.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        50.9543619,
-        6.6410039
+        48.59424,
+        8.8731
     ],
-    "information": "https://bergheim.bibliotheca-open.de/mobile/InfoKontakt.aspx",
-    "library_id": 8614,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.stadtbibliothek.herrenberg.de/",
+    "library_id": 22,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtbibliothek"
 }
