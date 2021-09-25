@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Niederhasli",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Niederhasli"
+    },
+    "geo": [
+        47.4815538,
+        8.4918366
+    ],
+    "information": "http://www.mediothek-niederhasli.ch/",
+    "library_id": 9112,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}
