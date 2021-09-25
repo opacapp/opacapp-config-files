@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "adis",
+    "city": "D\u00fcsseldorf",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.itk-rheinland.de/aDISWeb/app",
+        "customssl": true,
+        "customssl_all_ciphersuites": true,
+        "customssl_tlsonly": true,
+        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23072"
+    },
+    "geo": [
+        51.21898,
+        6.79654
+    ],
+    "information": "http://www.duesseldorf.de/stadtbuechereien/",
+    "library_id": 8656,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fcchereien"
+}
