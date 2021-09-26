@@ -1,0 +1,51 @@
+{
+    "_active": true,
+    "_notice_text": "Die Stadtb\u00fccherei kann aktuell nur mit den 3G-Regelungen besucht werden! Weitere Infos finden Sie auf unserer Webseite: www.stadtbuecherei.winnenden.de",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Winnenden",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "barcode": -1,
+            "prolongurl": 3,
+            "returndate": 2,
+            "status": -1,
+            "title": 1
+        },
+        "baseurl": "https://wwwopac.komm.one/winnenden",
+        "copiestable": {
+            "branch": -1,
+            "department": 1,
+            "location": 2,
+            "reservations": 5,
+            "returndate": 4,
+            "status": 3
+        },
+        "libopacplus": "true",
+        "mediatypes": {
+            "ebook.gif": "EBOOK"
+        },
+        "onleihe": "https://www.onleihe.de/rems-murr",
+        "onleihe_libraryId": "1094",
+        "reservationtable": {
+            "author": 0,
+            "cancelurl": 3,
+            "expirationdate": 2,
+            "title": 1
+        }
+    },
+    "geo": [
+        48.8759498,
+        9.4006842
+    ],
+    "information": "https://info.opacapp.de/winnenden.html",
+    "library_id": 8379,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}
