@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Osterburg/Altm.",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://80.153.188.140:9080"
+    },
+    "geo": [
+        52.796603,
+        11.7590229
+    ],
+    "information": "http://bibliothek.osterburg.de/",
+    "library_id": 6201,
+    "state": "Sachsen-Anhalt",
+    "title": "Stadt- und Kreisbibliothek Osterburg-Stendal"
+}
