@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Geltendorf",
+    "city": "K\u00fcnzell",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/geltendorf",
+        "baseurl": "https://webopac.winbiap.de/kuenzell",
         "customssl": true
     },
     "geo": [
-        48.1169151,
-        11.0328009
+        50.5356779,
+        9.7200616
     ],
-    "information": "http://www.geltendorf.de/index.php?id=287,57",
-    "library_id": 3174,
-    "state": "Bayern",
+    "information": "http://www.kuenzell.de/gemeindebuecherei-kuenzell-im-gemeindezentrum-kuenzell_4472.html",
+    "library_id": 4726,
+    "state": "Hessen",
     "title": "Gemeindeb\u00fccherei"
 }
