@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Hall",
+    "city": "Innsbruck",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.hall.web-opac.at"
+        "baseurl": "http://www.aktirol.web-opac.at"
     },
     "geo": [
-        47.2811987,
-        11.5065928
+        47.2622403,
+        11.0
     ],
-    "information": "http://www.hall-in-tirol.at",
-    "library_id": 8963,
+    "information": "http://www.aktirol.web-opac.at",
+    "library_id": 9011,
     "state": "Tirol",
-    "title": "Stadtb\u00fccherei Hall in Tirol"
+    "title": "AK-Bibliothek"
 }

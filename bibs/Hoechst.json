@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Hall",
+    "city": "H\u00f6chst",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.hall.web-opac.at"
+        "baseurl": "http://www.buecherei-hoechst.web-opac.at"
     },
     "geo": [
-        47.2811987,
-        11.5065928
+        47.4610692,
+        9.6347067
     ],
-    "information": "http://www.hall-in-tirol.at",
-    "library_id": 8963,
-    "state": "Tirol",
-    "title": "Stadtb\u00fccherei Hall in Tirol"
+    "information": "http://www.hoechst.bvoe.at",
+    "library_id": 9002,
+    "state": "Vorarlberg",
+    "title": "B\u00fccherei Spielothek"
 }

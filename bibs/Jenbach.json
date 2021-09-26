@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Hall",
+    "city": "Jenbach",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.hall.web-opac.at"
+        "baseurl": "http://www.jenbuch.web-opac.at"
     },
     "geo": [
-        47.2811987,
-        11.5065928
+        47.3911103,
+        11.7729904
     ],
-    "information": "http://www.hall-in-tirol.at",
-    "library_id": 8963,
+    "information": "http://www.facebook.com/buecherei.jen.buch",
+    "library_id": 9020,
     "state": "Tirol",
-    "title": "Stadtb\u00fccherei Hall in Tirol"
+    "title": "Markt- und Schulb\u00fccherei jen.buch"
 }
