@@ -1,24 +1,24 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Hannover",
+    "city": "G\u00f6ttingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.tib.eu",
-        "db": "3"
+        "baseurl": "https://opac.sub.uni-goettingen.de",
+        "db": "1"
     },
     "geo": [
-        52.3652968,
-        9.7308807
+        51.540116,
+        9.934258
     ],
-    "information": "http://www.gwlb.de/",
-    "library_id": 8980,
+    "information": "http://www.sub.uni-goettingen.de/sub-aktuell/",
+    "library_id": 8953,
     "state": "Niedersachsen",
-    "title": "Nieders\u00e4chsische Landesbibliothek"
+    "title": "Unibibliothek"
 }

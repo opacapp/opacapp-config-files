@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Hannover",
+    "city": "Giessen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.tib.eu",
-        "db": "3"
+        "baseurl": "https://opac.uni-giessen.de",
+        "db": "1"
     },
     "geo": [
-        52.3652968,
-        9.7308807
+        50.57617,
+        8.6952601
     ],
-    "information": "http://www.gwlb.de/",
-    "library_id": 8980,
-    "state": "Niedersachsen",
-    "title": "Nieders\u00e4chsische Landesbibliothek"
+    "information": "http://www.uni-giessen.de/ub/rnavi/standorte",
+    "library_id": 8948,
+    "state": "Hessen",
+    "title": "Unibibliothek"
 }
