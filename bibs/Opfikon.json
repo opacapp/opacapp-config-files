@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Schaffhausen",
+    "api": "webopac.net",
+    "city": "Opfikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "https://webopac.bibliotheken-schaffhausen.ch/TouchPoint_touchpoint"
+        "baseurl": "http://www.bibliotheken-zh.ch/Opfikon"
     },
     "geo": [
-        47.6969,
-        8.63569
+        47.4313,
+        8.57488
     ],
-    "information": "http://bibliotheken-schaffhausen.ch/",
-    "library_id": 9165,
-    "state": "Schaffhausen",
+    "information": "http://www.stadtbibliothekopfikon.ch/de/",
+    "library_id": 9129,
+    "state": "Z\u00fcrich",
     "title": "Stadtbibliothek"
 }
