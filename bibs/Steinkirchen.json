@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Steinkirchen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://steinkirchen.iopac.de"
+    },
+    "geo": [
+        53.56944,
+        9.60536
+    ],
+    "information": "http://www.buecherei-steinkirchen.de/",
+    "library_id": 7465,
+    "state": "Niedersachsen",
+    "title": "Gemeindeb\u00fccherei Steinkirchen-Gr\u00fcnendeich"
+}

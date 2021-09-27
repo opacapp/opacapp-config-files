@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Schweiz",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://recherche.nebis.ch/primo_library/libweb",
+        "db": "NEBIS",
+        "languages": [
+            "de",
+            "en",
+            "fr"
+        ]
+    },
+    "geo": [
+        47.374259,
+        8.5454616
+    ],
+    "information": "https://www.nebis.ch/fr/bibliotheques/",
+    "library_id": 9351,
+    "state": "Schweiz",
+    "title": "NEBIS (Netzwerk von Bibliotheken und Informationsstellen in der Schweiz)"
+}
