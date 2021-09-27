@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Mering",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://opac.winbiap.net/mering",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        48.267719,
+        10.984637
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://vg-mering.de/staticsite/staticsite.php?menuid=202&topmenu=49&keepmenu=inactive",
+    "library_id": 5359,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

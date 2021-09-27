@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Bad Kissingen",
+    "api": "sisis",
+    "city": "Leinfelden-Echterdingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://www.le-extranet.de/webOPACClient",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        48.6980072,
+        9.1407427
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
+    "information": "http://www.leinfelden-echterdingen.de/servlet/PB/menu/1217292_l1/index.html",
+    "library_id": 4909,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
 }

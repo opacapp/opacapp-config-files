@@ -1,24 +1,24 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Plettenberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.citkomm.de/plettenberg",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        51.21463,
+        7.87439
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
+    "information": "http://www.stadtbuecherei-plettenberg.de/",
+    "library_id": 6373,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "M\u00fchldorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/muehldorf",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        48.2417,
+        12.52699
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://buecherei.muehldorf.org/",
+    "library_id": 5539,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtb\u00fccherei im Kornkasten"
 }

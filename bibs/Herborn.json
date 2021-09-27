@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Herborn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
-        "customssl": true
+        "baseurl": "https://webopac.herborn.de"
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        50.6784088,
+        8.2997096
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
+    "information": "http://www.herborn.de/kultur/stadtbuecherei/",
+    "library_id": 3792,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Nittendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/nittendorf",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        49.02405,
+        11.95459
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.nittendorf.de/rathaus/?Buecherei&view=org&orgid=bfb04f7e-2325-49ea-bf11-cd229f088834",
+    "library_id": 5946,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Marktbibliothek"
 }

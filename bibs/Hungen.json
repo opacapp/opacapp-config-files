@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Hungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.net/hungenlich",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        50.4768,
+        8.89981
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
+    "information": "http://www.lich.de/kultur-bildung/stadtbibliothek/",
+    "library_id": 4057,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

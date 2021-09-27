@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Hassfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://opac.winbiap.net/hassfurt",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        50.0343812,
+        10.5169747
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.biz-hassfurt.de/",
+    "library_id": 3662,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Bibliotheks- und Informationszentrum (BIZ)"
 }

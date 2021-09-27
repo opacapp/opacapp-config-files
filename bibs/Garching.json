@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Bad Kissingen",
+    "api": "sisis",
+    "city": "Garching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
-        "customssl": true
+        "baseurl": "https://stgoz2.bib-bvb.de/webOPACClient.stgsis",
+        "startparams": "Login=wostg"
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        48.2488721,
+        11.6532477
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://stadtbuechereigarching.de/",
+    "library_id": 3097,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

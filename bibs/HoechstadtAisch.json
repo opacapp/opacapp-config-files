@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "H\u00f6chstadt/Aisch",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/hoechstadt",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        49.7095692,
+        10.8128359
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.fortuna-kulturfabrik.de/de/stadtbuecherei.html",
+    "library_id": 4020,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }
