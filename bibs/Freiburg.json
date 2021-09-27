@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": "Ab 16.8.2021 gilt: Die Hauptstelle am M\u00fcnsterplatz ist ge\u00f6ffnet f\u00fcr geimpfte, genesene und getestete Personen. Ausgenommen von der Testpflicht sind Kinder vor der Einschulung und Sch\u00fclerinnen und Sch\u00fcler.\r\nDienstag bis Freitag: 10 - 19 Uhr, Samstag 10 - 15 Uhr.\r\nBitte beachten Sie unsere Sommer\u00f6ffnungszeiten der Zweigstellen und des B\u00fccherbusses.\r\n***\r\nDie automatische Au\u00dfenr\u00fcckgabe in der Hauptstelle ist ge\u00f6ffnet:\r\n\r\n    Montag: 6 - 23 Uhr\r\n    Dienstag - Freitag: 6 - 10 Uhr, 19 - 23 Uhr\r\n    Samstag: 6 - 10 Uhr, 15 - 23 Uhr\r\n    Sonntag: 6 - 23\r\n***\r\nInfos zu unsere digitalen Angebote finden Sie unter www.stadtbibliothek.freiburg.de\r\nOnline-Bezahlung auf www.stadtbibliothek.freiburg.de ist m\u00f6glich - f\u00fcr die Freischaltung zur neuen Jahresgeb\u00fchr kontaktieren Sie uns unter 0761 / 201-2207 oder stadtbibliothek@stadt.freiburg.de",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.freiburg",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Freiburg (Breisgau)",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.stadtbibliothek.freiburg.de/webOPACClient",
+        "libopacplus": true,
+        "onleihe": "http://www3.onleihe.de/freiburg",
+        "onleihe_libraryId": "145",
+        "onleihe_singleLibrary": true,
+        "suppress_fee_warnings": true
+    },
+    "displayname": "Stadtbibliothek Freiburg",
+    "geo": [
+        47.9960214,
+        7.8532714
+    ],
+    "information": "https://info.opacapp.de/freiburg.html",
+    "library_id": 8668,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
