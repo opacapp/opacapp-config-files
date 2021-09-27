@@ -6,21 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "biber1992",
-    "city": "Bargteheide",
+    "api": "iopac",
+    "city": "Husum",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bargteheide.bibdia-hosts.de",
-        "opacdir": "opac",
-        "searchtable": [
-            1,
-            2,
-            3
-        ]
+        "baseurl": "https://iopac.stadtbibliothek-husum.de"
     },
-    "geo": null,
-    "information": "https://barbi636.jimdo.com/",
-    "library_id": 1433,
+    "geo": [
+        54.47522,
+        9.05577
+    ],
+    "information": "http://www.stadtbibliothek-husum.de/",
+    "library_id": 4060,
     "state": "Schleswig-Holstein",
     "title": "Stadtbibliothek"
 }
