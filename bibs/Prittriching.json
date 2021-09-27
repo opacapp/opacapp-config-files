@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Berlin",
+    "city": "Prittriching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/best-sabel",
+        "baseurl": "https://webopac.winbiap.net/prittriching",
         "customssl": true
     },
     "geo": [
-        52.51535,
-        13.41368
+        48.1979122,
+        10.925218
     ],
-    "information": "http://www.bsb-hochschule.de/Service/Bibliothek/Allgemeine_Informationen_zur_Bibliothek.php",
-    "library_id": 8842,
-    "state": "Berlin",
-    "title": "Best-Sabel-Hochschule"
+    "information": "http://s361800474.website-start.de/einrichtungen/b%C3%BCcherei/",
+    "library_id": 6424,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

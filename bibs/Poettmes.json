@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Berlin",
+    "city": "P\u00f6ttmes",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/best-sabel",
+        "baseurl": "https://webopac.winbiap.de/poettmes",
         "customssl": true
     },
     "geo": [
-        52.51535,
-        13.41368
+        48.583001,
+        11.0913163
     ],
-    "information": "http://www.bsb-hochschule.de/Service/Bibliothek/Allgemeine_Informationen_zur_Bibliothek.php",
-    "library_id": 8842,
-    "state": "Berlin",
-    "title": "Best-Sabel-Hochschule"
+    "information": "http://www.markt-poettmes.de/index.php?id=315,57",
+    "library_id": 6405,
+    "state": "Bayern",
+    "title": "Marktb\u00fccherei"
 }

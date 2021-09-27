@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Berlin",
+    "city": "Oberding",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/best-sabel",
+        "baseurl": "https://webopac.winbiap.net/oberding",
         "customssl": true
     },
     "geo": [
-        52.51535,
-        13.41368
+        48.3216584,
+        11.8463488
     ],
-    "information": "http://www.bsb-hochschule.de/Service/Bibliothek/Allgemeine_Informationen_zur_Bibliothek.php",
-    "library_id": 8842,
-    "state": "Berlin",
-    "title": "Best-Sabel-Hochschule"
+    "information": "http://www.vg-oberding.de/Oberding/buecherei/",
+    "library_id": 6021,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

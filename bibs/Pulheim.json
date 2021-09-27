@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Remscheid",
+    "city": "Pulheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.remscheid.de/webOPACClient.remscheid"
+        "baseurl": "http://173.212.235.246/webOPACClient"
     },
     "geo": [
-        51.1819294,
-        7.1893905
+        51.0184841,
+        6.7581365
     ],
-    "information": "http://www.remscheid.de/freizeit-und-kultur/bibliothek/bibliothek.php",
-    "library_id": 8760,
+    "information": "https://www.stadtbuecherei-pulheim.de/stb-kontakt/oeffnungszeiten/index.php",
+    "library_id": 8755,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

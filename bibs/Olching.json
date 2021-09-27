@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Berlin",
+    "city": "Olching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/best-sabel",
+        "baseurl": "https://webopac.winbiap.de/olching",
         "customssl": true
     },
     "geo": [
-        52.51535,
-        13.41368
+        48.20707,
+        11.3334755
     ],
-    "information": "http://www.bsb-hochschule.de/Service/Bibliothek/Allgemeine_Informationen_zur_Bibliothek.php",
-    "library_id": 8842,
-    "state": "Berlin",
-    "title": "Best-Sabel-Hochschule"
+    "information": "http://www.olching.de/index.php?id=306,55",
+    "library_id": 6154,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -1,23 +1,23 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Remscheid",
+    "city": "Oberhausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.remscheid.de/webOPACClient.remscheid"
+        "baseurl": "https://bibliothek.oberhausen.de/webOPACClient.sisis"
     },
     "geo": [
-        51.1819294,
-        7.1893905
+        51.4707876,
+        6.8527569
     ],
-    "information": "http://www.remscheid.de/freizeit-und-kultur/bibliothek/bibliothek.php",
-    "library_id": 8760,
+    "information": "http://www.oberhausen.de/0A1C46AD57614F1B8C5CD011AF1C5911.php",
+    "library_id": 8744,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtbibliothek"
 }

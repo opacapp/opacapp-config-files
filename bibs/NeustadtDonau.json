@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Berlin",
+    "city": "Neustadt/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/best-sabel",
+        "baseurl": "https://opac.winbiap.net/neustadt_donau",
         "customssl": true
     },
     "geo": [
-        52.51535,
-        13.41368
+        48.80948,
+        11.76439
     ],
-    "information": "http://www.bsb-hochschule.de/Service/Bibliothek/Allgemeine_Informationen_zur_Bibliothek.php",
-    "library_id": 8842,
-    "state": "Berlin",
-    "title": "Best-Sabel-Hochschule"
+    "information": "http://cms.neustadt-donau.de/default.aspx?tabid=7047",
+    "library_id": 5857,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
 }

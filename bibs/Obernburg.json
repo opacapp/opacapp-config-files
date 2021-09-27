@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Berlin",
+    "city": "Obernburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/best-sabel",
+        "baseurl": "https://webopac.winbiap.net/obernburg",
         "customssl": true
     },
     "geo": [
-        52.51535,
-        13.41368
+        49.8381779,
+        9.1323585
     ],
-    "information": "http://www.bsb-hochschule.de/Service/Bibliothek/Allgemeine_Informationen_zur_Bibliothek.php",
-    "library_id": 8842,
-    "state": "Berlin",
-    "title": "Best-Sabel-Hochschule"
+    "information": "http://www.stadtbuecherei-obernburg.de/",
+    "library_id": 6060,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
 }

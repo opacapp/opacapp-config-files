@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Remscheid",
+    "api": "winbiap",
+    "city": "Plettenberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.remscheid.de/webOPACClient.remscheid"
+        "baseurl": "https://webopac.citkomm.de/plettenberg",
+        "customssl": true
     },
     "geo": [
-        51.1819294,
-        7.1893905
+        51.21463,
+        7.87439
     ],
-    "information": "http://www.remscheid.de/freizeit-und-kultur/bibliothek/bibliothek.php",
-    "library_id": 8760,
+    "information": "http://www.stadtbuecherei-plettenberg.de/",
+    "library_id": 6373,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

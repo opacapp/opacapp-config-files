@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Berlin",
+    "city": "Niedernhausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/best-sabel",
+        "baseurl": "https://webopac.winbiap.net/niedernhausen",
         "customssl": true
     },
     "geo": [
-        52.51535,
-        13.41368
+        50.1632247,
+        8.3142131
     ],
-    "information": "http://www.bsb-hochschule.de/Service/Bibliothek/Allgemeine_Informationen_zur_Bibliothek.php",
-    "library_id": 8842,
-    "state": "Berlin",
-    "title": "Best-Sabel-Hochschule"
+    "information": "http://www.niedernhausen.de/w3a/cms/Bildung/Gemeindebuecherei/index.143248.html",
+    "library_id": 5915,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }
