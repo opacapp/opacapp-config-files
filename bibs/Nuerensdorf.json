@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Buchs",
+    "city": "N\u00fcrensdorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/buchs"
+        "baseurl": "http://www.winmedio.net/nuerensdorf"
     },
     "geo": [
-        47.1656,
-        9.46865
+        47.447,
+        8.64935
     ],
-    "information": "http://www.bibliothek-buchs.ch/",
-    "library_id": 8881,
-    "state": "St. Gallen",
+    "information": "http://www.nuerensdorf.ch/de/freizeit_kultur/bibliothek.html",
+    "library_id": 9117,
+    "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
