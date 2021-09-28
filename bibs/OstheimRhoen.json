@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Ostheim v.d. Rh\u00f6n",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.net/ostheim",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        50.4608058,
+        10.2305055
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.ostheim.de/internet/index.php?page=12485",
+    "library_id": 6218,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Stadtb\u00fccherei"
 }

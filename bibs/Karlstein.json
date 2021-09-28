@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Karlstein a. Main",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.net/karlstein",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        50.048889,
+        9.018333
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.dettelbach.de/sites/gensite.asp?SID=cms140820140824258373224&Art=01720&C=2",
+    "library_id": 4316,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Gemeindebibliothek"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "touchpoint",
-    "city": "Bayreuth",
+    "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
-        "customssl": true
+        "baseurl": "https://opac.bib.hm.edu/TouchPoint",
+        "startparams": "View=fhm&Branch=0"
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        48.1367203,
+        11.576754
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.bib.hm.edu/aktuelles/index.de.html",
+    "library_id": 9093,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Hochschulbibliothek"
 }

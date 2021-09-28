@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Heroldsberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.net/heroldsberg",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        49.5323509,
+        11.1540547
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.heroldsberg.de/kultur-und-bildung/gemeindebuecherei",
+    "library_id": 3808,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Gemeindeb\u00fccherei im B\u00fcrgerzentrum"
 }

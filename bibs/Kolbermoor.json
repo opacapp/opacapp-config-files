@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Kolbermoor",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.net/kolbermoor",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        47.8483311,
+        12.0611921
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.stadt-kolbermoor.de/index.php?option=com_content&task=view&id=154&Itemid=195",
+    "library_id": 4513,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Stadtb\u00fccherei"
 }

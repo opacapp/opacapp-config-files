@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "H\u00f6chberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.de/hoechberg",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        49.7802703,
+        9.8757167
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.hoechberg.de/sites/gensite.asp?SID=cms190820141713396817132&Art=0429",
+    "library_id": 4015,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Bibliothek"
 }

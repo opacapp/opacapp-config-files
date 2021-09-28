@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Frammersbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.de/frammersbach",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        50.0621954,
+        9.4724531
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.frammersbach.de/Sites/gensite.asp?SID=cms19082014164845791437&Art=0348",
+    "library_id": 2923,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Haar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.net/haar",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        48.1103758,
+        11.7321151
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
+    "library_id": 3513,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

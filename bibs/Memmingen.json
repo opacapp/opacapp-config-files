@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Memmingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://bibliothek.memmingen.de",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        47.9837999,
+        10.1801883
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "https://www.memmingen.de/stadtbibliothek.html",
+    "library_id": 5345,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Stadtbibliothek"
 }

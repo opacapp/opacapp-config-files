@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "P\u00f6ttmes",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.de/poettmes",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        48.583001,
+        11.0913163
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.markt-poettmes.de/index.php?id=315,57",
+    "library_id": 6405,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Marktb\u00fccherei"
 }

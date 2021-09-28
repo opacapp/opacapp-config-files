@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Mertingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.de/mertingen",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        48.6571023,
+        10.8058245
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.mertingen.de/index.php/mertingen/Rathaus-Verwaltung/Buecherei",
+    "library_id": 5364,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

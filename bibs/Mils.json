@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Mils",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://www.buecherei-mils.webopac.at"
+    },
+    "geo": [
+        47.2883084,
+        11.5314953
+    ],
+    "information": "http://www.buecherei-mils.webopac.at",
+    "library_id": 9083,
+    "state": "Tirol",
+    "title": "Bibliothek"
+}

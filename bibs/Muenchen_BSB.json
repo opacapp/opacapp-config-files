@@ -1,24 +1,24 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "touchpoint",
-    "city": "Bayreuth",
+    "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://opacplus.bsb-muenchen.de/metaopac",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        48.1474642,
+        11.5801103
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.bsb-muenchen.de/oeffnungszeiten/",
+    "library_id": 9091,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Bayerische Staatsbibliothek"
 }

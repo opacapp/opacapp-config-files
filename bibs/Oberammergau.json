@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Oberammergau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.de/oberammergau",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        47.5956599,
+        11.072352
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.buecherei-oberammergau.de/",
+    "library_id": 6009,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

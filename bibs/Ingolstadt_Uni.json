@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "touchpoint",
-    "city": "Bayreuth",
+    "city": "Eichst\u00e4tt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
-        "customssl": true
+        "baseurl": "https://opac.ku.de/TouchPoint"
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        48.7665351,
+        11.4257541
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.ku.de/Bibliothek",
+    "library_id": 9010,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Universit\u00e4tsbibliothek und Hochschulbibliothek"
 }

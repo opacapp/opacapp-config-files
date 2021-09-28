@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Schillingsf\u00fcrst",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.net/schillingsfuerst",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        49.2862476,
+        10.2622504
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.schillingsfuerst.de/OEffentliche-Einrichtungen.604.0.html",
+    "library_id": 6978,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Stadtb\u00fccherei"
 }

@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Neustadt/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://opac.winbiap.net/neustadt_donau",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        48.80948,
+        11.76439
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://cms.neustadt-donau.de/default.aspx?tabid=7047",
+    "library_id": 5857,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Stadtbibliothek"
 }

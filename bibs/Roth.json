@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Roth bei Nbg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://opac.winbiap.net/roth",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        49.2456337,
+        11.0911607
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.stadt-roth.de/lwwcm-rh/rh-publish.nsf/Content/GE-1-SL-BildungKultur-Stadtbuecherei/",
+    "library_id": 6792,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Stadtb\u00fccherei"
 }

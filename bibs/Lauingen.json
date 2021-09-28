@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
-    "city": "Bayreuth",
+    "api": "winbiap",
+    "city": "Lauingen/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://katalog.uni-bayreuth.de/TouchPoint_touchpoint",
+        "baseurl": "https://webopac.winbiap.de/lauingen",
         "customssl": true
     },
     "geo": [
-        49.9456399,
-        11.5713346
+        48.570324,
+        10.4300205
     ],
-    "information": "http://www.ub.uni-bayreuth.de/de/index.html",
-    "library_id": 8841,
+    "information": "http://www.lauingen.de/1524_DEU_HTML.php",
+    "library_id": 4864,
     "state": "Bayern",
-    "title": "Unibibliothek"
+    "title": "Stadtb\u00fccherei"
 }
