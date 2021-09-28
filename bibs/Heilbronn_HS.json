@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "adis",
-    "city": "Furtwangen",
+    "city": "Heilbronn",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://bsz.ibs-bw.de/aDISWeb/app",
-        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23292"
+        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23042"
     },
     "geo": [
-        48.0501442,
-        8.2014192
+        49.1426929,
+        9.210879
     ],
-    "information": "http://www.hs-furtwangen.de/willkommen/die-hochschule/zentrale-services/informations-und-medienzentrum/die-bibliotheken.html",
-    "library_id": 8940,
+    "information": "https://www.hs-heilbronn.de/bibliothek",
+    "library_id": 8991,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Hochschulbibliothek"
+    "title": "Hochschule"
 }
