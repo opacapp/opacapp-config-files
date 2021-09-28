@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Sonthofen",
+    "city": "Prittriching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/sonthofen",
+        "baseurl": "https://webopac.winbiap.net/prittriching",
         "customssl": true
     },
     "geo": [
-        47.5161161,
-        10.2808617
+        48.1979122,
+        10.925218
     ],
-    "information": "http://www.sonthofen.de/Bildung-Soziales/Stadtbuecherei.aspx",
-    "library_id": 7323,
+    "information": "http://s361800474.website-start.de/einrichtungen/b%C3%BCcherei/",
+    "library_id": 6424,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

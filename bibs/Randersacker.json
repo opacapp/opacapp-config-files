@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Sonthofen",
+    "city": "Randersacker",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/sonthofen",
+        "baseurl": "https://webopac.winbiap.de/randersacker",
         "customssl": true
     },
     "geo": [
-        47.5161161,
-        10.2808617
+        49.7584752,
+        9.9855474
     ],
-    "information": "http://www.sonthofen.de/Bildung-Soziales/Stadtbuecherei.aspx",
-    "library_id": 7323,
+    "information": "http://www.randersacker.de/index.php?option=com_content&view=article&id=324:brei&catid=143:einrichtungen&Itemid=111",
+    "library_id": 6476,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Sonthofen",
+    "city": "Raunheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/sonthofen",
+        "baseurl": "https://webopac.winbiap.de/raunheim",
         "customssl": true
     },
     "geo": [
-        47.5161161,
-        10.2808617
+        50.0104109,
+        8.4529177
     ],
-    "information": "http://www.sonthofen.de/Bildung-Soziales/Stadtbuecherei.aspx",
-    "library_id": 7323,
-    "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "information": "http://raunheim.de/sites/gensite.asp?SID=cms100820141646047420923&Art=232",
+    "library_id": 6508,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }

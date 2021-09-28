@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Sonthofen",
+    "city": "Ostfildern",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/sonthofen",
+        "baseurl": "https://opac.winbiap.net/ostfildern",
         "customssl": true
     },
     "geo": [
-        47.5161161,
-        10.2808617
+        48.7287991,
+        9.2585976
     ],
-    "information": "http://www.sonthofen.de/Bildung-Soziales/Stadtbuecherei.aspx",
-    "library_id": 7323,
-    "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.ostfildern.de/stadtbuecherei_ostfildern.html",
+    "library_id": 6217,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
 }
