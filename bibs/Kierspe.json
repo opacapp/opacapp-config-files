@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Kierspe",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.citkomm.de/kierspe"
+    },
+    "geo": [
+        51.12874,
+        7.59402
+    ],
+    "information": "http://www.stadtbibliothek-kierspe.de/",
+    "library_id": 4387,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
