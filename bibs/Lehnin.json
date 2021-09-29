@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "Lehnin",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,16 +16,12 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "https://www5.potsdam-mittelmark.de/webOPAC",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "department": 2,
-            "location": 1,
-            "returndate": 5,
-            "status": 3
+            "location": 0,
+            "status": 1
         },
-        "customssl": true,
+        "db": "webb_kle",
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
@@ -39,11 +35,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        52.31684,
+        12.7451
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
-    "state": "Sachsen",
-    "title": "Mediothek"
+    "information": "http://www.klosterlehnin.de/verzeichnis/visitenkarte.php?mandat=3872",
+    "library_id": 4893,
+    "state": "Brandenburg",
+    "title": "Bibliothek Bettina von Arnim"
 }

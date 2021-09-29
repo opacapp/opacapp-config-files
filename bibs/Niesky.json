@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "Niesky",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "https://niesky.internetopac.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -39,11 +39,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        51.29266,
+        14.82389
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
+    "information": "http://www.bibliothek.niesky.de/",
+    "library_id": 5940,
     "state": "Sachsen",
-    "title": "Mediothek"
+    "title": "Stadtbibliothek"
 }
