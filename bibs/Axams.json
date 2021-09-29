@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "\u00dcbersaxen",
+    "city": "Axams",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.dorfbuecherei-uebersaxen.web-opac.at"
+        "baseurl": "http://buecherei-axams.webopac.at"
     },
     "geo": [
-        47.2524023,
-        9.6707364
+        47.2325964,
+        11.2801251
     ],
-    "information": "http://www.uebersaxen.bvoe.at",
-    "library_id": 9203,
-    "state": "Vorarlberg",
-    "title": "Dorfb\u00fccherei"
+    "information": "http://buecherei-axams.webopac.at",
+    "library_id": 8831,
+    "state": "Tirol",
+    "title": "\u00d6ffentliche B\u00fccherei"
 }
