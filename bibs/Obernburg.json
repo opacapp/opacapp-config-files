@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Roth bei Nbg",
+    "city": "Obernburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roth",
+        "baseurl": "https://webopac.winbiap.net/obernburg",
         "customssl": true
     },
     "geo": [
-        49.2456337,
-        11.0911607
+        49.8381779,
+        9.1323585
     ],
-    "information": "http://www.stadt-roth.de/lwwcm-rh/rh-publish.nsf/Content/GE-1-SL-BildungKultur-Stadtbuecherei/",
-    "library_id": 6792,
+    "information": "http://www.stadtbuecherei-obernburg.de/",
+    "library_id": 6060,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }
