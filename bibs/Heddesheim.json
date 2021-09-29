@@ -11,6 +11,7 @@
     "country": "Deutschland",
     "data": {
         "baseurl": "https://bibliotheken.kivbf.de/heddesheim",
+        "libopacplus": true,
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
