@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Gr\u00e4felfing",
+    "city": "Lauingen/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/graefelfing",
+        "baseurl": "https://webopac.winbiap.de/lauingen",
         "customssl": true
     },
     "geo": [
-        48.1227429,
-        11.4340549
+        48.570324,
+        10.4300205
     ],
-    "information": "http://www.buecherei-graefelfing.de/rund-um-die-buecherei/startseite-aktuelles-veranstaltungen-fuer-erwachsene.html",
-    "library_id": 3344,
+    "information": "http://www.lauingen.de/1524_DEU_HTML.php",
+    "library_id": 4864,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Gr\u00e4felfing",
+    "city": "Kirchheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/graefelfing",
+        "baseurl": "https://webopac.winbiap.de/kirchheim",
         "customssl": true
     },
     "geo": [
-        48.1227429,
-        11.4340549
+        48.16824,
+        11.75613
     ],
-    "information": "http://www.buecherei-graefelfing.de/rund-um-die-buecherei/startseite-aktuelles-veranstaltungen-fuer-erwachsene.html",
-    "library_id": 3344,
+    "information": "http://www.awm-muenchen.de/privathaushalte/abfallvermeidung/leihlexikon/eintrag.html?no_cache=1&tx_awmleihlexikon_pi1%5Bid%5D=211",
+    "library_id": 4427,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

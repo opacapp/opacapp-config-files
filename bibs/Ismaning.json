@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Gr\u00e4felfing",
+    "city": "Ismaning",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/graefelfing",
+        "baseurl": "https://webopac.winbiap.de/ismaning",
         "customssl": true
     },
     "geo": [
-        48.1227429,
-        11.4340549
+        48.2221552,
+        11.6764621
     ],
-    "information": "http://www.buecherei-graefelfing.de/rund-um-die-buecherei/startseite-aktuelles-veranstaltungen-fuer-erwachsene.html",
-    "library_id": 3344,
+    "information": "http://bibliothek.ismaning.de/bibliothek",
+    "library_id": 4175,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Schlossb\u00fccherei Gemeindebibliothek"
 }
