@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Birmensdorf",
+    "city": "Egg",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Birmensdorf"
+        "baseurl": "http://www.bibliotheken-zh.ch/Egg"
     },
     "geo": [
-        47.3537161,
-        8.439002
+        47.3005301,
+        8.6885824
     ],
-    "information": "http://www.birmensdorf.ch/de/freizeitkultur/gemeindebibliothek/",
-    "library_id": 8860,
+    "information": "http://www.schuleegg.ch/bibliothek-.html",
+    "library_id": 8911,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

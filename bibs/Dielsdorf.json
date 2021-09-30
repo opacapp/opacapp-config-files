@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Birmensdorf",
+    "city": "Dielsdorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Birmensdorf"
+        "baseurl": "http://www.bibliotheken-zh.ch/Dielsdorf"
     },
     "geo": [
-        47.3537161,
-        8.439002
+        47.4823196,
+        8.4580836
     ],
-    "information": "http://www.birmensdorf.ch/de/freizeitkultur/gemeindebibliothek/",
-    "library_id": 8860,
+    "information": "http://www.primarschule-dielsdorf.ch/de/bibliothek/",
+    "library_id": 8898,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

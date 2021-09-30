@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Birmensdorf",
+    "city": "Buchs",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Birmensdorf"
+        "baseurl": "http://www.winmedio.net/buchs"
     },
     "geo": [
-        47.3537161,
-        8.439002
+        47.1656,
+        9.46865
     ],
-    "information": "http://www.birmensdorf.ch/de/freizeitkultur/gemeindebibliothek/",
-    "library_id": 8860,
-    "state": "Z\u00fcrich",
+    "information": "http://www.bibliothek-buchs.ch/",
+    "library_id": 8881,
+    "state": "St. Gallen",
     "title": "Gemeindebibliothek"
 }
