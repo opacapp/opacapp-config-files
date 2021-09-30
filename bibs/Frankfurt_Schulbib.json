@@ -7,21 +7,22 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Bad Rappenau",
+    "city": "Frankfurt/Main",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://buecherei.badrappenau.de/",
+        "baseurl": "https://www.sbakatalog.stadtbuecherei.frankfurt.de",
+        "customssl": true,
         "urls": {
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
-        49.2403393,
-        9.1047288
+        50.1109221,
+        8.6821267
     ],
-    "information": "http://www.badrappenau.de/stadtleben/kultur/stadt-und-kurbuecherei",
-    "library_id": 1330,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadt- und Kurb\u00fccherei"
+    "information": "http://www.frankfurt.de/sixcms/detail.php?id=2962&_ffmpar[_id_inhalt]=102288",
+    "library_id": 8933,
+    "state": "Hessen",
+    "title": "Schulbibliotheken"
 }

@@ -1,27 +1,27 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Bad Rappenau",
+    "city": "Dreieich",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://buecherei.badrappenau.de/",
+        "baseurl": "http://http://www.stadtbuecherei-dreieich.de",
         "urls": {
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
-        49.2403393,
-        9.1047288
+        50.02336,
+        8.68759
     ],
-    "information": "http://www.badrappenau.de/stadtleben/kultur/stadt-und-kurbuecherei",
-    "library_id": 1330,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadt- und Kurb\u00fccherei"
+    "information": "http://www.stadtbuecherei-dreieich.de/c1476/default.html",
+    "library_id": 2378,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }
