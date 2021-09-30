@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Happurg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/happurg",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        49.4937364,
+        11.4719457
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.happurg.de/Gemeinde/Buecherei/Buecherei.html",
+    "library_id": 3627,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

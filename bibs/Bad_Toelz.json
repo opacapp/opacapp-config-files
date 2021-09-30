@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Bad T\u00f6lz",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/badtoelz",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        47.7640421,
+        11.5635549
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
+    "library_id": 1367,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

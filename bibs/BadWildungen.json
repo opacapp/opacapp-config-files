@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Bad Wildungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/badwildungen",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        51.1196745,
+        9.1241131
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
+    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
+    "library_id": 1379,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Gro\u00dfkrotzenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.net/grosskrotzenburg",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        50.0818163,
+        8.9839637
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.grosskrotzenburg.de/Buechereien.34.0.html",
+    "library_id": 3436,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

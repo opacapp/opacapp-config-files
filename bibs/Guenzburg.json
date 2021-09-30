@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "G\u00fcnzburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.net/guenzburg",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        48.4547792,
+        10.27904
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://host4.guenzburg.de/html/user_de_Kultur+Stadtbuecherei+Information.html",
+    "library_id": 3505,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

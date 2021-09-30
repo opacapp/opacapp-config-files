@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Dillenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/dillenburg",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        50.7452841,
+        8.2807631
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
+    "information": "http://www.stadtbuecherei-dillenburg.de/",
+    "library_id": 2274,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Scheidegg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/scheidegg",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        47.582299,
+        9.8511586
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.scheidegg.de/urlaub-ferien-scheidegg-allgaeu/scheidegg-entdecken/mein-scheidegg/gemeindebuecherei.html",
+    "library_id": 6960,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

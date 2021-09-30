@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "H\u00f6chberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/hoechberg",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        49.7802703,
+        9.8757167
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.hoechberg.de/sites/gensite.asp?SID=cms190820141713396817132&Art=0429",
+    "library_id": 4015,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Bibliothek"
 }

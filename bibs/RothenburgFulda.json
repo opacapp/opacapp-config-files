@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Rotenburg a.d.Fulda",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.net/mzhr",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        50.996111,
+        9.727778
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.hef-rof.de/landratsamt_und_kreisverwaltung/medienzentrum/",
+    "library_id": 6789,
+    "state": "Hessen",
+    "title": "Medienzentrum Hersfeld-Rotenburg"
 }

@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Detmold",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
-        "customssl": true
+        "baseurl": "https://webopac.detmold.de"
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        51.9322941,
+        8.8809499
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
+    "information": "https://info.opacapp.de/detmold.html",
+    "library_id": 63,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Marktheidenfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.net/marktheidenfeld",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        49.84477,
+        9.61204
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://stadt-marktheidenfeld.de/page2/kultur-bildung/stadtbucherei",
+    "library_id": 5255,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

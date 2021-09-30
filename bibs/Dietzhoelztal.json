@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Dietzh\u00f6lztal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.net/dietzhoelztal",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        50.833333,
+        8.316667
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.dietzhoelztal.de/pages/rathaus/verwaltung.php",
+    "library_id": 2271,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

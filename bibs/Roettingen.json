@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "R\u00f6ttingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/roettingen",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        49.5122355,
+        9.9718105
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.roettingen.de/index.php?id=59",
+    "library_id": 6858,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

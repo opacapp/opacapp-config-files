@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Elsenfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.net/elsenfeld",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        49.8458735,
+        9.1607868
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
+    "information": "http://www.elsenfeld.de/kuturfreizeit/bibliothek/",
+    "library_id": 2593,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindebibliothek"
 }

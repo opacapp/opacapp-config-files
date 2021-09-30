@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Kissingen",
+    "city": "Rietberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badkissingen",
+        "baseurl": "https://webopac.winbiap.de/rietberg",
         "customssl": true
     },
     "geo": [
-        50.2008463,
-        10.0765115
+        51.8089877,
+        8.4290704
     ],
-    "information": "http://www.badkissingen.de/de/stadt/bildung/stadtbuecherei/4942.Stadtbuecherei.html",
-    "library_id": 1275,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.rietberg.de/leben-in-rietberg/stadtbibliothek.html",
+    "library_id": 6695,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
 }
