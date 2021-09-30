@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "Die Stadtb\u00fccherei kann ab Dienstag, 8. Juni ohne Termin wieder besucht werden. Aufgrund der Zugangsbeschr\u00e4nkung von maximal 20 Personen muss damit gerechnet werden, dass Warteschlangen und damit erhebliche Wartezeiten entstehen k\u00f6nnen. Daher wird im eigenen Interesse den Besuchern empfohlen, nicht gleich am ersten Tag zu kommen, sondern den Besuch aufzuschieben. Weiterhin muss w\u00e4hrend des Besuchs ein Mund-Nasen-Schutz getragen, Abstandsregeln eingehalten und ein Kontaktformular ausgef\u00fcllt werden.\r\n\r\nWir freuen uns auf Ihren Besuch!\r\nDas Team der Stadtb\u00fccherei",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Walldorf",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/walldorf",
+        "customssl": true
+    },
+    "geo": [
+        49.3019179,
+        8.6406498
+    ],
+    "information": "https://info.opacapp.net/walldorf.html",
+    "library_id": 8006,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}
