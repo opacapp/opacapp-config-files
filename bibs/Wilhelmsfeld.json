@@ -10,7 +10,7 @@
     "city": "Wilhelmsfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/wilhelmsfeld",
+        "baseurl": "https://opac.winbiap.net/wilhelmsfeld",
         "customssl": false
     },
     "geo": null,
