@@ -1,51 +1,48 @@
 {
     "_active": true,
-    "_notice_text": "Noch kein aktueller Hinweis",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Br\u00fchl/Baden",
+    "city": "Me\u00dfstetten",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
-            "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/bruehl",
+        "baseurl": "http://buecherei.selfhost.bz/webopac",
         "copiestable": {
-            "barcode": -1,
-            "branch": -1,
+            "barcode": 0,
+            "branch": 4,
             "department": 2,
-            "location": 0,
-            "reservations": -1,
-            "returndate": 4,
+            "location": 1,
+            "returndate": 5,
             "status": 3
         },
-        "customssl": true,
+        "mediatypes": {
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE"
+        },
         "reservationtable": {
             "author": 0,
             "availability": 2,
-            "branch": -1,
             "cancelurl": 3,
-            "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        49.4064361,
-        8.5306804
+        48.1812912,
+        8.9626843
     ],
-    "information": "https://info.smartbib.de/bruehl.html",
-    "library_id": 1989,
+    "information": "http://www.stadt-messstetten.de/Stadtbuecherei.346.0.html",
+    "library_id": 5389,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

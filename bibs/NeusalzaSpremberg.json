@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "Noch kein aktueller Hinweis",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Br\u00fchl/Baden",
+    "city": "Neuensalza-Spr.",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,14 +20,14 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/bruehl",
+        "baseurl": "https://neusalza-spremberg.internetopac.de",
         "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": 2,
-            "location": 0,
+            "barcode": 0,
+            "branch": 4,
+            "department": -1,
+            "location": 1,
             "reservations": -1,
-            "returndate": 4,
+            "returndate": 5,
             "status": 3
         },
         "customssl": true,
@@ -41,11 +41,11 @@
         }
     },
     "geo": [
-        49.4064361,
-        8.5306804
+        51.0380155,
+        14.5276012
     ],
-    "information": "https://info.smartbib.de/bruehl.html",
-    "library_id": 1989,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.neusalza-spremberg.de/index.php/bibliothek",
+    "library_id": 9110,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek"
 }

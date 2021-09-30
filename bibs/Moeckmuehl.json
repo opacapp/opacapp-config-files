@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "Noch kein aktueller Hinweis",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Br\u00fchl/Baden",
+    "city": "M\u00f6ckm\u00fchl",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,14 +20,14 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/bruehl",
+        "baseurl": "https://web-opac.kivbf.de/moeckmuehl",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
-            "department": 2,
+            "department": 1,
             "location": 0,
             "reservations": -1,
-            "returndate": 4,
+            "returndate": -1,
             "status": 3
         },
         "customssl": true,
@@ -41,11 +41,11 @@
         }
     },
     "geo": [
-        49.4064361,
-        8.5306804
+        49.32338,
+        9.36015
     ],
-    "information": "https://info.smartbib.de/bruehl.html",
-    "library_id": 1989,
+    "information": "http://mediathek-moeckmuehl.de/",
+    "library_id": 5482,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Mediathek"
 }

@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "Noch kein aktueller Hinweis",
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Br\u00fchl/Baden",
+    "city": "Heiden",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,32 +20,30 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/bruehl",
+        "baseurl": "https://webopac.bistum-muenster.de/heiden",
         "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": 2,
-            "location": 0,
+            "barcode": 0,
+            "branch": 4,
+            "department": -1,
+            "location": 2,
             "reservations": -1,
-            "returndate": 4,
+            "returndate": 5,
+            "signature": 1,
             "status": 3
         },
-        "customssl": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
-            "branch": -1,
             "cancelurl": 3,
-            "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        49.4064361,
-        8.5306804
+        51.8255419,
+        6.9359164
     ],
-    "information": "https://info.smartbib.de/bruehl.html",
-    "library_id": 1989,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://buecherei.sankt-georg-heiden.de/",
+    "library_id": 3714,
+    "state": "Nordrhein-Westfalen",
+    "title": "Die B\u00fccherei St. Georg"
 }

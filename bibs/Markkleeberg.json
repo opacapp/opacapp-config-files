@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "Noch kein aktueller Hinweis",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Br\u00fchl/Baden",
+    "city": "Markkleeberg",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,11 +20,11 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/bruehl",
+        "baseurl": "https://markkleeberg.internetopac.de",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
-            "department": 2,
+            "department": 1,
             "location": 0,
             "reservations": -1,
             "returndate": 4,
@@ -41,11 +41,11 @@
         }
     },
     "geo": [
-        49.4064361,
-        8.5306804
+        51.2784006,
+        12.3623933
     ],
-    "information": "https://info.smartbib.de/bruehl.html",
-    "library_id": 1989,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.markkleeberg.de/de/stadt_verwaltung/verwaltung/a-z/bereiche/dezernat_1/amt_fuer_kultur_und_tourismus/stadtbibliothek/",
+    "library_id": 5242,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek"
 }
