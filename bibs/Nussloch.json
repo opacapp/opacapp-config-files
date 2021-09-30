@@ -20,7 +20,7 @@
             "returndate": 3,
             "status": 2
         },
-        "customssl": true
+        "customssl": false
     },
     "geo": [
         49.3223327,
