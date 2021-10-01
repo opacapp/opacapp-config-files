@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Randersacker",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://webopac.winbiap.de/randersacker",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        49.7584752,
+        9.9855474
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.randersacker.de/index.php?option=com_content&view=article&id=324:brei&catid=143:einrichtungen&Itemid=111",
+    "library_id": 6476,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Mertingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://webopac.winbiap.de/mertingen",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        48.6571023,
+        10.8058245
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.mertingen.de/index.php/mertingen/Rathaus-Verwaltung/Buecherei",
+    "library_id": 5364,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Schwaig",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://opac.winbiap.net/schwaig",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        49.4718884,
+        11.199634
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.schwaig.de/seite/de/gemeinde/036:71/-/Gemeindebuecherei.html",
+    "library_id": 7129,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

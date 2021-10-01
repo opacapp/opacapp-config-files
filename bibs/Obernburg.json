@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Obernburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://webopac.winbiap.net/obernburg",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        49.8381779,
+        9.1323585
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.stadtbuecherei-obernburg.de/",
+    "library_id": 6060,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

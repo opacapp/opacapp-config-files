@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Kirchheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://webopac.winbiap.de/kirchheim",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        48.16824,
+        11.75613
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.awm-muenchen.de/privathaushalte/abfallvermeidung/leihlexikon/eintrag.html?no_cache=1&tx_awmleihlexikon_pi1%5Bid%5D=211",
+    "library_id": 4427,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Rotenburg a.d.Fulda",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://webopac.winbiap.net/mzhr",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        50.996111,
+        9.727778
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
-    "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "information": "http://www.hef-rof.de/landratsamt_und_kreisverwaltung/medienzentrum/",
+    "library_id": 6789,
+    "state": "Hessen",
+    "title": "Medienzentrum Hersfeld-Rotenburg"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Neufahrn bei Freising",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://opac.winbiap.net/neufahrn",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        48.3149823,
+        11.6617978
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.neufahrn.de/einrichtungen-behoerden/gemeindliche-einrichtungen/gemeindebibliothek.html",
+    "library_id": 5759,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Offenbach/M",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://opac.winbiap.net/offenbach",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        50.1070493,
+        8.7615989
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
-    "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "information": "http://www.offenbach.de/stadtbibliothek",
+    "library_id": 8745,
+    "state": "Hessen",
+    "title": "Stadtbibliothek"
 }

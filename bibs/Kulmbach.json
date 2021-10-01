@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Kulmbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
-        "customssl": true
+        "baseurl": "http://webopac.buecherei-kulmbach.de"
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        50.1064304,
+        11.4495461
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.kulmbach.de/xist4c/web/Anschrift/Teledaten/Oeffnungszeiten_id_981_.htm",
+    "library_id": 4713,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "B\u00fccherei am Stadtpark"
 }

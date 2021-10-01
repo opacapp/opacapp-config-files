@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Gerolzhofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://webopac.winbiap.net/gerolzhofen",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        49.9002,
+        10.35001
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.gerolzhofen.de/Stadtbibliothek.html",
+    "library_id": 3214,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

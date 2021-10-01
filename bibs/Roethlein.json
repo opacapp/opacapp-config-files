@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "R\u00f6thlein",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://webopac.winbiap.de/roethlein",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        49.9850727,
+        10.2181693
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.roethlein.de/Bibliotheken.html",
+    "library_id": 6853,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Gemeindebibliothek"
 }

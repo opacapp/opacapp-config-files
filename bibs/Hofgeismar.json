@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Hofgeismar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://webopac.winbiap.net/hofgeismar",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        51.4970925,
+        9.3860472
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
-    "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "information": "http://www.hofgeismar.de/cms/LebenHofgeismar/Stadtb%C3%BCcherei/",
+    "library_id": 3938,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }

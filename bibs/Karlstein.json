@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Karlstein a. Main",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://webopac.winbiap.net/karlstein",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        50.048889,
+        9.018333
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.dettelbach.de/sites/gensite.asp?SID=cms140820140824258373224&Art=01720&C=2",
+    "library_id": 4316,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Gemeindebibliothek"
 }

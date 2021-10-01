@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Gunzenhausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
-        "customssl": true
+        "baseurl": "https://webopac.gunzenhausen.de"
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        49.114722,
+        10.754167
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.buecherei.gunzenhausen.de/index.php/startseite.html",
+    "library_id": 3493,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Stadt- und Schulb\u00fccherei"
 }

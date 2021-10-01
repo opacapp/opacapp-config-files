@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Lindau/Bo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
-        "customssl": true
+        "baseurl": "http://93.184.180.130"
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        47.5797815,
+        9.6789333
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
+    "information": "http://www.lindau.de/Kunst-Kultur/Stadtb%C3%BCcherei",
+    "library_id": 5013,
     "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

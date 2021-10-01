@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Dietzh\u00f6lztal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://webopac.winbiap.net/dietzhoelztal",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        50.833333,
+        8.316667
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
-    "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "information": "http://www.dietzhoelztal.de/pages/rathaus/verwaltung.php",
+    "library_id": 2271,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

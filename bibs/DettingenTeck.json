@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Abbach",
+    "city": "Dettingen unter Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badabbach",
+        "baseurl": "https://webopac.winbiap.de/dettingen",
         "customssl": true
     },
     "geo": [
-        48.9373377,
-        12.0462593
+        48.62015,
+        9.4516305
     ],
-    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
-    "library_id": 1188,
-    "state": "Bayern",
-    "title": "Marktb\u00fccherei"
+    "information": "http://www.dettingen-teck.de/kulturelle_einrichtungen.html",
+    "library_id": 2236,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Ortsb\u00fccherei"
 }
