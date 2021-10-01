@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Finsing",
+    "api": "touchpoint",
+    "city": "Eichst\u00e4tt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/finsing",
-        "customssl": true
+        "baseurl": "https://opac.ku.de/TouchPoint"
     },
     "geo": [
-        48.2177335,
-        11.8251997
+        48.7665351,
+        11.4257541
     ],
-    "information": "http://www.finsing.de/index.php?id=0,57",
-    "library_id": 2880,
+    "information": "http://www.ku.de/Bibliothek",
+    "library_id": 9010,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Universit\u00e4tsbibliothek und Hochschulbibliothek"
 }

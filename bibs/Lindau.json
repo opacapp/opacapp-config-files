@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Finsing",
+    "city": "Lindau/Bo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/finsing",
-        "customssl": true
+        "baseurl": "http://93.184.180.130"
     },
     "geo": [
-        48.2177335,
-        11.8251997
+        47.5797815,
+        9.6789333
     ],
-    "information": "http://www.finsing.de/index.php?id=0,57",
-    "library_id": 2880,
+    "information": "http://www.lindau.de/Kunst-Kultur/Stadtb%C3%BCcherei",
+    "library_id": 5013,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

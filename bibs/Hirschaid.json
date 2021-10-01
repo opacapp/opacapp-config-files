@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Finsing",
+    "api": "iopac",
+    "city": "Hirschaid",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/finsing",
-        "customssl": true
+        "baseurl": "http://87.138.173.74"
     },
     "geo": [
-        48.2177335,
-        11.8251997
+        49.8190535,
+        10.992433
     ],
-    "information": "http://www.finsing.de/index.php?id=0,57",
-    "library_id": 2880,
+    "information": "http://www.hirschaid.de/seite/de/markt/380/-/Gemeindebuecherei.html",
+    "library_id": 3908,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

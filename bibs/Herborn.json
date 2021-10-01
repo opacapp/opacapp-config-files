@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Finsing",
+    "city": "Herborn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/finsing",
-        "customssl": true
+        "baseurl": "https://webopac.herborn.de"
     },
     "geo": [
-        48.2177335,
-        11.8251997
+        50.6784088,
+        8.2997096
     ],
-    "information": "http://www.finsing.de/index.php?id=0,57",
-    "library_id": 2880,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.herborn.de/kultur/stadtbuecherei/",
+    "library_id": 3792,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }

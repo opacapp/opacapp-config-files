@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Finsing",
+    "city": "Kaufungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/finsing",
+        "baseurl": "https://webopac.winbiap.net/kaufungen",
         "customssl": true
     },
     "geo": [
-        48.2177335,
-        11.8251997
+        51.28375,
+        9.6031
     ],
-    "information": "http://www.finsing.de/index.php?id=0,57",
-    "library_id": 2880,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.kaufungen.eu/Startseite/B%C3%BCchereien/",
+    "library_id": 4336,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei Niederkaufungen"
 }
