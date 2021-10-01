@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Olching",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/olching",
+        "customssl": true
+    },
+    "geo": [
+        48.20707,
+        11.3334755
+    ],
+    "information": "http://www.olching.de/index.php?id=306,55",
+    "library_id": 6154,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
