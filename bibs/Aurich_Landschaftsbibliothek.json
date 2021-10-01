@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Aurich",
+    "country": "Deutschland",
+    "data": {
+        "account_system": "default",
+        "baseurl": "http://lhemd.gbv.de",
+        "db": "1.1"
+    },
+    "geo": [
+        53.4674232,
+        7.4816445
+    ],
+    "information": "http://www.ostfriesischelandschaft.de/4.html",
+    "library_id": 9321,
+    "state": "Niedersachsen",
+    "title": "Landschaftsbibliothek"
+}
