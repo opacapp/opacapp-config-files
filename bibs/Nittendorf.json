@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "Nittendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://webopac.winbiap.de/nittendorf",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        49.02405,
+        11.95459
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
+    "information": "http://www.nittendorf.de/rathaus/?Buecherei&view=org&orgid=bfb04f7e-2325-49ea-bf11-cd229f088834",
+    "library_id": 5946,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Marktbibliothek"
 }

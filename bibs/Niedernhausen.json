@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "Niedernhausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://webopac.winbiap.net/niedernhausen",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        50.1632247,
+        8.3142131
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
-    "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.niedernhausen.de/w3a/cms/Bildung/Gemeindebuecherei/index.143248.html",
+    "library_id": 5915,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

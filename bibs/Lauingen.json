@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "Lauingen/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://webopac.winbiap.de/lauingen",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        48.570324,
+        10.4300205
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
+    "information": "http://www.lauingen.de/1524_DEU_HTML.php",
+    "library_id": 4864,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Stadtb\u00fccherei"
 }

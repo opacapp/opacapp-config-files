@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "Neustadt/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://opac.winbiap.net/neustadt_donau",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        48.80948,
+        11.76439
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
+    "information": "http://cms.neustadt-donau.de/default.aspx?tabid=7047",
+    "library_id": 5857,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Stadtbibliothek"
 }

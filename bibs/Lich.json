@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "Lich",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://webopac.winbiap.net/hungenlich",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        50.518161,
+        8.8166775
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
-    "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.lich.de/kultur-bildung/stadtbibliothek/",
+    "library_id": 4974,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei Langsdorf"
 }

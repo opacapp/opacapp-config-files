@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "M\u00fchlheim/M",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://opac.winbiap.net/muehlheim",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        50.12529,
+        8.84515
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
-    "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "information": "https://www.muehlheim.de/buecherei-informationen.html+",
+    "library_id": 5553,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }

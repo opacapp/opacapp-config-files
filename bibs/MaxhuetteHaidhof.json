@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "Maxh\u00fctte-Haidhof",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://webopac.winbiap.net/maxhuette",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        49.2,
+        12.1
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
+    "information": "http://www.maxhuette-haidhof.de/index.phtml?mNavID=1768.5&sNavID=1768.57",
+    "library_id": 5293,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Stadtb\u00fccherei"
 }

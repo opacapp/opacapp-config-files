@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bergrheinfeld",
+    "city": "Planegg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/bergrheinfeld",
+        "baseurl": "https://webopac.winbiap.de/planegg",
         "customssl": true
     },
     "geo": [
-        50.0051421,
-        10.1794312
+        48.1068217,
+        11.4242653
     ],
-    "information": "http://www.bergrheinfeld.de/Gemeindebibliothek_Gemeindebibliothek_91_kkmenue.html",
-    "library_id": 1572,
+    "information": "http://www.planegg.de/buecherei/",
+    "library_id": 6360,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }
