@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Greifswald",
+    "country": "Deutschland",
+    "data": {
+        "account_system": "lbs",
+        "baseurl": "https://lhgrw.gbv.de",
+        "db": "1"
+    },
+    "geo": [
+        54.0915636,
+        13.4019551
+    ],
+    "information": "http://www.uni-greifswald.de/bibliothek.html",
+    "library_id": 8957,
+    "state": "Mecklenburg-Vorpommern",
+    "title": "Unibibliothek"
+}
