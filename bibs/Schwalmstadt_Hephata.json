@@ -1,22 +1,23 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Abstatt",
+    "city": "Schwalmstadt",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "prolongurl": 3,
+            "barcode": 3,
+            "prolongurl": 4,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.abstatt.de/webopac",
+        "baseurl": "https://hephata.cidoli.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -28,8 +29,7 @@
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE",
-            "mcomput2S.gif": "EBOOK"
+            "mFilmS.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -39,11 +39,11 @@
         }
     },
     "geo": [
-        49.0676889,
-        9.2903905
+        50.9216009,
+        9.2551871
     ],
-    "information": "http://www.abstatt.de/01_buecherei.html",
-    "library_id": 864,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.hephata.de/organisation/bibliothek.php",
+    "library_id": 9170,
+    "state": "Hessen",
+    "title": "Hephata"
 }

@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Abstatt",
+    "city": "Neu-Anspach",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,20 +16,25 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.abstatt.de/webopac",
+        "baseurl": "http://217.24.13.139:20700/webopac",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
             "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
         "mediatypes": {
+            "Icon_onleihe.gif": "EBOOK",
+            "eAudio.gif": "MP3",
+            "eBook.gif": "EBOOK",
+            "eMusik.gif": "MP3",
+            "eVideo.gif": "EVIDEO",
+            "eonleihe.gif": "EBOOK",
+            "icon.gif": "EDOC",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE",
-            "mcomput2S.gif": "EBOOK"
+            "mFilmS.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -39,11 +44,11 @@
         }
     },
     "geo": [
-        49.0676889,
-        9.2903905
+        50.3002502,
+        8.5055315
     ],
-    "information": "http://www.abstatt.de/01_buecherei.html",
-    "library_id": 864,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.neu-anspach.de/sv_neu_anspach/Rathaus%20&%20Politik/%C3%96ffentliche%20Einrichtungen/Stadtb%C3%BCcherei/",
+    "library_id": 5718,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }
