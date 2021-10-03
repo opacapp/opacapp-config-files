@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Fulda",
+    "city": "Kassel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.uni-giessen.de",
-        "db": "52"
+        "baseurl": "http://opac.bibliothek.uni-kassel.de",
+        "db": "1"
     },
     "geo": [
-        50.5558095,
-        9.6808449
+        51.3127114,
+        9.4797461
     ],
-    "information": "http://www.hs-fulda.de/index.php?id=169",
-    "library_id": 8939,
+    "information": "http://www.uni-kassel.de/ub/",
+    "library_id": 9026,
     "state": "Hessen",
-    "title": "HLB"
+    "title": "Unibibliothek"
 }

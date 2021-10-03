@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Fulda",
+    "city": "Kiel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.uni-giessen.de",
-        "db": "52"
+        "baseurl": "https://katalog.ub.uni-kiel.de",
+        "db": "2"
     },
     "geo": [
-        50.5558095,
-        9.6808449
+        54.3232927,
+        10.1227652
     ],
-    "information": "http://www.hs-fulda.de/index.php?id=169",
-    "library_id": 8939,
-    "state": "Hessen",
-    "title": "HLB"
+    "information": "http://www.fh-kiel.de/index.php?id=118",
+    "library_id": 9028,
+    "state": "Schleswig-Holstein",
+    "title": "Bibliothek der FH"
 }

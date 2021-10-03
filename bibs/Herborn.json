@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "pica",
-    "city": "Fulda",
+    "api": "winbiap",
+    "city": "Herborn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.uni-giessen.de",
-        "db": "52"
+        "baseurl": "https://webopac.herborn.de"
     },
     "geo": [
-        50.5558095,
-        9.6808449
+        50.6784088,
+        8.2997096
     ],
-    "information": "http://www.hs-fulda.de/index.php?id=169",
-    "library_id": 8939,
+    "information": "http://www.herborn.de/kultur/stadtbuecherei/",
+    "library_id": 3792,
     "state": "Hessen",
-    "title": "HLB"
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Fulda",
+    "city": "Hildesheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.uni-giessen.de",
-        "db": "52"
+        "baseurl": "https://opac.lbs-hildesheim.gbv.de/",
+        "db": "1"
     },
     "geo": [
-        50.5558095,
-        9.6808449
+        52.15,
+        9.95
     ],
-    "information": "http://www.hs-fulda.de/index.php?id=169",
-    "library_id": 8939,
-    "state": "Hessen",
-    "title": "HLB"
+    "information": "https://www.uni-hildesheim.de/bibliothek/",
+    "library_id": 8997,
+    "state": "Niedersachsen",
+    "title": "Unibibliothek"
 }
