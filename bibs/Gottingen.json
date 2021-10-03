@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Bergisch Gladbach",
+    "city": "G\u00f6ttingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.stadtbuecherei-gl.de",
+        "baseurl": "https://stadtbibliothek.goettingen.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        50.99143,
-        7.13339
+        51.5336064,
+        9.9340052
     ],
-    "information": "http://www.bergischgladbach.de/Kontakt-Buecherei.aspx",
-    "library_id": 8615,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei / Medienzentrum"
+    "information": "https://stadtbibliothek.goettingen.de/Bibliotheken/Zentralbibliothek.aspx",
+    "library_id": 8677,
+    "state": "Niedersachsen",
+    "title": "Stadtbibliothek"
 }

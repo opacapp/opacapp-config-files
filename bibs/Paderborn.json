@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Bergisch Gladbach",
+    "city": "Paderborn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.stadtbuecherei-gl.de",
+        "baseurl": "http://www.stadtbibliothek-paderborn.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        50.99143,
-        7.13339
+        51.7199006,
+        8.754952
     ],
-    "information": "http://www.bergischgladbach.de/Kontakt-Buecherei.aspx",
-    "library_id": 8615,
+    "information": "http://www.stadtbibliothek-paderborn.de",
+    "library_id": 8749,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei / Medienzentrum"
+    "title": "Stadtbibliothek"
 }

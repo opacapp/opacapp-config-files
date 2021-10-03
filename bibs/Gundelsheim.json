@@ -7,21 +7,22 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Bergisch Gladbach",
+    "city": "Gundelsheim/W",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.stadtbuecherei-gl.de",
+        "baseurl": "http://bibliotheken.kivbf.de/gundelsheim",
+        "customssl": true,
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        50.99143,
-        7.13339
+        49.28551,
+        9.16069
     ],
-    "information": "http://www.bergischgladbach.de/Kontakt-Buecherei.aspx",
-    "library_id": 8615,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei / Medienzentrum"
+    "information": "http://bibliotheken.kivbf.de/gundelsheim/mobile/Kontaktamp;%C3%96ffnungszeiten.aspx",
+    "library_id": 3487,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
 }
