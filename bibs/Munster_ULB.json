@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Sankt Augustin",
+    "city": "M\u00fcnster",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bib-sisis.bib.hochschule-bonn-rhein-sieg.de/webOPACClient"
+        "baseurl": "https://katalogix.uni-muenster.de/Katalog",
+        "customssl": true
     },
     "geo": [
-        50.7694775,
-        7.1875786
+        51.9606649,
+        7.6261347
     ],
-    "information": "http://www.bib.hochschule-bonn-rhein-sieg.de/",
-    "library_id": 8865,
+    "information": "http://www.ulb.uni-muenster.de/bibliothek/standorte/",
+    "library_id": 9103,
     "state": "Nordrhein-Westfalen",
-    "title": "FH Bonn-Rhein-Sieg"
+    "title": "Uni- und Landesbibliothek"
 }

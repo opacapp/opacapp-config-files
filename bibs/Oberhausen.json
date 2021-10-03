@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Sankt Augustin",
+    "city": "Oberhausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bib-sisis.bib.hochschule-bonn-rhein-sieg.de/webOPACClient"
+        "baseurl": "https://bibliothek.oberhausen.de/webOPACClient.sisis"
     },
     "geo": [
-        50.7694775,
-        7.1875786
+        51.4707876,
+        6.8527569
     ],
-    "information": "http://www.bib.hochschule-bonn-rhein-sieg.de/",
-    "library_id": 8865,
+    "information": "http://www.oberhausen.de/0A1C46AD57614F1B8C5CD011AF1C5911.php",
+    "library_id": 8744,
     "state": "Nordrhein-Westfalen",
-    "title": "FH Bonn-Rhein-Sieg"
+    "title": "Stadtbibliothek"
 }

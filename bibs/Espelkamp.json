@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Sankt Augustin",
+    "api": "winbiap",
+    "city": "Espelkamp",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bib-sisis.bib.hochschule-bonn-rhein-sieg.de/webOPACClient"
+        "baseurl": "http://webopac.espelkamp.de"
     },
     "geo": [
-        50.7694775,
-        7.1875786
+        52.37691,
+        8.62809
     ],
-    "information": "http://www.bib.hochschule-bonn-rhein-sieg.de/",
-    "library_id": 8865,
+    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
+    "library_id": 2746,
     "state": "Nordrhein-Westfalen",
-    "title": "FH Bonn-Rhein-Sieg"
+    "title": "Stadtb\u00fccherei"
 }
