@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "primo",
-    "city": "Aberdeen",
+    "city": "Nottingham",
     "country": "United Kingdom",
     "data": {
-        "baseurl": "http://primo.abdn.ac.uk:1701/primo_library/libweb",
-        "db": "ABN_VU1",
+        "baseurl": "http://nusearch.nottingham.ac.uk/primo_library/libweb",
+        "db": "UNNC",
         "languages": [
             "en"
         ]
     },
     "geo": [
-        57.16476,
-        -2.1015257
+        52.9409985,
+        -1.1909528
     ],
-    "information": "http://www.abdn.ac.uk/library",
-    "library_id": 8819,
-    "state": "Scotland",
-    "title": "University"
+    "information": "https://nottingham.ac.uk/library/index.aspx",
+    "library_id": 9116,
+    "state": "England",
+    "title": "University library"
 }
