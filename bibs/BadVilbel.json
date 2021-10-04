@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Bad Vilbel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.de/badvilbel",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        50.1827055,
+        8.7386798
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
-    "state": "Bayern",
+    "information": "http://www.kultur-bad-vilbel.de/stadtbibliothek/",
+    "library_id": 1372,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Olsberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
-        "customssl": true
+        "baseurl": "https://webopac.citkomm.de/olsberg"
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        51.3556649,
+        8.4801828
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
-    "state": "Bayern",
+    "information": "http://www.olsberg.de/_rathaus/bildung/stadtbuecherei/",
+    "library_id": 6176,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

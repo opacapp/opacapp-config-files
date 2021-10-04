@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Senden/Bay",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.de/senden",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        48.32666,
+        10.03958
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.josef-senden.de/index.php?g=einrichtungen-stadtbuecherei",
+    "library_id": 7246,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

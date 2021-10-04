@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Mertingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.de/mertingen",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        48.6571023,
+        10.8058245
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.mertingen.de/index.php/mertingen/Rathaus-Verwaltung/Buecherei",
+    "library_id": 5364,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

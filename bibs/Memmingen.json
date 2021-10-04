@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Memmingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://bibliothek.memmingen.de",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        47.9837999,
+        10.1801883
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "https://www.memmingen.de/stadtbibliothek.html",
+    "library_id": 5345,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

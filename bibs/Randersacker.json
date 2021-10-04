@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Randersacker",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.de/randersacker",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        49.7584752,
+        9.9855474
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.randersacker.de/index.php?option=com_content&view=article&id=324:brei&catid=143:einrichtungen&Itemid=111",
+    "library_id": 6476,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

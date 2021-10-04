@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Espelkamp",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
-        "customssl": true
+        "baseurl": "http://webopac.espelkamp.de"
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        52.37691,
+        8.62809
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
-    "state": "Bayern",
+    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
+    "library_id": 2746,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

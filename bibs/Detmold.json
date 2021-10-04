@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Detmold",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
-        "customssl": true
+        "baseurl": "https://webopac.detmold.de"
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        51.9322941,
+        8.8809499
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
-    "state": "Bayern",
+    "information": "https://info.opacapp.de/detmold.html",
+    "library_id": 63,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

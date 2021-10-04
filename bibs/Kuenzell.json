@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "K\u00fcnzell",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.de/kuenzell",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        50.5356779,
+        9.7200616
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.kuenzell.de/gemeindebuecherei-kuenzell-im-gemeindezentrum-kuenzell_4472.html",
+    "library_id": 4726,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

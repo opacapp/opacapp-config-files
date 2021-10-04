@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Haar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.net/haar",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        48.1103758,
+        11.7321151
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
+    "library_id": 3513,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Lauingen/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.de/lauingen",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        48.570324,
+        10.4300205
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.lauingen.de/1524_DEU_HTML.php",
+    "library_id": 4864,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

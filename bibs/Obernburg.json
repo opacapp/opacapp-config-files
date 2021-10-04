@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Obernburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.net/obernburg",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        49.8381779,
+        9.1323585
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.stadtbuecherei-obernburg.de/",
+    "library_id": 6060,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

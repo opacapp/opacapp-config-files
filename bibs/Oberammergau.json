@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Oberammergau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.de/oberammergau",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        47.5956599,
+        11.072352
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.buecherei-oberammergau.de/",
+    "library_id": 6009,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

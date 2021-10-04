@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Schwaig",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://opac.winbiap.net/schwaig",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        49.4718884,
+        11.199634
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.schwaig.de/seite/de/gemeinde/036:71/-/Gemeindebuecherei.html",
+    "library_id": 7129,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

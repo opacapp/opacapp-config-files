@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "F\u00fcssen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://cloudopac.winbiap.de/fuessen",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        47.569648,
+        10.7004328
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "https://www.stadt-fuessen.de/bibliothek.html",
+    "library_id": 3079,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

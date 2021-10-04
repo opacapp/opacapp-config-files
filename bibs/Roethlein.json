@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "R\u00f6thlein",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.de/roethlein",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        49.9850727,
+        10.2181693
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.roethlein.de/Bibliotheken.html",
+    "library_id": 6853,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindebibliothek"
 }

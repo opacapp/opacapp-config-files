@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Scheidegg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.de/scheidegg",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        47.582299,
+        9.8511586
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.scheidegg.de/urlaub-ferien-scheidegg-allgaeu/scheidegg-entdecken/mein-scheidegg/gemeindebuecherei.html",
+    "library_id": 6960,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -1,24 +1,24 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Plettenberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.citkomm.de/plettenberg",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        51.21463,
+        7.87439
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
-    "state": "Bayern",
+    "information": "http://www.stadtbuecherei-plettenberg.de/",
+    "library_id": 6373,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }
