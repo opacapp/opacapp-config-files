@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Bonstetten",
+    "city": "Hettlingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Bonstetten"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hettlingen"
     },
     "geo": [
-        47.3151573,
-        8.4680415
+        47.5465499,
+        8.7070778
     ],
-    "information": "http://www.primarschule-bonstetten.ch/de/schulugemeindebibliothek/",
-    "library_id": 8867,
+    "information": "http://www.hettlingen.ch/de/tourismus/bibliotheken/",
+    "library_id": 8995,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

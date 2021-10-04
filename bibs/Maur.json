@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Bonstetten",
+    "city": "Maur/Ebmatingen/Aesch-Forch",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Bonstetten"
+        "baseurl": "http://www.bibliotheken-zh.ch/Maur"
     },
     "geo": [
-        47.3151573,
-        8.4680415
+        47.338416,
+        8.6515131
     ],
-    "information": "http://www.primarschule-bonstetten.ch/de/schulugemeindebibliothek/",
-    "library_id": 8867,
+    "information": "http://www.bibliothek-maur.ch/",
+    "library_id": 9077,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Bonstetten",
+    "city": "Neerach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Bonstetten"
+        "baseurl": "http://www.bibliotheken-zh.ch/Neerach"
     },
     "geo": [
-        47.3151573,
-        8.4680415
+        47.5125,
+        8.47301
     ],
-    "information": "http://www.primarschule-bonstetten.ch/de/schulugemeindebibliothek/",
-    "library_id": 8867,
+    "information": "http://www.primarschule-neerach.ch/mediothek/",
+    "library_id": 9107,
     "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "title": "Mediothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Bonstetten",
+    "city": "Hinwil",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Bonstetten"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hinwil"
     },
     "geo": [
-        47.3151573,
-        8.4680415
+        47.3025158,
+        8.8453674
     ],
-    "information": "http://www.primarschule-bonstetten.ch/de/schulugemeindebibliothek/",
-    "library_id": 8867,
+    "information": "http://www.hinwil.ch/de/dorffreizeitkultur/bibliotheken/?action=showbibi&bibi_id=91",
+    "library_id": 8999,
     "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "title": "Mediothek"
 }

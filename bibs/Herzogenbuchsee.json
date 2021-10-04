@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Bonstetten",
+    "city": "Herzogenbuchsee",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Bonstetten"
+        "baseurl": "http://www.winmedio.net/herzogenbuchsee"
     },
     "geo": [
-        47.3151573,
-        8.4680415
+        47.1881119,
+        7.7009241
     ],
-    "information": "http://www.primarschule-bonstetten.ch/de/schulugemeindebibliothek/",
-    "library_id": 8867,
-    "state": "Z\u00fcrich",
+    "information": "http://www.herzogenbuchsee.ch/topic2729.html",
+    "library_id": 8994,
+    "state": "Bern",
     "title": "Gemeindebibliothek"
 }
