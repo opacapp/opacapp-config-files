@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Herrliberg",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.bibliotheken-zh.ch/Herrliberg"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        47.2860094,
+        8.6167699
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
+    "information": "http://www.schule-herrliberg.ch/freizeitmenu/gemeinde-und-schulbibliothek",
+    "library_id": 8993,
     "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "title": "Gemeindebibliothek"
 }

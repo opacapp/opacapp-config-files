@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Geroldswil",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.bibliotheken-zh.ch/Geroldswil"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        47.4229,
+        8.4097
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
+    "information": "http://www.geroldswil.ch/xml_1/internet/de/application/d5/d88/f110.cfm",
+    "library_id": 8946,
     "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "title": "Gemeindebibliothek"
 }

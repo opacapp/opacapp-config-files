@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Goldach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.winmedio.net/goldach"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        47.4761387,
+        9.4713509
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
-    "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "information": "http://www.goldach.ch/de/bildung/bibliotheken/",
+    "library_id": 8951,
+    "state": "St. Gallen",
+    "title": "Gemeindebibliothek"
 }

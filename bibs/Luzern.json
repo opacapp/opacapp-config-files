@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Luzern",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.winmedio.net/bvl"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        47.0569654,
+        8.3109466
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
-    "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "information": "http://www.bvl.ch/",
+    "library_id": 9064,
+    "state": "Luzern",
+    "title": "Stadtbibliothek / Bibliotheksverband"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Grenchen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.winmedio.net/grenchen"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        47.193585,
+        7.3954451
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
-    "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "information": "http://www.grenchen.ch/de/verwaltung/aemter/?amt_id=5399",
+    "library_id": 8958,
+    "state": "Solothurn",
+    "title": "Stadtbibliothek"
 }

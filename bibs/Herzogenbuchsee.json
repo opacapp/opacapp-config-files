@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Herzogenbuchsee",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.winmedio.net/herzogenbuchsee"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        47.1881119,
+        7.7009241
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
-    "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "information": "http://www.herzogenbuchsee.ch/topic2729.html",
+    "library_id": 8994,
+    "state": "Bern",
+    "title": "Gemeindebibliothek"
 }

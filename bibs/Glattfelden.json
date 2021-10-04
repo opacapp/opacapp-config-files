@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Glattfelden",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.bibliotheken-zh.ch/Glattfelden"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        47.55982,
+        8.4994
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
+    "information": "http://www.glattfelden.ch/xml_1/internet/de/application/d49/f300.cfm",
+    "library_id": 8949,
     "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "title": "Gemeindebibliothek"
 }

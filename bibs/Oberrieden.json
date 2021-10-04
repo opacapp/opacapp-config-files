@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Oberrieden",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.bibliotheken-zh.ch/Oberrieden"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        47.2752898,
+        8.5771906
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
+    "information": "http://www.oberrieden.ch/leben_in_oberrieden/kultur/bibliothek",
+    "library_id": 9124,
     "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "title": "Gemeindebibliothek"
 }

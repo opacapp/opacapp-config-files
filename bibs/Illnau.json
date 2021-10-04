@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Illnau",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.bibliotheken-zh.ch/Illnau"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        47.4080523,
+        8.7264768
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
+    "information": "http://www.bibliotheksverein.ch/illnau/",
+    "library_id": 9007,
     "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "title": "Gemeindebibliothek"
 }

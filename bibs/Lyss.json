@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Lyss",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.winmedio.net/lyss"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        47.0762911,
+        7.3073461
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
-    "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "information": "http://www.lyss.ch/de/07_freizeit/03_kultur/Bibliothek.php",
+    "library_id": 9065,
+    "state": "Bern",
+    "title": "Gemeindebibliothel"
 }

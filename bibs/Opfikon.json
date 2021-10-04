@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Opfikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.bibliotheken-zh.ch/Opfikon"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        47.4313,
+        8.57488
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
+    "information": "http://www.stadtbibliothekopfikon.ch/de/",
+    "library_id": 9129,
     "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "title": "Stadtbibliothek"
 }

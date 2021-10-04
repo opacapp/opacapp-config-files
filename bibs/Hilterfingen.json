@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Affoltern",
+    "city": "Hilterfingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Affoltern"
+        "baseurl": "http://www.winmedio.net/hilterfingen"
     },
     "geo": [
-        47.2775064,
-        8.4503277
+        46.7449317,
+        7.6501302
     ],
-    "information": "http://www.bibliothek-affoltern.ch/",
-    "library_id": 8821,
-    "state": "Z\u00fcrich",
-    "title": "Regionalbibliothek"
+    "information": "http://www.hilterfingen.ch/kultur-freizeit/bibliothek/",
+    "library_id": 8998,
+    "state": "Bern",
+    "title": "Bibliothek"
 }
