@@ -7,37 +7,38 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Alzenau",
+    "city": "Osnabr\u00fcck",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 8,
+            "author": 7,
             "barcode": 4,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
+            "prolongurl": 5,
             "returndate": 3,
             "status": 5,
-            "title": 8
+            "title": 7
         },
-        "baseurl": "http://217.7.119.181",
+        "baseurl": "https://katalog.stadtbibliothek.osnabrueck.de",
         "copiestable": {
             "barcode": 3,
-            "branch": -1,
-            "department": 0,
-            "location": 1,
+            "branch": 1,
+            "department": -1,
+            "location": 2,
             "reservations": -1,
             "returndate": -1,
             "status": 4
         },
         "mediatypes": {
             "1": "BOOK",
+            "10": "MAP",
             "11": "DVD",
-            "19": "BOOK",
             "2": "MAGAZINE",
-            "20": "AUDIOBOOK",
-            "3": "CD_SOFTWARE",
-            "30": "EBOOK",
+            "23": "CD_SOFTWARE",
+            "30": "EDOC",
+            "35": "EBOOK",
+            "4": "MOVIE",
             "6": "CD",
             "8": "SCORE_MUSIC",
             "9": "BOARDGAME"
@@ -50,11 +51,11 @@
         ]
     },
     "geo": [
-        50.0862954,
-        9.0734468
+        52.2774174,
+        8.0420652
     ],
-    "information": "http://www.stadtbibliothek-alzenau.de/",
-    "library_id": 1024,
-    "state": "Bayern",
+    "information": "https://katalog.stadtbibliothek.osnabrueck.de/opax/de/RBK/pA_B.html.S",
+    "library_id": 8748,
+    "state": "Niedersachsen",
     "title": "Stadtbibliothek"
 }

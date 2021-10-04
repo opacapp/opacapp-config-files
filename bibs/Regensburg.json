@@ -1,41 +1,41 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "Bitte beachten Sie die Aktuellen \u00d6ffnungszeiten unter Allgemeine Informationen !",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Alzenau",
+    "city": "Regensburg",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 8,
+            "author": 7,
             "barcode": 4,
             "homebranch": -1,
             "lendingbranch": -1,
             "prolongurl": 4,
             "returndate": 3,
             "status": 5,
-            "title": 8
+            "title": 7
         },
-        "baseurl": "http://217.7.119.181",
+        "baseurl": "https://srv17.regensburg.de",
         "copiestable": {
             "barcode": 3,
-            "branch": -1,
-            "department": 0,
-            "location": 1,
+            "branch": 1,
+            "department": -1,
+            "location": 2,
             "reservations": -1,
             "returndate": -1,
             "status": 4
         },
         "mediatypes": {
             "1": "BOOK",
+            "10": "MAP",
             "11": "DVD",
             "19": "BOOK",
             "2": "MAGAZINE",
-            "20": "AUDIOBOOK",
             "3": "CD_SOFTWARE",
             "30": "EBOOK",
             "6": "CD",
@@ -50,11 +50,11 @@
         ]
     },
     "geo": [
-        50.0862954,
-        9.0734468
+        49.01997,
+        12.09316
     ],
-    "information": "http://www.stadtbibliothek-alzenau.de/",
-    "library_id": 1024,
+    "information": "http://www.regensburg.de/stadtbuecherei",
+    "library_id": 55,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }
