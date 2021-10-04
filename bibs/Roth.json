@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Tapfheim",
+    "city": "Roth bei Nbg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/tapfheim",
+        "baseurl": "https://opac.winbiap.net/roth",
         "customssl": true
     },
     "geo": [
-        48.6736819,
-        10.6853639
+        49.2456337,
+        11.0911607
     ],
-    "information": "http://www.tapfheim.de/index.php?view=venueevents&id=43%3Abuecherei&option=com_eventlist&Itemid=58",
-    "library_id": 3124,
+    "information": "http://www.stadt-roth.de/lwwcm-rh/rh-publish.nsf/Content/GE-1-SL-BildungKultur-Stadtbuecherei/",
+    "library_id": 6792,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }
