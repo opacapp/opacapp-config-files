@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "pica",
     "city": "Berlin",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.ash-berlin.eu/webOPACClient.ashsis"
+        "baseurl": "https://www.iaicat.de/",
+        "db": "1"
     },
     "geo": [
         52.5200066,
         13.404954
     ],
-    "information": "http://www.ash-berlin.eu/studienangebot/bibliothek/aktuelles/",
-    "library_id": 8844,
+    "information": "https://www.iaicat.de/",
+    "library_id": 8851,
     "state": "Berlin",
-    "title": "Alice-Salomon-Hochschule"
+    "title": "Ibero-Amerikanisches Institut"
 }

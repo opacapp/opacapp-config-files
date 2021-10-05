@@ -6,18 +6,20 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "adis",
     "city": "Berlin",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.ash-berlin.eu/webOPACClient.ashsis"
+        "baseurl": "https://www.voebb.de/aDISWeb/app",
+        "customssl": true,
+        "startparams": "service=direct/0/Home/$DirectLink&sp=SPROD00"
     },
     "geo": [
         52.5200066,
         13.404954
     ],
-    "information": "http://www.ash-berlin.eu/studienangebot/bibliothek/aktuelles/",
-    "library_id": 8844,
+    "information": "http://service.berlin.de/stadtbibliotheken/",
+    "library_id": 8852,
     "state": "Berlin",
-    "title": "Alice-Salomon-Hochschule"
+    "title": "VOeBB"
 }

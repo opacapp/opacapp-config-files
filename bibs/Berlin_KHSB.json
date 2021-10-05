@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "pica",
     "city": "Berlin",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.ash-berlin.eu/webOPACClient.ashsis"
+        "baseurl": "https://vzopc4.gbv.de",
+        "db": "40"
     },
     "geo": [
-        52.5200066,
-        13.404954
+        52.4882347,
+        13.534097
     ],
-    "information": "http://www.ash-berlin.eu/studienangebot/bibliothek/aktuelles/",
-    "library_id": 8844,
+    "information": "http://www.khsb-berlin.de/bibliothek",
+    "library_id": 8853,
     "state": "Berlin",
-    "title": "Alice-Salomon-Hochschule"
+    "title": "Katholische HS f\u00fcr Sozialwesen"
 }
