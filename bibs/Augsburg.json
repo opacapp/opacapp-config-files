@@ -6,11 +6,11 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "koha",
     "city": "Augsburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+        "baseurl": "https://sb-augsburg.lmscloud.net"
     },
     "geo": [
         48.3692816,
