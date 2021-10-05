@@ -10,7 +10,10 @@
     "city": "Augsburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sb-augsburg.lmscloud.net"
+        "baseurl": "https://sb-augsburg.lmscloud.net",
+        "libopacplus": true,
+        "onleihe": "http://www.onleihe.de/augsburg/",
+        "onleihe_libraryId": "104"
     },
     "geo": [
         48.3692816,
