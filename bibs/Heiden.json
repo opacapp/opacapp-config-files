@@ -1,41 +1,35 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Beckum",
+    "city": "Heiden",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "https://webopac.bistum-muenster.de/heiden",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
-            "department": 2,
-            "location": 1,
+            "department": -1,
+            "location": 2,
+            "reservations": -1,
             "returndate": 5,
+            "signature": 1,
             "status": 3
-        },
-        "db": "Beckum",
-        "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -45,11 +39,11 @@
         }
     },
     "geo": [
-        51.7537536,
-        8.0407579
+        51.8255419,
+        6.9359164
     ],
-    "information": "http://www.beckum.de/oeffentliche_buecherei_beckum.html",
-    "library_id": 1479,
+    "information": "http://buecherei.sankt-georg-heiden.de/",
+    "library_id": 3714,
     "state": "Nordrhein-Westfalen",
-    "title": "\u00d6ffentliche B\u00fccherei"
+    "title": "Die B\u00fccherei St. Georg"
 }

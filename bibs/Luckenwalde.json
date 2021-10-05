@@ -7,32 +7,30 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Beckum",
+    "city": "Luckenwalde",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "http://80.153.36.38/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
             "department": 2,
             "location": 1,
+            "reservations": -1,
             "returndate": 5,
             "status": 3
         },
-        "db": "Beckum",
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -40,16 +38,18 @@
         "reservationtable": {
             "author": 0,
             "availability": 2,
+            "branch": -1,
             "cancelurl": 3,
+            "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        51.7537536,
-        8.0407579
+        52.0939967,
+        13.16933
     ],
-    "information": "http://www.beckum.de/oeffentliche_buecherei_beckum.html",
-    "library_id": 1479,
-    "state": "Nordrhein-Westfalen",
-    "title": "\u00d6ffentliche B\u00fccherei"
+    "information": "http://www.bibliothek.luckenwalde.de/",
+    "library_id": 5123,
+    "state": "Brandenburg",
+    "title": "Bibliothek im Bahnhof"
 }
