@@ -1,30 +1,30 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wels",
-    "country": "\u00d6sterreich",
+    "city": "Asperg",
+    "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "prolongurl": 3,
+            "prolongurl": 4,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://opac.wels.gv.at/webopac",
+        "baseurl": "https://webopac.stadtbuecherei-asperg.de/webopac",
         "copiestable": {
-            "barcode": 0,
             "branch": 4,
-            "department": 2,
-            "location": 1,
-            "returndate": 5,
-            "status": 3
+            "department": 3,
+            "location": 2,
+            "returndate": 1,
+            "status": 0
         },
+        "customssl": true,
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
@@ -38,11 +38,11 @@
         }
     },
     "geo": [
-        48.16542,
-        14.03664
+        48.9058194,
+        9.1343304
     ],
-    "information": "http://www.wels.at/Kultur-und-Bildung/Stadtbuecherei.html?:hp=3",
-    "library_id": 9229,
-    "state": "Ober\u00f6sterreich",
-    "title": "Stadtbibliothek"
+    "information": "http://www.asperg.de/index.php?id=418",
+    "library_id": 1120,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
 }

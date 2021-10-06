@@ -7,8 +7,8 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wels",
-    "country": "\u00d6sterreich",
+    "city": "Weissach",
+    "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://opac.wels.gv.at/webopac",
+        "baseurl": "http://80.152.132.18/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -38,11 +38,11 @@
         }
     },
     "geo": [
-        48.16542,
-        14.03664
+        48.8477621,
+        8.9279273
     ],
-    "information": "http://www.wels.at/Kultur-und-Bildung/Stadtbuecherei.html?:hp=3",
-    "library_id": 9229,
-    "state": "Ober\u00f6sterreich",
-    "title": "Stadtbibliothek"
+    "information": "http://www.bibliothek.weissach.de/",
+    "library_id": 8175,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Bibliothek in der Zehntscheuer"
 }

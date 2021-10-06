@@ -7,8 +7,8 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wels",
-    "country": "\u00d6sterreich",
+    "city": "Unna",
+    "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
@@ -16,16 +16,19 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://opac.wels.gv.at/webopac",
+        "baseurl": "http://www.unna.de/webopac",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
-            "department": 2,
+            "branch": 3,
             "location": 1,
-            "returndate": 5,
-            "status": 3
+            "returndate": 4,
+            "status": 2
         },
         "mediatypes": {
+            "at_33_ebooks.png": "EBOOK",
+            "at_33_emusic.png": "EAUDIO",
+            "at_33_epaper.png": "EBOOK",
+            "at_33_evideo.png": "EBOOK",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -38,11 +41,11 @@
         }
     },
     "geo": [
-        48.16542,
-        14.03664
+        51.5426349,
+        7.6853114
     ],
-    "information": "http://www.wels.at/Kultur-und-Bildung/Stadtbuecherei.html?:hp=3",
-    "library_id": 9229,
-    "state": "Ober\u00f6sterreich",
-    "title": "Stadtbibliothek"
+    "information": "http://www.unna.de/kreisstadt+unna/konzern-stadt/kulturbetriebe-unna/bibliothek/bibliothek-im-zib.html",
+    "library_id": 9206,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek im zib"
 }

@@ -7,8 +7,8 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wels",
-    "country": "\u00d6sterreich",
+    "city": "Andernach",
+    "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://opac.wels.gv.at/webopac",
+        "baseurl": "https://webopac.andernach.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,9 +26,11 @@
             "status": 3
         },
         "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "eaudio.gif": "EAUDIO",
+            "ebook.gif": "EBOOK",
+            "emusic.gif": "EAUDIO",
+            "epaper.gif": "EDOC",
+            "evideo.gif": "EVIDEO"
         },
         "reservationtable": {
             "author": 0,
@@ -38,11 +40,11 @@
         }
     },
     "geo": [
-        48.16542,
-        14.03664
+        50.4398716,
+        7.4000356
     ],
-    "information": "http://www.wels.at/Kultur-und-Bildung/Stadtbuecherei.html?:hp=3",
-    "library_id": 9229,
-    "state": "Ober\u00f6sterreich",
-    "title": "Stadtbibliothek"
+    "information": "http://www.andernach.de/de/kultur_bildung/beh_buecherei.html",
+    "library_id": 1050,
+    "state": "Rheinland-Pfalz",
+    "title": "Stadtb\u00fccherei"
 }

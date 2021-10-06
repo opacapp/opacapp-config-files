@@ -7,42 +7,39 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wels",
-    "country": "\u00d6sterreich",
+    "city": "Weil im Sch\u00f6nbuch",
+    "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "https://opac.wels.gv.at/webopac",
+        "baseurl": "https://wwwopac.komm.one/weilimschoenbuch",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
+            "branch": -1,
             "department": 2,
             "location": 1,
             "returndate": 5,
-            "status": 3
-        },
-        "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "status": 4
         },
         "reservationtable": {
             "author": 0,
             "availability": 2,
             "cancelurl": 3,
+            "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        48.16542,
-        14.03664
+        48.621399,
+        9.0610773
     ],
-    "information": "http://www.wels.at/Kultur-und-Bildung/Stadtbuecherei.html?:hp=3",
-    "library_id": 9229,
-    "state": "Ober\u00f6sterreich",
-    "title": "Stadtbibliothek"
+    "information": "http://www.weil-im-schoenbuch.de/einrichtungen/buechereien.php",
+    "library_id": 8137,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Ortsb\u00fccherei"
 }

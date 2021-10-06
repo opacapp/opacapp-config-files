@@ -7,42 +7,45 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wels",
-    "country": "\u00d6sterreich",
+    "city": "Erlangen",
+    "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "https://opac.wels.gv.at/webopac",
+        "baseurl": "https://siemens-bibliothek-erlangen.internetopac.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
-            "department": 2,
-            "location": 1,
+            "department": 1,
+            "location": 2,
+            "reservations": 6,
             "returndate": 5,
             "status": 3
         },
-        "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
-        },
+        "customssl": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
+            "branch": -1,
             "cancelurl": 3,
+            "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        48.16542,
-        14.03664
+        49.5896744,
+        11.0119611
     ],
-    "information": "http://www.wels.at/Kultur-und-Bildung/Stadtbuecherei.html?:hp=3",
-    "library_id": 9229,
-    "state": "Ober\u00f6sterreich",
-    "title": "Stadtbibliothek"
+    "information": "https://w9.siemens.com/cms/regionalreferat-erlnbg/de/sb/Seiten/home.aspx",
+    "library_id": 8922,
+    "state": "Bayern",
+    "title": "Siemens Werksbibliothek"
 }

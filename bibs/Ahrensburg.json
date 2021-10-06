@@ -7,8 +7,8 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wels",
-    "country": "\u00d6sterreich",
+    "city": "Ahrensburg",
+    "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
@@ -16,11 +16,10 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://opac.wels.gv.at/webopac",
+        "baseurl": "http://buecherei.ahrensburg.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
-            "department": 2,
             "location": 1,
             "returndate": 5,
             "status": 3
@@ -38,11 +37,11 @@
         }
     },
     "geo": [
-        48.16542,
-        14.03664
+        53.6739747,
+        10.236561
     ],
-    "information": "http://www.wels.at/Kultur-und-Bildung/Stadtbuecherei.html?:hp=3",
-    "library_id": 9229,
-    "state": "Ober\u00f6sterreich",
-    "title": "Stadtbibliothek"
+    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
+    "library_id": 908,
+    "state": "Schleswig-Holstein",
+    "title": "Stadtb\u00fccherei"
 }

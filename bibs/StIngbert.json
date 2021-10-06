@@ -7,8 +7,8 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wels",
-    "country": "\u00d6sterreich",
+    "city": "St. Ingbert",
+    "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://opac.wels.gv.at/webopac",
+        "baseurl": "http://opac.st-ingbert.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,6 +26,10 @@
             "status": 3
         },
         "mediatypes": {
+            "eAudioS.gif": "MP3",
+            "eBuchS.gif": "EBOOK",
+            "eVideoS.gif": "EVIDEO",
+            "eZeitungS.gif": "EDOC",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -38,11 +42,11 @@
         }
     },
     "geo": [
-        48.16542,
-        14.03664
+        49.2797,
+        7.11751
     ],
-    "information": "http://www.wels.at/Kultur-und-Bildung/Stadtbuecherei.html?:hp=3",
-    "library_id": 9229,
-    "state": "Ober\u00f6sterreich",
-    "title": "Stadtbibliothek"
+    "information": "http://www.st-ingbert.de/bildung/stadtbuecherei.html",
+    "library_id": 7391,
+    "state": "Saarland",
+    "title": "Stadtb\u00fccherei"
 }

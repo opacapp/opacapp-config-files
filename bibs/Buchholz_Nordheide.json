@@ -7,8 +7,8 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wels",
-    "country": "\u00d6sterreich",
+    "city": "Buchholz in der Nordheide",
+    "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://opac.wels.gv.at/webopac",
+        "baseurl": "http://185.44.4.136/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -38,11 +38,11 @@
         }
     },
     "geo": [
-        48.16542,
-        14.03664
+        53.3176971,
+        9.8694845
     ],
-    "information": "http://www.wels.at/Kultur-und-Bildung/Stadtbuecherei.html?:hp=3",
-    "library_id": 9229,
-    "state": "Ober\u00f6sterreich",
-    "title": "Stadtbibliothek"
+    "information": "https://www.buchholz.de/portal/seiten/stadtbuecherei-3000064-20101.html",
+    "library_id": 8880,
+    "state": "Niedersachsen",
+    "title": "Stadtb\u00fccherei"
 }
