@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": "Die zentral gelegene B\u00fccherei der Gemeinde Oftersheim bietet ein umfangreiches Medienangebot (ca. 27.000 Medien) und eine Atmosph\u00e4re zum Wohlf\u00fchlen f\u00fcr Kinder und Erwachsene.\r\nBei uns finden Sie B\u00fccher, Zeitschriften, H\u00f6rb\u00fccher, CDs, DVDs, Tonies und Spiele.",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Oftersheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliotheken.kivbf.de/oftersheim",
+        "customssl": true,
+        "libopacplus": true,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "Neuerwerbungen",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        49.3704439,
+        8.5818038
+    ],
+    "information": "https://info.smartbib.de/oftersheim.html",
+    "library_id": 6148,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
+}
