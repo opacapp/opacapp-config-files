@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Schwaig",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/schwaig",
+        "customssl": true
+    },
+    "geo": [
+        49.4718884,
+        11.199634
+    ],
+    "information": "http://www.schwaig.de/seite/de/gemeinde/036:71/-/Gemeindebuecherei.html",
+    "library_id": 7129,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
