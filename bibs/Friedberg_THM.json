@@ -7,19 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Frankfurt/Main",
+    "city": "Friedberg/H",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://lbsopac.rz.uni-frankfurt.de",
-        "charset": "ISO-8859-1",
-        "db": "30"
+        "baseurl": "https://opac.uni-giessen.de",
+        "db": "40"
     },
     "geo": [
-        50.1247013,
-        8.6677742
+        50.333333,
+        8.75
     ],
-    "information": "http://www.ub.uni-frankfurt.de/",
-    "library_id": 8934,
+    "information": "http://www.thm.de/bibliothek/",
+    "library_id": 8938,
     "state": "Hessen",
-    "title": "UB Goethe-Universit\u00e4t"
+    "title": "Hochschulbibliothek THM"
 }
