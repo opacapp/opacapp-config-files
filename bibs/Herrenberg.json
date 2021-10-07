@@ -7,21 +7,24 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Ganderkesee",
+    "city": "Herrenberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://ganderkesee.bibliotheca-open.de/",
+        "baseurl": "https://bibliothek.komm.one/herrenberg",
+        "customssl": true,
         "urls": {
+            "account": "Konto.aspx",
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "new_acq": "NeueMedien.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        53.03601,
-        8.54141
+        48.59424,
+        8.8731
     ],
-    "information": "https://ganderkesee.bibliotheca-open.de/%C3%9Cberuns/InfoKontakt.aspx",
-    "library_id": 3090,
-    "state": "Niedersachsen",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.stadtbibliothek.herrenberg.de/",
+    "library_id": 22,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
 }
