@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Aschheim",
+    "city": "Amberg/Oberpf.",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/aschheim",
-        "customssl": true
+        "baseurl": "http://www.amberg.de/wwwopac"
     },
     "geo": [
-        48.1723102,
-        11.7159097
+        49.4438144,
+        11.8583626
     ],
-    "information": "http://www.kultibuch.de/",
-    "library_id": 1117,
+    "information": "http://www.amberg.de/index.php?id=190",
+    "library_id": 1031,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

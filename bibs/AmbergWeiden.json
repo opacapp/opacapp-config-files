@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Aschheim",
+    "api": "sisis",
+    "city": "Amberg/Oberpf.",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/aschheim",
-        "customssl": true
+        "baseurl": "https://opac.haw-aw.de/InfoGuideClient.fawsis"
     },
     "geo": [
-        48.1723102,
-        11.7159097
+        49.67059,
+        12.17761
     ],
-    "information": "http://www.kultibuch.de/",
-    "library_id": 1117,
+    "information": "http://www.haw-aw.de/einrichtungen/bibliothek/oeffnungszeiten/",
+    "library_id": 8823,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Hochschule"
 }

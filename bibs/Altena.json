@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Aschheim",
+    "city": "Altena/Westf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/aschheim",
-        "customssl": true
+        "baseurl": "http://webopac.citkomm.de/altena"
     },
     "geo": [
-        48.1723102,
-        11.7159097
+        51.3015239,
+        7.6714387
     ],
-    "information": "http://www.kultibuch.de/",
-    "library_id": 1117,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.stadtbuecherei.de/",
+    "library_id": 980,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
 }
