@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Dachau",
+    "city": "M\u00fcnster",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://open.dachau.de/",
+        "baseurl": "https://open.stadt-muenster.de",
         "urls": {
-            "advanced_search": "Suche/Profisuche.aspx",
-            "simple_search": "Suche.aspx"
+            "advanced_search": "Erweiterte-Suche",
+            "simple_search": "Einfache-Suche"
         }
     },
     "geo": [
-        48.2554805,
-        11.4367653
+        51.9627713,
+        7.6311652
     ],
-    "information": "http://open.dachau.de/",
-    "library_id": 2155,
-    "state": "Bayern",
+    "information": "https://info.opacapp.net/muenster.html",
+    "library_id": 67,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }
