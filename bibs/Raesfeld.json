@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Bocholt-Mussum",
+    "city": "Raesfeld",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/mussum",
+        "baseurl": "https://webopac.bistum-muenster.de/raesfeld",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,7 +26,7 @@
             "status": 3
         },
         "mediatypes": {
-            "Buchklein.GIF": "BOOK",
+            "Buchklein.GIF": "UNKNOWN",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
             "CD1klein.GIF": "CD",
             "CDklein.GIF": "CD",
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.8143538,
-        6.5682424
+        51.7702593,
+        6.8392979
     ],
-    "information": "http://gemeinde.maria-troesterin.de/node/17",
-    "library_id": 1722,
+    "information": "http://www.buecherei-raesfeld.de/",
+    "library_id": 6462,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B Maria Tr\u00f6sterin"
+    "title": "Kath. \u00d6B St. Martin"
 }

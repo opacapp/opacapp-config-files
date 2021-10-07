@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Bocholt-Mussum",
+    "city": "M\u00fcnster",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/mussum",
+        "baseurl": "https://webopac.bistum-muenster.de/hiltrup",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,6 +25,7 @@
             "returndate": 5,
             "status": 3
         },
+        "db": "OPAC_Hiltrup",
         "mediatypes": {
             "Buchklein.GIF": "BOOK",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
@@ -34,7 +35,7 @@
             "Comicklein.GIF": "BOOK",
             "DVD-ROMklein.GIF": "DVD",
             "DVDklein.GIF": "DVD",
-            "Diaserieklein.GIF": "ART",
+            "Diaserieklein.GIF": "UNKNOWN",
             "Hoerbuch1klein.GIF": "MP3",
             "Hoerbuchklein.GIF": "AUDIOBOOK",
             "Jugendbuchklein.GIF": "BOOK",
@@ -43,7 +44,7 @@
             "Kinderbuch_aklein.GIF": "BOOK",
             "Kindersachbuch_aklein.GIF": "BOOK",
             "Medien-Paketklein.GIF": "PACKAGE",
-            "NDS1klein.GIF": "GAME_CONSOLE_NINTENDO",
+            "NDS1klein.GIF": "BOARDGAME",
             "NDSklein.GIF": "GAME_CONSOLE_NINTENDO",
             "Ostern1klein .GIF": "UNKNOWN",
             "PS21klein.GIF": "GAME_CONSOLE_PLAYSTATION",
@@ -52,7 +53,7 @@
             "PS3klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "SachDVDklein.GIF": "DVD",
             "Sachbuchklein.GIF": "BOOK",
-            "SommerleseclubBuchklein.GIF": "BOOK",
+            "SommerleseclubBuchklein.GIF": "UNKNOWN",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
             "Weihnachten1klein.GIF": "UNKNOWN",
@@ -61,8 +62,8 @@
             "Zeitschriftklein.GIF": "MAGAZINE",
             "eAudio_bibloadklein.GIF": "MP3",
             "eBook_bibloadklein.GIF": "EBOOK",
-            "ePaper_bibloadklein.GIF": "EDOC",
-            "eVideo_bibloadklein.GIF": "EVIDEO"
+            "ePaper_bibloadklein.GIF": "EBOOK",
+            "eVideo_bibloadklein.GIF": "UNKNOWN"
         },
         "reservationtable": {
             "author": 0,
@@ -72,11 +73,11 @@
         }
     },
     "geo": [
-        51.8143538,
-        6.5682424
+        51.9606649,
+        7.6261347
     ],
-    "information": "http://gemeinde.maria-troesterin.de/node/17",
-    "library_id": 1722,
+    "information": "http://www.stadtteilbuecherei-hiltrup.de/",
+    "library_id": 5647,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B Maria Tr\u00f6sterin"
+    "title": "Stadtteilb\u00fccherei Hiltrup St. Clemens"
 }

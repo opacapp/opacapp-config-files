@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Bocholt-Mussum",
+    "city": "Reken",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/mussum",
+        "baseurl": "https://webopac.bistum-muenster.de/reken",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.8143538,
-        6.5682424
+        51.8290107,
+        7.0443569
     ],
-    "information": "http://gemeinde.maria-troesterin.de/node/17",
-    "library_id": 1722,
+    "information": "http://www.buecherei-reken.de/",
+    "library_id": 6579,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B Maria Tr\u00f6sterin"
+    "title": "Kath. \u00d6B St. Heinrich"
 }

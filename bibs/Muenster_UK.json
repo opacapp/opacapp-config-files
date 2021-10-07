@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Bocholt-Mussum",
+    "city": "M\u00fcnster",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/mussum",
+        "baseurl": "https://webopac.bistum-muenster.de/uniklinikms",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,6 +25,7 @@
             "returndate": 5,
             "status": 3
         },
+        "db": "OPAC_UniklinikMS",
         "mediatypes": {
             "Buchklein.GIF": "BOOK",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
@@ -54,14 +55,14 @@
             "Sachbuchklein.GIF": "BOOK",
             "SommerleseclubBuchklein.GIF": "BOOK",
             "Spielklein.GIF": "BOARDGAME",
-            "Videoklein.GIF": "MOVIE",
+            "Videoklein.GIF": "BOOK",
             "Weihnachten1klein.GIF": "UNKNOWN",
             "Wii1klein.GIF": "GAME_CONSOLE_WII",
             "Wiiklein.GIF": "GAME_CONSOLE_WII",
             "Zeitschriftklein.GIF": "MAGAZINE",
             "eAudio_bibloadklein.GIF": "MP3",
             "eBook_bibloadklein.GIF": "EBOOK",
-            "ePaper_bibloadklein.GIF": "EDOC",
+            "ePaper_bibloadklein.GIF": "EBOOK",
             "eVideo_bibloadklein.GIF": "EVIDEO"
         },
         "reservationtable": {
@@ -72,11 +73,11 @@
         }
     },
     "geo": [
-        51.8143538,
-        6.5682424
+        51.9606649,
+        7.6261347
     ],
-    "information": "http://gemeinde.maria-troesterin.de/node/17",
-    "library_id": 1722,
+    "information": "http://www.ukm-klinikbuecherei.de",
+    "library_id": 9098,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B Maria Tr\u00f6sterin"
+    "title": "Klinikb\u00fccherei am UKM"
 }

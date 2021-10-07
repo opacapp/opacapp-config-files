@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Bocholt-Mussum",
+    "city": "Rhede",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/mussum",
+        "baseurl": "https://webopac.bistum-muenster.de/rhede",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -45,7 +45,7 @@
             "Medien-Paketklein.GIF": "PACKAGE",
             "NDS1klein.GIF": "GAME_CONSOLE_NINTENDO",
             "NDSklein.GIF": "GAME_CONSOLE_NINTENDO",
-            "Ostern1klein .GIF": "UNKNOWN",
+            "Ostern1klein .GIF": "PACKAGE",
             "PS21klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "PS2klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "PS31klein.GIF": "GAME_CONSOLE_PLAYSTATION",
@@ -55,7 +55,7 @@
             "SommerleseclubBuchklein.GIF": "BOOK",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
-            "Weihnachten1klein.GIF": "UNKNOWN",
+            "Weihnachten1klein.GIF": "PACKAGE",
             "Wii1klein.GIF": "GAME_CONSOLE_WII",
             "Wiiklein.GIF": "GAME_CONSOLE_WII",
             "Zeitschriftklein.GIF": "MAGAZINE",
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.8143538,
-        6.5682424
+        51.83953,
+        6.69595
     ],
-    "information": "http://gemeinde.maria-troesterin.de/node/17",
-    "library_id": 1722,
+    "information": "http://www.st-gudula.de/ein_buch_g.php",
+    "library_id": 6628,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B Maria Tr\u00f6sterin"
+    "title": "\u00d6ffentliche B\u00fccherei St. Gudula"
 }
