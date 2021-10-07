@@ -7,22 +7,22 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "primo",
-    "city": "Wien",
-    "country": "\u00d6sterreich",
+    "city": "Duisburg",
+    "country": "Deutschland",
     "data": {
-        "baseurl": "https://search-fcw.obvsg.at/primo_library/libweb",
-        "db": "FCW",
+        "baseurl": "http://primo.ub.uni-due.de/primo_library/libweb",
+        "db": "UDE",
         "languages": [
             "de",
             "en"
         ]
     },
     "geo": [
-        48.1582332,
-        16.3120366
+        51.4272399,
+        6.8000053
     ],
-    "information": "https://www.fh-campuswien.ac.at/?id=2079135#c12121",
-    "library_id": 9281,
-    "state": "Wien",
-    "title": "FH Campus"
+    "information": "http://www.uni-due.de/ub",
+    "library_id": 8907,
+    "state": "Nordrhein-Westfalen",
+    "title": "UB Duisburg-Essen"
 }
