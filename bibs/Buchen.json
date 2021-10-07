@@ -1,0 +1,30 @@
+{
+    "_active": true,
+    "_notice_text": "Derzeit ist die Nutzung der Stadtb\u00fccherei nur mit 3-G-Nachweis m\u00f6glich. Es gelten die allgemeinen Hygiene- und Abstandsregeln.",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Buchen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliotheken.kivbf.de/buchen",
+        "customssl": true,
+        "libopacplus": true,
+        "urls": {
+            "account": "Ihr-Konto",
+            "advanced_search": "Mediensuche",
+            "simple_search": "Mediensuche"
+        }
+    },
+    "geo": [
+        49.522147,
+        9.325702
+    ],
+    "information": "https://info.opacapp.net/buchen.html",
+    "library_id": 1997,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}
