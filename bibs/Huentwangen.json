@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Kilchberg",
+    "city": "H\u00fcntwangen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Kilchberg"
+        "baseurl": "http://www.bibliotheken-zh.ch/Huentwangen"
     },
     "geo": [
-        47.3231299,
-        8.5445378
+        47.5955,
+        8.49293
     ],
-    "information": "http://www.kilchberg.ch/xml_1/internet/de/application/d47/f152.cfm",
-    "library_id": 9034,
+    "information": "http://www.huentwangen.ch/?page_id=1455",
+    "library_id": 9006,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Kilchberg",
+    "city": "Hedingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Kilchberg"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hedingen"
     },
     "geo": [
-        47.3231299,
-        8.5445378
+        47.29779,
+        8.44669
     ],
-    "information": "http://www.kilchberg.ch/xml_1/internet/de/application/d47/f152.cfm",
-    "library_id": 9034,
+    "information": "http://www.bibliothek-hedingen.ch/page/bib.php",
+    "library_id": 8987,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

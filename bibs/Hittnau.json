@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Kilchberg",
+    "city": "Hittnau",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Kilchberg"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hittnau"
     },
     "geo": [
-        47.3231299,
-        8.5445378
+        47.3643942,
+        8.8241512
     ],
-    "information": "http://www.kilchberg.ch/xml_1/internet/de/application/d47/f152.cfm",
-    "library_id": 9034,
+    "information": "http://www.bibliohit.ch/",
+    "library_id": 9001,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
