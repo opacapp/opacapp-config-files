@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burglengenfeld",
+    "city": "Gerbrunn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burglengenfeld",
+        "baseurl": "https://webopac.winbiap.de/gerbrunn",
         "customssl": true
     },
     "geo": [
-        49.2075598,
-        12.0389711
+        49.77989,
+        9.98421
     ],
-    "information": "http://www.burglengenfeld.de/leben-in-burglengenfeld/stadtbibliothek/",
-    "library_id": 2030,
+    "information": "http://www.gerbrunn.de/Buecherei.44.0.html",
+    "library_id": 3197,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

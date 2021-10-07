@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burglengenfeld",
+    "city": "Gr\u00e4felfing",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burglengenfeld",
+        "baseurl": "https://webopac.winbiap.net/graefelfing",
         "customssl": true
     },
     "geo": [
-        49.2075598,
-        12.0389711
+        48.1227429,
+        11.4340549
     ],
-    "information": "http://www.burglengenfeld.de/leben-in-burglengenfeld/stadtbibliothek/",
-    "library_id": 2030,
+    "information": "http://www.buecherei-graefelfing.de/rund-um-die-buecherei/startseite-aktuelles-veranstaltungen-fuer-erwachsene.html",
+    "library_id": 3344,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

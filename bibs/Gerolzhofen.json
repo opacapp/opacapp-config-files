@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burglengenfeld",
+    "city": "Gerolzhofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burglengenfeld",
+        "baseurl": "https://webopac.winbiap.net/gerolzhofen",
         "customssl": true
     },
     "geo": [
-        49.2075598,
-        12.0389711
+        49.9002,
+        10.35001
     ],
-    "information": "http://www.burglengenfeld.de/leben-in-burglengenfeld/stadtbibliothek/",
-    "library_id": 2030,
+    "information": "http://www.gerolzhofen.de/Stadtbibliothek.html",
+    "library_id": 3214,
     "state": "Bayern",
     "title": "Stadtbibliothek"
 }

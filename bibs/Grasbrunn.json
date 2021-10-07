@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burglengenfeld",
+    "city": "Grasbrunn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burglengenfeld",
+        "baseurl": "https://webopac.winbiap.net/grasbrunn",
         "customssl": true
     },
     "geo": [
-        49.2075598,
-        12.0389711
+        48.0944,
+        11.75844
     ],
-    "information": "http://www.burglengenfeld.de/leben-in-burglengenfeld/stadtbibliothek/",
-    "library_id": 2030,
+    "information": "http://www.grasbrunn.de/index.php?id=0,53",
+    "library_id": 3341,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

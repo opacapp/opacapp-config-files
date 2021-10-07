@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burglengenfeld",
+    "city": "Eislingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burglengenfeld",
+        "baseurl": "https://webopac.winbiap.de/eislingen",
         "customssl": true
     },
     "geo": [
-        49.2075598,
-        12.0389711
+        48.693333,
+        9.706667
     ],
-    "information": "http://www.burglengenfeld.de/leben-in-burglengenfeld/stadtbibliothek/",
-    "library_id": 2030,
-    "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.eislingen.de/de/Unsere-Stadt/Stadtb%C3%BCcherei",
+    "library_id": 2571,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei im Schlo\u00df"
 }
