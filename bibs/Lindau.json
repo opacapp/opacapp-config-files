@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Bibliotheksverbund",
+    "api": "winbiap",
+    "city": "Lindau/Bo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis"
+        "baseurl": "http://93.184.180.130"
     },
     "geo": [
-        53.0792962,
-        8.8016937
+        47.5797815,
+        9.6789333
     ],
-    "information": "http://www.bib-bvb.de/",
-    "library_id": 8840,
+    "information": "http://www.lindau.de/Kunst-Kultur/Stadtb%C3%BCcherei",
+    "library_id": 5013,
     "state": "Bayern",
-    "title": "Beh\u00f6rdenbibliotheken"
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Bibliotheksverbund",
+    "city": "Bochum",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis"
+        "baseurl": "https://webopac.tfh-bochum.de/webOPACClient"
     },
     "geo": [
-        53.0792962,
-        8.8016937
+        51.4818445,
+        7.2162363
     ],
-    "information": "http://www.bib-bvb.de/",
-    "library_id": 8840,
-    "state": "Bayern",
-    "title": "Beh\u00f6rdenbibliotheken"
+    "information": "http://www.tfh-bochum.de/bibliothek.html",
+    "library_id": 8863,
+    "state": "Nordrhein-Westfalen",
+    "title": "Technische Fachhochschule"
 }

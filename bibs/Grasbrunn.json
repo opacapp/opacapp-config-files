@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Bibliotheksverbund",
+    "api": "winbiap",
+    "city": "Grasbrunn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis"
+        "baseurl": "https://webopac.winbiap.net/grasbrunn",
+        "customssl": true
     },
     "geo": [
-        53.0792962,
-        8.8016937
+        48.0944,
+        11.75844
     ],
-    "information": "http://www.bib-bvb.de/",
-    "library_id": 8840,
+    "information": "http://www.grasbrunn.de/index.php?id=0,53",
+    "library_id": 3341,
     "state": "Bayern",
-    "title": "Beh\u00f6rdenbibliotheken"
+    "title": "Gemeindeb\u00fccherei"
 }

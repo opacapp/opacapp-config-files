@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Bibliotheksverbund",
+    "api": "iopac",
+    "city": "Eggolsheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis"
+        "baseurl": "http://87.138.90.146"
     },
     "geo": [
-        53.0792962,
-        8.8016937
+        49.770304,
+        11.0558092
     ],
-    "information": "http://www.bib-bvb.de/",
-    "library_id": 8840,
+    "information": "http://www.eggolsheim.de/buecherei-stmartin.html",
+    "library_id": 2521,
     "state": "Bayern",
-    "title": "Beh\u00f6rdenbibliotheken"
+    "title": "Marktb\u00fccherei St. Martin"
 }

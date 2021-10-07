@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Bibliotheksverbund",
+    "api": "winbiap",
+    "city": "Lauingen/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis"
+        "baseurl": "https://webopac.winbiap.de/lauingen",
+        "customssl": true
     },
     "geo": [
-        53.0792962,
-        8.8016937
+        48.570324,
+        10.4300205
     ],
-    "information": "http://www.bib-bvb.de/",
-    "library_id": 8840,
+    "information": "http://www.lauingen.de/1524_DEU_HTML.php",
+    "library_id": 4864,
     "state": "Bayern",
-    "title": "Beh\u00f6rdenbibliotheken"
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Bibliotheksverbund",
+    "city": "Kempten",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis"
+        "baseurl": "https://fkeoz3.bib-bvb.de/InfoGuideClient.fkesis",
+        "startparams": "Login=wofkeext"
     },
     "geo": [
-        53.0792962,
-        8.8016937
+        47.7285699,
+        10.3157835
     ],
-    "information": "http://www.bib-bvb.de/",
-    "library_id": 8840,
+    "information": "http://www.hochschule-kempten.de/services/bibliothek.html",
+    "library_id": 9027,
     "state": "Bayern",
-    "title": "Beh\u00f6rdenbibliotheken"
+    "title": "Hochschulbibliothek"
 }

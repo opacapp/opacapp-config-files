@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Bibliotheksverbund",
+    "api": "iopac",
+    "city": "Hirschaid",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis"
+        "baseurl": "http://87.138.173.74"
     },
     "geo": [
-        53.0792962,
-        8.8016937
+        49.8190535,
+        10.992433
     ],
-    "information": "http://www.bib-bvb.de/",
-    "library_id": 8840,
+    "information": "http://www.hirschaid.de/seite/de/markt/380/-/Gemeindebuecherei.html",
+    "library_id": 3908,
     "state": "Bayern",
-    "title": "Beh\u00f6rdenbibliotheken"
+    "title": "Gemeindeb\u00fccherei"
 }

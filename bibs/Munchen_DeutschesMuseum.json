@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Bibliotheksverbund",
+    "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis"
+        "baseurl": "https://dmmoz2.bib-bvb.de/webOPACClient.dmmsis",
+        "startparams": "Login=wodmm"
     },
     "geo": [
-        53.0792962,
-        8.8016937
+        48.1298707,
+        11.5834522
     ],
-    "information": "http://www.bib-bvb.de/",
-    "library_id": 8840,
+    "information": "http://www.deutsches-museum.de/bibliothek/",
+    "library_id": 9099,
     "state": "Bayern",
-    "title": "Beh\u00f6rdenbibliotheken"
+    "title": "Deutsches Museum"
 }

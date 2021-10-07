@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Bibliotheksverbund",
+    "city": "Garching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis"
+        "baseurl": "https://stgoz2.bib-bvb.de/webOPACClient.stgsis",
+        "startparams": "Login=wostg"
     },
     "geo": [
-        53.0792962,
-        8.8016937
+        48.2488721,
+        11.6532477
     ],
-    "information": "http://www.bib-bvb.de/",
-    "library_id": 8840,
+    "information": "http://stadtbuechereigarching.de/",
+    "library_id": 3097,
     "state": "Bayern",
-    "title": "Beh\u00f6rdenbibliotheken"
+    "title": "Stadtb\u00fccherei"
 }
