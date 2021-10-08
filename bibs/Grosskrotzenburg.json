@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Asbach-B\u00e4umenheim",
+    "city": "Gro\u00dfkrotzenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/asbach-baeumenheim",
+        "baseurl": "https://webopac.winbiap.net/grosskrotzenburg",
         "customssl": true
     },
     "geo": [
-        48.68163,
-        10.814457
+        50.0818163,
+        8.9839637
     ],
-    "information": "http://www.asbach-baeumenheim.de/index.php?id=0,56",
-    "library_id": 1100,
-    "state": "Bayern",
-    "title": "B\u00fccherei"
+    "information": "http://www.grosskrotzenburg.de/Buechereien.34.0.html",
+    "library_id": 3436,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

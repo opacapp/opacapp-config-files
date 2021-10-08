@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Asbach-B\u00e4umenheim",
+    "city": "Gr\u00e4felfing",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/asbach-baeumenheim",
+        "baseurl": "https://webopac.winbiap.net/graefelfing",
         "customssl": true
     },
     "geo": [
-        48.68163,
-        10.814457
+        48.1227429,
+        11.4340549
     ],
-    "information": "http://www.asbach-baeumenheim.de/index.php?id=0,56",
-    "library_id": 1100,
+    "information": "http://www.buecherei-graefelfing.de/rund-um-die-buecherei/startseite-aktuelles-veranstaltungen-fuer-erwachsene.html",
+    "library_id": 3344,
     "state": "Bayern",
-    "title": "B\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

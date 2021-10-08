@@ -7,10 +7,10 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Untereisesheim",
+    "city": "Gundelsheim/W",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/untereisesheim",
+        "baseurl": "http://bibliotheken.kivbf.de/gundelsheim",
         "customssl": true,
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
@@ -18,11 +18,11 @@
         }
     },
     "geo": [
-        49.2103,
-        9.20401
+        49.28551,
+        9.16069
     ],
-    "information": "http://www.untereisesheim.de/index.php?id=76",
-    "library_id": 7770,
+    "information": "http://bibliotheken.kivbf.de/gundelsheim/mobile/Kontaktamp;%C3%96ffnungszeiten.aspx",
+    "library_id": 3487,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Asbach-B\u00e4umenheim",
+    "city": "G\u00fcnzburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/asbach-baeumenheim",
+        "baseurl": "https://webopac.winbiap.net/guenzburg",
         "customssl": true
     },
     "geo": [
-        48.68163,
-        10.814457
+        48.4547792,
+        10.27904
     ],
-    "information": "http://www.asbach-baeumenheim.de/index.php?id=0,56",
-    "library_id": 1100,
+    "information": "http://host4.guenzburg.de/html/user_de_Kultur+Stadtbuecherei+Information.html",
+    "library_id": 3505,
     "state": "Bayern",
-    "title": "B\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

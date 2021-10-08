@@ -7,22 +7,24 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Untereisesheim",
+    "city": "Herrenberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/untereisesheim",
+        "baseurl": "https://bibliothek.komm.one/herrenberg",
         "customssl": true,
         "urls": {
+            "account": "Konto.aspx",
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "new_acq": "NeueMedien.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        49.2103,
-        9.20401
+        48.59424,
+        8.8731
     ],
-    "information": "http://www.untereisesheim.de/index.php?id=76",
-    "library_id": 7770,
+    "information": "http://www.stadtbibliothek.herrenberg.de/",
+    "library_id": 22,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Asbach-B\u00e4umenheim",
+    "city": "Hallbergmoos",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/asbach-baeumenheim",
+        "baseurl": "https://webopac.winbiap.de/hallbergmoos",
         "customssl": true
     },
     "geo": [
-        48.68163,
-        10.814457
+        48.3250947,
+        11.7432155
     ],
-    "information": "http://www.asbach-baeumenheim.de/index.php?id=0,56",
-    "library_id": 1100,
+    "information": "http://www.hallbergmoos.de/index.php?id=0,52",
+    "library_id": 3568,
     "state": "Bayern",
-    "title": "B\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

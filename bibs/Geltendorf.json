@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Asbach-B\u00e4umenheim",
+    "city": "Geltendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/asbach-baeumenheim",
+        "baseurl": "https://webopac.winbiap.de/geltendorf",
         "customssl": true
     },
     "geo": [
-        48.68163,
-        10.814457
+        48.1169151,
+        11.0328009
     ],
-    "information": "http://www.asbach-baeumenheim.de/index.php?id=0,56",
-    "library_id": 1100,
+    "information": "http://www.geltendorf.de/index.php?id=287,57",
+    "library_id": 3174,
     "state": "Bayern",
-    "title": "B\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

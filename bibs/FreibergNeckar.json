@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Asbach-B\u00e4umenheim",
+    "city": "Freiberg/Neckar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/asbach-baeumenheim",
+        "baseurl": "https://webopac.winbiap.de/freiberg",
         "customssl": true
     },
     "geo": [
-        48.68163,
-        10.814457
+        48.9334303,
+        9.1992433
     ],
-    "information": "http://www.asbach-baeumenheim.de/index.php?id=0,56",
-    "library_id": 1100,
-    "state": "Bayern",
-    "title": "B\u00fccherei"
+    "information": "http://stadtbibliothek-freiberg.de/",
+    "library_id": 2962,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
 }

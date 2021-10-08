@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Asbach-B\u00e4umenheim",
+    "city": "F\u00fcssen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/asbach-baeumenheim",
+        "baseurl": "https://cloudopac.winbiap.de/fuessen",
         "customssl": true
     },
     "geo": [
-        48.68163,
-        10.814457
+        47.569648,
+        10.7004328
     ],
-    "information": "http://www.asbach-baeumenheim.de/index.php?id=0,56",
-    "library_id": 1100,
+    "information": "https://www.stadt-fuessen.de/bibliothek.html",
+    "library_id": 3079,
     "state": "Bayern",
-    "title": "B\u00fccherei"
+    "title": "Stadtbibliothek"
 }

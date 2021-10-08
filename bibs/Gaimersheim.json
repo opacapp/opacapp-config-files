@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Asbach-B\u00e4umenheim",
+    "city": "Gaimersheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/asbach-baeumenheim",
+        "baseurl": "https://webopac.winbiap.net/gaimersheim",
         "customssl": true
     },
     "geo": [
-        48.68163,
-        10.814457
+        48.80882,
+        11.37003
     ],
-    "information": "http://www.asbach-baeumenheim.de/index.php?id=0,56",
-    "library_id": 1100,
+    "information": "http://www.gaimersheim.de/index.php?option=com_content&task=view&id=74&Itemid=99&date=2013-03-01",
+    "library_id": 8804,
     "state": "Bayern",
-    "title": "B\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }
