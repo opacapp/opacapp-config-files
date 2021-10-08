@@ -7,22 +7,22 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "primo",
-    "city": "Mannheim",
+    "city": "Leipzig",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://primo.bib.uni-mannheim.de/primo_library/libweb",
-        "db": "MAN_UB",
+        "baseurl": "http://kapri.htwk-leipzig.de/primo_library/libweb",
+        "db": "49LEIPHTWK_VU1",
         "languages": [
             "de",
             "en"
         ]
     },
     "geo": [
-        49.4874592,
-        8.4660395
+        51.3396955,
+        12.3730747
     ],
-    "information": "http://www.bib.uni-mannheim.de/",
-    "library_id": 9073,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Unibibliothek"
+    "information": "http://www.htwk-leipzig.de/de/biblio/",
+    "library_id": 9049,
+    "state": "Sachsen",
+    "title": "HTWK"
 }
