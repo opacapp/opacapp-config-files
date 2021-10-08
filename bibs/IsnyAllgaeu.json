@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Halle (Westfalen)",
+    "city": "Isny",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,22 +16,22 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
+        "baseurl": "http://www.buecherei-isny.de",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
             "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
-        "db": "halle",
         "mediatypes": {
-            "cdkl.gif": "CD",
-            "dvdkl.gif": "DVD",
-            "eMediumkl.gif": "EBOOK",
-            "kassettekl.gif": "AUDIO_CASSETTE",
-            "videokl.gif": "MOVIE"
+            "DIGs.gif": "EBOOK",
+            "MUN.gif": "EDOC",
+            "Spiele.gif": "BOARDGAME",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE",
+            "monooS.gif": "BOOK"
         },
         "reservationtable": {
             "author": 0,
@@ -41,11 +41,11 @@
         }
     },
     "geo": [
-        52.06073,
-        8.36397
+        47.6949747,
+        10.0419676
     ],
-    "information": "http://www.hallewestfalen.org/staticsite/staticsite.php?menuid=346&topmenu=336",
-    "library_id": 3570,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.buecherei-isny.de",
+    "library_id": 4176,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
 }
