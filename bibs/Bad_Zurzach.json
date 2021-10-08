@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Windisch",
+    "city": "Bad Zurzach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/windisch"
+        "baseurl": "http://www.winmedio.ch/zurzach"
     },
     "geo": [
-        47.4779,
-        8.21669
+        47.5858932,
+        8.2919577
     ],
-    "information": "http://www.windisch.ch/de/tourismus/bibliothek/",
-    "library_id": 9242,
+    "information": "http://www.bibliothek-zurzach.ch/",
+    "library_id": 8833,
     "state": "Aargau",
-    "title": "Gemeinde- und Schulbibliothek"
+    "title": "Fleckenbibliothek"
 }

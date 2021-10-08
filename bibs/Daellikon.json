@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Windisch",
+    "city": "D\u00e4llikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/windisch"
+        "baseurl": "http://www.winmedio.net/daellikon"
     },
     "geo": [
-        47.4779,
-        8.21669
+        47.4392,
+        8.4387399
     ],
-    "information": "http://www.windisch.ch/de/tourismus/bibliothek/",
-    "library_id": 9242,
-    "state": "Aargau",
-    "title": "Gemeinde- und Schulbibliothek"
+    "information": "http://www.mediothek-daellikon.ch/de/",
+    "library_id": 8892,
+    "state": "Z\u00fcrich",
+    "title": "Mediothek"
 }

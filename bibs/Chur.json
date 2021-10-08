@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Windisch",
+    "city": "Chur",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/windisch"
+        "baseurl": "http://www.bibliotheken-gr.ch/Chur"
     },
     "geo": [
-        47.4779,
-        8.21669
+        46.8507835,
+        9.5319859
     ],
-    "information": "http://www.windisch.ch/de/tourismus/bibliothek/",
-    "library_id": 9242,
-    "state": "Aargau",
-    "title": "Gemeinde- und Schulbibliothek"
+    "information": "http://www.stadtbibliothekchur.ch/",
+    "library_id": 8888,
+    "state": "Graub\u00fcnden",
+    "title": "Stadtbibliothek"
 }

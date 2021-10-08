@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Windisch",
+    "city": "Engelberg",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/windisch"
+        "baseurl": "http://www.winmedio.net/engelberg"
     },
     "geo": [
-        47.4779,
-        8.21669
+        46.8199317,
+        8.4069869
     ],
-    "information": "http://www.windisch.ch/de/tourismus/bibliothek/",
-    "library_id": 9242,
-    "state": "Aargau",
-    "title": "Gemeinde- und Schulbibliothek"
+    "information": "http://www.gde-engelberg.ch/de/bildung/bibliothekfs/",
+    "library_id": 8917,
+    "state": "Obwalden",
+    "title": "Schul- und Gemeindebibliothek"
 }
