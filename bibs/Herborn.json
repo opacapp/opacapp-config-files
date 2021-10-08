@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Espelkamp",
+    "city": "Herborn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.espelkamp.de"
+        "baseurl": "https://webopac.herborn.de"
     },
     "geo": [
-        52.37691,
-        8.62809
+        50.6784088,
+        8.2997096
     ],
-    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
-    "library_id": 2746,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.herborn.de/kultur/stadtbuecherei/",
+    "library_id": 3792,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

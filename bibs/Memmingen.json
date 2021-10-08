@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Espelkamp",
+    "city": "Memmingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.espelkamp.de"
+        "baseurl": "https://bibliothek.memmingen.de",
+        "customssl": true
     },
     "geo": [
-        52.37691,
-        8.62809
+        47.9837999,
+        10.1801883
     ],
-    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
-    "library_id": 2746,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "information": "https://www.memmingen.de/stadtbibliothek.html",
+    "library_id": 5345,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
 }

@@ -1,23 +1,23 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Espelkamp",
+    "city": "Lemgo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.espelkamp.de"
+        "baseurl": "https://webopac.lemgo.de"
     },
     "geo": [
-        52.37691,
-        8.62809
+        52.0272932,
+        8.9050278
     ],
-    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
-    "library_id": 2746,
+    "information": "http://www.stadtbuecherei-lemgo.de/startseite/",
+    "library_id": 4918,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

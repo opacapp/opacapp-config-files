@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Espelkamp",
+    "api": "sisis",
+    "city": "Lemgo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.espelkamp.de"
+        "baseurl": "https://www.hs-owl.de/webOPACClient",
+        "startparams": "Login=lemgo"
     },
     "geo": [
-        52.37691,
-        8.62809
+        52.0266732,
+        8.9018625
     ],
-    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
-    "library_id": 2746,
+    "information": "http://www.hs-owl.de/skim/",
+    "library_id": 9052,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "S(kim) \u2013 Hochschulbibliothek"
 }

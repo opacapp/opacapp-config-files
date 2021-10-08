@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Espelkamp",
+    "city": "Kierspe",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.espelkamp.de"
+        "baseurl": "https://webopac.citkomm.de/kierspe"
     },
     "geo": [
-        52.37691,
-        8.62809
+        51.12874,
+        7.59402
     ],
-    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
-    "library_id": 2746,
+    "information": "http://www.stadtbibliothek-kierspe.de/",
+    "library_id": 4387,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

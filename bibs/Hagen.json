@@ -1,23 +1,23 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Espelkamp",
+    "api": "arena",
+    "city": "Hagen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.espelkamp.de"
+        "baseurl": "https://hagen.arena.axiell.de"
     },
     "geo": [
-        52.37691,
-        8.62809
+        51.35463,
+        7.47955
     ],
-    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
-    "library_id": 2746,
+    "information": "https://www.hagen.de/stadtbuecherei",
+    "library_id": 8682,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Espelkamp",
+    "city": "Menden",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.espelkamp.de"
+        "baseurl": "https://webopac.citkomm.de/menden"
     },
     "geo": [
-        52.37691,
-        8.62809
+        51.43805,
+        7.79512
     ],
-    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
-    "library_id": 2746,
+    "information": "http://www.menden.de/lim/bi/bc/index.php",
+    "library_id": 9080,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Dorte-Hilleke-B\u00fccherei"
 }

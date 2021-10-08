@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Espelkamp",
+    "city": "Lindau/Bo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.espelkamp.de"
+        "baseurl": "http://93.184.180.130"
     },
     "geo": [
-        52.37691,
-        8.62809
+        47.5797815,
+        9.6789333
     ],
-    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
-    "library_id": 2746,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.lindau.de/Kunst-Kultur/Stadtb%C3%BCcherei",
+    "library_id": 5013,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Espelkamp",
+    "city": "Lauingen/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.espelkamp.de"
+        "baseurl": "https://webopac.winbiap.de/lauingen",
+        "customssl": true
     },
     "geo": [
-        52.37691,
-        8.62809
+        48.570324,
+        10.4300205
     ],
-    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
-    "library_id": 2746,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.lauingen.de/1524_DEU_HTML.php",
+    "library_id": 4864,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Espelkamp",
+    "city": "Kolbermoor",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://webopac.espelkamp.de"
+        "baseurl": "https://webopac.winbiap.net/kolbermoor",
+        "customssl": true
     },
     "geo": [
-        52.37691,
-        8.62809
+        47.8483311,
+        12.0611921
     ],
-    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
-    "library_id": 2746,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.stadt-kolbermoor.de/index.php?option=com_content&task=view&id=154&Itemid=195",
+    "library_id": 4513,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }
