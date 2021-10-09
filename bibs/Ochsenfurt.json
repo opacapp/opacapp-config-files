@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Dettingen unter Teck",
+    "city": "Ochsenfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/dettingen",
+        "baseurl": "https://webopac.winbiap.net/ochsenfurt",
         "customssl": true
     },
     "geo": [
-        48.62015,
-        9.4516305
+        49.6640025,
+        10.0709014
     ],
-    "information": "http://www.dettingen-teck.de/kulturelle_einrichtungen.html",
-    "library_id": 2236,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Ortsb\u00fccherei"
+    "information": "http://www.bibliothek.ochsenfurt.de/",
+    "library_id": 6110,
+    "state": "Bayern",
+    "title": "Stadtbibliothek \"Altes Rathaus\""
 }

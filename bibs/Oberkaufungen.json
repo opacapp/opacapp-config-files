@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Dettingen unter Teck",
+    "city": "Kaufungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/dettingen",
+        "baseurl": "https://webopac.winbiap.net/kaufungen",
         "customssl": true
     },
     "geo": [
-        48.62015,
-        9.4516305
+        51.2828417,
+        9.6337135
     ],
-    "information": "http://www.dettingen-teck.de/kulturelle_einrichtungen.html",
-    "library_id": 2236,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Ortsb\u00fccherei"
+    "information": "http://www.kaufungen.eu/Startseite/B%C3%BCchereien/",
+    "library_id": 4337,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei Oberkaufungen"
 }

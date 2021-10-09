@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Dettingen unter Teck",
+    "city": "Nittendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/dettingen",
+        "baseurl": "https://webopac.winbiap.de/nittendorf",
         "customssl": true
     },
     "geo": [
-        48.62015,
-        9.4516305
+        49.02405,
+        11.95459
     ],
-    "information": "http://www.dettingen-teck.de/kulturelle_einrichtungen.html",
-    "library_id": 2236,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Ortsb\u00fccherei"
+    "information": "http://www.nittendorf.de/rathaus/?Buecherei&view=org&orgid=bfb04f7e-2325-49ea-bf11-cd229f088834",
+    "library_id": 5946,
+    "state": "Bayern",
+    "title": "Marktbibliothek"
 }

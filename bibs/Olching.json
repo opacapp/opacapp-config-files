@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Dettingen unter Teck",
+    "city": "Olching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/dettingen",
+        "baseurl": "https://webopac.winbiap.de/olching",
         "customssl": true
     },
     "geo": [
-        48.62015,
-        9.4516305
+        48.20707,
+        11.3334755
     ],
-    "information": "http://www.dettingen-teck.de/kulturelle_einrichtungen.html",
-    "library_id": 2236,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Ortsb\u00fccherei"
+    "information": "http://www.olching.de/index.php?id=306,55",
+    "library_id": 6154,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

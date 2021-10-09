@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Dettingen unter Teck",
+    "city": "K\u00fcnzell",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/dettingen",
+        "baseurl": "https://webopac.winbiap.de/kuenzell",
         "customssl": true
     },
     "geo": [
-        48.62015,
-        9.4516305
+        50.5356779,
+        9.7200616
     ],
-    "information": "http://www.dettingen-teck.de/kulturelle_einrichtungen.html",
-    "library_id": 2236,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Ortsb\u00fccherei"
+    "information": "http://www.kuenzell.de/gemeindebuecherei-kuenzell-im-gemeindezentrum-kuenzell_4472.html",
+    "library_id": 4726,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Dettingen unter Teck",
+    "city": "P\u00f6ttmes",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/dettingen",
+        "baseurl": "https://webopac.winbiap.de/poettmes",
         "customssl": true
     },
     "geo": [
-        48.62015,
-        9.4516305
+        48.583001,
+        11.0913163
     ],
-    "information": "http://www.dettingen-teck.de/kulturelle_einrichtungen.html",
-    "library_id": 2236,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Ortsb\u00fccherei"
+    "information": "http://www.markt-poettmes.de/index.php?id=315,57",
+    "library_id": 6405,
+    "state": "Bayern",
+    "title": "Marktb\u00fccherei"
 }

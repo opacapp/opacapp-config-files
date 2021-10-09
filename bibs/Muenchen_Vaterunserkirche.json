@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Dettingen unter Teck",
+    "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/dettingen",
+        "baseurl": "https://webopac.winbiap.de/vuk",
         "customssl": true
     },
     "geo": [
-        48.62015,
-        9.4516305
+        48.1351253,
+        11.5819806
     ],
-    "information": "http://www.dettingen-teck.de/kulturelle_einrichtungen.html",
-    "library_id": 2236,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Ortsb\u00fccherei"
+    "information": "http://www.vaterunserkirche.de/buecherei/",
+    "library_id": 5606,
+    "state": "Bayern",
+    "title": "\u00d6ffentliche B\u00fccherei Vaterunserkirche/St. Thomas"
 }

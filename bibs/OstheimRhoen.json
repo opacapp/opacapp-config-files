@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Dettingen unter Teck",
+    "city": "Ostheim v.d. Rh\u00f6n",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/dettingen",
+        "baseurl": "https://webopac.winbiap.net/ostheim",
         "customssl": true
     },
     "geo": [
-        48.62015,
-        9.4516305
+        50.4608058,
+        10.2305055
     ],
-    "information": "http://www.dettingen-teck.de/kulturelle_einrichtungen.html",
-    "library_id": 2236,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Ortsb\u00fccherei"
+    "information": "http://www.ostheim.de/internet/index.php?page=12485",
+    "library_id": 6218,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
 }
