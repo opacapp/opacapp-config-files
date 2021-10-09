@@ -1,24 +1,24 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "adis",
-    "city": "Karlsruhe",
+    "city": "Heilbronn",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://bsz.ibs-bw.de/aDISWeb/app",
-        "startparams": "service=direct/0/Home/%24DirectLink&sp=SOPAC33"
+        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23042"
     },
     "geo": [
-        49.009148,
-        8.3799444
+        49.1426929,
+        9.210879
     ],
-    "information": "http://www.hit-karlsruhe.de/hfm-ka/hfm/04-hochschule/09-bibliothek.htm",
-    "library_id": 9025,
+    "information": "https://www.hs-heilbronn.de/bibliothek",
+    "library_id": 8991,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Musikhochschule"
+    "title": "Hochschule"
 }

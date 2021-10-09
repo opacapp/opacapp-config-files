@@ -7,20 +7,27 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wustermark",
+    "city": "Hann. M\u00fcnden",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "https://elstal.cidoli.de",
+        "baseurl": "http://www.buecherei.hann.muenden.de",
         "copiestable": {
-            "branch": 3,
-            "department": 1,
-            "location": 0,
+            "barcode": 0,
+            "branch": -1,
+            "department": -1,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 3,
             "status": 2
         },
         "mediatypes": {
@@ -30,16 +37,19 @@
         },
         "reservationtable": {
             "author": 0,
-            "cancelurl": 2,
+            "availability": 2,
+            "branch": -1,
+            "cancelurl": 3,
+            "expirationdate": null,
             "title": 1
         }
     },
     "geo": [
-        52.5432634,
-        13.0036846
+        51.41813,
+        9.65436
     ],
-    "information": "https://www.th-elstal.de/hochschule/studienangebot/bibliothek/",
-    "library_id": 9373,
-    "state": "Brandenburg",
-    "title": "Theologische Hochschule Elstal"
+    "information": "http://www.buecherei.hann.muenden.de/read/info.html",
+    "library_id": 3617,
+    "state": "Niedersachsen",
+    "title": "Stadtb\u00fccherei"
 }
