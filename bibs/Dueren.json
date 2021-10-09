@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Karlsruhe",
+    "city": "D\u00fcren",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -17,30 +17,25 @@
             "lendingbranch": -1,
             "prolongurl": 4,
             "returndate": 3,
-            "status": 6,
+            "status": 5,
             "title": 7
         },
-        "baseurl": "https://opac.karlsruhe.de",
+        "baseurl": "https://www.bibliothekskatalog.dueren.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,
-            "department": -1,
-            "location": 2,
+            "department": 0,
+            "location": 1,
             "reservations": -1,
             "returndate": -1,
             "status": 4
         },
         "mediatypes": {
             "1": "BOOK",
-            "10": "MAP",
-            "18": "PACKAGE",
+            "11": "DVD",
             "2": "MAGAZINE",
-            "21": "BOOK",
-            "24": "PACKAGE",
-            "25": "GAME_CONSOLE",
             "3": "CD_SOFTWARE",
             "30": "EBOOK",
-            "4": "BLURAY",
             "5": "AUDIO_CASSETTE",
             "6": "CD",
             "9": "BOARDGAME"
@@ -53,11 +48,11 @@
         ]
     },
     "geo": [
-        49.0088319,
-        8.3999258
+        50.8082246,
+        6.4787339
     ],
-    "information": "http://www.karlsruhe.de/b2/bibliotheken/stadtbibliothek.de",
-    "library_id": 8704,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtbibliothek im St\u00e4ndehaus"
+    "information": "http://www.kulturbetrieb.dueren.de/index.php?id=6602",
+    "library_id": 8655,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
 }
