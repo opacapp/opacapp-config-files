@@ -24,3 +24,28 @@
         "libopacplus": true,
         "mediatypes": {
             "CDkl.gif": "AUDIOBOOK",
+            "MonoS.gif": "BOOK",
+            "kartekl.gif": "MAP",
+            "mBmonoS.gif": "BOOK",
+            "mCDROMS.gif": "CD_SOFTWARE",
+            "mCasetteS.gif": "AUDIOBOOK",
+            "mComicS.gif": "BOOK",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE",
+            "mKonsoleS.gif": "GAME_CONSOLE",
+            "mMusikCDS.gif": "CD_MUSIC",
+            "wuerfelkl.gif": "BOARDGAME",
+            "zeitschriftkl.gif": "MAGAZINE"
+        },
+        "onleihe": "https://www1.onleihe.de/247online-bibliothek",
+        "onleihe_libraryId": "756"
+    },
+    "geo": [
+        48.67186,
+        9.37927
+    ],
+    "information": "https://info.opacapp.de/wendlingen.html",
+    "library_id": 8204,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}
