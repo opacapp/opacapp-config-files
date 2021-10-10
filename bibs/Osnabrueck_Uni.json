@@ -7,19 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Braunschweig",
+    "city": "Osnabr\u00fcck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.lbs-braunschweig.gbv.de",
-        "customssl": true,
+        "baseurl": "https://opac.ub.uni-osnabrueck.de",
         "db": "1"
     },
     "geo": [
-        52.2739521,
-        10.52911
+        52.2729596,
+        8.0453083
     ],
-    "information": "http://www.biblio.tu-bs.de/",
-    "library_id": 8873,
+    "information": "http://www.ub.uni-osnabrueck.de/",
+    "library_id": 9132,
     "state": "Niedersachsen",
-    "title": "Universit\u00e4tsbibliothek"
+    "title": "Unibibliothek"
 }

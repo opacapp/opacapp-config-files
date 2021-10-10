@@ -7,19 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Braunschweig",
+    "city": "Kassel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.lbs-braunschweig.gbv.de",
-        "customssl": true,
+        "baseurl": "http://opac.bibliothek.uni-kassel.de",
         "db": "1"
     },
     "geo": [
-        52.2739521,
-        10.52911
+        51.3127114,
+        9.4797461
     ],
-    "information": "http://www.biblio.tu-bs.de/",
-    "library_id": 8873,
-    "state": "Niedersachsen",
-    "title": "Universit\u00e4tsbibliothek"
+    "information": "http://www.uni-kassel.de/ub/",
+    "library_id": 9026,
+    "state": "Hessen",
+    "title": "Unibibliothek"
 }

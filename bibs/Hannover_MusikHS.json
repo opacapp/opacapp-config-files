@@ -7,19 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Braunschweig",
+    "city": "Hannover",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.lbs-braunschweig.gbv.de",
-        "customssl": true,
-        "db": "1"
+        "baseurl": "https://opac.tib.eu",
+        "db": "8"
     },
     "geo": [
-        52.2739521,
-        10.52911
+        52.3758916,
+        9.7320104
     ],
-    "information": "http://www.biblio.tu-bs.de/",
-    "library_id": 8873,
+    "information": "http://www.hmtm-hannover.de/de/studium/hochschulbibliothek/",
+    "library_id": 8983,
     "state": "Niedersachsen",
-    "title": "Universit\u00e4tsbibliothek"
+    "title": "Bibliothek Hochschule f\u00fcr Musik, Theater und Medien (Bereich Musik)"
 }

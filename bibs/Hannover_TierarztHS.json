@@ -7,19 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Braunschweig",
+    "city": "Hannover",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.lbs-braunschweig.gbv.de",
-        "customssl": true,
-        "db": "1"
+        "baseurl": "https://opac.tib.eu",
+        "db": "5"
     },
     "geo": [
-        52.2739521,
-        10.52911
+        52.354801,
+        9.807075
     ],
-    "information": "http://www.biblio.tu-bs.de/",
-    "library_id": 8873,
+    "information": "http://www.tiho-hannover.de/de/kliniken-institute/bibliothek/",
+    "library_id": 8984,
     "state": "Niedersachsen",
-    "title": "Universit\u00e4tsbibliothek"
+    "title": "Tier\u00e4rztliche Hochschule"
 }

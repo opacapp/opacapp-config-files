@@ -7,19 +7,19 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Braunschweig",
+    "city": "Mainz",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.lbs-braunschweig.gbv.de",
-        "customssl": true,
+        "baseurl": "https://opac.ub.uni-mainz.de",
+        "charset": "ISO-8859-1",
         "db": "1"
     },
     "geo": [
-        52.2739521,
-        10.52911
+        49.9928617,
+        8.2472526
     ],
-    "information": "http://www.biblio.tu-bs.de/",
-    "library_id": 8873,
-    "state": "Niedersachsen",
+    "information": "http://www.ub.uni-mainz.de/",
+    "library_id": 9070,
+    "state": "Rheinland-Pfalz",
     "title": "Universit\u00e4tsbibliothek"
 }

@@ -1,25 +1,24 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Braunschweig",
+    "city": "L\u00fcneburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.lbs-braunschweig.gbv.de",
-        "customssl": true,
+        "baseurl": "https://lhlue.gbv.de",
         "db": "1"
     },
     "geo": [
-        52.2739521,
-        10.52911
+        53.2278623,
+        10.4012096
     ],
-    "information": "http://www.biblio.tu-bs.de/",
-    "library_id": 8873,
+    "information": "http://www.leuphana.de/bibliothek.html",
+    "library_id": 9063,
     "state": "Niedersachsen",
-    "title": "Universit\u00e4tsbibliothek"
+    "title": "Unibibliothek"
 }
