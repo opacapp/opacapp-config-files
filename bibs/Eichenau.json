@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Eichenau",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://cloudopac.winbiap.de/eichenau",
+        "customssl": true
+    },
+    "geo": null,
+    "information": "http://www.eichenau.org/index.php?id=0,168",
+    "library_id": 2546,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
