@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Linkenheim-Hochstetten",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://web-opac.kivbf.de/linkenheim-hochstetten",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": 2,
+            "location": 0,
+            "reservations": -1,
+            "returndate": 3,
+            "status": 1
+        },
+        "customssl": true
+    },
+    "geo": [
+        49.1233523,
+        8.4075163
+    ],
+    "information": "http://www.linkenheim-hochstetten.de/index.php/bibliothek.html",
+    "library_id": 5036,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindebibliothek"
+}
