@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Pohlheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://www.stadtbuecherei.pohlheim.de"
+    },
+    "geo": [
+        50.53427,
+        8.71428
+    ],
+    "information": "http://pohlheim.active-city.net/city_info/webaccessibility/index.cfm?region_id=417&waid=378&item_id=852069",
+    "library_id": 6386,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
+}
