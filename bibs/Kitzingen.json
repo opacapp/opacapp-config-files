@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "F\u00fcssen",
+    "city": "Kitzingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/fuessen",
+        "baseurl": "https://webopac.winbiap.net/kitzingen",
         "customssl": true
     },
     "geo": [
-        47.569648,
-        10.7004328
+        49.7340805,
+        10.1473777
     ],
-    "information": "https://www.stadt-fuessen.de/bibliothek.html",
-    "library_id": 3079,
+    "information": "http://www.kitzingen.info/stadtbuecherei.0.html",
+    "library_id": 4457,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei im Luitpoldbau"
 }

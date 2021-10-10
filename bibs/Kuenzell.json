@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "F\u00fcssen",
+    "city": "K\u00fcnzell",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/fuessen",
+        "baseurl": "https://webopac.winbiap.de/kuenzell",
         "customssl": true
     },
     "geo": [
-        47.569648,
-        10.7004328
+        50.5356779,
+        9.7200616
     ],
-    "information": "https://www.stadt-fuessen.de/bibliothek.html",
-    "library_id": 3079,
-    "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.kuenzell.de/gemeindebuecherei-kuenzell-im-gemeindezentrum-kuenzell_4472.html",
+    "library_id": 4726,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

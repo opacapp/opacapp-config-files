@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "F\u00fcssen",
+    "city": "Kassel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/fuessen",
-        "customssl": true
+        "baseurl": "https://bibliothek.stadt-kassel.de"
     },
     "geo": [
-        47.569648,
-        10.7004328
+        51.3121729,
+        9.4936895
     ],
-    "information": "https://www.stadt-fuessen.de/bibliothek.html",
-    "library_id": 3079,
-    "state": "Bayern",
+    "information": "http://www.kassel.de/miniwebs/stadtbib/01816/",
+    "library_id": 8705,
+    "state": "Hessen",
     "title": "Stadtbibliothek"
 }

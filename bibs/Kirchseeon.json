@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "F\u00fcssen",
+    "city": "Kirchseeon",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/fuessen",
+        "baseurl": "https://webopac.winbiap.de/kirchseeon",
         "customssl": true
     },
     "geo": [
-        47.569648,
-        10.7004328
+        48.0719266,
+        11.8881543
     ],
-    "information": "https://www.stadt-fuessen.de/bibliothek.html",
-    "library_id": 3079,
+    "information": "http://www.kirchseeon.de/index.php?id=0,53",
+    "library_id": 4445,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

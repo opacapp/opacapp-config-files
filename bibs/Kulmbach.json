@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "F\u00fcssen",
+    "city": "Kulmbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/fuessen",
-        "customssl": true
+        "baseurl": "http://webopac.buecherei-kulmbach.de"
     },
     "geo": [
-        47.569648,
-        10.7004328
+        50.1064304,
+        11.4495461
     ],
-    "information": "https://www.stadt-fuessen.de/bibliothek.html",
-    "library_id": 3079,
+    "information": "http://www.kulmbach.de/xist4c/web/Anschrift/Teledaten/Oeffnungszeiten_id_981_.htm",
+    "library_id": 4713,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "B\u00fccherei am Stadtpark"
 }

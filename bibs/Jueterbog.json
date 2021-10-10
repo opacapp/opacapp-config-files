@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "F\u00fcssen",
+    "api": "iopac",
+    "city": "J\u00fcterbog",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/fuessen",
-        "customssl": true
+        "baseurl": "http://bibliothek.jueterbog.de:1025"
     },
     "geo": [
-        47.569648,
-        10.7004328
+        51.9964734,
+        13.0756312
     ],
-    "information": "https://www.stadt-fuessen.de/bibliothek.html",
-    "library_id": 3079,
-    "state": "Bayern",
+    "information": "https://www.jueterbog.eu/seite/180125/stadtbibliothek.html",
+    "library_id": 4226,
+    "state": "Brandenburg",
     "title": "Stadtbibliothek"
 }

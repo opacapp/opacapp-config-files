@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "F\u00fcssen",
+    "city": "Kierspe",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/fuessen",
-        "customssl": true
+        "baseurl": "https://webopac.citkomm.de/kierspe"
     },
     "geo": [
-        47.569648,
-        10.7004328
+        51.12874,
+        7.59402
     ],
-    "information": "https://www.stadt-fuessen.de/bibliothek.html",
-    "library_id": 3079,
-    "state": "Bayern",
+    "information": "http://www.stadtbibliothek-kierspe.de/",
+    "library_id": 4387,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtbibliothek"
 }

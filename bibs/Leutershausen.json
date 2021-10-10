@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "F\u00fcssen",
+    "city": "Leutershausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/fuessen",
+        "baseurl": "https://webopac.winbiap.de/leutershausen",
         "customssl": true
     },
     "geo": [
-        47.569648,
-        10.7004328
+        49.2999321,
+        10.413617
     ],
-    "information": "https://www.stadt-fuessen.de/bibliothek.html",
-    "library_id": 3079,
+    "information": "http://www.landkreis-ansbach.de/Leben-im-Landkreis/Bildung/Bibliotheken/index.php?ModID=9&object=tx%7C2150.3&FID=1504.125.1&NavID=2150.51&La=1",
+    "library_id": 4957,
     "state": "Bayern",
     "title": "Stadtbibliothek"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "F\u00fcssen",
+    "city": "Kirchheim unter Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://cloudopac.winbiap.de/fuessen",
+        "baseurl": "https://webopac.kirchheim-teck.de",
         "customssl": true
     },
     "geo": [
-        47.569648,
-        10.7004328
+        48.64855,
+        9.4499
     ],
-    "information": "https://www.stadt-fuessen.de/bibliothek.html",
-    "library_id": 3079,
-    "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.kirchheim-teck.de/stadtbuecherei",
+    "library_id": 4430,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
 }
