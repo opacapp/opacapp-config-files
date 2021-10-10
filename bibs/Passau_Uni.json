@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Passau",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://infoguide.ub.uni-passau.de/InfoGuideClient.upasis",
+        "startparams": "Login=igupa"
+    },
+    "geo": [
+        48.5667364,
+        13.4319466
+    ],
+    "information": "http://www.ub.uni-passau.de/?id=6261",
+    "library_id": 9136,
+    "state": "Bayern",
+    "title": "Unibibliothek"
+}
