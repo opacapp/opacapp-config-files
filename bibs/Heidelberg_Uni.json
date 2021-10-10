@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Geislingen a.d.Steige",
+    "api": "heidi",
+    "city": "Heidelberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://opac.geislingen.de"
+        "baseurl": "https://katalog.ub.uni-heidelberg.de/cgi-bin"
     },
     "geo": [
-        48.6215162,
-        9.8294482
+        49.3987524,
+        8.6724335
     ],
-    "information": "http://www.stadtbuecherei-geislingen.de/",
-    "library_id": 3153,
+    "information": "http://www.ub.uni-heidelberg.de/kontakt/",
+    "library_id": 8990,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei in der MAG"
+    "title": "Unibibliothek"
 }

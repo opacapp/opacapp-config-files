@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Geislingen a.d.Steige",
+    "city": "Kirchheim unter Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://opac.geislingen.de"
+        "baseurl": "https://webopac.kirchheim-teck.de",
+        "customssl": true
     },
     "geo": [
-        48.6215162,
-        9.8294482
+        48.64855,
+        9.4499
     ],
-    "information": "http://www.stadtbuecherei-geislingen.de/",
-    "library_id": 3153,
+    "information": "http://www.kirchheim-teck.de/stadtbuecherei",
+    "library_id": 4430,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei in der MAG"
+    "title": "Stadtb\u00fccherei"
 }
