@@ -1,0 +1,31 @@
+{
+    "_active": true,
+    "_notice_text": "Die Gemeindeb\u00fccherei Limburgerhof hat beim **Lesesommer Rheinland-Pfalz 2021** unter dem Motto **Werde auch du zum Lesemonster!** mitgemacht.\r\nDie **40 lokalen Preise** und die **Urkunden** der erfolgreichen Teilnehmer (wer mindestens 3 B\u00fccher gelesen hat) k\u00f6nnen abgeholt werden.",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Limburgerhof",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliotheklimburgerhof.de/",
+        "libopacplus": true,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche.aspx",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        49.41805,
+        8.38915
+    ],
+    "information": "https://info.smartbib.de/limburgerhof.html",
+    "library_id": 5008,
+    "state": "Rheinland-Pfalz",
+    "title": "Gemeindeb\u00fccherei"
+}
