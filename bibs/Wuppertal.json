@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Wuppertal",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://webopac.wuppertal.de/webOPACClient.sisis"
+    },
+    "geo": [
+        51.2573367,
+        7.1407183
+    ],
+    "information": "http://www.wuppertal.de/kultur-bildung/stadtbibliothek/index.php",
+    "library_id": 8797,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
