@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Hausen am Albis",
+    "city": "Greifensee",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Hausen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Greifensee"
     },
     "geo": [
-        47.244856,
-        8.5332266
+        47.3675699,
+        8.6847529
     ],
-    "information": "http://www.hausen.ch/xml_1/internet/de/application/d2/d307/f309.cfm",
-    "library_id": 8986,
+    "information": "http://www.greifensee.ch/de/bildung/bildungbibliothek/",
+    "library_id": 8956,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
