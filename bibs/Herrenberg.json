@@ -7,21 +7,24 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Darmstadt",
+    "city": "Herrenberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://open-stadtbibliothek.darmstadt.de",
+        "baseurl": "https://bibliothek.komm.one/herrenberg",
+        "customssl": true,
         "urls": {
+            "account": "Konto.aspx",
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "new_acq": "NeueMedien.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        49.8717697,
-        8.6578731
+        48.59424,
+        8.8731
     ],
-    "information": "http://www.stadtbibliothek.darmstadt.de/",
-    "library_id": 8645,
-    "state": "Hessen",
+    "information": "http://www.stadtbibliothek.herrenberg.de/",
+    "library_id": 22,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtbibliothek"
 }

@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Darmstadt",
+    "city": "Greifswald",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://open-stadtbibliothek.darmstadt.de",
+        "baseurl": "http://www.stadtbibliothek.greifswald.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        49.8717697,
-        8.6578731
+        54.09667,
+        13.38245
     ],
-    "information": "http://www.stadtbibliothek.darmstadt.de/",
-    "library_id": 8645,
-    "state": "Hessen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.stadtbibliothek.greifswald.de/",
+    "library_id": 8678,
+    "state": "Mecklenburg-Vorpommern",
+    "title": "Stadtbibliothek Hans Fallada"
 }

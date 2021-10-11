@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Darmstadt",
+    "city": "Eisenach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://open-stadtbibliothek.darmstadt.de",
+        "baseurl": "https://eisenach.bibliotheca-open.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        49.8717697,
-        8.6578731
+        50.976207,
+        10.3148166
     ],
-    "information": "http://www.stadtbibliothek.darmstadt.de/",
-    "library_id": 8645,
-    "state": "Hessen",
+    "information": "https://eisenach.bibliotheca-open.de/%C3%9Cberuns/InfoKontakt.aspx",
+    "library_id": 2561,
+    "state": "Th\u00fcringen",
     "title": "Stadtbibliothek"
 }
