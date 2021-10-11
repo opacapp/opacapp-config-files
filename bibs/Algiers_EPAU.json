@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "koha",
+    "city": "Alger",
+    "country": "Alg\u00e9rie",
+    "data": {
+        "baseurl": "http://www.catalogue.epau-alger.edu.dz"
+    },
+    "geo": [
+        36.7190624,
+        3.1543597
+    ],
+    "information": "http://epau-bibliotheque.blogspot.com/",
+    "library_id": 9382,
+    "state": "Alger",
+    "title": "Biblioth\u00e8que de l'\u00e9cole polytechnique d'architecture et d'urbanisme"
+}
