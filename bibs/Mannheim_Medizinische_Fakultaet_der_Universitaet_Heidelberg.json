@@ -1,12 +1,12 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": false,
+    "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "netbiblio",
+    "api": "sisis",
     "city": "Mannheim",
     "country": "Deutschland",
     "data": {
