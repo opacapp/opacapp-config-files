@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Hamburg",
+    "country": "Deutschland",
+    "data": {
+        "account_system": "lbs",
+        "baseurl": "https://katalog.b.tuhh.de",
+        "db": "22"
+    },
+    "geo": [
+        53.5402091,
+        10.0047846
+    ],
+    "information": "https://www.hcu-hamburg.de/it-und-medien/bibliothek/",
+    "library_id": 9324,
+    "state": "Hamburg",
+    "title": "HafenCity Universit\u00e4t"
+}
