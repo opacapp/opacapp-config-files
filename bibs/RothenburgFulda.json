@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Rotenburg a.d.Fulda",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.net/mzhr",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        50.996111,
+        9.727778
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
-    "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.hef-rof.de/landratsamt_und_kreisverwaltung/medienzentrum/",
+    "library_id": 6789,
+    "state": "Hessen",
+    "title": "Medienzentrum Hersfeld-Rotenburg"
 }

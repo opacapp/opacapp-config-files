@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Neufahrn bei Freising",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://opac.winbiap.net/neufahrn",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        48.3149823,
+        11.6617978
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
+    "information": "http://www.neufahrn.de/einrichtungen-behoerden/gemeindliche-einrichtungen/gemeindebibliothek.html",
+    "library_id": 5759,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

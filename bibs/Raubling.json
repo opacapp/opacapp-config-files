@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Raubling",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.de/raubling",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        47.7908741,
+        12.1115921
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
+    "information": "http://www.raubling.de/leben-und-freizeit/gemeindebuecherei.html",
+    "library_id": 6507,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

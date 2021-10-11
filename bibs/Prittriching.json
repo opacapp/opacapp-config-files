@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Prittriching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.net/prittriching",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        48.1979122,
+        10.925218
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
+    "information": "http://s361800474.website-start.de/einrichtungen/b%C3%BCcherei/",
+    "library_id": 6424,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

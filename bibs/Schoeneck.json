@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Sch\u00f6neck/H",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.de/schoeneck",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        50.1978978,
+        8.8241234
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
-    "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.schoeneck.de/?action=freizeit&sub=buechereien",
+    "library_id": 9169,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fcchereien"
 }

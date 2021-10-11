@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Naila",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.net/naila",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        50.3294246,
+        11.7021823
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
+    "information": "http://www.naila.de/cgi-bin/show.pl?action=einrichtungen",
+    "library_id": 5661,
     "state": "Bayern",
     "title": "Stadtbibliothek"
 }

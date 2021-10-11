@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Neuburg/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.net/neuburg",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        48.734458,
+        11.180675
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
+    "information": "http://www.neuburg-donau.de/kultur/bildung/buecherturm",
+    "library_id": 5733,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Offenbach/M",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://opac.winbiap.net/offenbach",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        50.1070493,
+        8.7615989
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
-    "state": "Bayern",
+    "information": "http://www.offenbach.de/stadtbibliothek",
+    "library_id": 8745,
+    "state": "Hessen",
     "title": "Stadtbibliothek"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Roth bei Nbg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://opac.winbiap.net/roth",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        49.2456337,
+        11.0911607
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
+    "information": "http://www.stadt-roth.de/lwwcm-rh/rh-publish.nsf/Content/GE-1-SL-BildungKultur-Stadtbuecherei/",
+    "library_id": 6792,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

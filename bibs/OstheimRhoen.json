@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Ostheim v.d. Rh\u00f6n",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.net/ostheim",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        50.4608058,
+        10.2305055
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
+    "information": "http://www.ostheim.de/internet/index.php?page=12485",
+    "library_id": 6218,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

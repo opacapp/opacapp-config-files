@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Randersacker",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.de/randersacker",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        49.7584752,
+        9.9855474
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
+    "information": "http://www.randersacker.de/index.php?option=com_content&view=article&id=324:brei&catid=143:einrichtungen&Itemid=111",
+    "library_id": 6476,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

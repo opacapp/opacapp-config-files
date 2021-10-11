@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Ochsenfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.net/ochsenfurt",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        49.6640025,
+        10.0709014
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
+    "information": "http://www.bibliothek.ochsenfurt.de/",
+    "library_id": 6110,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtbibliothek \"Altes Rathaus\""
 }

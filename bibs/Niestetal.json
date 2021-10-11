@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Niestetal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.net/niestetal",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        51.316667,
+        9.566667
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
-    "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "information": "http://www.niestetal.de/Buecherei.110.0.html",
+    "library_id": 5941,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

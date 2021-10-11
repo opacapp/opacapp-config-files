@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "Roding",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.de/roding",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        49.1944493,
+        12.5212772
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
+    "information": "http://www.roding.de/Rathaus/OeffentlicheEinrichtungen/Bildungseinrichtungen/Stadtbuecherei.aspx",
+    "library_id": 6728,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

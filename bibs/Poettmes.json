@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad T\u00f6lz",
+    "city": "P\u00f6ttmes",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badtoelz",
+        "baseurl": "https://webopac.winbiap.de/poettmes",
         "customssl": true
     },
     "geo": [
-        47.7640421,
-        11.5635549
+        48.583001,
+        11.0913163
     ],
-    "information": "http://www.bad-toelz.de/buerger/kultur/kunst-und-literatur/stadtbibliothek.html",
-    "library_id": 1367,
+    "information": "http://www.markt-poettmes.de/index.php?id=315,57",
+    "library_id": 6405,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Marktb\u00fccherei"
 }
