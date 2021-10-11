@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Bergheim/Erft",
+    "city": "Nordhausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.stadtbibliothek.bergheim.de",
+        "baseurl": "http://bibliothek.nordhausen.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        50.9543619,
-        6.6410039
+        51.5023432,
+        10.7936758
     ],
-    "information": "https://bergheim.bibliotheca-open.de/mobile/InfoKontakt.aspx",
-    "library_id": 8614,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "information": "http://bibliothek.nordhausen.de/",
+    "library_id": 5958,
+    "state": "Th\u00fcringen",
+    "title": "Stadtbibliothek Rudolf Hagelstange"
 }

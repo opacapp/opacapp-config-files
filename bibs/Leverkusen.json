@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Bergheim/Erft",
+    "city": "Leverkusen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.stadtbibliothek.bergheim.de",
+        "baseurl": "https://www.stadtbibliothek-leverkusen.de",
         "urls": {
-            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
-            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+            "advanced_search": "Profisuche.aspx",
+            "simple_search": "Profisuche/Suchergebnisse.aspx"
         }
     },
     "geo": [
-        50.9543619,
-        6.6410039
+        51.0336354,
+        6.9879711
     ],
-    "information": "https://bergheim.bibliotheca-open.de/mobile/InfoKontakt.aspx",
-    "library_id": 8614,
+    "information": "https://www.stadtbibliothek-leverkusen.de/mobile/InfoKontakt.aspx",
+    "library_id": 8715,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtbibliothek"
 }

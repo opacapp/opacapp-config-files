@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Bergheim/Erft",
+    "city": "Paderborn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.stadtbibliothek.bergheim.de",
+        "baseurl": "http://www.stadtbibliothek-paderborn.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        50.9543619,
-        6.6410039
+        51.7199006,
+        8.754952
     ],
-    "information": "https://bergheim.bibliotheca-open.de/mobile/InfoKontakt.aspx",
-    "library_id": 8614,
+    "information": "http://www.stadtbibliothek-paderborn.de",
+    "library_id": 8749,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtbibliothek"
 }
