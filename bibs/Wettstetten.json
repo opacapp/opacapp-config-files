@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Wettstetten",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://cloudopac.winbiap.de/wettstetten",
+        "customssl": true
+    },
+    "geo": [
+        48.82496,
+        11.41208
+    ],
+    "information": "http://www.wettstetten.de/LebeninWettstetten/Buecherei.aspx",
+    "library_id": 8295,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}

@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Markt Schwaben",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://cloudopac.winbiap.de/marktschwaben",
+        "customssl": true
+    },
+    "geo": [
+        48.1910381,
+        11.8676681
+    ],
+    "information": "http://www.markt-schwaben.de/index.php?id=0,32",
+    "library_id": 5251,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
