@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Steinfurt",
+    "city": "Essen/Oldenburg",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de",
+        "baseurl": "http://www.opac.bmo-vechta.de/essen",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -52,14 +52,14 @@
             "PS3klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "SachDVDklein.GIF": "DVD",
             "Sachbuchklein.GIF": "BOOK",
-            "SommerleseclubBuchklein.GIF": "BOOK",
+            "SommerleseclubBuchklein.GIF": "UNKNOWN",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
             "Weihnachten1klein.GIF": "UNKNOWN",
             "Wii1klein.GIF": "GAME_CONSOLE_WII",
             "Wiiklein.GIF": "GAME_CONSOLE_WII",
             "Zeitschriftklein.GIF": "MAGAZINE",
-            "eAudio_bibloadklein.GIF": "MP3",
+            "eAudio_bibloadklein.GIF": "EAUDIO",
             "eBook_bibloadklein.GIF": "EBOOK",
             "ePaper_bibloadklein.GIF": "EDOC",
             "eVideo_bibloadklein.GIF": "EVIDEO"
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        52.1257488,
-        7.39590569999996
+        52.717731,
+        7.9396505
     ],
-    "information": "http://www.katholisch-in-steinfurt.de/katholisch-in-steinfurt/kirchen-einrichtungen/buechereien/buecherei-st-nikomedes/",
-    "library_id": 9334,
-    "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B St. Nikomedes Borghorst"
+    "information": "http://www.essen-oldb.de/index.php?id=208",
+    "library_id": 2797,
+    "state": "Niedersachsen",
+    "title": "Kath. \u00d6B St. Bartholom\u00e4us"
 }

@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Steinfurt",
+    "city": "Friesoythe",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de",
+        "baseurl": "http://webopac.bmo-vechta.de/friesoythe",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,6 +25,7 @@
             "returndate": 5,
             "status": 3
         },
+        "db": "OPAC_Friesoythe",
         "mediatypes": {
             "Buchklein.GIF": "BOOK",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
@@ -45,7 +46,7 @@
             "Medien-Paketklein.GIF": "PACKAGE",
             "NDS1klein.GIF": "GAME_CONSOLE_NINTENDO",
             "NDSklein.GIF": "GAME_CONSOLE_NINTENDO",
-            "Ostern1klein .GIF": "UNKNOWN",
+            "Ostern1klein .GIF": "PACKAGE",
             "PS21klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "PS2klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "PS31klein.GIF": "GAME_CONSOLE_PLAYSTATION",
@@ -55,7 +56,7 @@
             "SommerleseclubBuchklein.GIF": "BOOK",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
-            "Weihnachten1klein.GIF": "UNKNOWN",
+            "Weihnachten1klein.GIF": "PACKAGE",
             "Wii1klein.GIF": "GAME_CONSOLE_WII",
             "Wiiklein.GIF": "GAME_CONSOLE_WII",
             "Zeitschriftklein.GIF": "MAGAZINE",
@@ -72,11 +73,11 @@
         }
     },
     "geo": [
-        52.1257488,
-        7.39590569999996
+        53.0244916,
+        7.8589508
     ],
-    "information": "http://www.katholisch-in-steinfurt.de/katholisch-in-steinfurt/kirchen-einrichtungen/buechereien/buecherei-st-nikomedes/",
-    "library_id": 9334,
-    "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B St. Nikomedes Borghorst"
+    "information": "http://www.stmarienfriesoythe.de/",
+    "library_id": 3037,
+    "state": "Niedersachsen",
+    "title": "Kath. \u00d6B St. Marien"
 }

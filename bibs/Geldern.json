@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Steinfurt",
+    "city": "Geldern",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de",
+        "baseurl": "https://webopac.bistum-muenster.de/geldern",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        52.1257488,
-        7.39590569999996
+        51.5175043,
+        6.320647
     ],
-    "information": "http://www.katholisch-in-steinfurt.de/katholisch-in-steinfurt/kirchen-einrichtungen/buechereien/buecherei-st-nikomedes/",
-    "library_id": 9334,
+    "information": "http://www.st-mariamagdalena-geldern.de/html/gruppen-und-verbaende/katholische-oeffentliche-buechereien.html",
+    "library_id": 3161,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B St. Nikomedes Borghorst"
+    "title": "Kath. \u00d6B St. Maria Magdalena"
 }
