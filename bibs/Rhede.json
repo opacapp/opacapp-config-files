@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borken/Westf",
+    "city": "Rhede",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/borken",
+        "baseurl": "https://webopac.bistum-muenster.de/rhede",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,7 +26,7 @@
             "status": 3
         },
         "mediatypes": {
-            "Buchklein.GIF": "UNKNOWN",
+            "Buchklein.GIF": "BOOK",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
             "CD1klein.GIF": "CD",
             "CDklein.GIF": "CD",
@@ -40,22 +40,22 @@
             "Jugendbuchklein.GIF": "BOOK",
             "KinderCD_aklein.GIF": "CD",
             "KinderDVD_aklein.GIF": "DVD",
-            "Kinderbuch_aklein.GIF": "UNKNOWN",
+            "Kinderbuch_aklein.GIF": "BOOK",
             "Kindersachbuch_aklein.GIF": "BOOK",
             "Medien-Paketklein.GIF": "PACKAGE",
             "NDS1klein.GIF": "GAME_CONSOLE_NINTENDO",
             "NDSklein.GIF": "GAME_CONSOLE_NINTENDO",
-            "Ostern1klein .GIF": "UNKNOWN",
+            "Ostern1klein .GIF": "PACKAGE",
             "PS21klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "PS2klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "PS31klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "PS3klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "SachDVDklein.GIF": "DVD",
             "Sachbuchklein.GIF": "BOOK",
-            "SommerleseclubBuchklein.GIF": "UNKNOWN",
+            "SommerleseclubBuchklein.GIF": "BOOK",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
-            "Weihnachten1klein.GIF": "UNKNOWN",
+            "Weihnachten1klein.GIF": "PACKAGE",
             "Wii1klein.GIF": "GAME_CONSOLE_WII",
             "Wiiklein.GIF": "GAME_CONSOLE_WII",
             "Zeitschriftklein.GIF": "MAGAZINE",
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.84179,
-        6.85934
+        51.83953,
+        6.69595
     ],
-    "information": "http://www.remigius-buecherei.de/",
-    "library_id": 1823,
+    "information": "http://www.st-gudula.de/ein_buch_g.php",
+    "library_id": 6628,
     "state": "Nordrhein-Westfalen",
-    "title": "Remigius-B\u00fccherei"
+    "title": "\u00d6ffentliche B\u00fccherei St. Gudula"
 }

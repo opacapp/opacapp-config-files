@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borken/Westf",
+    "city": "L\u00f6ningen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/borken",
+        "baseurl": "http://opac.bmo-vechta.de/loeningen",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -40,7 +40,7 @@
             "Jugendbuchklein.GIF": "BOOK",
             "KinderCD_aklein.GIF": "CD",
             "KinderDVD_aklein.GIF": "DVD",
-            "Kinderbuch_aklein.GIF": "UNKNOWN",
+            "Kinderbuch_aklein.GIF": "BOOK",
             "Kindersachbuch_aklein.GIF": "BOOK",
             "Medien-Paketklein.GIF": "PACKAGE",
             "NDS1klein.GIF": "GAME_CONSOLE_NINTENDO",
@@ -52,7 +52,7 @@
             "PS3klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "SachDVDklein.GIF": "DVD",
             "Sachbuchklein.GIF": "BOOK",
-            "SommerleseclubBuchklein.GIF": "UNKNOWN",
+            "SommerleseclubBuchklein.GIF": "BOOK",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
             "Weihnachten1klein.GIF": "UNKNOWN",
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.84179,
-        6.85934
+        52.73278,
+        7.76012
     ],
-    "information": "http://www.remigius-buecherei.de/",
-    "library_id": 1823,
-    "state": "Nordrhein-Westfalen",
-    "title": "Remigius-B\u00fccherei"
+    "information": "http://www.buechereiloeningen.de/",
+    "library_id": 5108,
+    "state": "Niedersachsen",
+    "title": "Kath. \u00d6B St. Vitus"
 }
