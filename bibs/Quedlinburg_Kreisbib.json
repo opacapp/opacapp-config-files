@@ -1,0 +1,46 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Quedlinburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliothek.kdz-ws.net/VerbundHarzPlus",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "returndate": 5,
+            "status": 3
+        },
+        "customssl": true,
+        "db": "BIBLIO-790",
+        "mediatypes": {
+            "cdkl.gif": "CD_SOFTWARE",
+            "dvdkl.gif": "DVD",
+            "kassettekl.gif": "AUDIO_CASSETTE",
+            "mAboS.gif": "MAGAZINE",
+            "mBmonoS.gif": "BOOK",
+            "mComicS.gif": "BOOK",
+            "mEBookS.gif": "EBOOK",
+            "mMusikCDS.gif": "CD",
+            "mZeitS.gif": "NEWSPAPER",
+            "musersS.gif": "CD",
+            "videokl.gif": "MOVIE"
+        }
+    },
+    "geo": [
+        51.7878,
+        11.145275
+    ],
+    "information": "http://kvhs-harz.de/kreisbibliothek-harz/",
+    "library_id": 6448,
+    "state": "Sachsen-Anhalt",
+    "title": "Kreisbibliothek Harz"
+}
