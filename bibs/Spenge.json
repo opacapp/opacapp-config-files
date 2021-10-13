@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Warendorf",
+    "city": "Spenge",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,17 +25,13 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "Warendorf",
+        "db": "spenge",
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "cdkl.gif": "CD_SOFTWARE",
+            "dvdkl.gif": "DVD",
+            "e_owl_kl.gif": "EBOOK",
+            "kassettekl.gif": "AUDIOBOOK",
+            "videokl.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -45,11 +41,11 @@
         }
     },
     "geo": [
-        51.95084,
-        7.98693
+        52.1429,
+        8.4876
     ],
-    "information": "http://www.buecherei-warendorf.de/de/",
-    "library_id": 8068,
+    "information": "http://www.spenge.de/stadtb%C3%BCcherei",
+    "library_id": 7347,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

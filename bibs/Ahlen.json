@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Warendorf",
+    "city": "Ahlen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -25,7 +25,7 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "Warendorf",
+        "db": "Ahlen",
         "mediatypes": {
             "Munzinger_32x32.jpg": "EDOC",
             "bibload.gif": "EBOOK",
@@ -45,11 +45,11 @@
         }
     },
     "geo": [
-        51.95084,
-        7.98693
+        51.76134,
+        7.88774
     ],
-    "information": "http://www.buecherei-warendorf.de/de/",
-    "library_id": 8068,
+    "information": "https://www.ahlen.de/start/themen/bildung-kultur/stadtbuecherei/kontakt/",
+    "library_id": 8605,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

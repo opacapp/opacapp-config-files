@@ -1,38 +1,28 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "Noch kein aktueller Hinweis",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Warendorf",
+    "city": "Speyer",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "prolongurl": 3,
-            "returndate": 2,
-            "title": 1
-        },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "https://buecherei.speyer.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
             "department": 2,
             "location": 1,
+            "reservations": -1,
             "returndate": 5,
             "status": 3
         },
-        "db": "Warendorf",
+        "customssl": true,
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
+            "ekl.gif": "EBOOK",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -40,16 +30,18 @@
         "reservationtable": {
             "author": 0,
             "availability": 2,
+            "branch": -1,
             "cancelurl": 3,
+            "expirationdate": null,
             "title": 1
         }
     },
     "geo": [
-        51.95084,
-        7.98693
+        49.32158,
+        8.43017
     ],
-    "information": "http://www.buecherei-warendorf.de/de/",
-    "library_id": 8068,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "information": "https://info.opacapp.net/speyer.html",
+    "library_id": 8774,
+    "state": "Rheinland-Pfalz",
+    "title": "Stadtbibliothek"
 }

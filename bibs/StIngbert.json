@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Warendorf",
+    "city": "St. Ingbert",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "http://opac.st-ingbert.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,14 +25,11 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "Warendorf",
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
+            "eAudioS.gif": "MP3",
+            "eBuchS.gif": "EBOOK",
+            "eVideoS.gif": "EVIDEO",
+            "eZeitungS.gif": "EDOC",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -45,11 +42,11 @@
         }
     },
     "geo": [
-        51.95084,
-        7.98693
+        49.2797,
+        7.11751
     ],
-    "information": "http://www.buecherei-warendorf.de/de/",
-    "library_id": 8068,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.st-ingbert.de/bildung/stadtbuecherei.html",
+    "library_id": 7391,
+    "state": "Saarland",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Warendorf",
+    "city": "Stahnsdorf",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,23 +16,14 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "https://www5.potsdam-mittelmark.de/webOPAC",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "department": 2,
-            "location": 1,
-            "returndate": 5,
-            "status": 3
+            "location": 0,
+            "status": 1
         },
-        "db": "Warendorf",
+        "db": "webb_sta",
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
+            "eMedium.gif": "MOVIE",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -45,11 +36,11 @@
         }
     },
     "geo": [
-        51.95084,
-        7.98693
+        52.3807805,
+        13.2126326
     ],
-    "information": "http://www.buecherei-warendorf.de/de/",
-    "library_id": 8068,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.stahnsdorf.de/content/lebenswertes-stahnsdorf/kultur-und-soziales/bibliothek/",
+    "library_id": 7416,
+    "state": "Brandenburg",
+    "title": "Gemeindebibliothek"
 }

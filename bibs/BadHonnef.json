@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Warendorf",
+    "city": "Bad Honnef",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,23 +16,15 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "http://biblio.bad-honnef.de/wopac",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
             "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
-        "db": "Warendorf",
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -45,11 +37,11 @@
         }
     },
     "geo": [
-        51.95084,
-        7.98693
+        50.64444,
+        7.22962
     ],
-    "information": "http://www.buecherei-warendorf.de/de/",
-    "library_id": 8068,
+    "information": "http://www.bad-honnef.de/service/buecherei/",
+    "library_id": 1266,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

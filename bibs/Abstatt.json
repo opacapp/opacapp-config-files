@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Warendorf",
+    "city": "Abstatt",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "http://buecherei.abstatt.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,17 +25,11 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "Warendorf",
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "mFilmS.gif": "MOVIE",
+            "mcomput2S.gif": "EBOOK"
         },
         "reservationtable": {
             "author": 0,
@@ -45,11 +39,11 @@
         }
     },
     "geo": [
-        51.95084,
-        7.98693
+        49.0676889,
+        9.2903905
     ],
-    "information": "http://www.buecherei-warendorf.de/de/",
-    "library_id": 8068,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.abstatt.de/01_buecherei.html",
+    "library_id": 864,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
 }

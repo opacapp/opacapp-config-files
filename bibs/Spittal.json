@@ -1,14 +1,14 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Warendorf",
-    "country": "Deutschland",
+    "city": "Spittal an der Drau",
+    "country": "\u00d6sterreich",
     "data": {
         "accounttable": {
             "author": 0,
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "https://katalog-buecherei.spittal-drau.at/WebOpac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,14 +25,7 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "Warendorf",
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -45,11 +38,11 @@
         }
     },
     "geo": [
-        51.95084,
-        7.98693
+        46.7983351,
+        13.4966003
     ],
-    "information": "http://www.buecherei-warendorf.de/de/",
-    "library_id": 8068,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.stadtbuecherei-spittal.at/",
+    "library_id": 9174,
+    "state": "K\u00e4rnten",
     "title": "Stadtb\u00fccherei"
 }

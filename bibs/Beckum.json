@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Warendorf",
+    "city": "Beckum",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -25,7 +25,7 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "Warendorf",
+        "db": "Beckum",
         "mediatypes": {
             "Munzinger_32x32.jpg": "EDOC",
             "bibload.gif": "EBOOK",
@@ -45,11 +45,11 @@
         }
     },
     "geo": [
-        51.95084,
-        7.98693
+        51.7537536,
+        8.0407579
     ],
-    "information": "http://www.buecherei-warendorf.de/de/",
-    "library_id": 8068,
+    "information": "http://www.beckum.de/oeffentliche_buecherei_beckum.html",
+    "library_id": 1479,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei"
+    "title": "\u00d6ffentliche B\u00fccherei"
 }
