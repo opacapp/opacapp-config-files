@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "Leonding",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://www.stadtbuecherei-leonding.webopac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        48.2792546,
+        14.2483066
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
-    "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "information": "http://www.leonding.at",
+    "library_id": 9053,
+    "state": "Ober\u00f6sterreich",
+    "title": "Stadtb\u00fccherei"
 }

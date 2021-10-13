@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "Imst",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://imst.webopac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        47.2387997,
+        10.7420248
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
-    "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "information": "http://www.imst.bvoe.at",
+    "library_id": 9009,
+    "state": "Tirol",
+    "title": "Stadtb\u00fccherei Imst (\u00d6ffentliche B\u00fccherei der Stadt und Pfarre Imst)"
 }

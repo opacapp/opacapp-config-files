@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "Litzelsdorf",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://buecherei-litzelsdorf.web-opac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        47.2126623,
+        16.1645525
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
-    "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "information": "http://www.litzelsdorf.bvoe.at",
+    "library_id": 9056,
+    "state": "Burgenland",
+    "title": "\u00d6ffentliche B\u00fccherei"
 }

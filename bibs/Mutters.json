@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "Mutters",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://www.oebmutters.web-opac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        47.2277311,
+        11.3769728
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
-    "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "information": "http://www.mutters.bvoe.at",
+    "library_id": 9104,
+    "state": "Tirol",
+    "title": "\u00d6ffentliche B\u00fccherei"
 }

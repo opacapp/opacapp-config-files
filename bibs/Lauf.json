@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "Lauf/P",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "http://88.217.155.35/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,8 +25,9 @@
             "returndate": 5,
             "status": 3
         },
-        "customssl": true,
         "mediatypes": {
+            "blu-ray.gif": "BLURAY",
+            "emedien.gif": "EDOC",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -39,11 +40,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        49.5104449,
+        11.2770723
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
-    "state": "Sachsen",
-    "title": "Mediothek"
+    "information": "http://www.stadtbuecherei-lauf.de/",
+    "library_id": 4857,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
 }

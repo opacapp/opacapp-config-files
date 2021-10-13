@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "Maria",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://www.suedstadt.web-opac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        48.0950444,
+        16.3039643
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
+    "information": "http://www.mariaenzersdorf.bvoe.at",
+    "library_id": 9076,
     "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "title": "Gemeindebibliothek Maria Enzersdorf"
 }

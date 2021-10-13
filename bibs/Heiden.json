@@ -1,35 +1,35 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "Heiden",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "https://webopac.bistum-muenster.de/heiden",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
-            "department": 2,
-            "location": 1,
+            "department": -1,
+            "location": 2,
+            "reservations": -1,
             "returndate": 5,
+            "signature": 1,
             "status": 3
-        },
-        "customssl": true,
-        "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -39,11 +39,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        51.8255419,
+        6.9359164
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
-    "state": "Sachsen",
-    "title": "Mediothek"
+    "information": "http://buecherei.sankt-georg-heiden.de/",
+    "library_id": 3714,
+    "state": "Nordrhein-Westfalen",
+    "title": "Die B\u00fccherei St. Georg"
 }

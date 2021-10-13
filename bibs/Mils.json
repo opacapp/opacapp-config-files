@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "Mils",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://www.buecherei-mils.webopac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        47.2883084,
+        11.5314953
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
-    "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "information": "http://www.buecherei-mils.webopac.at",
+    "library_id": 9083,
+    "state": "Tirol",
+    "title": "Bibliothek"
 }

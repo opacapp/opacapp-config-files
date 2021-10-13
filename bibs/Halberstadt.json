@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "Halberstadt",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "https://bibliothek.kdz-ws.net/VerbundHarzPlus",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,10 +26,19 @@
             "status": 3
         },
         "customssl": true,
+        "db": "BIBLIO-750",
         "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "cdkl.gif": "CD_SOFTWARE",
+            "dvdkl.gif": "DVD",
+            "kassettekl.gif": "AUDIO_CASSETTE",
+            "mAboS.gif": "MAGAZINE",
+            "mBmonoS.gif": "BOOK",
+            "mComicS.gif": "BOOK",
+            "mEBookS.gif": "EBOOK",
+            "mMusikCDS.gif": "CD",
+            "mZeitS.gif": "NEWSPAPER",
+            "musersS.gif": "CD",
+            "videokl.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -39,11 +48,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        51.89563,
+        11.04336
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
-    "state": "Sachsen",
-    "title": "Mediothek"
+    "information": "http://www.halberstadt.de/de/stadtbibliothek-heinrich-heine.html",
+    "library_id": 3562,
+    "state": "Sachsen-Anhalt",
+    "title": "Stadtbibliothek Heinrich Heine"
 }

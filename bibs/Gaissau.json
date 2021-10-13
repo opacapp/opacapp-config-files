@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "Gai\u00dfau",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://bib-gaissau@web-opac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        47.4656016,
+        9.5976887
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
-    "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "information": "http://www-gaissau.bvoe.at",
+    "library_id": 8943,
+    "state": "Vorarlberg",
+    "title": "B\u00fccherei"
 }

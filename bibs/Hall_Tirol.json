@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Brunn",
+    "city": "Hall",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.brunn-am-gebirge.webopac.at"
+        "baseurl": "http://www.hall.web-opac.at"
     },
     "geo": [
-        48.108677,
-        16.2829165
+        47.2811987,
+        11.5065928
     ],
-    "information": "http://www.brunnamgebirge.bvoe.at",
-    "library_id": 8878,
-    "state": "Nieder\u00f6sterreich",
-    "title": "\u00d6ffentliche Bibliothek Brunn / Gebirge"
+    "information": "http://www.hall-in-tirol.at",
+    "library_id": 8963,
+    "state": "Tirol",
+    "title": "Stadtb\u00fccherei Hall in Tirol"
 }

@@ -1,29 +1,28 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "Lehrte",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "prolongurl": 3,
+            "prolongurl": 4,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "https://webopac.lehrte.de/webopac",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
-            "department": 2,
+            "branch": 3,
             "location": 1,
-            "returndate": 5,
-            "status": 3
+            "returndate": 4,
+            "status": 2
         },
         "customssl": true,
         "mediatypes": {
@@ -39,11 +38,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        52.3746255,
+        9.9784211
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
-    "state": "Sachsen",
-    "title": "Mediothek"
+    "information": "http://www.lehrte.de/Kultur-Sport-Freizeit/Kultur/Stadtbibliothek/Stadtbibliothek-11665-1.aspx",
+    "library_id": 4897,
+    "state": "Niedersachsen",
+    "title": "Stadt- und Schulbibliothek"
 }

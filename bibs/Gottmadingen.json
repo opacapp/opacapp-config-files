@@ -7,30 +7,23 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borna",
+    "city": "Gottmadingen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "prolongurl": 3,
+            "prolongurl": 4,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://mediothek-borna.internetopac.de",
+        "baseurl": "https://web-opac.kivbf.de/gottmadingen",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "department": 2,
-            "location": 1,
-            "returndate": 5,
-            "status": 3
+            "department": 1,
+            "location": 0,
+            "returndate": 3,
+            "status": 2
         },
         "customssl": true,
-        "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
-        },
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -39,11 +32,11 @@
         }
     },
     "geo": [
-        51.1252562,
-        12.4987027
+        47.7353946,
+        8.7734556
     ],
-    "information": "http://www.bibliothek-borna.de/",
-    "library_id": 1828,
-    "state": "Sachsen",
-    "title": "Mediothek"
+    "information": "http://www.gottmadingen.de/,Lde/startseite/Leben+in+Gottmadingen/Buecherei.html",
+    "library_id": 3307,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
 }
