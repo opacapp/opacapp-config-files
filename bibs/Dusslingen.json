@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Bodelshausen",
+    "city": "Dusslingen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -15,22 +15,22 @@
             "barcode": -1,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 3,
+            "prolongurl": 4,
             "returndate": 2,
-            "status": -1,
+            "status": 3,
             "title": 1
         },
-        "baseurl": "https://wwwopac.komm.one/bodelshausen",
+        "baseurl": "https://wwwopac.komm.one/dusslingen",
         "copiestable": {
-            "barcode": 0,
+            "barcode": -1,
             "branch": -1,
-            "department": -1,
-            "location": 2,
+            "department": 2,
+            "location": 1,
             "reservations": -1,
             "returndate": 4,
             "status": 3
         },
-        "customssl": "true",
+        "customssl": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -41,11 +41,11 @@
         }
     },
     "geo": [
-        48.39466,
-        8.9724822
+        48.4519077,
+        9.0560055
     ],
-    "information": "http://www.bodelshausen.de/pb/,Lde/Startseite/Kultur+_+Freizeit/Buecherei.html",
-    "library_id": 1750,
+    "information": "http://www.buecherei-mediothek-dusslingen.de/",
+    "library_id": 2407,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "B\u00fccherei im Forum"
+    "title": "Gemeindeb\u00fccherei"
 }

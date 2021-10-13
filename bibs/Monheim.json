@@ -1,36 +1,40 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": false,
+    "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
-    "city": "Bodelshausen",
+    "api": "open",
+    "city": "Monheim/Rhein",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "barcode": -1,
+            "barcode": 2,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 3,
-            "returndate": 2,
+            "prolongurl": 4,
+            "returndate": 3,
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://wwwopac.komm.one/bodelshausen",
+        "api_enable": true,
+        "apikey": "09ec1ade-79c5-4c3c-a08c-6d7e008c7eeb",
+        "apiurl": "https://smartbib.monheim.de:8316/RESTv1",
+        "baseurl": "https://smartbib.monheim.de",
         "copiestable": {
             "barcode": 0,
-            "branch": -1,
+            "branch": 4,
             "department": -1,
             "location": 2,
             "reservations": -1,
-            "returndate": 4,
-            "status": 3
+            "returndate": 3,
+            "status": 2
         },
-        "customssl": "true",
+        "db": "mo",
+        "libopacplus": "true",
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -41,11 +45,11 @@
         }
     },
     "geo": [
-        48.39466,
-        8.9724822
+        51.08544,
+        6.88998
     ],
-    "information": "http://www.bodelshausen.de/pb/,Lde/Startseite/Kultur+_+Freizeit/Buecherei.html",
-    "library_id": 1750,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "B\u00fccherei im Forum"
+    "information": "https://www.monheim.de/kultur-bildung/bibliothek",
+    "library_id": 5450,
+    "state": "Nordrhein-Westfalen",
+    "title": "Bibliothek"
 }

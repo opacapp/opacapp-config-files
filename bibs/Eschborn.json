@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Bodelshausen",
+    "city": "Eschborn",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,17 +20,16 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://wwwopac.komm.one/bodelshausen",
+        "baseurl": "https://webopac.eschborn.de/webopac",
         "copiestable": {
-            "barcode": 0,
-            "branch": -1,
-            "department": -1,
-            "location": 2,
+            "barcode": -1,
+            "branch": 3,
+            "department": 1,
+            "location": 0,
             "reservations": -1,
             "returndate": 4,
-            "status": 3
+            "status": 2
         },
-        "customssl": "true",
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -41,11 +40,11 @@
         }
     },
     "geo": [
-        48.39466,
-        8.9724822
+        50.1467469,
+        8.5614555
     ],
-    "information": "http://www.bodelshausen.de/pb/,Lde/Startseite/Kultur+_+Freizeit/Buecherei.html",
-    "library_id": 1750,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "B\u00fccherei im Forum"
+    "information": "http://www.eschborn.de/de/leben-in-eschborn/schulen-und-bildung/stadtbuechereien",
+    "library_id": 2734,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }

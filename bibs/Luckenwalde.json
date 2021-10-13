@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Bodelshausen",
+    "city": "Luckenwalde",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,17 +20,21 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://wwwopac.komm.one/bodelshausen",
+        "baseurl": "http://80.153.36.38/webopac",
         "copiestable": {
             "barcode": 0,
-            "branch": -1,
-            "department": -1,
-            "location": 2,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
             "reservations": -1,
-            "returndate": 4,
+            "returndate": 5,
             "status": 3
         },
-        "customssl": "true",
+        "mediatypes": {
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE"
+        },
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -41,11 +45,11 @@
         }
     },
     "geo": [
-        48.39466,
-        8.9724822
+        52.0939967,
+        13.16933
     ],
-    "information": "http://www.bodelshausen.de/pb/,Lde/Startseite/Kultur+_+Freizeit/Buecherei.html",
-    "library_id": 1750,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "B\u00fccherei im Forum"
+    "information": "http://www.bibliothek.luckenwalde.de/",
+    "library_id": 5123,
+    "state": "Brandenburg",
+    "title": "Bibliothek im Bahnhof"
 }

@@ -7,45 +7,46 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Bodelshausen",
+    "city": "Panketal",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
             "barcode": -1,
+            "format": 1,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 3,
-            "returndate": 2,
+            "prolongurl": 4,
+            "returndate": 3,
             "status": -1,
-            "title": 1
+            "title": 2
         },
-        "baseurl": "https://wwwopac.komm.one/bodelshausen",
+        "baseurl": "https://bibliothek-panketal.internetopac.de",
         "copiestable": {
             "barcode": 0,
-            "branch": -1,
-            "department": -1,
+            "branch": 4,
+            "department": 1,
             "location": 2,
             "reservations": -1,
-            "returndate": 4,
+            "returndate": 5,
             "status": 3
         },
-        "customssl": "true",
+        "customssl": true,
         "reservationtable": {
             "author": 0,
-            "availability": 2,
-            "branch": -1,
-            "cancelurl": 3,
-            "expirationdate": -1,
-            "title": 1
+            "availability": 3,
+            "cancelurl": 4,
+            "expirationdate": null,
+            "format": 1,
+            "title": 2
         }
     },
     "geo": [
-        48.39466,
-        8.9724822
+        52.6509175,
+        13.5407777
     ],
-    "information": "http://www.bodelshausen.de/pb/,Lde/Startseite/Kultur+_+Freizeit/Buecherei.html",
-    "library_id": 1750,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "B\u00fccherei im Forum"
+    "information": "http://www.panketal.de/web/index.php?option=com_content&view=article&id=156&Itemid=109",
+    "library_id": 6265,
+    "state": "Brandenburg",
+    "title": "Gemeindebibliothek"
 }

@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Bodelshausen",
+    "city": "Hann. M\u00fcnden",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,32 +20,36 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://wwwopac.komm.one/bodelshausen",
+        "baseurl": "http://www.buecherei.hann.muenden.de",
         "copiestable": {
             "barcode": 0,
             "branch": -1,
             "department": -1,
-            "location": 2,
+            "location": 1,
             "reservations": -1,
-            "returndate": 4,
-            "status": 3
+            "returndate": 3,
+            "status": 2
         },
-        "customssl": "true",
+        "mediatypes": {
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE"
+        },
         "reservationtable": {
             "author": 0,
             "availability": 2,
             "branch": -1,
             "cancelurl": 3,
-            "expirationdate": -1,
+            "expirationdate": null,
             "title": 1
         }
     },
     "geo": [
-        48.39466,
-        8.9724822
+        51.41813,
+        9.65436
     ],
-    "information": "http://www.bodelshausen.de/pb/,Lde/Startseite/Kultur+_+Freizeit/Buecherei.html",
-    "library_id": 1750,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "B\u00fccherei im Forum"
+    "information": "http://www.buecherei.hann.muenden.de/read/info.html",
+    "library_id": 3617,
+    "state": "Niedersachsen",
+    "title": "Stadtb\u00fccherei"
 }
