@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Hartheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/hartheim",
+        "customssl": true
+    },
+    "geo": [
+        47.93485,
+        7.6288113
+    ],
+    "information": "http://www.hartheim.de/pb/,Lde/8495.htm",
+    "library_id": 3649,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
+}
