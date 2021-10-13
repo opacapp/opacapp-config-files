@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "B\u00fctschwil",
+    "city": "Maur/Ebmatingen/Aesch-Forch",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bvsga.ch/Buetschwil"
+        "baseurl": "http://www.bibliotheken-zh.ch/Maur"
     },
     "geo": [
-        47.3563,
-        9.07364
+        47.338416,
+        8.6515131
     ],
-    "information": "http://www.buetschwil.ch/xml_1/internet/de/application/d450/d491/f497.cfm",
-    "library_id": 8884,
-    "state": "St. Gallen",
-    "title": "Bibliothek"
+    "information": "http://www.bibliothek-maur.ch/",
+    "library_id": 9077,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "B\u00fctschwil",
+    "city": "Grenchen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bvsga.ch/Buetschwil"
+        "baseurl": "http://www.winmedio.net/grenchen"
     },
     "geo": [
-        47.3563,
-        9.07364
+        47.193585,
+        7.3954451
     ],
-    "information": "http://www.buetschwil.ch/xml_1/internet/de/application/d450/d491/f497.cfm",
-    "library_id": 8884,
-    "state": "St. Gallen",
-    "title": "Bibliothek"
+    "information": "http://www.grenchen.ch/de/verwaltung/aemter/?amt_id=5399",
+    "library_id": 8958,
+    "state": "Solothurn",
+    "title": "Stadtbibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "B\u00fctschwil",
+    "city": "Dielsdorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bvsga.ch/Buetschwil"
+        "baseurl": "http://www.bibliotheken-zh.ch/Dielsdorf"
     },
     "geo": [
-        47.3563,
-        9.07364
+        47.4823196,
+        8.4580836
     ],
-    "information": "http://www.buetschwil.ch/xml_1/internet/de/application/d450/d491/f497.cfm",
-    "library_id": 8884,
-    "state": "St. Gallen",
-    "title": "Bibliothek"
+    "information": "http://www.primarschule-dielsdorf.ch/de/bibliothek/",
+    "library_id": 8898,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
 }
