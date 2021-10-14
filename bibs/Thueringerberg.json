@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Wals-Siezenheim",
+    "city": "Th\u00fcringerberg",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.bibliothek-wals.opac.at"
+        "baseurl": "http://www.oebthueringerberg.web-opac.at"
     },
     "geo": [
-        47.7924383,
-        12.9802958
+        47.2154525,
+        9.7836496
     ],
-    "information": "http://www.bibliothek-wals.opac.at",
-    "library_id": 9221,
-    "state": "Salzburg",
-    "title": "Bibliothek"
+    "information": "http://www.thueringerberg.bvoe.at",
+    "library_id": 9194,
+    "state": "Vorarlberg",
+    "title": "Walserbibliothek"
 }

@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Weilheim an der Teck",
+    "city": "Traunstein",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothek.komm.one/weilheim",
+        "baseurl": "http://www.stadtbuecherei-traunstein.de",
         "urls": {
-            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "advanced_search": "Mediensuche/UnserKatalog.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        48.6179469,
-        9.5355679
+        47.8696971,
+        12.6441366
     ],
-    "information": "https://open.rz-kiru.de/weilheim/",
-    "library_id": 9223,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://stadtbuecherei-traunstein.de/Info/InfoKontakt.aspx",
+    "library_id": 7676,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

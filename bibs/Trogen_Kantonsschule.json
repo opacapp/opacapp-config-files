@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Uznach",
+    "city": "Trogen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/uznach"
+        "baseurl": "http://www.winmedio.net/kstrogen"
     },
     "geo": [
-        47.2256714,
-        8.9828324
+        47.4078792,
+        9.4647092
     ],
-    "information": "http://www.bibliothek-uznach.ch/",
-    "library_id": 9211,
-    "state": "St. Gallen",
-    "title": "Bibliothek"
+    "information": "http://www.kst.ch/index.php?medio-aktuell",
+    "library_id": 9197,
+    "state": "Appenzell Ausserrhoden",
+    "title": "Mediothek Kantonsschule"
 }

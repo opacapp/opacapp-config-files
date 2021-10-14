@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Weiningen",
+    "city": "Turbenthal",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Weiningen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Turbenthal"
     },
     "geo": [
-        47.4189999,
-        8.4326399
+        47.4380732,
+        8.8461612
     ],
-    "information": "http://www.weiningen.ch/de/bildung/bibliotheken/?action=showbibi&bibi_id=65",
-    "library_id": 9227,
+    "information": "http://www.bibliothek-turbenthal.ch/",
+    "library_id": 9202,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
