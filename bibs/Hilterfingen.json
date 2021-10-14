@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Kloten",
+    "city": "Hilterfingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Kloten"
+        "baseurl": "http://www.winmedio.net/hilterfingen"
     },
     "geo": [
-        47.4526616,
-        8.5852412
+        46.7449317,
+        7.6501302
     ],
-    "information": "http://www.schluefweg.ch/de/bibliothek/",
-    "library_id": 9037,
-    "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.hilterfingen.ch/kultur-freizeit/bibliothek/",
+    "library_id": 8998,
+    "state": "Bern",
+    "title": "Bibliothek"
 }
