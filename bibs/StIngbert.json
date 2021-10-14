@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "St. Ingbert",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,15 +16,20 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "http://opac.st-ingbert.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
+            "department": 2,
             "location": 1,
             "returndate": 5,
             "status": 3
         },
         "mediatypes": {
+            "eAudioS.gif": "MP3",
+            "eBuchS.gif": "EBOOK",
+            "eVideoS.gif": "EVIDEO",
+            "eZeitungS.gif": "EDOC",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -37,11 +42,11 @@
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        49.2797,
+        7.11751
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
+    "information": "http://www.st-ingbert.de/bildung/stadtbuecherei.html",
+    "library_id": 7391,
+    "state": "Saarland",
     "title": "Stadtb\u00fccherei"
 }

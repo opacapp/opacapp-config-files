@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "Spenge",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,18 +16,22 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
+            "department": 2,
             "location": 1,
             "returndate": 5,
             "status": 3
         },
+        "db": "spenge",
         "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "cdkl.gif": "CD_SOFTWARE",
+            "dvdkl.gif": "DVD",
+            "e_owl_kl.gif": "EBOOK",
+            "kassettekl.gif": "AUDIOBOOK",
+            "videokl.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -37,11 +41,11 @@
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        52.1429,
+        8.4876
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
+    "information": "http://www.spenge.de/stadtb%C3%BCcherei",
+    "library_id": 7347,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

@@ -7,41 +7,47 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "Saalfeld",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "prolongurl": 3,
+            "homebranch": 4,
+            "lendingbranch": 4,
+            "prolongurl": 5,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "http://opac.stadt-saalfeld.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
+            "department": 2,
             "location": 1,
             "returndate": 5,
             "status": 3
         },
         "mediatypes": {
+            "Hoerbuch.gif": "AUDIOBOOK",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "mFilmS.gif": "MOVIE",
+            "mWiiS.gif": "GAME_CONSOLE_WII"
         },
         "reservationtable": {
             "author": 0,
             "availability": 2,
-            "cancelurl": 3,
+            "branch": 3,
+            "cancelurl": 4,
             "title": 1
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        50.64723,
+        11.35953
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.bibliothek-saalfeld.de/www/biblio/",
+    "library_id": 6888,
+    "state": "Th\u00fcringen",
+    "title": "Stadt- und Kreisbibliothek"
 }

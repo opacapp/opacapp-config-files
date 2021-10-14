@@ -1,25 +1,27 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "Schwalmstadt",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "prolongurl": 3,
+            "barcode": 3,
+            "prolongurl": 4,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "https://hephata.cidoli.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
+            "department": 2,
             "location": 1,
             "returndate": 5,
             "status": 3
@@ -37,11 +39,11 @@
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        50.9216009,
+        9.2551871
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.hephata.de/organisation/bibliothek.php",
+    "library_id": 9170,
+    "state": "Hessen",
+    "title": "Hephata"
 }

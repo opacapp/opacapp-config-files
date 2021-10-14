@@ -7,41 +7,45 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "Radeberg",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "https://bibliothek-radeberg.internetopac.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
-            "location": 1,
+            "department": -1,
+            "location": 2,
+            "reservations": -1,
             "returndate": 5,
             "status": 3
         },
-        "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
-        },
+        "customssl": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
+            "branch": -1,
             "cancelurl": 3,
+            "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        51.1129963,
+        13.9142216
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.radeberg.de/inhalte/radeberg/_inhalt/bildung_soziales/bibliothek/bibliothek",
+    "library_id": 6455,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek Martin Andersen Nex\u00f6"
 }

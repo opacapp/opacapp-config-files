@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "Prenzlau",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,14 +16,16 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "https://prenzlau.internetopac.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
+            "department": 2,
             "location": 1,
             "returndate": 5,
             "status": 3
         },
+        "customssl": true,
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
@@ -37,11 +39,11 @@
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        53.3173433,
+        13.8633409
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.prenzlau.eu/cms/detail.php/land_bb_boa_01.c.164613.de",
+    "library_id": 6410,
+    "state": "Brandenburg",
+    "title": "Stadtbibliothek im Dominikanerkloster"
 }
