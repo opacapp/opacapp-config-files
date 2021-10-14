@@ -1,0 +1,65 @@
+{
+    "_active": true,
+    "_notice_text": "Aktuell ben\u00f6tigen alle Besucher*innen ab 6 Jahren einen Test-, Impf- oder Genesenennachweis (3G-Nachweis). \r\nZeigen Sie uns bitte den Nachweis beim Eintritt an der Service-Theke unaufgefordert vor. \r\n\r\nDie Kontaktdatenerfassung f\u00e4llt Ihnen und uns mit der luca app am einfachsten. \r\n\r\nMaskenpflicht, Abstandsgebot und die bekannten Hygieneregeln gelten weiterhin - sowohl beim Stadtb\u00fccherei-Besuch als auch bei der Medienabholung.\r\n\r\nWenn Sie nur Medien zur\u00fcckgeben, eine Vorbestellung abholen oder den Abholservice nutzen m\u00f6chten, ben\u00f6tigen Sie keinen Nachweis.\r\n\r\nAbholservice\r\nAll jene, die zurzeit nicht pers\u00f6nlich ihre Medien am Regal aussuchen k\u00f6nnen, k\u00f6nnen den Abholservice\u00a0als zus\u00e4tzliches Angebot in Anspruch nehmen.\u00a0Sie k\u00f6nnen den\u00a0Service\u00a0ab sofort in unserem\u00a0Terminbuchungssystem bequem und einfach online buchen.\r\nRecherchieren oder st\u00f6bern Sie im Online-Katalog. Unter dem Button Neuerwerbungen verbergen sich \u00fcbrigens Medienlisten, sortiert nach Genre, Alter und Mediengruppe.\r\n\r\nW\u00e4hlen Sie max. 5\u00a0verf\u00fcgbare Medien (pro B\u00fcchereiausweis) aus.\u00a0\u00dcber unser Terminbuchungssystem\u00a0bestellen Sie die ausgew\u00e4hlten Medien mit Angaben zum Autor, Titel, Buchungs-Nr. und der Signatur.\r\n\r\nDie bestellten Medien m\u00fcssen als \"Verf\u00fcgbar\" im Katalog notiert sein. Medien mit dem Status \"Entliehen\" (im Katalog rot angezeigt) sind momentan nicht im Haus und k\u00f6nnen somit auch nicht bestellt, sondern durch den Klick auf den Button \"Vorbestellen\" gegen Geb\u00fchr vorbestellt werden.\r\n\r\nNach jeder Terminbuchung bekommen Sie eine automatische Best\u00e4tigungsmail.\r\n\r\nIhre Medien\u00a0stehen am darauffolgenden \u00d6ffnungstag\u00a0zum von Ihnen gebuchten Termin an der Service-Theke\u00a0bereit.",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.oehringen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "\u00d6hringen",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 5,
+            "returndate": 2,
+            "status": 3,
+            "title": 1
+        },
+        "baseurl": "https://web-opac.kivbf.de/oehringen",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": 0,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 3,
+            "status": 2
+        },
+        "customssl": true,
+        "libopacplus": "true",
+        "mediatypes": {
+            "BLURAY_30px.jpg": "BLURAY",
+            "Buch_30px.jpg": "BOOK",
+            "Comic_30x.jpg": "BOOK",
+            "DVD_30px.jpg": "DVD",
+            "HBUCH_30px.jpg": "AUDIOBOOK",
+            "Munzinger3k.png": "EDOC",
+            "Musik_CD_30px.jpg": "CD_MUSIC",
+            "Picto-klein.gif": "EBOOK"
+        },
+        "onleihe": "https://www.onleihe.de/heilbronn",
+        "onleihe_libraryId": "138",
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "branch": -1,
+            "cancelurl": 4,
+            "expirationdate": 3,
+            "title": 1
+        },
+        "suppress_fee_warnings": true
+    },
+    "geo": [
+        49.2005977,
+        9.5003094
+    ],
+    "information": "https://info.opacapp.net/oehringen.html",
+    "library_id": 6257,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}
