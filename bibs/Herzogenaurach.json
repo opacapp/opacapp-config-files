@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6thenbach an der Pegnitz",
+    "city": "Herzogenaurach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roethenbach",
+        "baseurl": "https://webopac.winbiap.de/herzogenaurach",
         "customssl": true
     },
     "geo": [
-        49.48104,
-        11.25181
+        49.5682987,
+        10.8828577
     ],
-    "information": "http://www.roethenbach.de/stadtbibliothek/",
-    "library_id": 6852,
+    "information": "http://www.herzogenaurach.de/de/bildung-familie-und-soziales/stadtbuecherei.html",
+    "library_id": 3831,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

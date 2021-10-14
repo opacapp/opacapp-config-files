@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6thenbach an der Pegnitz",
+    "city": "Frammersbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roethenbach",
+        "baseurl": "https://webopac.winbiap.de/frammersbach",
         "customssl": true
     },
     "geo": [
-        49.48104,
-        11.25181
+        50.0621954,
+        9.4724531
     ],
-    "information": "http://www.roethenbach.de/stadtbibliothek/",
-    "library_id": 6852,
+    "information": "http://www.frammersbach.de/Sites/gensite.asp?SID=cms19082014164845791437&Art=0348",
+    "library_id": 2923,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

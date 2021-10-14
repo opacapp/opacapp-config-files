@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6thenbach an der Pegnitz",
+    "city": "G\u00fcnzburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roethenbach",
+        "baseurl": "https://webopac.winbiap.net/guenzburg",
         "customssl": true
     },
     "geo": [
-        49.48104,
-        11.25181
+        48.4547792,
+        10.27904
     ],
-    "information": "http://www.roethenbach.de/stadtbibliothek/",
-    "library_id": 6852,
+    "information": "http://host4.guenzburg.de/html/user_de_Kultur+Stadtbuecherei+Information.html",
+    "library_id": 3505,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

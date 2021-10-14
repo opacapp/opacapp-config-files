@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6thenbach an der Pegnitz",
+    "city": "Heroldsberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roethenbach",
+        "baseurl": "https://webopac.winbiap.net/heroldsberg",
         "customssl": true
     },
     "geo": [
-        49.48104,
-        11.25181
+        49.5323509,
+        11.1540547
     ],
-    "information": "http://www.roethenbach.de/stadtbibliothek/",
-    "library_id": 6852,
+    "information": "http://www.heroldsberg.de/kultur-und-bildung/gemeindebuecherei",
+    "library_id": 3808,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei im B\u00fcrgerzentrum"
 }

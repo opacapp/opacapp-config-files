@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6thenbach an der Pegnitz",
+    "city": "Gaimersheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roethenbach",
+        "baseurl": "https://webopac.winbiap.net/gaimersheim",
         "customssl": true
     },
     "geo": [
-        49.48104,
-        11.25181
+        48.80882,
+        11.37003
     ],
-    "information": "http://www.roethenbach.de/stadtbibliothek/",
-    "library_id": 6852,
+    "information": "http://www.gaimersheim.de/index.php?option=com_content&task=view&id=74&Itemid=99&date=2013-03-01",
+    "library_id": 8804,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }

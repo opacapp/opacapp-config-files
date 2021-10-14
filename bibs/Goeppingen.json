@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6thenbach an der Pegnitz",
+    "city": "G\u00f6ppingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roethenbach",
-        "customssl": true
+        "baseurl": "http://opac.goeppingen.de"
     },
     "geo": [
-        49.48104,
-        11.25181
+        48.70334,
+        9.65528
     ],
-    "information": "http://www.roethenbach.de/stadtbibliothek/",
-    "library_id": 6852,
-    "state": "Bayern",
+    "information": "http://www.stadtbibliothek.goeppingen.de/6014388.html",
+    "library_id": 8675,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtbibliothek"
 }

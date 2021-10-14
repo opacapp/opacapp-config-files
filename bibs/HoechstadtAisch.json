@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6thenbach an der Pegnitz",
+    "city": "H\u00f6chstadt/Aisch",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roethenbach",
+        "baseurl": "https://webopac.winbiap.de/hoechstadt",
         "customssl": true
     },
     "geo": [
-        49.48104,
-        11.25181
+        49.7095692,
+        10.8128359
     ],
-    "information": "http://www.roethenbach.de/stadtbibliothek/",
-    "library_id": 6852,
+    "information": "http://www.fortuna-kulturfabrik.de/de/stadtbuecherei.html",
+    "library_id": 4020,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }

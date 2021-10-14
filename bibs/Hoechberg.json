@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6thenbach an der Pegnitz",
+    "city": "H\u00f6chberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roethenbach",
+        "baseurl": "https://webopac.winbiap.de/hoechberg",
         "customssl": true
     },
     "geo": [
-        49.48104,
-        11.25181
+        49.7802703,
+        9.8757167
     ],
-    "information": "http://www.roethenbach.de/stadtbibliothek/",
-    "library_id": 6852,
+    "information": "http://www.hoechberg.de/sites/gensite.asp?SID=cms190820141713396817132&Art=0429",
+    "library_id": 4015,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Bibliothek"
 }

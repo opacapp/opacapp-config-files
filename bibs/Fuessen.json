@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6thenbach an der Pegnitz",
+    "city": "F\u00fcssen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roethenbach",
+        "baseurl": "https://cloudopac.winbiap.de/fuessen",
         "customssl": true
     },
     "geo": [
-        49.48104,
-        11.25181
+        47.569648,
+        10.7004328
     ],
-    "information": "http://www.roethenbach.de/stadtbibliothek/",
-    "library_id": 6852,
+    "information": "https://www.stadt-fuessen.de/bibliothek.html",
+    "library_id": 3079,
     "state": "Bayern",
     "title": "Stadtbibliothek"
 }

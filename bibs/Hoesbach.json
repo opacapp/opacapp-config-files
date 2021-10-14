@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6thenbach an der Pegnitz",
+    "city": "H\u00f6sbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roethenbach",
-        "customssl": true
+        "baseurl": "https://bibliothekszentrum-mediensuche.lra-ab.de"
     },
     "geo": [
-        49.48104,
-        11.25181
+        50.0059288,
+        9.2077442
     ],
-    "information": "http://www.roethenbach.de/stadtbibliothek/",
-    "library_id": 6852,
+    "information": "http://www.landkreis-aschaffenburg.de/wer-macht-was/bildungsportkul/bibliothek/",
+    "library_id": 4041,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Bibliothekszentrum"
 }
