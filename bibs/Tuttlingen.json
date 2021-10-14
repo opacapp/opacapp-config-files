@@ -1,0 +1,54 @@
+{
+    "_active": true,
+    "_notice_text": "AKTUELLE ST\u00d6RUNG BEI DER VERL\u00c4NGERUNGSFUNKTION AUF APPLE-GER\u00c4TEN! Bitte vergewissern Sie sich, dass die neue Frist korrekt in Ihrem Konto angezeigt wird. Falls nicht melden Sie sich gerne per Mail oder Telefon bei uns, damit wir die Verl\u00e4ngerung manuell durchf\u00fchren k\u00f6nnen. \r\n\r\nBITTE BEACHTEN: Bibliotheksbesuch nur mit 3G-NACHWEIS (getestet, geimpft, genesen) m\u00f6glich! F\u00fcr die reine Medienr\u00fcckgabe und/oder Medienabholung ist der Nachweis jedoch NICHT n\u00f6tig! Kein Nachweis vorhanden? Wir nehmen weiterhin Bestellungen f\u00fcr \"Click & Collect\" zur Abohlung vor Ort entgegen! \r\n\r\nBesuchen Sie uns jetzt auch bei Facebook und Instagram! Sie finden uns unter \"Stadtbibliothek Tuttlingen\" sowie @stadtbibo_tuttlingen",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.tuttlingen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Tuttlingen",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "title": 2
+        },
+        "baseurl": "https://webopac.e-tuttlingen.de/webopac07",
+        "copiestable": {
+            "branch": 3,
+            "location": 0,
+            "returndate": 2,
+            "status": 1
+        },
+        "customssl": true,
+        "libopacplus": true,
+        "mediatypes": {
+            "eaudiokl.gif": "MP3",
+            "ebookkl.gif": "EBOOK",
+            "epaperkl.gif": "EDOC",
+            "evideokl.gif": "EVIDEO",
+            "mCDRomS.gif": "CD_SOFTWARE",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mFilmS.gif": "MOVIE"
+        },
+        "onleihe": "https://www1.onleihe.de/schwalbe",
+        "onleihe_libraryId": "645",
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
+    },
+    "geo": [
+        47.9835799,
+        8.8168575
+    ],
+    "information": "https://info.opacapp.net/tuttlingen.html",
+    "library_id": 7717,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
