@@ -1,0 +1,52 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Cham",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 4,
+            "returndate": 3,
+            "title": 1
+        },
+        "baseurl": "http://bibliothek.cham.de/webopac",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 3,
+            "location": 1,
+            "returndate": 4,
+            "status": 2
+        },
+        "libopacplus": true,
+        "mediatypes": {
+            "CDkl.gif": "CD",
+            "film.gif": "MOVIE",
+            "mCDROMS.gif": "CD_SOFTWARE",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE",
+            "mMusik2S.gif": "AUDIOBOOK"
+        },
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
+    },
+    "geo": [
+        49.21924,
+        12.66778
+    ],
+    "information": "https://info.opacapp.net/cham.html",
+    "library_id": 19,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}
