@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "G\u00e4nserndorf",
+    "city": "Mils",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
+        "baseurl": "http://www.buecherei-mils.webopac.at"
     },
     "geo": [
-        48.3403159,
-        16.7241521
+        47.2883084,
+        11.5314953
     ],
-    "information": "http://gaenserndorf.bvoe.at/",
-    "library_id": 8942,
-    "state": "Nieder\u00f6sterreich",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.buecherei-mils.webopac.at",
+    "library_id": 9083,
+    "state": "Tirol",
+    "title": "Bibliothek"
 }

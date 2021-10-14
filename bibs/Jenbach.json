@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "G\u00e4nserndorf",
+    "city": "Jenbach",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
+        "baseurl": "http://www.jenbuch.web-opac.at"
     },
     "geo": [
-        48.3403159,
-        16.7241521
+        47.3911103,
+        11.7729904
     ],
-    "information": "http://gaenserndorf.bvoe.at/",
-    "library_id": 8942,
-    "state": "Nieder\u00f6sterreich",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.facebook.com/buecherei.jen.buch",
+    "library_id": 9020,
+    "state": "Tirol",
+    "title": "Markt- und Schulb\u00fccherei jen.buch"
 }

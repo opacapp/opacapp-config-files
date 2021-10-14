@@ -7,21 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Greifswald",
+    "city": "Iserlohn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://www.stadtbibliothek.greifswald.de",
+        "baseurl": "http://opac.iserlohn.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        54.09667,
-        13.38245
+        51.3742721,
+        7.6973195
     ],
-    "information": "http://www.stadtbibliothek.greifswald.de/",
-    "library_id": 8678,
-    "state": "Mecklenburg-Vorpommern",
-    "title": "Stadtbibliothek Hans Fallada"
+    "information": "http://www.iserlohn.de/kultur/stadtbuecherei.html",
+    "library_id": 8701,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
 }

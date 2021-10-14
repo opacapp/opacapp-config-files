@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "G\u00e4nserndorf",
+    "city": "Klosterneuburg",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
+        "baseurl": "http://bibliothek-stmartin.web-opac.at"
     },
     "geo": [
-        48.3403159,
-        16.7241521
+        48.3139282,
+        16.3192095
     ],
-    "information": "http://gaenserndorf.bvoe.at/",
-    "library_id": 8942,
+    "information": "http://www.bibliothek-stmartin.at/",
+    "library_id": 9036,
     "state": "Nieder\u00f6sterreich",
-    "title": "Stadtb\u00fccherei"
+    "title": "Bibliothek St. Martin"
 }

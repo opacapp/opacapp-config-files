@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "G\u00e4nserndorf",
+    "city": "M\u00f6nchhof",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
+        "baseurl": "http://www.moenchhof.web-opac.at"
     },
     "geo": [
-        48.3403159,
-        16.7241521
+        47.8820615,
+        16.939894
     ],
-    "information": "http://gaenserndorf.bvoe.at/",
-    "library_id": 8942,
-    "state": "Nieder\u00f6sterreich",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.moenchhof.bvoe.at",
+    "library_id": 9085,
+    "state": "Burgenland",
+    "title": "\u00d6ffentliche B\u00fccherei"
 }

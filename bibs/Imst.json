@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "G\u00e4nserndorf",
+    "city": "Imst",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
+        "baseurl": "http://imst.webopac.at"
     },
     "geo": [
-        48.3403159,
-        16.7241521
+        47.2387997,
+        10.7420248
     ],
-    "information": "http://gaenserndorf.bvoe.at/",
-    "library_id": 8942,
-    "state": "Nieder\u00f6sterreich",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.imst.bvoe.at",
+    "library_id": 9009,
+    "state": "Tirol",
+    "title": "Stadtb\u00fccherei Imst (\u00d6ffentliche B\u00fccherei der Stadt und Pfarre Imst)"
 }

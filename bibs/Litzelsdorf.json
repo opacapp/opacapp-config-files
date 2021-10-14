@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "G\u00e4nserndorf",
+    "city": "Litzelsdorf",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
+        "baseurl": "http://buecherei-litzelsdorf.web-opac.at"
     },
     "geo": [
-        48.3403159,
-        16.7241521
+        47.2126623,
+        16.1645525
     ],
-    "information": "http://gaenserndorf.bvoe.at/",
-    "library_id": 8942,
-    "state": "Nieder\u00f6sterreich",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.litzelsdorf.bvoe.at",
+    "library_id": 9056,
+    "state": "Burgenland",
+    "title": "\u00d6ffentliche B\u00fccherei"
 }

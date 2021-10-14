@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "G\u00e4nserndorf",
+    "city": "Lienz",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
+        "baseurl": "http://www.stadtbuecherei-lienz.webopac.at"
     },
     "geo": [
-        48.3403159,
-        16.7241521
+        46.8308203,
+        12.7648213
     ],
-    "information": "http://gaenserndorf.bvoe.at/",
-    "library_id": 8942,
-    "state": "Nieder\u00f6sterreich",
+    "information": "http://www.stadtbuecherei-lienz.at",
+    "library_id": 9054,
+    "state": "Tirol",
     "title": "Stadtb\u00fccherei"
 }

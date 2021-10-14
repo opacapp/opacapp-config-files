@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "G\u00e4nserndorf",
+    "city": "Maria",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
+        "baseurl": "http://www.suedstadt.web-opac.at"
     },
     "geo": [
-        48.3403159,
-        16.7241521
+        48.0950444,
+        16.3039643
     ],
-    "information": "http://gaenserndorf.bvoe.at/",
-    "library_id": 8942,
+    "information": "http://www.mariaenzersdorf.bvoe.at",
+    "library_id": 9076,
     "state": "Nieder\u00f6sterreich",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindebibliothek Maria Enzersdorf"
 }

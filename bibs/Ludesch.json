@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "G\u00e4nserndorf",
+    "city": "Ludesch",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
+        "baseurl": "http://www.ludesch.web-opac.at"
     },
     "geo": [
-        48.3403159,
-        16.7241521
+        47.1928348,
+        9.7831256
     ],
-    "information": "http://gaenserndorf.bvoe.at/",
-    "library_id": 8942,
-    "state": "Nieder\u00f6sterreich",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.buecherei.ludesch.at",
+    "library_id": 9059,
+    "state": "Vorarlberg",
+    "title": "B\u00fccherei"
 }
