@@ -7,22 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "primo",
-    "city": "Berlin",
+    "city": "Oldenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://fu-berlin.hosted.exlibrisgroup.com/primo_library/libweb",
-        "db": "FUB",
+        "baseurl": "http://plus.orbis-oldenburg.de:1701/primo_library/libweb",
+        "db": "ORB_V2",
         "languages": [
-            "en",
             "de"
         ]
     },
     "geo": [
-        52.5200066,
-        13.404954
+        53.1434501,
+        8.2145521
     ],
-    "information": "http://www.ub.fu-berlin.de/",
-    "library_id": 8847,
-    "state": "Berlin",
-    "title": "Freie Universit\u00e4t"
+    "information": "http://www.lb-oldenburg.de/",
+    "library_id": 9128,
+    "state": "Niedersachsen",
+    "title": "ORBISplus (UB, LB)"
 }
