@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Preetz",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://iopac.preetz.de/"
+    },
+    "geo": [
+        54.23356,
+        10.27783
+    ],
+    "information": "http://www.stadtbuecherei-preetz.de/",
+    "library_id": 6408,
+    "state": "Schleswig-Holstein",
+    "title": "Stadtb\u00fccherei"
+}
