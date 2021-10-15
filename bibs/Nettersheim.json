@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "Nettersheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://webopac.winbiap.net/nettersheim",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        50.4931868,
+        6.6285592
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
-    "state": "Bayern",
+    "information": "http://www.nettersheim.de/bildung-kultur/literaturhaus-mit-buecherei.html",
+    "library_id": 5712,
+    "state": "Nordrhein-Westfalen",
     "title": "Gemeindeb\u00fccherei"
 }

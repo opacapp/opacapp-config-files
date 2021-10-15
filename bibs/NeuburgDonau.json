@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "Neuburg/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://webopac.winbiap.net/neuburg",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        48.734458,
+        11.180675
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
+    "information": "http://www.neuburg-donau.de/kultur/bildung/buecherturm",
+    "library_id": 5733,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

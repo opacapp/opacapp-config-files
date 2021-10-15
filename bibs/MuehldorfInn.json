@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "M\u00fchldorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://webopac.winbiap.de/muehldorf",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        48.2417,
+        12.52699
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
+    "information": "http://buecherei.muehldorf.org/",
+    "library_id": 5539,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei im Kornkasten"
 }

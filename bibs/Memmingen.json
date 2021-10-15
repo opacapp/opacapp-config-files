@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "Memmingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://bibliothek.memmingen.de",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        47.9837999,
+        10.1801883
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
+    "information": "https://www.memmingen.de/stadtbibliothek.html",
+    "library_id": 5345,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }
