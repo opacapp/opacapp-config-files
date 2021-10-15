@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Abstatt",
+    "city": "Rottenburg/Laaber",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.abstatt.de/webopac",
+        "baseurl": "http://bibliothek.rottenburg-laaber.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -28,8 +28,7 @@
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE",
-            "mcomput2S.gif": "EBOOK"
+            "mFilmS.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -39,11 +38,11 @@
         }
     },
     "geo": [
-        49.0676889,
-        9.2903905
+        48.7011913,
+        12.0293715
     ],
-    "information": "http://www.abstatt.de/01_buecherei.html",
-    "library_id": 864,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.rottenburg-laaber.de/index.php?id=0,60",
+    "library_id": 6806,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
 }

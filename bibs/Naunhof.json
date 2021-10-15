@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Abstatt",
+    "city": "Naunhof",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,20 +16,21 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.abstatt.de/webopac",
+        "baseurl": "http://bibliothek-naunhof.no-ip.org/webopac",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
             "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
         "mediatypes": {
+            "DiViBib_s.gif": "EDOC",
+            "cdrom.gif": "CD_SOFTWARE",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE",
-            "mcomput2S.gif": "EBOOK"
+            "mMusik2S.gif": "AUDIOBOOK"
         },
         "reservationtable": {
             "author": 0,
@@ -39,11 +40,11 @@
         }
     },
     "geo": [
-        49.0676889,
-        9.2903905
+        51.2780795,
+        12.5889347
     ],
-    "information": "http://www.abstatt.de/01_buecherei.html",
-    "library_id": 864,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://stadtbibliothek-naunhof.de/",
+    "library_id": 5673,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek"
 }

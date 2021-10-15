@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Abstatt",
+    "city": "Plauen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,20 +16,25 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.abstatt.de/webopac",
+        "baseurl": "http://webopac.ba-plauen.de/webopac",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "department": 2,
-            "location": 1,
-            "returndate": 5,
-            "status": 3
+            "returndate": 1,
+            "status": 0
         },
         "mediatypes": {
+            "mCDROMs.gif": "CD_SOFTWARE",
+            "mCDS.gif": "CD",
             "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mComput2S.gif": "UNKNOWN",
+            "mDIPLS.gif": "UNKNOWN",
             "mDVDS.gif": "DVD",
+            "mDbKS.gif": "UNKNOWN",
+            "mEbooks.gif": "EBOOK",
             "mFilmS.gif": "MOVIE",
-            "mcomput2S.gif": "EBOOK"
+            "mMBMONOS.gif": "BOOK",
+            "mMonoS.gif": "BOOK",
+            "mSPKS.gif": "UNKNOWN",
+            "mZTSS.gif": "NEWSPAPER"
         },
         "reservationtable": {
             "author": 0,
@@ -39,11 +44,11 @@
         }
     },
     "geo": [
-        49.0676889,
-        9.2903905
+        50.4976133,
+        12.1368679
     ],
-    "information": "http://www.abstatt.de/01_buecherei.html",
-    "library_id": 864,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.ba-plauen.de/de/studienakademie-plauen/bibliothek",
+    "library_id": 9140,
+    "state": "Sachsen",
+    "title": "Staatliche Studienakademie"
 }
