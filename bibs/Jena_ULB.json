@@ -1,0 +1,26 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Jena",
+    "country": "Deutschland",
+    "data": {
+        "account_system": "lbs",
+        "baseurl": "https://kataloge.thulb.uni-jena.de/",
+        "customssl": true,
+        "db": "1"
+    },
+    "geo": [
+        50.9306239,
+        11.5877183
+    ],
+    "information": "http://www.thulb.uni-jena.de/",
+    "library_id": 9019,
+    "state": "Th\u00fcringen",
+    "title": "Universit\u00e4ts- und Landesbibliothek"
+}
