@@ -1,0 +1,35 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Stutensee",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": null,
+        "baseurl": "https://web-opac.kivbf.de/stutensee",
+        "copiestable": {
+            "barcode": 3,
+            "branch": -1,
+            "department": -1,
+            "location": 0,
+            "reservations": -1,
+            "returndate": 2,
+            "status": 1
+        },
+        "customssl": true,
+        "reservationtable": null
+    },
+    "geo": [
+        49.0650293,
+        8.4723636
+    ],
+    "information": "http://www.stutensee.de/startseite/bildung-freizeit/kultur/bibliotheken-museen/",
+    "library_id": 7518,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek Blankenloch"
+}
