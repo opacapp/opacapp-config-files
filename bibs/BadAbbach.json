@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "W\u00f6rth/Erding",
+    "city": "Bad Abbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/woerth",
+        "baseurl": "https://webopac.winbiap.net/badabbach",
         "customssl": true
     },
     "geo": [
-        48.2455796,
-        11.9022647
+        48.9373377,
+        12.0462593
     ],
-    "information": "http://hoerlkofen.landkreis-erding.de/index.asp?NAVIID=%7B394EFE11-E519-408C-ABA2-31E17E5D875A%7D",
-    "library_id": 8466,
+    "information": "http://www.bad-abbach.de/de/markt-bad-abbach/marktbuecherei.html",
+    "library_id": 1188,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Marktb\u00fccherei"
 }

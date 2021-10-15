@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "W\u00f6rth/Erding",
+    "city": "Cadolzburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/woerth",
+        "baseurl": "https://webopac.winbiap.de/cadolzburg",
         "customssl": true
     },
     "geo": [
-        48.2455796,
-        11.9022647
+        49.4594708,
+        10.8582256
     ],
-    "information": "http://hoerlkofen.landkreis-erding.de/index.asp?NAVIID=%7B394EFE11-E519-408C-ABA2-31E17E5D875A%7D",
-    "library_id": 8466,
+    "information": "http://www.cadolzburg.de/index.php?id=91",
+    "library_id": 2096,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei Markt"
 }
