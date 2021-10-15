@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Espelkamp",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
-        "customssl": true
+        "baseurl": "http://webopac.espelkamp.de"
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        52.37691,
+        8.62809
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
+    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
+    "library_id": 2746,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

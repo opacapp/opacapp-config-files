@@ -1,24 +1,23 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Lemgo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
-        "customssl": true
+        "baseurl": "https://webopac.lemgo.de"
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        52.0272932,
+        8.9050278
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
+    "information": "http://www.stadtbuecherei-lemgo.de/startseite/",
+    "library_id": 4918,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

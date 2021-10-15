@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Burtenbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.de/burtenbach",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        48.3397753,
+        10.4480126
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
+    "library_id": 2054,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

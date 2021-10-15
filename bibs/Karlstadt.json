@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Karlstadt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.de/karlstadt",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        49.96026,
+        9.76447
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.karlstadt.de/Sites/gensite.asp?SID=cms190820141716084232293&Art=0379",
+    "library_id": 4314,
+    "state": "Bayern",
+    "title": "Stadtbibliothek i.d. Hohen Kemenate"
 }

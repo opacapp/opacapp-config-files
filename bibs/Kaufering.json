@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Kaufering",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.net/kaufering",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        48.088056,
+        10.8567673
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.kaufering.de/?language=DE&kat=Buecherei",
+    "library_id": 4335,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

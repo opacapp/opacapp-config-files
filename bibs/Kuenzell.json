@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "K\u00fcnzell",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.de/kuenzell",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        50.5356779,
+        9.7200616
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
+    "information": "http://www.kuenzell.de/gemeindebuecherei-kuenzell-im-gemeindezentrum-kuenzell_4472.html",
+    "library_id": 4726,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

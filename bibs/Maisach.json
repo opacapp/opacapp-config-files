@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Maisach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.de/maisach",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        48.2165127,
+        11.2572401
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.maisach.de/index.php?id=0,51",
+    "library_id": 5195,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

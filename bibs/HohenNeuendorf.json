@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Hohen Neuendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://cloudopac.winbiap.de/hohenneuendorf",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        52.66326,
+        13.28427
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.hohen-neuendorf.de/hnd/admin/bibliotheken.htm",
+    "library_id": 3944,
+    "state": "Brandenburg",
+    "title": "Stadtbibliothek"
 }

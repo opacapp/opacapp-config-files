@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Herborn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
-        "customssl": true
+        "baseurl": "https://webopac.herborn.de"
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        50.6784088,
+        8.2997096
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
+    "information": "http://www.herborn.de/kultur/stadtbuecherei/",
+    "library_id": 3792,
     "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

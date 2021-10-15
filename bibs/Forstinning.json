@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Forstinning",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://cloudopac.winbiap.de/forstinning",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        48.168319,
+        11.9120623
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.forstinning.de/index.php?id=63",
+    "library_id": 8929,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

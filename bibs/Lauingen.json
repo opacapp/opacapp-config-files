@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Lauingen/Do",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.de/lauingen",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        48.570324,
+        10.4300205
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
+    "information": "http://www.lauingen.de/1524_DEU_HTML.php",
+    "library_id": 4864,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

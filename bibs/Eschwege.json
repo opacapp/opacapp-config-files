@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Eschwege",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.de/eschwege",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        51.1876662,
+        10.0397725
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
+    "information": "http://www.eschwege.de/city_info/webaccessibility/index.cfm?waid=348&item_id=850643&old_item_id=0&oldrecord=69579&oldmodul=5&olddesign=0",
+    "library_id": 2740,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

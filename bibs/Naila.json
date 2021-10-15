@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Naila",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.net/naila",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        50.3294246,
+        11.7021823
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.naila.de/cgi-bin/show.pl?action=einrichtungen",
+    "library_id": 5661,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
 }
