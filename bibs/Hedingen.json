@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Elsau",
+    "city": "Hedingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Elsau"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hedingen"
     },
     "geo": [
-        47.5054326,
-        8.8020704
+        47.29779,
+        8.44669
     ],
-    "information": "https://secure.i-web.ch/gemweb/elsau/de/kultur-freizeit/bibliotheken/",
-    "library_id": 8914,
+    "information": "http://www.bibliothek-hedingen.ch/page/bib.php",
+    "library_id": 8987,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

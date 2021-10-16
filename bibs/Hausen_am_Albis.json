@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Elsau",
+    "city": "Hausen am Albis",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Elsau"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hausen"
     },
     "geo": [
-        47.5054326,
-        8.8020704
+        47.244856,
+        8.5332266
     ],
-    "information": "https://secure.i-web.ch/gemweb/elsau/de/kultur-freizeit/bibliotheken/",
-    "library_id": 8914,
+    "information": "http://www.hausen.ch/xml_1/internet/de/application/d2/d307/f309.cfm",
+    "library_id": 8986,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

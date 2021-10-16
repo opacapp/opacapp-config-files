@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Elsau",
+    "city": "K\u00fcsnacht",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Elsau"
+        "baseurl": "http://www.bibliotheken-zh.ch/Kuesnacht"
     },
     "geo": [
-        47.5054326,
-        8.8020704
+        47.3192,
+        8.57938
     ],
-    "information": "https://secure.i-web.ch/gemweb/elsau/de/kultur-freizeit/bibliotheken/",
-    "library_id": 8914,
+    "information": "http://cms3-kuesnacht.backslash.ch/xml_1/internet/de/application/d286/f2261.cfm",
+    "library_id": 9041,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

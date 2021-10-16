@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Elsau",
+    "city": "Hettlingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Elsau"
+        "baseurl": "http://www.bibliotheken-zh.ch/Hettlingen"
     },
     "geo": [
-        47.5054326,
-        8.8020704
+        47.5465499,
+        8.7070778
     ],
-    "information": "https://secure.i-web.ch/gemweb/elsau/de/kultur-freizeit/bibliotheken/",
-    "library_id": 8914,
+    "information": "http://www.hettlingen.ch/de/tourismus/bibliotheken/",
+    "library_id": 8995,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

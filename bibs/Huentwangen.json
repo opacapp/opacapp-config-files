@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Elsau",
+    "city": "H\u00fcntwangen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Elsau"
+        "baseurl": "http://www.bibliotheken-zh.ch/Huentwangen"
     },
     "geo": [
-        47.5054326,
-        8.8020704
+        47.5955,
+        8.49293
     ],
-    "information": "https://secure.i-web.ch/gemweb/elsau/de/kultur-freizeit/bibliotheken/",
-    "library_id": 8914,
+    "information": "http://www.huentwangen.ch/?page_id=1455",
+    "library_id": 9006,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

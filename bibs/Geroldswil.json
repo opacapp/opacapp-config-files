@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Elsau",
+    "city": "Geroldswil",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Elsau"
+        "baseurl": "http://www.bibliotheken-zh.ch/Geroldswil"
     },
     "geo": [
-        47.5054326,
-        8.8020704
+        47.4229,
+        8.4097
     ],
-    "information": "https://secure.i-web.ch/gemweb/elsau/de/kultur-freizeit/bibliotheken/",
-    "library_id": 8914,
+    "information": "http://www.geroldswil.ch/xml_1/internet/de/application/d5/d88/f110.cfm",
+    "library_id": 8946,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

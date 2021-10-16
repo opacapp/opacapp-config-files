@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Elsau",
+    "city": "Goldach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Elsau"
+        "baseurl": "http://www.winmedio.net/goldach"
     },
     "geo": [
-        47.5054326,
-        8.8020704
+        47.4761387,
+        9.4713509
     ],
-    "information": "https://secure.i-web.ch/gemweb/elsau/de/kultur-freizeit/bibliotheken/",
-    "library_id": 8914,
-    "state": "Z\u00fcrich",
+    "information": "http://www.goldach.ch/de/bildung/bibliotheken/",
+    "library_id": 8951,
+    "state": "St. Gallen",
     "title": "Gemeindebibliothek"
 }

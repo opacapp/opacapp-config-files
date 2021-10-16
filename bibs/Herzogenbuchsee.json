@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Elsau",
+    "city": "Herzogenbuchsee",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Elsau"
+        "baseurl": "http://www.winmedio.net/herzogenbuchsee"
     },
     "geo": [
-        47.5054326,
-        8.8020704
+        47.1881119,
+        7.7009241
     ],
-    "information": "https://secure.i-web.ch/gemweb/elsau/de/kultur-freizeit/bibliotheken/",
-    "library_id": 8914,
-    "state": "Z\u00fcrich",
+    "information": "http://www.herzogenbuchsee.ch/topic2729.html",
+    "library_id": 8994,
+    "state": "Bern",
     "title": "Gemeindebibliothek"
 }
