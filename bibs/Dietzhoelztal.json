@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bobingen",
+    "city": "Dietzh\u00f6lztal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/bobingen",
+        "baseurl": "https://webopac.winbiap.net/dietzhoelztal",
         "customssl": true
     },
     "geo": [
-        48.2696917,
-        10.8295813
+        50.833333,
+        8.316667
     ],
-    "information": "http://www.stadt-bobingen.de/index.php?id=0,137",
-    "library_id": 1719,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.dietzhoelztal.de/pages/rathaus/verwaltung.php",
+    "library_id": 2271,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei"
 }

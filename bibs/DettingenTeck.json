@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bobingen",
+    "city": "Dettingen unter Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/bobingen",
+        "baseurl": "https://webopac.winbiap.de/dettingen",
         "customssl": true
     },
     "geo": [
-        48.2696917,
-        10.8295813
+        48.62015,
+        9.4516305
     ],
-    "information": "http://www.stadt-bobingen.de/index.php?id=0,137",
-    "library_id": 1719,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.dettingen-teck.de/kulturelle_einrichtungen.html",
+    "library_id": 2236,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Ortsb\u00fccherei"
 }
