@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Roding",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.de/roding",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        49.1944493,
+        12.5212772
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.roding.de/Rathaus/OeffentlicheEinrichtungen/Bildungseinrichtungen/Stadtbuecherei.aspx",
+    "library_id": 6728,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

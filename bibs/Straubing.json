@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Straubing",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.straubing.de",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        48.8852108,
+        12.5721571
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.stadtbibliothek-straubing.de/startseite.html",
+    "library_id": 7507,
     "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek im Salzstadel"
 }

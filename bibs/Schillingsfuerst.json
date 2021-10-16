@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Schillingsf\u00fcrst",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.net/schillingsfuerst",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        49.2862476,
+        10.2622504
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
+    "information": "http://www.schillingsfuerst.de/OEffentliche-Einrichtungen.604.0.html",
+    "library_id": 6978,
     "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

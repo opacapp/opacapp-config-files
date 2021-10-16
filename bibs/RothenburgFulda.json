@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "Rotenburg a.d.Fulda",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
+        "baseurl": "https://webopac.winbiap.net/mzhr",
         "customssl": true
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        50.996111,
+        9.727778
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
-    "state": "Bayern",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.hef-rof.de/landratsamt_und_kreisverwaltung/medienzentrum/",
+    "library_id": 6789,
+    "state": "Hessen",
+    "title": "Medienzentrum Hersfeld-Rotenburg"
 }

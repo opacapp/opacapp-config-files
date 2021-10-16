@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Aibling",
+    "city": "R\u00f6dermark",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/badaibling",
-        "customssl": true
+        "baseurl": "https://medienkatalog.stadtbuecherei.info/webopac"
     },
     "geo": [
-        47.8640369,
-        12.0097036
+        49.9767859,
+        8.8277224
     ],
-    "information": "http://www.bad-aibling.de/buergerservice/stadtbuecherei.html",
-    "library_id": 1190,
-    "state": "Bayern",
+    "information": "http://www.roedermark.de/index.php?id=40",
+    "library_id": 6832,
+    "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }
