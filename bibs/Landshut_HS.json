@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Freising",
+    "api": "touchpoint",
+    "city": "Landshut",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.hswt.de/InfoGuideClient.ffwsis",
-        "startparams": "Login=woffwzb"
+        "baseurl": "https://opac.haw-landshut.de/TouchPoint",
+        "startparams": "View=fla"
     },
     "geo": [
-        48.4028796,
-        11.7411846
+        48.5562257,
+        12.1985732
     ],
-    "information": "http://www.hswt.de/hochschule/zentrale-einrichtungen/bibliothek.html",
-    "library_id": 8936,
+    "information": "https://www.haw-landshut.de/studium/im-studium/bibliothek.html",
+    "library_id": 9042,
     "state": "Bayern",
     "title": "Hochschulbibliothek"
 }
