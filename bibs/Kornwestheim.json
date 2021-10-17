@@ -7,35 +7,40 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "D\u00fcren",
+    "city": "Kornwestheim",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 7,
+            "author": 8,
             "barcode": 4,
             "homebranch": -1,
             "lendingbranch": -1,
             "prolongurl": 4,
             "returndate": 3,
-            "status": 5,
-            "title": 7
+            "status": 6,
+            "title": 8
         },
-        "baseurl": "https://www.bibliothekskatalog.dueren.de",
+        "baseurl": "http://biber-kwh.kdrs.de",
         "copiestable": {
-            "barcode": 3,
-            "branch": 1,
-            "department": 0,
-            "location": 1,
+            "barcode": 2,
+            "branch": -1,
+            "department": -1,
+            "location": 0,
             "reservations": -1,
             "returndate": -1,
-            "status": 4
+            "status": 3
         },
         "mediatypes": {
             "1": "BOOK",
+            "10": "MAP",
             "11": "DVD",
+            "19": "BOOK",
             "2": "MAGAZINE",
+            "24": "GAME_CONSOLE_PLAYSTATION",
+            "25": "GAME_CONSOLE_WII",
+            "26": "GAME_CONSOLE_NINTENDO",
             "3": "CD_SOFTWARE",
-            "30": "EBOOK",
+            "40": "EBOOK",
             "5": "AUDIO_CASSETTE",
             "6": "CD",
             "9": "BOARDGAME"
@@ -48,11 +53,11 @@
         ]
     },
     "geo": [
-        50.8082246,
-        6.4787339
+        48.8651088,
+        9.1857957
     ],
-    "information": "http://www.kulturbetrieb.dueren.de/index.php?id=6602",
-    "library_id": 8655,
-    "state": "Nordrhein-Westfalen",
+    "information": "http://www.das-k.info/stadtbuecherei.html",
+    "library_id": 4535,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
 }
