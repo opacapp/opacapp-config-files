@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "N\u00e4nikon",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Naenikon"
+    },
+    "geo": [
+        47.3693646,
+        8.6893138
+    ],
+    "information": "http://www.naenikon.ch/freizeit/bibliothek/bibliothek.htm",
+    "library_id": 9105,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}
