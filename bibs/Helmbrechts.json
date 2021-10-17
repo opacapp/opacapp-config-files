@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Helmbrechts",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/helmbrechts",
+        "customssl": true
+    },
+    "geo": [
+        50.2358872,
+        11.7190245
+    ],
+    "information": "http://www.stadt-helmbrechts.de/city_info/webaccessibility/index.cfm?region_id=26&waid=297&design_id=10007&item_id=852506&modul_id=26&record_id=11585&keyword=0&eps=10&cat=42",
+    "library_id": 3752,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
