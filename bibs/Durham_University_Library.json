@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Durham",
+    "country": "United Kingdom",
+    "data": {
+        "baseurl": "http://discover.durham.ac.uk/primo_library/libweb",
+        "db": "44DUR_VU1",
+        "languages": [
+            "en"
+        ]
+    },
+    "geo": [
+        54.7682833,
+        -1.5732202
+    ],
+    "information": "https://www.dur.ac.uk/library/services/",
+    "library_id": 9352,
+    "state": "England",
+    "title": "University Library"
+}
