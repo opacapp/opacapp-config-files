@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Ismaning",
+    "city": "Happurg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/ismaning",
+        "baseurl": "https://webopac.winbiap.de/happurg",
         "customssl": true
     },
     "geo": [
-        48.2221552,
-        11.6764621
+        49.4937364,
+        11.4719457
     ],
-    "information": "http://bibliothek.ismaning.de/bibliothek",
-    "library_id": 4175,
+    "information": "http://www.happurg.de/Gemeinde/Buecherei/Buecherei.html",
+    "library_id": 3627,
     "state": "Bayern",
-    "title": "Schlossb\u00fccherei Gemeindebibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }
