@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Rapperswil-Jona",
+    "city": "Buchs",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/rapperswil-jona"
+        "baseurl": "http://www.winmedio.net/buchs"
     },
     "geo": [
-        47.2266239,
-        8.8184374
+        47.1656,
+        9.46865
     ],
-    "information": "http://www.stadtbibliothek-rj.ch/",
-    "library_id": 9274,
+    "information": "http://www.bibliothek-buchs.ch/",
+    "library_id": 8881,
     "state": "St. Gallen",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindebibliothek"
 }

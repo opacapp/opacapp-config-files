@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Rapperswil-Jona",
+    "city": "B\u00fctschwil",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/rapperswil-jona"
+        "baseurl": "http://www.bvsga.ch/Buetschwil"
     },
     "geo": [
-        47.2266239,
-        8.8184374
+        47.3563,
+        9.07364
     ],
-    "information": "http://www.stadtbibliothek-rj.ch/",
-    "library_id": 9274,
+    "information": "http://www.buetschwil.ch/xml_1/internet/de/application/d450/d491/f497.cfm",
+    "library_id": 8884,
     "state": "St. Gallen",
-    "title": "Stadtbibliothek"
+    "title": "Bibliothek"
 }

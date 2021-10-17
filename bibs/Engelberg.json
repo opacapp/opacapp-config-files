@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Rapperswil-Jona",
+    "city": "Engelberg",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/rapperswil-jona"
+        "baseurl": "http://www.winmedio.net/engelberg"
     },
     "geo": [
-        47.2266239,
-        8.8184374
+        46.8199317,
+        8.4069869
     ],
-    "information": "http://www.stadtbibliothek-rj.ch/",
-    "library_id": 9274,
-    "state": "St. Gallen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.gde-engelberg.ch/de/bildung/bibliothekfs/",
+    "library_id": 8917,
+    "state": "Obwalden",
+    "title": "Schul- und Gemeindebibliothek"
 }

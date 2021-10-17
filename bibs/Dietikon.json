@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Rapperswil-Jona",
+    "city": "Dietikon",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/rapperswil-jona"
+        "baseurl": "http://www.bibliotheken-zh.ch/Dietikon"
     },
     "geo": [
-        47.2266239,
-        8.8184374
+        47.4029025,
+        8.3988207
     ],
-    "information": "http://www.stadtbibliothek-rj.ch/",
-    "library_id": 9274,
-    "state": "St. Gallen",
+    "information": "http://www.dietikon.ch/de/verwaltung/unterinstanzen/?amt_id=8239",
+    "library_id": 8899,
+    "state": "Z\u00fcrich",
     "title": "Stadtbibliothek"
 }

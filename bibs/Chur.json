@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Rapperswil-Jona",
+    "city": "Chur",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/rapperswil-jona"
+        "baseurl": "http://www.bibliotheken-gr.ch/Chur"
     },
     "geo": [
-        47.2266239,
-        8.8184374
+        46.8507835,
+        9.5319859
     ],
-    "information": "http://www.stadtbibliothek-rj.ch/",
-    "library_id": 9274,
-    "state": "St. Gallen",
+    "information": "http://www.stadtbibliothekchur.ch/",
+    "library_id": 8888,
+    "state": "Graub\u00fcnden",
     "title": "Stadtbibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Rapperswil-Jona",
+    "city": "D\u00fcdingen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/rapperswil-jona"
+        "baseurl": "http://www.winmedio.net/duedingen"
     },
     "geo": [
-        47.2266239,
-        8.8184374
+        46.8481195,
+        7.1915796
     ],
-    "information": "http://www.stadtbibliothek-rj.ch/",
-    "library_id": 9274,
-    "state": "St. Gallen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.duedingen.ch/kultur-sport-freizeit/bibliothek/index.html",
+    "library_id": 8905,
+    "state": "Freiburg",
+    "title": "Bibliothek"
 }

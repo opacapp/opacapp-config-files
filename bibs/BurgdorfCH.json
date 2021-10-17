@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Rapperswil-Jona",
+    "city": "Burgdorf",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.winmedio.net/rapperswil-jona"
+        "baseurl": "http://www.winmedio.net/burgdorf"
     },
     "geo": [
-        47.2266239,
-        8.8184374
+        47.0578381,
+        7.620387
     ],
-    "information": "http://www.stadtbibliothek-rj.ch/",
-    "library_id": 9274,
-    "state": "St. Gallen",
+    "information": "http://www.burgdorf.ch/bibliothek.html",
+    "library_id": 8885,
+    "state": "Bern",
     "title": "Stadtbibliothek"
 }
