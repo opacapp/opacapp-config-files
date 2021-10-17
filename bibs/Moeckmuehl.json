@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Neuensalza-Spr.",
+    "city": "M\u00f6ckm\u00fchl",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,14 +20,14 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://neusalza-spremberg.internetopac.de",
+        "baseurl": "https://web-opac.kivbf.de/moeckmuehl",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "department": -1,
-            "location": 1,
+            "barcode": -1,
+            "branch": -1,
+            "department": 1,
+            "location": 0,
             "reservations": -1,
-            "returndate": 5,
+            "returndate": -1,
             "status": 3
         },
         "customssl": true,
@@ -41,11 +41,11 @@
         }
     },
     "geo": [
-        51.0380155,
-        14.5276012
+        49.32338,
+        9.36015
     ],
-    "information": "http://www.neusalza-spremberg.de/index.php/bibliothek",
-    "library_id": 9110,
-    "state": "Sachsen",
-    "title": "Stadtbibliothek"
+    "information": "http://mediathek-moeckmuehl.de/",
+    "library_id": 5482,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Mediathek"
 }

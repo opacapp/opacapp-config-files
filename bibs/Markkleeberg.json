@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Neuensalza-Spr.",
+    "city": "Markkleeberg",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -20,14 +20,14 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://neusalza-spremberg.internetopac.de",
+        "baseurl": "https://markkleeberg.internetopac.de",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "department": -1,
-            "location": 1,
+            "barcode": -1,
+            "branch": -1,
+            "department": 1,
+            "location": 0,
             "reservations": -1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
         "customssl": true,
@@ -41,11 +41,11 @@
         }
     },
     "geo": [
-        51.0380155,
-        14.5276012
+        51.2784006,
+        12.3623933
     ],
-    "information": "http://www.neusalza-spremberg.de/index.php/bibliothek",
-    "library_id": 9110,
+    "information": "http://www.markkleeberg.de/de/stadt_verwaltung/verwaltung/a-z/bereiche/dezernat_1/amt_fuer_kultur_und_tourismus/stadtbibliothek/",
+    "library_id": 5242,
     "state": "Sachsen",
     "title": "Stadtbibliothek"
 }
