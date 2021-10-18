@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": false,
+    "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Werther/Westf",
+    "city": "D\u00f6beln",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,22 +16,20 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
+        "baseurl": "http://87.138.107.89/bibliothek-doebeln",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
             "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
-        "db": "werther",
         "mediatypes": {
             "cdkl.gif": "CD",
             "dvdkl.gif": "DVD",
-            "e_owl_kl.gif": "EBOOK",
             "kassettekl.gif": "AUDIO_CASSETTE",
-            "videokl.gif": "MOVIE"
+            "spielekl.gif": "BOARDGAME",
+            "videokl.gif": "MOVIE",
+            "zeitschriftkl.gif": "MAGAZINE"
         },
         "reservationtable": {
             "author": 0,
@@ -41,11 +39,11 @@
         }
     },
     "geo": [
-        52.07521,
-        8.42289
+        51.1216002,
+        13.1247913
     ],
-    "information": "https://www.stadt-werther.de/index.php?id=285",
-    "library_id": 8251,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.doebeln.de/main.php?seitenid=246",
+    "library_id": 2365,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek am Lutherplatz"
 }

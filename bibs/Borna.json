@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Werther/Westf",
+    "city": "Borna",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
+        "baseurl": "https://mediothek-borna.internetopac.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,13 +25,11 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "werther",
+        "customssl": true,
         "mediatypes": {
-            "cdkl.gif": "CD",
-            "dvdkl.gif": "DVD",
-            "e_owl_kl.gif": "EBOOK",
-            "kassettekl.gif": "AUDIO_CASSETTE",
-            "videokl.gif": "MOVIE"
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -41,11 +39,11 @@
         }
     },
     "geo": [
-        52.07521,
-        8.42289
+        51.1252562,
+        12.4987027
     ],
-    "information": "https://www.stadt-werther.de/index.php?id=285",
-    "library_id": 8251,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.bibliothek-borna.de/",
+    "library_id": 1828,
+    "state": "Sachsen",
+    "title": "Mediothek"
 }

@@ -7,45 +7,44 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Werther/Westf",
+    "city": "Ebersbach/Fils",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": 0,
+            "homebranch": -1,
+            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
+        "baseurl": "https://wwwopac.komm.one/ebersbach",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
+            "barcode": -1,
+            "branch": -1,
             "department": 2,
             "location": 1,
-            "returndate": 5,
+            "reservations": -1,
+            "returndate": 4,
             "status": 3
-        },
-        "db": "werther",
-        "mediatypes": {
-            "cdkl.gif": "CD",
-            "dvdkl.gif": "DVD",
-            "e_owl_kl.gif": "EBOOK",
-            "kassettekl.gif": "AUDIO_CASSETTE",
-            "videokl.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
             "availability": 2,
+            "branch": -1,
             "cancelurl": 3,
+            "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        52.07521,
-        8.42289
+        48.7155979,
+        9.521393
     ],
-    "information": "https://www.stadt-werther.de/index.php?id=285",
-    "library_id": 8251,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.ebersbach.de/stadtbibliothek/",
+    "library_id": 2467,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek Im Kirchberg"
 }

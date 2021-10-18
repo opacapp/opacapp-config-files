@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Werther/Westf",
+    "city": "Andernach",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
+        "baseurl": "https://webopac.andernach.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,13 +25,12 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "werther",
         "mediatypes": {
-            "cdkl.gif": "CD",
-            "dvdkl.gif": "DVD",
-            "e_owl_kl.gif": "EBOOK",
-            "kassettekl.gif": "AUDIO_CASSETTE",
-            "videokl.gif": "MOVIE"
+            "eaudio.gif": "EAUDIO",
+            "ebook.gif": "EBOOK",
+            "emusic.gif": "EAUDIO",
+            "epaper.gif": "EDOC",
+            "evideo.gif": "EVIDEO"
         },
         "reservationtable": {
             "author": 0,
@@ -41,11 +40,11 @@
         }
     },
     "geo": [
-        52.07521,
-        8.42289
+        50.4398716,
+        7.4000356
     ],
-    "information": "https://www.stadt-werther.de/index.php?id=285",
-    "library_id": 8251,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.andernach.de/de/kultur_bildung/beh_buecherei.html",
+    "library_id": 1050,
+    "state": "Rheinland-Pfalz",
+    "title": "Stadtb\u00fccherei"
 }

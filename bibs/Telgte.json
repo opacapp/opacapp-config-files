@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Werther/Westf",
+    "city": "Telgte",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
+        "baseurl": "http://www.bibliothek-im-netz.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,13 +25,17 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "werther",
+        "db": "Telgte",
         "mediatypes": {
-            "cdkl.gif": "CD",
-            "dvdkl.gif": "DVD",
-            "e_owl_kl.gif": "EBOOK",
-            "kassettekl.gif": "AUDIO_CASSETTE",
-            "videokl.gif": "MOVIE"
+            "Munzinger_32x32.jpg": "EDOC",
+            "bibload.gif": "EBOOK",
+            "eAudio.gif": "MP3",
+            "eBook.gif": "EBOOK",
+            "ePaper.gif": "EBOOK",
+            "eVideo.gif": "EVIDEO",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
@@ -41,11 +45,11 @@
         }
     },
     "geo": [
-        52.07521,
-        8.42289
+        52.02959,
+        7.74956
     ],
-    "information": "https://www.stadt-werther.de/index.php?id=285",
-    "library_id": 8251,
+    "information": "http://www.telgte.de/staticsite/staticsite2.php?menuid=363&topmenu=6",
+    "library_id": 7599,
     "state": "Nordrhein-Westfalen",
-    "title": "Stadtbibliothek"
+    "title": "Stadtb\u00fccherei"
 }
