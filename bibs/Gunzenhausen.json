@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "H\u00f6sbach",
+    "city": "Gunzenhausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothekszentrum-mediensuche.lra-ab.de"
+        "baseurl": "https://webopac.gunzenhausen.de"
     },
     "geo": [
-        50.0059288,
-        9.2077442
+        49.114722,
+        10.754167
     ],
-    "information": "http://www.landkreis-aschaffenburg.de/wer-macht-was/bildungsportkul/bibliothek/",
-    "library_id": 4041,
+    "information": "http://www.buecherei.gunzenhausen.de/index.php/startseite.html",
+    "library_id": 3493,
     "state": "Bayern",
-    "title": "Bibliothekszentrum"
+    "title": "Stadt- und Schulb\u00fccherei"
 }

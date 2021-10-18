@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "H\u00f6sbach",
+    "city": "Gersthofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothekszentrum-mediensuche.lra-ab.de"
+        "baseurl": "https://webopac.winbiap.net/gersthofen",
+        "customssl": true
     },
     "geo": [
-        50.0059288,
-        9.2077442
+        48.4242503,
+        10.876347
     ],
-    "information": "http://www.landkreis-aschaffenburg.de/wer-macht-was/bildungsportkul/bibliothek/",
-    "library_id": 4041,
+    "information": "http://www.stadt-gersthofen.de/seite/leben-in-gersthofen/stadtbibliothek.php",
+    "library_id": 3223,
     "state": "Bayern",
-    "title": "Bibliothekszentrum"
+    "title": "Stadtbibliothek"
 }

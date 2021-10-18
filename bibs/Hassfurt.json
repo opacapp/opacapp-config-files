@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "H\u00f6sbach",
+    "city": "Hassfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothekszentrum-mediensuche.lra-ab.de"
+        "baseurl": "https://opac.winbiap.net/hassfurt",
+        "customssl": true
     },
     "geo": [
-        50.0059288,
-        9.2077442
+        50.0343812,
+        10.5169747
     ],
-    "information": "http://www.landkreis-aschaffenburg.de/wer-macht-was/bildungsportkul/bibliothek/",
-    "library_id": 4041,
+    "information": "http://www.biz-hassfurt.de/",
+    "library_id": 3662,
     "state": "Bayern",
-    "title": "Bibliothekszentrum"
+    "title": "Bibliotheks- und Informationszentrum (BIZ)"
 }

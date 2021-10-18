@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "H\u00f6sbach",
+    "city": "Haar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothekszentrum-mediensuche.lra-ab.de"
+        "baseurl": "https://webopac.winbiap.net/haar",
+        "customssl": true
     },
     "geo": [
-        50.0059288,
-        9.2077442
+        48.1103758,
+        11.7321151
     ],
-    "information": "http://www.landkreis-aschaffenburg.de/wer-macht-was/bildungsportkul/bibliothek/",
-    "library_id": 4041,
+    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
+    "library_id": 3513,
     "state": "Bayern",
-    "title": "Bibliothekszentrum"
+    "title": "Gemeindeb\u00fccherei"
 }

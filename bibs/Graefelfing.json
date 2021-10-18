@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Heroldsberg",
+    "city": "Gr\u00e4felfing",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/heroldsberg",
+        "baseurl": "https://webopac.winbiap.net/graefelfing",
         "customssl": true
     },
     "geo": [
-        49.5323509,
-        11.1540547
+        48.1227429,
+        11.4340549
     ],
-    "information": "http://www.heroldsberg.de/kultur-und-bildung/gemeindebuecherei",
-    "library_id": 3808,
+    "information": "http://www.buecherei-graefelfing.de/rund-um-die-buecherei/startseite-aktuelles-veranstaltungen-fuer-erwachsene.html",
+    "library_id": 3344,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei im B\u00fcrgerzentrum"
+    "title": "Gemeindeb\u00fccherei"
 }
