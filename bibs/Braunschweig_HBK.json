@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Braunschweig",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.lbs-braunschweig.gbv.de",
+        "db": "3"
+    },
+    "geo": [
+        52.2688736,
+        10.5267696
+    ],
+    "information": "https://www.hbk-bs.de/einrichtungen/bibliothek/",
+    "library_id": 8872,
+    "state": "Niedersachsen",
+    "title": "Hochschule f\u00fcr Bildende K\u00fcnste"
+}
