@@ -1,34 +1,27 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wiesbaden",
+    "city": "Bielefeld",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "barcode": 4,
-            "homebranch": 5,
-            "lendingbranch": 5,
-            "prolongurl": 7,
+            "prolongurl": 3,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://bond.wiesbaden.de",
+        "baseurl": "https://bielefeld.cidoli.de",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
+            "branch": 3,
             "department": 2,
-            "location": 1,
-            "returndate": 5,
-            "status": 3
+            "location": 0
         },
-        "customssl": true,
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
@@ -36,17 +29,16 @@
         },
         "reservationtable": {
             "author": 0,
-            "availability": 2,
-            "cancelurl": 3,
+            "cancelurl": 2,
             "title": 1
         }
     },
     "geo": [
-        50.0817796,
-        8.2376557
+        52.0302285,
+        8.5324708
     ],
-    "information": "http://www.wiesbaden.de/kultur/bibliotheken/stadtbibliotheken/index.php",
-    "library_id": 8790,
-    "state": "Hessen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.kirche-bielefeld.de/.cms/327",
+    "library_id": 8859,
+    "state": "Nordrhein-Westfalen",
+    "title": "Mediothek Haus der Kirche"
 }

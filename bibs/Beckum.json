@@ -7,19 +7,16 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Wiesbaden",
+    "city": "Beckum",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "barcode": 4,
-            "homebranch": 5,
-            "lendingbranch": 5,
-            "prolongurl": 7,
+            "prolongurl": 3,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://bond.wiesbaden.de",
+        "baseurl": "http://www.bibliothek-im-netz.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -28,8 +25,14 @@
             "returndate": 5,
             "status": 3
         },
-        "customssl": true,
+        "db": "Beckum",
         "mediatypes": {
+            "Munzinger_32x32.jpg": "EDOC",
+            "bibload.gif": "EBOOK",
+            "eAudio.gif": "MP3",
+            "eBook.gif": "EBOOK",
+            "ePaper.gif": "EBOOK",
+            "eVideo.gif": "EVIDEO",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -42,11 +45,11 @@
         }
     },
     "geo": [
-        50.0817796,
-        8.2376557
+        51.7537536,
+        8.0407579
     ],
-    "information": "http://www.wiesbaden.de/kultur/bibliotheken/stadtbibliotheken/index.php",
-    "library_id": 8790,
-    "state": "Hessen",
-    "title": "Stadtbibliothek"
+    "information": "http://www.beckum.de/oeffentliche_buecherei_beckum.html",
+    "library_id": 1479,
+    "state": "Nordrhein-Westfalen",
+    "title": "\u00d6ffentliche B\u00fccherei"
 }
