@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "M\u00fcnster",
+    "city": "L\u00fcdinghausen",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/mecklenbeck",
+        "baseurl": "https://webopac.bistum-muenster.de/luedinghausen",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.9606649,
-        7.6261347
+        51.7704326,
+        7.4427558
     ],
-    "information": "http://koeb.annakirche.de/",
-    "library_id": 5624,
+    "information": "http://www.buecherei-lh.de/",
+    "library_id": 5156,
     "state": "Nordrhein-Westfalen",
-    "title": "Kath. \u00d6B St. Anna Mecklenbeck"
+    "title": "Stadtb\u00fccherei St. Felizitas"
 }
