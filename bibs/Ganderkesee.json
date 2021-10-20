@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Ganderkesee",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://ganderkesee.bibliotheca-open.de/",
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        53.03601,
+        8.54141
+    ],
+    "information": "https://ganderkesee.bibliotheca-open.de/%C3%9Cberuns/InfoKontakt.aspx",
+    "library_id": 3090,
+    "state": "Niedersachsen",
+    "title": "Gemeindeb\u00fccherei"
+}
