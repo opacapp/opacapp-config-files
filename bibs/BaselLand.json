@@ -1,0 +1,30 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.kbbl",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Liestal",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://xaikb14.bl.ch/InfoGuideClient",
+        "libopacplus": true,
+        "onleihe": "https://e-kbl.onleihe.com/liestal",
+        "onleihe_avail": -1,
+        "onleihe_libraryId": "57",
+        "onleihe_search_url": "e-kbl.ch",
+        "onleihe_singleLibrary": "yes",
+        "onleihe_wrapper": "baselland"
+    },
+    "geo": [
+        47.4857826,
+        7.7304432
+    ],
+    "information": "https://info.opacapp.net/baselland.html",
+    "library_id": 4,
+    "state": "Basel-Land",
+    "title": "Kantonsbibliothek"
+}
