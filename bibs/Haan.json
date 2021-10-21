@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_notice_text": "Aktueller Hinweis",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 195,
+    "account_supported": true,
+    "api": "vufind",
+    "city": "Haan",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.bibnet.smartbib.de",
+        "copystyle": "smartbib",
+        "customssl": true,
+        "hiddenfilters": true,
+        "library": "HAAN",
+        "library_long": "Haan"
+    },
+    "geo": [
+        51.1932379,
+        7.0090636
+    ],
+    "information": "https://info.opacapp.de/haan.html",
+    "library_id": 3512,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
