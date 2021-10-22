@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Elsenfeld",
+    "city": "Memmingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/elsenfeld",
+        "baseurl": "https://bibliothek.memmingen.de",
         "customssl": true
     },
     "geo": [
-        49.8458735,
-        9.1607868
+        47.9837999,
+        10.1801883
     ],
-    "information": "http://www.elsenfeld.de/kuturfreizeit/bibliothek/",
-    "library_id": 2593,
+    "information": "https://www.memmingen.de/stadtbibliothek.html",
+    "library_id": 5345,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Stadtbibliothek"
 }

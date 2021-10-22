@@ -7,19 +7,19 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Frankfurt/Main",
+    "city": "Mainz",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://lbsopac.rz.uni-frankfurt.de",
+        "baseurl": "https://opac.ub.uni-mainz.de",
         "charset": "ISO-8859-1",
-        "db": "60"
+        "db": "1"
     },
     "geo": [
-        50.1109221,
-        8.6821267
+        49.9928617,
+        8.2472526
     ],
-    "information": "http://www.sankt-georgen.de/bibliothek/index.html",
-    "library_id": 8932,
-    "state": "Hessen",
-    "title": "Phil.-Theol. Hochschule Sankt Georgen"
+    "information": "http://www.ub.uni-mainz.de/",
+    "library_id": 9070,
+    "state": "Rheinland-Pfalz",
+    "title": "Universit\u00e4tsbibliothek"
 }

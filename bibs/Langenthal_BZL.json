@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Niederweningen",
+    "city": "Langenthal",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Niederweningen"
+        "baseurl": "http://www.winmedio.net/langenthal_bzl"
     },
     "geo": [
-        47.5044456,
-        8.3770777
+        47.2139734,
+        7.7847334
     ],
-    "information": "http://www.mediothek-niederweningen.ch/",
-    "library_id": 9114,
-    "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.gymo.ch/bibliothek1.html",
+    "library_id": 9043,
+    "state": "Bern",
+    "title": "BZL Bibliothek"
 }

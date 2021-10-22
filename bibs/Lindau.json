@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Elsenfeld",
+    "city": "Lindau/Bo",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/elsenfeld",
-        "customssl": true
+        "baseurl": "http://93.184.180.130"
     },
     "geo": [
-        49.8458735,
-        9.1607868
+        47.5797815,
+        9.6789333
     ],
-    "information": "http://www.elsenfeld.de/kuturfreizeit/bibliothek/",
-    "library_id": 2593,
+    "information": "http://www.lindau.de/Kunst-Kultur/Stadtb%C3%BCcherei",
+    "library_id": 5013,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Stadtb\u00fccherei"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Niederweningen",
+    "city": "Neerach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Niederweningen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Neerach"
     },
     "geo": [
-        47.5044456,
-        8.3770777
+        47.5125,
+        8.47301
     ],
-    "information": "http://www.mediothek-niederweningen.ch/",
-    "library_id": 9114,
+    "information": "http://www.primarschule-neerach.ch/mediothek/",
+    "library_id": 9107,
     "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "title": "Mediothek"
 }

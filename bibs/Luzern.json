@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Niederweningen",
+    "city": "Luzern",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Niederweningen"
+        "baseurl": "http://www.winmedio.net/bvl"
     },
     "geo": [
-        47.5044456,
-        8.3770777
+        47.0569654,
+        8.3109466
     ],
-    "information": "http://www.mediothek-niederweningen.ch/",
-    "library_id": 9114,
-    "state": "Z\u00fcrich",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.bvl.ch/",
+    "library_id": 9064,
+    "state": "Luzern",
+    "title": "Stadtbibliothek / Bibliotheksverband"
 }

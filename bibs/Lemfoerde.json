@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Elsenfeld",
+    "city": "Lemf\u00f6rde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/elsenfeld",
+        "baseurl": "https://webopac.winbiap.net/lemfoerde",
         "customssl": true
     },
     "geo": [
-        49.8458735,
-        9.1607868
+        52.4641331,
+        8.3739804
     ],
-    "information": "http://www.elsenfeld.de/kuturfreizeit/bibliothek/",
-    "library_id": 2593,
-    "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "information": "http://www.lemfoerde.de/oeffentliche-einrichtungen/buecherei-am-amtshof/",
+    "library_id": 4917,
+    "state": "Niedersachsen",
+    "title": "B\u00fccherei am Amtshof"
 }

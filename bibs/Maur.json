@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Niederweningen",
+    "city": "Maur/Ebmatingen/Aesch-Forch",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Niederweningen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Maur"
     },
     "geo": [
-        47.5044456,
-        8.3770777
+        47.338416,
+        8.6515131
     ],
-    "information": "http://www.mediothek-niederweningen.ch/",
-    "library_id": 9114,
+    "information": "http://www.bibliothek-maur.ch/",
+    "library_id": 9077,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Elsenfeld",
+    "city": "Maisach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/elsenfeld",
+        "baseurl": "https://webopac.winbiap.de/maisach",
         "customssl": true
     },
     "geo": [
-        49.8458735,
-        9.1607868
+        48.2165127,
+        11.2572401
     ],
-    "information": "http://www.elsenfeld.de/kuturfreizeit/bibliothek/",
-    "library_id": 2593,
+    "information": "http://www.maisach.de/index.php?id=0,51",
+    "library_id": 5195,
     "state": "Bayern",
-    "title": "Gemeindebibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }
