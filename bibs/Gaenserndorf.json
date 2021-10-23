@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "G\u00e4nserndorf",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://buecherei-gaenserndorf.web-opac.at"
+    },
+    "geo": [
+        48.3403159,
+        16.7241521
+    ],
+    "information": "http://gaenserndorf.bvoe.at/",
+    "library_id": 8942,
+    "state": "Nieder\u00f6sterreich",
+    "title": "Stadtb\u00fccherei"
+}
