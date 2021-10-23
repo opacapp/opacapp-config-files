@@ -7,19 +7,20 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Darmstadt",
+    "city": "Jena",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://pica1l.ulb.tu-darmstadt.de",
-        "charset": "ISO-8859-1",
-        "db": "LHBDA"
+        "account_system": "lbs",
+        "baseurl": "https://kataloge.thulb.uni-jena.de/",
+        "customssl": true,
+        "db": "1"
     },
     "geo": [
-        49.8765006,
-        8.6576668
+        50.9306239,
+        11.5877183
     ],
-    "information": "http://www.ulb.tu-darmstadt.de/service/start/index.de.jsp",
-    "library_id": 8895,
-    "state": "Hessen",
+    "information": "http://www.thulb.uni-jena.de/",
+    "library_id": 9019,
+    "state": "Th\u00fcringen",
     "title": "Universit\u00e4ts- und Landesbibliothek"
 }
