@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Uznach",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.winmedio.net/uznach"
+    },
+    "geo": [
+        47.2256714,
+        8.9828324
+    ],
+    "information": "http://www.bibliothek-uznach.ch/",
+    "library_id": 9211,
+    "state": "St. Gallen",
+    "title": "Bibliothek"
+}
