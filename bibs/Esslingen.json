@@ -1,0 +1,31 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.esslingen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Esslingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://buecherei.esslingen.de/webOPACClient",
+        "customssl": true,
+        "libopacplus": true,
+        "mediatypes": {
+            "3.gif": "AUDIOBOOK"
+        },
+        "onleihe": "http://www1.onleihe.de/247online-bibliothek",
+        "onleihe_libraryId": "75"
+    },
+    "displayname": "Stadtb\u00fccherei Esslingen",
+    "geo": [
+        48.7424616,
+        9.3089767
+    ],
+    "information": "https://info.opacapp.de/esslingen.html",
+    "library_id": 8662,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}

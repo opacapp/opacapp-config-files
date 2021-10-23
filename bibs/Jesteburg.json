@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Jesteburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/jesteburg",
+        "customssl": true
+    },
+    "geo": [
+        53.3160201,
+        9.953973
+    ],
+    "information": "http://www.jesteburg.de/kindertageseinrichtungen-schulen-bildung/samtgemeindebuecherei/buecherei-zehntscheune/",
+    "library_id": 4199,
+    "state": "Niedersachsen",
+    "title": "Samtgemeindeb\u00fccherei"
+}
