@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Eisenstadt",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://ak-buecherei-eisenstadt.arbeiterkammer.at",
+        "urls": {
+            "advanced_search": "ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche.aspx"
+        }
+    },
+    "geo": [
+        47.8446581,
+        16.5091687
+    ],
+    "information": "https://bgld.arbeiterkammer.at/service/buecherei/akbuechereieisenstadt/Oeffnungszeiten.html",
+    "library_id": 9350,
+    "state": "Burgenland",
+    "title": "AK-B\u00fccherei"
+}
