@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "Forstinning",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://cloudopac.winbiap.de/forstinning",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        48.168319,
+        11.9120623
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
+    "information": "http://www.forstinning.de/index.php?id=63",
+    "library_id": 8929,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

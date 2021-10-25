@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "Kaufering",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://webopac.winbiap.net/kaufering",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        48.088056,
+        10.8567673
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
+    "information": "http://www.kaufering.de/?language=DE&kat=Buecherei",
+    "library_id": 4335,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

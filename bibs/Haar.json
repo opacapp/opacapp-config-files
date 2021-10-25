@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "Haar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://webopac.winbiap.net/haar",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        48.1103758,
+        11.7321151
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
+    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
+    "library_id": 3513,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

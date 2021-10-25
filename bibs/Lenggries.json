@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Burtenbach",
+    "city": "Lenggries",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/burtenbach",
+        "baseurl": "https://webopac.winbiap.net/lenggries",
         "customssl": true
     },
     "geo": [
-        48.3397753,
-        10.4480126
+        47.6825636,
+        11.5765039
     ],
-    "information": "http://www.burtenbach.de/Freizeit-und-Kultur/Kulturelle-Einrichtungen",
-    "library_id": 2054,
+    "information": "http://www.lenggries.de/de/buecherei",
+    "library_id": 4927,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }
