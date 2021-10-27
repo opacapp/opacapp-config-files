@@ -7,56 +7,53 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Friedrichshafen",
+    "city": "Konstanz",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 8,
+            "author": 7,
             "barcode": 4,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
+            "prolongurl": 7,
             "returndate": 3,
-            "status": 6,
-            "title": 8
+            "status": 5,
+            "title": 7
         },
-        "baseurl": "https://medienkatalog.friedrichshafen.de",
+        "baseurl": "https://opac.konstanz.de",
         "copiestable": {
-            "barcode": 3,
-            "branch": 1,
-            "department": 2,
-            "location": -1,
+            "barcode": 2,
+            "branch": -1,
+            "department": -1,
+            "location": 0,
             "reservations": -1,
             "returndate": -1,
-            "status": 4
+            "status": 3
         },
-        "customssl": true,
         "mediatypes": {
             "1": "BOOK",
-            "10": "MAP",
-            "11": "MOVIE",
+            "11": "DVD",
+            "14": "CD",
             "2": "MAGAZINE",
-            "23": "CD_SOFTWARE",
-            "26": "GAME_CONSOLE_NINTENDO",
+            "20": "AUDIOBOOK",
+            "26": "GAME_CONSOLE",
+            "3": "CD_SOFTWARE",
             "30": "EBOOK",
-            "6": "CD_MUSIC",
-            "61": "AUDIOBOOK",
-            "9": "BOARDGAME"
+            "51": "EDOC"
         },
         "opacdir": "opax",
         "searchtable": [
             2,
             3,
-            4,
-            5
+            4
         ]
     },
     "geo": [
-        47.6499,
-        9.48141
+        47.6629928,
+        9.1751357
     ],
-    "information": "http://www.medienhaus-am-see.de/wir-ueber-uns/",
-    "library_id": 37,
+    "information": "http://www.konstanz.de/stadtbuecherei/01684/index.html",
+    "library_id": 8709,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Medienhaus am See"
+    "title": "Stadtb\u00fccherei"
 }
