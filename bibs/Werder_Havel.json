@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Werder/Havel",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www5.potsdam-mittelmark.de/webOPAC",
+        "copiestable": {
+            "location": 0,
+            "status": 1
+        },
+        "db": "webb_wer"
+    },
+    "geo": [
+        52.3763466,
+        12.9331021
+    ],
+    "information": "http://www.werder-havel.de/content/rathausonline/rathausonline_fb1_bibliothek.php",
+    "library_id": 8211,
+    "state": "Brandenburg",
+    "title": "Stadtbibliothek"
+}
