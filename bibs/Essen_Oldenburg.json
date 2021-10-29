@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borken/Westf",
+    "city": "Essen/Oldenburg",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/borken",
+        "baseurl": "http://www.opac.bmo-vechta.de/essen",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,7 +26,7 @@
             "status": 3
         },
         "mediatypes": {
-            "Buchklein.GIF": "UNKNOWN",
+            "Buchklein.GIF": "BOOK",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
             "CD1klein.GIF": "CD",
             "CDklein.GIF": "CD",
@@ -40,7 +40,7 @@
             "Jugendbuchklein.GIF": "BOOK",
             "KinderCD_aklein.GIF": "CD",
             "KinderDVD_aklein.GIF": "DVD",
-            "Kinderbuch_aklein.GIF": "UNKNOWN",
+            "Kinderbuch_aklein.GIF": "BOOK",
             "Kindersachbuch_aklein.GIF": "BOOK",
             "Medien-Paketklein.GIF": "PACKAGE",
             "NDS1klein.GIF": "GAME_CONSOLE_NINTENDO",
@@ -59,7 +59,7 @@
             "Wii1klein.GIF": "GAME_CONSOLE_WII",
             "Wiiklein.GIF": "GAME_CONSOLE_WII",
             "Zeitschriftklein.GIF": "MAGAZINE",
-            "eAudio_bibloadklein.GIF": "MP3",
+            "eAudio_bibloadklein.GIF": "EAUDIO",
             "eBook_bibloadklein.GIF": "EBOOK",
             "ePaper_bibloadklein.GIF": "EDOC",
             "eVideo_bibloadklein.GIF": "EVIDEO"
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.84179,
-        6.85934
+        52.717731,
+        7.9396505
     ],
-    "information": "http://www.remigius-buecherei.de/",
-    "library_id": 1823,
-    "state": "Nordrhein-Westfalen",
-    "title": "Remigius-B\u00fccherei"
+    "information": "http://www.essen-oldb.de/index.php?id=208",
+    "library_id": 2797,
+    "state": "Niedersachsen",
+    "title": "Kath. \u00d6B St. Bartholom\u00e4us"
 }

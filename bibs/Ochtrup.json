@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borken/Westf",
+    "city": "Ochtrup",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/borken",
+        "baseurl": "https://webopac.bistum-muenster.de/ochtrup",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -29,7 +29,7 @@
             "Buchklein.GIF": "UNKNOWN",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
             "CD1klein.GIF": "CD",
-            "CDklein.GIF": "CD",
+            "CDklein.GIF": "AUDIOBOOK",
             "Cassetteklein.GIF": "AUDIO_CASSETTE",
             "Comicklein.GIF": "BOOK",
             "DVD-ROMklein.GIF": "DVD",
@@ -52,7 +52,7 @@
             "PS3klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "SachDVDklein.GIF": "DVD",
             "Sachbuchklein.GIF": "BOOK",
-            "SommerleseclubBuchklein.GIF": "UNKNOWN",
+            "SommerleseclubBuchklein.GIF": "BOOK",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
             "Weihnachten1klein.GIF": "UNKNOWN",
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.84179,
-        6.85934
+        52.2103,
+        7.19008
     ],
-    "information": "http://www.remigius-buecherei.de/",
-    "library_id": 1823,
+    "information": "http://www.buecherei-lamberti-ochtrup.de/",
+    "library_id": 6115,
     "state": "Nordrhein-Westfalen",
-    "title": "Remigius-B\u00fccherei"
+    "title": "Kath. \u00d6B St. Lamberti"
 }

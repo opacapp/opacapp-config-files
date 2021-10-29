@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Borken/Westf",
+    "city": "M\u00fcnster",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.bistum-muenster.de/borken",
+        "baseurl": "https://webopac.bistum-muenster.de/ueberwasser",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -26,7 +26,7 @@
             "status": 3
         },
         "mediatypes": {
-            "Buchklein.GIF": "UNKNOWN",
+            "Buchklein.GIF": "BOOK",
             "CD-ROMklein.GIF": "CD_SOFTWARE",
             "CD1klein.GIF": "CD",
             "CDklein.GIF": "CD",
@@ -40,7 +40,7 @@
             "Jugendbuchklein.GIF": "BOOK",
             "KinderCD_aklein.GIF": "CD",
             "KinderDVD_aklein.GIF": "DVD",
-            "Kinderbuch_aklein.GIF": "UNKNOWN",
+            "Kinderbuch_aklein.GIF": "BOOK",
             "Kindersachbuch_aklein.GIF": "BOOK",
             "Medien-Paketklein.GIF": "PACKAGE",
             "NDS1klein.GIF": "GAME_CONSOLE_NINTENDO",
@@ -52,7 +52,7 @@
             "PS3klein.GIF": "GAME_CONSOLE_PLAYSTATION",
             "SachDVDklein.GIF": "DVD",
             "Sachbuchklein.GIF": "BOOK",
-            "SommerleseclubBuchklein.GIF": "UNKNOWN",
+            "SommerleseclubBuchklein.GIF": "BOOK",
             "Spielklein.GIF": "BOARDGAME",
             "Videoklein.GIF": "MOVIE",
             "Weihnachten1klein.GIF": "UNKNOWN",
@@ -72,11 +72,11 @@
         }
     },
     "geo": [
-        51.84179,
-        6.85934
+        51.9606649,
+        7.6261347
     ],
-    "information": "http://www.remigius-buecherei.de/",
-    "library_id": 1823,
+    "information": "http://www.liebfrauen-muenster.de/index.php?option=com_content&view=article&id=215&Itemid=67",
+    "library_id": 5622,
     "state": "Nordrhein-Westfalen",
-    "title": "Remigius-B\u00fccherei"
+    "title": "Kath. \u00d6B Liebfrauen-\u00dcberwasser"
 }
