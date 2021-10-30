@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Sankt Augustin",
+    "city": "Kamp-Lintfort",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bib-sisis.bib.hochschule-bonn-rhein-sieg.de/webOPACClient"
+        "baseurl": "https://nrwoz2.bib-bvb.de/webOPACClient.nrwsis"
     },
     "geo": [
-        50.7694775,
-        7.1875786
+        51.500196,
+        6.546012
     ],
-    "information": "http://www.bib.hochschule-bonn-rhein-sieg.de/",
-    "library_id": 8865,
+    "information": "http://www.hochschule-rhein-waal.de/hochschulbibliothek/oeffnungszeiten.html",
+    "library_id": 9022,
     "state": "Nordrhein-Westfalen",
-    "title": "FH Bonn-Rhein-Sieg"
+    "title": "Hochschule Rhein-Waal"
 }

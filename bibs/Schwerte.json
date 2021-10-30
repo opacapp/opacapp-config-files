@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Sankt Augustin",
+    "api": "winbiap",
+    "city": "Schwerte",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bib-sisis.bib.hochschule-bonn-rhein-sieg.de/webOPACClient"
+        "baseurl": "https://webopac.citkomm.de/schwerte"
     },
     "geo": [
-        50.7694775,
-        7.1875786
+        51.4406,
+        7.56864
     ],
-    "information": "http://www.bib.hochschule-bonn-rhein-sieg.de/",
-    "library_id": 8865,
+    "information": "http://www.kuwebe.de/html/bucherei_-_aktuelles.html",
+    "library_id": 8771,
     "state": "Nordrhein-Westfalen",
-    "title": "FH Bonn-Rhein-Sieg"
+    "title": "Stadtb\u00fccherei"
 }

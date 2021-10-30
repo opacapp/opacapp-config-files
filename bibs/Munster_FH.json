@@ -7,17 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Sankt Augustin",
+    "city": "M\u00fcnster",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bib-sisis.bib.hochschule-bonn-rhein-sieg.de/webOPACClient"
+        "baseurl": "https://hb063.fh-muenster.de/webOPACClient",
+        "startparams": "Login=jopacf"
     },
     "geo": [
-        50.7694775,
-        7.1875786
+        51.9606649,
+        7.6261347
     ],
-    "information": "http://www.bib.hochschule-bonn-rhein-sieg.de/",
-    "library_id": 8865,
+    "information": "https://www.fh-muenster.de/BIBL/index.php",
+    "library_id": 9102,
     "state": "Nordrhein-Westfalen",
-    "title": "FH Bonn-Rhein-Sieg"
+    "title": "Fachhochschule"
 }
