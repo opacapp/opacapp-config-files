@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Bad Oeynhausen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://webopac.badoeynhausen.de"
+    },
+    "geo": [
+        52.2040896,
+        8.7956987
+    ],
+    "information": "http://www.badoeynhausen.de/index.php?id=351",
+    "library_id": 1323,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei - Lenn\u00e9-Karree"
+}
