@@ -1,0 +1,47 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "biber1992",
+    "city": "Aschaffenburg",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 8,
+            "barcode": 4,
+            "returndate": 3,
+            "status": 9,
+            "title": 8
+        },
+        "baseurl": "https://aschaffenburg.bibdia-hosts.de",
+        "mediatypes": {
+            "1": "BOOK",
+            "10": "MAP",
+            "11": "DVD",
+            "19": "BOOK",
+            "2": "MAGAZINE",
+            "20": "CD_MUSIC",
+            "3": "CD_SOFTWARE",
+            "30": "EBOOK",
+            "9": "BOARDGAME"
+        },
+        "opacdir": "opax",
+        "searchtable": [
+            2,
+            3,
+            4
+        ]
+    },
+    "geo": [
+        49.9763875,
+        9.1433494
+    ],
+    "information": "http://www.stadtbibliothek-aschaffenburg.de/relaunch/content/start/anschrift_oeffnungszeit.html",
+    "library_id": 8607,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}
