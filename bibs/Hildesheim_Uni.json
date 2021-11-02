@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Hannover",
+    "city": "Hildesheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.tib.eu",
-        "db": "5"
+        "baseurl": "https://opac.lbs-hildesheim.gbv.de/",
+        "db": "1"
     },
     "geo": [
-        52.354801,
-        9.807075
+        52.15,
+        9.95
     ],
-    "information": "http://www.tiho-hannover.de/de/kliniken-institute/bibliothek/",
-    "library_id": 8984,
+    "information": "https://www.uni-hildesheim.de/bibliothek/",
+    "library_id": 8997,
     "state": "Niedersachsen",
-    "title": "Tier\u00e4rztliche Hochschule"
+    "title": "Unibibliothek"
 }
