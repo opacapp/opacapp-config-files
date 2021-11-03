@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "K\u00f6sching",
+    "city": "Karlstein a. Main",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/koesching",
+        "baseurl": "https://webopac.winbiap.net/karlstein",
         "customssl": true
     },
     "geo": [
-        48.8126389,
-        11.5004614
+        50.048889,
+        9.018333
     ],
-    "information": "http://www.koesching.de/Bildung/Buecherei.aspx",
-    "library_id": 4640,
+    "information": "http://www.dettelbach.de/sites/gensite.asp?SID=cms140820140824258373224&Art=01720&C=2",
+    "library_id": 4316,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Gemeindebibliothek"
 }

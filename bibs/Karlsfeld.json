@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "K\u00f6sching",
+    "city": "Karlsfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/koesching",
+        "baseurl": "https://webopac.winbiap.de/karlsfeld",
         "customssl": true
     },
     "geo": [
-        48.8126389,
-        11.5004614
+        48.2290733,
+        11.4744386
     ],
-    "information": "http://www.koesching.de/Bildung/Buecherei.aspx",
-    "library_id": 4640,
+    "information": "http://www.karlsfeld.de/index.php?id=222,110",
+    "library_id": 4287,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }
