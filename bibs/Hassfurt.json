@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Haar",
+    "city": "Hassfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/haar",
+        "baseurl": "https://opac.winbiap.net/hassfurt",
         "customssl": true
     },
     "geo": [
-        48.1103758,
-        11.7321151
+        50.0343812,
+        10.5169747
     ],
-    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
-    "library_id": 3513,
+    "information": "http://www.biz-hassfurt.de/",
+    "library_id": 3662,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Bibliotheks- und Informationszentrum (BIZ)"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Haar",
+    "city": "H\u00f6chstadt/Aisch",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/haar",
+        "baseurl": "https://webopac.winbiap.de/hoechstadt",
         "customssl": true
     },
     "geo": [
-        48.1103758,
-        11.7321151
+        49.7095692,
+        10.8128359
     ],
-    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
-    "library_id": 3513,
+    "information": "http://www.fortuna-kulturfabrik.de/de/stadtbuecherei.html",
+    "library_id": 4020,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

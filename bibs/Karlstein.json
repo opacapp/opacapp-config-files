@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Haar",
+    "city": "Karlstein a. Main",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/haar",
+        "baseurl": "https://webopac.winbiap.net/karlstein",
         "customssl": true
     },
     "geo": [
-        48.1103758,
-        11.7321151
+        50.048889,
+        9.018333
     ],
-    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
-    "library_id": 3513,
+    "information": "http://www.dettelbach.de/sites/gensite.asp?SID=cms140820140824258373224&Art=01720&C=2",
+    "library_id": 4316,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Gemeindebibliothek"
 }

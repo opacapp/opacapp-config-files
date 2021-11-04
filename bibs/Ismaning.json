@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Haar",
+    "city": "Ismaning",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/haar",
+        "baseurl": "https://webopac.winbiap.de/ismaning",
         "customssl": true
     },
     "geo": [
-        48.1103758,
-        11.7321151
+        48.2221552,
+        11.6764621
     ],
-    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
-    "library_id": 3513,
+    "information": "http://bibliothek.ismaning.de/bibliothek",
+    "library_id": 4175,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Schlossb\u00fccherei Gemeindebibliothek"
 }

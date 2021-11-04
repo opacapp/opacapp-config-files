@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Haar",
+    "city": "Kaufering",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/haar",
+        "baseurl": "https://webopac.winbiap.net/kaufering",
         "customssl": true
     },
     "geo": [
-        48.1103758,
-        11.7321151
+        48.088056,
+        10.8567673
     ],
-    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
-    "library_id": 3513,
+    "information": "http://www.kaufering.de/?language=DE&kat=Buecherei",
+    "library_id": 4335,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

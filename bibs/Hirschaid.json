@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Haar",
+    "api": "iopac",
+    "city": "Hirschaid",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.net/haar",
-        "customssl": true
+        "baseurl": "http://87.138.173.74"
     },
     "geo": [
-        48.1103758,
-        11.7321151
+        49.8190535,
+        10.992433
     ],
-    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
-    "library_id": 3513,
+    "information": "http://www.hirschaid.de/seite/de/markt/380/-/Gemeindebuecherei.html",
+    "library_id": 3908,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }
