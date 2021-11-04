@@ -1,62 +1,54 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "\u00dcberlingen",
+    "city": "Bochum",
     "country": "Deutschland",
     "data": {
         "accounttable": {
-            "author": 8,
+            "author": 7,
             "barcode": 4,
             "homebranch": -1,
             "lendingbranch": -1,
             "prolongurl": 4,
             "returndate": 3,
-            "status": 9,
-            "title": 8
+            "status": 8,
+            "title": 7
         },
-        "baseurl": "http://ueberlingen.bibdia-hosts.de",
+        "baseurl": "https://stadtbuecherei.bochum.de",
         "copiestable": {
-            "barcode": 2,
-            "branch": -1,
-            "department": 1,
-            "location": 1,
-            "reservations": -1,
-            "returndate": -1,
+            "barcode": 3,
+            "branch": 1,
+            "location": 2,
             "status": 4
         },
-        "disguise": true,
+        "customssl": true,
         "mediatypes": {
             "1": "BOOK",
-            "10": "MAP",
             "11": "DVD",
-            "17": "GAME_CONSOLE",
-            "19": "BOOK",
-            "2": "MAGAZINE",
             "20": "AUDIOBOOK",
-            "3": "CD_SOFTWARE",
+            "30": "EBOOK",
             "6": "CD_MUSIC",
+            "8": "SCORE_MUSIC",
             "9": "BOARDGAME"
         },
         "opacdir": "opax",
         "searchtable": [
             2,
-            3,
-            4,
-            5
+            3
         ]
     },
     "geo": [
-        47.76766,
-        9.15841
+        51.4813394,
+        7.2168733
     ],
-    "information": "http://www2.ueberlingen.de/stadtbuecherei/",
-    "library_id": 56,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://www.bochum.de/stadtbuecherei",
+    "library_id": 8631,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }
