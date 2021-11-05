@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://hu-berlin.hosted.exlibrisgroup.com/primo_library/libweb",
+        "db": "hub_ub",
+        "languages": [
+            "en_EN",
+            "de_DE"
+        ]
+    },
+    "geo": [
+        52.517883,
+        13.3936551
+    ],
+    "information": "https://www.ub.hu-berlin.de/de",
+    "library_id": 8849,
+    "state": "Berlin",
+    "title": "Humboldt-Universit\u00e4t"
+}

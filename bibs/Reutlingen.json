@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": "Der Besuch der Stadtbibliothek Reutlingen oder ihrer Zweigstellen ist nur mit einem negativen PCR-Test (nicht \u00e4lter als 48 h), einem Genesenen- oder Geimpftennachweis m\u00f6glich (3G-Nachweis).\r\n\r\nBitte beachten Sie die ausf\u00fchrlichen Zugangsbedingungen auf unserer Webseite (https://www2.stadtbibliothek-reutlingen.de)\r\n\r\nF\u00fcr die ausschlie\u00dfliche Abholung und/oder R\u00fcckgabe von Medien, ohne weiteren Aufenthalt in der Bibliothek, ist kein 3G-Nachweis erforderlich.\r\n\r\nBleiben Sie gesund!\r\nIhre Stadtbibliothek Reutlingen",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.reutlingen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Reutlingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://www5.stadtbibliothek-reutlingen.de/",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/neckar-alb",
+        "onleihe_libraryId": 44,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "new_acq": "Mediensuche/Neue-Medien/Neue-medien-nach-medienart",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "displayname": "Stadtbibliothek Reutlingen",
+    "geo": [
+        48.4903415,
+        9.2106778
+    ],
+    "information": "https://info.opacapp.de/reutlingen.html",
+    "library_id": 8761,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
