@@ -1,0 +1,31 @@
+{
+    "_active": true,
+    "_notice_text": "Noch kein aktueller Hinweis",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Leimen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliotheken.kivbf.de/leimen",
+        "libopacplus": true,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        49.3500642,
+        8.6904621
+    ],
+    "information": "https://info.opacapp.net/leimen.html",
+    "library_id": 4905,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}
