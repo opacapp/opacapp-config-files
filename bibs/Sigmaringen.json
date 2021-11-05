@@ -1,0 +1,32 @@
+{
+    "_active": true,
+    "_notice_text": "Corona-Warnstufe: Neue Regelungen\r\nAktuell ist der Besuch nur nacht Vorlage eines Impf- oder Genesenennachweises bzw. eines vor maximal 48 Stunden durchgef\u00fchrten negativen PCR-Testnachweises gestattet. Sch\u00fcler*innen sind weiterhin vom Nachweis befreit. Wenn Sie nur kurz etwas abholen, abgeben oder bezahlen m\u00f6chten, dann ist ein Nachweis nicht notwendig. Weiterhin gilt das verbindliche Tragen einer medizinischen Gesichtsmaske sowie die Kontaktdatenerfassung bei Ihrem Bibliotheksbesuch. Es gelten die \u00fcblichen \u00d6ffnungszeiten. Wir freuen uns auf Ihren Besuch!",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Sigmaringen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliothek.komm.one/sigmaringen",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/schwalbe",
+        "onleihe_libraryId": "400",
+        "urls": {
+            "account": "Konto",
+            "advanced_search": "Mediensuche/erweiterte-Suche",
+            "new_acq": "Neuerwerbungen",
+            "simple_search": "Mediensuche/einfache-Suche"
+        }
+    },
+    "geo": [
+        48.0856157,
+        9.2162056
+    ],
+    "information": "https://info.opacapp.net/sigmaringen.html",
+    "library_id": 7270,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
