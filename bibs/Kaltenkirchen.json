@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Kaltenkirchen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://kaltenkirchen.bibliotheca-open.de",
+        "urls": {
+            "advanced_search": "de-de/mediensuche/erweitertesuche.aspx",
+            "simple_search": "de-de/mediensuche/einfachesuche.aspx"
+        }
+    },
+    "geo": [
+        53.83643,
+        9.95724
+    ],
+    "information": "https://kaltenkirchen.bibliotheca-open.de/",
+    "library_id": 4257,
+    "state": "Schleswig-Holstein",
+    "title": "Stadtb\u00fccherei"
+}
