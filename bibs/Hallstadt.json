@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "iopac",
+    "city": "Hallstadt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://hallkilian.selfhost.bz"
+    },
+    "geo": [
+        49.9269704,
+        10.8810085
+    ],
+    "information": "http://stadtbuecherei-hallstadt.de/",
+    "library_id": 3572,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei St. Kilian"
+}
