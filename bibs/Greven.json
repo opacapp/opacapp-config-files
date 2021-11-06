@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Greven",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.stadt-greven.de",
+        "urls": {
+            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
+            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        52.12951,
+        7.55067
+    ],
+    "information": "https://www.greven.net/bildung_soziales_generationen/bildung/stadtbibliothek/Oeffnungsezeiten_Kontakt.php",
+    "library_id": 3365,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
