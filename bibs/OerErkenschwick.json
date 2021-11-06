@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 195,
+    "account_supported": true,
+    "api": "vufind",
+    "city": "Oer-Erkenschwick",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.bib-kreisre.de",
+        "copystyle": "smartbib",
+        "library": "OERE"
+    },
+    "geo": [
+        51.6429599,
+        7.2594914
+    ],
+    "information": "http://www.oer-erkenschwick.de/buergerservice/start.asp?seite=oe&id=326&suchtext=",
+    "library_id": 6132,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
