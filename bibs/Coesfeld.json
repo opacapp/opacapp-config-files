@@ -10,7 +10,7 @@
     "city": "Coesfeld",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://buecherei.coesfeld.de/de-de/",
+        "baseurl": "https://buecherei.coesfeld.de/de-de",
         "customssl": true,
         "libopacplus": true,
         "onleihe": "https://muensterload.onleihe.de/ml/",
@@ -20,6 +20,7 @@
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "de-de/Mediensuche/Medientipps",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
