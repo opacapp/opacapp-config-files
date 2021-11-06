@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": "Noch kein aktueller Hinweis",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -28,7 +28,7 @@
         51.9466943,
         7.1703584
     ],
-    "information": "http://stadtbuecherei.coesfeld.de/",
+    "information": "https://info.opacapp.de/coesfeld.html",
     "library_id": 2133,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
