@@ -12,8 +12,15 @@
     "data": {
         "baseurl": "https://buecherei.coesfeld.de",
         "customssl": true,
+        "libopacplus": true,
+        "onleihe": "https://muensterload.onleihe.de/ml/",
+        "onleihe_libraryId": "169",
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
         "urls": {
+            "account": "de-de/Mein-Konto",
             "advanced_search": "de-de/Mediensuche/Erweiterte-Suche",
+            "new_acq": "de-de/Mediensuche/Medientipps",
             "simple_search": "de-de/Mediensuche/Einfache-Suche"
         }
     },
