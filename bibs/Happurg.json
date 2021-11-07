@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6ttenbach",
+    "city": "Happurg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roettenbach",
+        "baseurl": "https://webopac.winbiap.de/happurg",
         "customssl": true
     },
     "geo": [
-        49.66856,
-        10.92674
+        49.4937364,
+        11.4719457
     ],
-    "information": "https://www.roettenbach-erh.de/oeffentliche-einrichtungen/generationenuebergreifend/buecherei/",
-    "library_id": 6857,
+    "information": "http://www.happurg.de/Gemeinde/Buecherei/Buecherei.html",
+    "library_id": 3627,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

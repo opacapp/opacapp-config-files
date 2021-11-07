@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6ttenbach",
+    "city": "Friedberg/Bay",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roettenbach",
+        "baseurl": "https://webopac.winbiap.de/friedberg",
         "customssl": true
     },
     "geo": [
-        49.66856,
-        10.92674
+        48.3559766,
+        10.9865457
     ],
-    "information": "https://www.roettenbach-erh.de/oeffentliche-einrichtungen/generationenuebergreifend/buecherei/",
-    "library_id": 6857,
+    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
+    "library_id": 2999,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

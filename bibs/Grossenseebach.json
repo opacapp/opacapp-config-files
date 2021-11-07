@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6ttenbach",
+    "city": "Gro\u00dfenseebach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roettenbach",
+        "baseurl": "https://webopac.winbiap.net/grossenseebach",
         "customssl": true
     },
     "geo": [
-        49.66856,
-        10.92674
+        49.6308924,
+        10.8780574
     ],
-    "information": "https://www.roettenbach-erh.de/oeffentliche-einrichtungen/generationenuebergreifend/buecherei/",
-    "library_id": 6857,
+    "information": "http://www.hessdorf.de/willkommen-auf-der-website-der-mitgliedsgemeinde-grossenseebach/einrichtungen-gemeinde-grossenseebach/48-gemeindebuecherei-grossenseebach",
+    "library_id": 3426,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6ttenbach",
+    "city": "Haar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roettenbach",
+        "baseurl": "https://webopac.winbiap.net/haar",
         "customssl": true
     },
     "geo": [
-        49.66856,
-        10.92674
+        48.1103758,
+        11.7321151
     ],
-    "information": "https://www.roettenbach-erh.de/oeffentliche-einrichtungen/generationenuebergreifend/buecherei/",
-    "library_id": 6857,
+    "information": "http://www.gemeinde-haar.de/Freizeit_in_Haar/Gemeindeb%C3%BCcherei_/",
+    "library_id": 3513,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

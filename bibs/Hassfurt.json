@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6ttenbach",
+    "city": "Hassfurt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roettenbach",
+        "baseurl": "https://opac.winbiap.net/hassfurt",
         "customssl": true
     },
     "geo": [
-        49.66856,
-        10.92674
+        50.0343812,
+        10.5169747
     ],
-    "information": "https://www.roettenbach-erh.de/oeffentliche-einrichtungen/generationenuebergreifend/buecherei/",
-    "library_id": 6857,
+    "information": "http://www.biz-hassfurt.de/",
+    "library_id": 3662,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Bibliotheks- und Informationszentrum (BIZ)"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6ttenbach",
+    "city": "Gerbrunn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roettenbach",
+        "baseurl": "https://webopac.winbiap.de/gerbrunn",
         "customssl": true
     },
     "geo": [
-        49.66856,
-        10.92674
+        49.77989,
+        9.98421
     ],
-    "information": "https://www.roettenbach-erh.de/oeffentliche-einrichtungen/generationenuebergreifend/buecherei/",
-    "library_id": 6857,
+    "information": "http://www.gerbrunn.de/Buecherei.44.0.html",
+    "library_id": 3197,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

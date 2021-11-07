@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6ttenbach",
+    "city": "Gersthofen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roettenbach",
+        "baseurl": "https://webopac.winbiap.net/gersthofen",
         "customssl": true
     },
     "geo": [
-        49.66856,
-        10.92674
+        48.4242503,
+        10.876347
     ],
-    "information": "https://www.roettenbach-erh.de/oeffentliche-einrichtungen/generationenuebergreifend/buecherei/",
-    "library_id": 6857,
+    "information": "http://www.stadt-gersthofen.de/seite/leben-in-gersthofen/stadtbibliothek.php",
+    "library_id": 3223,
     "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

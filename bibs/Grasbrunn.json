@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6ttenbach",
+    "city": "Grasbrunn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roettenbach",
+        "baseurl": "https://webopac.winbiap.net/grasbrunn",
         "customssl": true
     },
     "geo": [
-        49.66856,
-        10.92674
+        48.0944,
+        11.75844
     ],
-    "information": "https://www.roettenbach-erh.de/oeffentliche-einrichtungen/generationenuebergreifend/buecherei/",
-    "library_id": 6857,
+    "information": "http://www.grasbrunn.de/index.php?id=0,53",
+    "library_id": 3341,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "R\u00f6ttenbach",
+    "city": "Hallbergmoos",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/roettenbach",
+        "baseurl": "https://webopac.winbiap.de/hallbergmoos",
         "customssl": true
     },
     "geo": [
-        49.66856,
-        10.92674
+        48.3250947,
+        11.7432155
     ],
-    "information": "https://www.roettenbach-erh.de/oeffentliche-einrichtungen/generationenuebergreifend/buecherei/",
-    "library_id": 6857,
+    "information": "http://www.hallbergmoos.de/index.php?id=0,52",
+    "library_id": 3568,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }
