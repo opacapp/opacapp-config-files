@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Unterschlei\u00dfheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/unterschleissheim",
+        "customssl": true
+    },
+    "geo": [
+        48.27276,
+        11.57102
+    ],
+    "information": "http://www.forum-unterschleissheim.de/bibliothek/",
+    "library_id": 7788,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}

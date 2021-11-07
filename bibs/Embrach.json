@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Embrach",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Embrach"
+    },
+    "geo": [
+        47.5124,
+        8.5905799
+    ],
+    "information": "http://kulturembrach.ch/bibliothek/",
+    "library_id": 8916,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}
