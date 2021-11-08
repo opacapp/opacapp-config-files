@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "B\u00f6tzingen",
+    "city": "Friedberg/Bay",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/boetzingen",
+        "baseurl": "https://webopac.winbiap.de/friedberg",
         "customssl": true
     },
     "geo": [
-        48.0696129,
-        7.7184098
+        48.3559766,
+        10.9865457
     ],
-    "information": "http://www.boetzingen.de/pb/,Lde/192533.html",
-    "library_id": 1872,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
+    "library_id": 2999,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
 }

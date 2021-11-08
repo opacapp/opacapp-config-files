@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "B\u00f6tzingen",
+    "city": "Happurg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/boetzingen",
+        "baseurl": "https://webopac.winbiap.de/happurg",
         "customssl": true
     },
     "geo": [
-        48.0696129,
-        7.7184098
+        49.4937364,
+        11.4719457
     ],
-    "information": "http://www.boetzingen.de/pb/,Lde/192533.html",
-    "library_id": 1872,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://www.happurg.de/Gemeinde/Buecherei/Buecherei.html",
+    "library_id": 3627,
+    "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "B\u00f6tzingen",
+    "city": "Kirchheim unter Teck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/boetzingen",
+        "baseurl": "https://webopac.kirchheim-teck.de",
         "customssl": true
     },
     "geo": [
-        48.0696129,
-        7.7184098
+        48.64855,
+        9.4499
     ],
-    "information": "http://www.boetzingen.de/pb/,Lde/192533.html",
-    "library_id": 1872,
+    "information": "http://www.kirchheim-teck.de/stadtbuecherei",
+    "library_id": 4430,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtb\u00fccherei"
 }

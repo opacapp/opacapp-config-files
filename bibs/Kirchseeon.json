@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "B\u00f6tzingen",
+    "city": "Kirchseeon",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/boetzingen",
+        "baseurl": "https://webopac.winbiap.de/kirchseeon",
         "customssl": true
     },
     "geo": [
-        48.0696129,
-        7.7184098
+        48.0719266,
+        11.8881543
     ],
-    "information": "http://www.boetzingen.de/pb/,Lde/192533.html",
-    "library_id": 1872,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://www.kirchseeon.de/index.php?id=0,53",
+    "library_id": 4445,
+    "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

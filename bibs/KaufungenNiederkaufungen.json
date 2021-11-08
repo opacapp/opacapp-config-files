@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "B\u00f6tzingen",
+    "city": "Kaufungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/boetzingen",
+        "baseurl": "https://webopac.winbiap.net/kaufungen",
         "customssl": true
     },
     "geo": [
-        48.0696129,
-        7.7184098
+        51.28375,
+        9.6031
     ],
-    "information": "http://www.boetzingen.de/pb/,Lde/192533.html",
-    "library_id": 1872,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.kaufungen.eu/Startseite/B%C3%BCchereien/",
+    "library_id": 4336,
+    "state": "Hessen",
+    "title": "Gemeindeb\u00fccherei Niederkaufungen"
 }

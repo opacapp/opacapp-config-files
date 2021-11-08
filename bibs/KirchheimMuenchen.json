@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "B\u00f6tzingen",
+    "city": "Kirchheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/boetzingen",
+        "baseurl": "https://webopac.winbiap.de/kirchheim",
         "customssl": true
     },
     "geo": [
-        48.0696129,
-        7.7184098
+        48.16824,
+        11.75613
     ],
-    "information": "http://www.boetzingen.de/pb/,Lde/192533.html",
-    "library_id": 1872,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://www.awm-muenchen.de/privathaushalte/abfallvermeidung/leihlexikon/eintrag.html?no_cache=1&tx_awmleihlexikon_pi1%5Bid%5D=211",
+    "library_id": 4427,
+    "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

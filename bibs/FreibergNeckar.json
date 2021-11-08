@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "B\u00f6tzingen",
+    "city": "Freiberg/Neckar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/boetzingen",
+        "baseurl": "https://webopac.winbiap.de/freiberg",
         "customssl": true
     },
     "geo": [
-        48.0696129,
-        7.7184098
+        48.9334303,
+        9.1992433
     ],
-    "information": "http://www.boetzingen.de/pb/,Lde/192533.html",
-    "library_id": 1872,
+    "information": "http://stadtbibliothek-freiberg.de/",
+    "library_id": 2962,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

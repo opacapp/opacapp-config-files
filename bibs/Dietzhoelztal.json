@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "B\u00f6tzingen",
+    "city": "Dietzh\u00f6lztal",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/boetzingen",
+        "baseurl": "https://webopac.winbiap.net/dietzhoelztal",
         "customssl": true
     },
     "geo": [
-        48.0696129,
-        7.7184098
+        50.833333,
+        8.316667
     ],
-    "information": "http://www.boetzingen.de/pb/,Lde/192533.html",
-    "library_id": 1872,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://www.dietzhoelztal.de/pages/rathaus/verwaltung.php",
+    "library_id": 2271,
+    "state": "Hessen",
     "title": "Gemeindeb\u00fccherei"
 }

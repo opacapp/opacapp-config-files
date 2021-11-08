@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "B\u00f6tzingen",
+    "city": "G\u00fcnzburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/boetzingen",
+        "baseurl": "https://webopac.winbiap.net/guenzburg",
         "customssl": true
     },
     "geo": [
-        48.0696129,
-        7.7184098
+        48.4547792,
+        10.27904
     ],
-    "information": "http://www.boetzingen.de/pb/,Lde/192533.html",
-    "library_id": 1872,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://host4.guenzburg.de/html/user_de_Kultur+Stadtbuecherei+Information.html",
+    "library_id": 3505,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
 }

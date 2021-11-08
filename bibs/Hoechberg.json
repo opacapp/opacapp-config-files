@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "B\u00f6tzingen",
+    "city": "H\u00f6chberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/boetzingen",
+        "baseurl": "https://webopac.winbiap.de/hoechberg",
         "customssl": true
     },
     "geo": [
-        48.0696129,
-        7.7184098
+        49.7802703,
+        9.8757167
     ],
-    "information": "http://www.boetzingen.de/pb/,Lde/192533.html",
-    "library_id": 1872,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.hoechberg.de/sites/gensite.asp?SID=cms190820141713396817132&Art=0429",
+    "library_id": 4015,
+    "state": "Bayern",
+    "title": "Bibliothek"
 }
