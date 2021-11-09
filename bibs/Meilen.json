@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Birmensdorf",
+    "city": "Meilen",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Birmensdorf"
+        "baseurl": "http://www.bibliotheken-zh.ch/Meilen"
     },
     "geo": [
-        47.3537161,
-        8.439002
+        47.269389,
+        8.6437363
     ],
-    "information": "http://www.birmensdorf.ch/de/freizeitkultur/gemeindebibliothek/",
-    "library_id": 8860,
+    "information": "http://www.meilen.ch/de/freizeit/bibliothek/",
+    "library_id": 9078,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
