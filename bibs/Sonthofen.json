@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Sonthofen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/sonthofen",
+        "customssl": true
+    },
+    "geo": [
+        47.5161161,
+        10.2808617
+    ],
+    "information": "http://www.sonthofen.de/Bildung-Soziales/Stadtbuecherei.aspx",
+    "library_id": 7323,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}
