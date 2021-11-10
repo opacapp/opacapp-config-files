@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Frechen",
+    "city": "Ibbenb\u00fcren",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -15,32 +15,21 @@
             "barcode": 4,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
+            "prolongurl": 2,
             "returndate": 3,
             "status": 5,
             "title": 7
         },
-        "baseurl": "https://frechen.bibdia-hosts.de",
-        "copiestable": {
-            "barcode": 3,
-            "branch": 1,
-            "department": 2,
-            "location": -1,
-            "reservations": -1,
-            "returndate": -1,
-            "status": 4
-        },
-        "disguise": true,
+        "baseurl": "http://opac.stadtbuecherei-ibbenbueren.de",
         "mediatypes": {
             "1": "BOOK",
+            "11": "DVD",
             "2": "MAGAZINE",
-            "3": "MOVIE",
+            "25": "GAME_CONSOLE_WII",
+            "3": "CD_SOFTWARE",
             "30": "EBOOK",
-            "31": "CD_SOFTWARE",
-            "4": "CD",
-            "5": "DVD",
             "6": "CD",
-            "8": "BOOK"
+            "9": "BOARDGAME"
         },
         "opacdir": "opax",
         "searchtable": [
@@ -50,11 +39,11 @@
         ]
     },
     "geo": [
-        50.90886,
-        6.80873
+        52.274064,
+        7.717601
     ],
-    "information": "http://www.stadtbuecherei-frechen.de/",
-    "library_id": 8667,
+    "information": "http://www.stadtbuecherei-ibbenbueren.de/",
+    "library_id": 42,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }
