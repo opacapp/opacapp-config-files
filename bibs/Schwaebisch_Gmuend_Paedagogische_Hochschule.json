@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "adis",
+    "city": "Schw\u00e4bisch Gm\u00fcnd",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bsz.ibs-bw.de/aDISWeb/app",
+        "startparams": "service=direct/0/Home/$DirectLink&sp=S127.0.0.1:23232"
+    },
+    "geo": [
+        48.79158,
+        9.82927999999993
+    ],
+    "information": "http://www.ph-gmuend.de/einrichtungen/bibliothek/oeffnungszeiten/",
+    "library_id": 9316,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "P\u00e4dagogische Hochschule"
+}
