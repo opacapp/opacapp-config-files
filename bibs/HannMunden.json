@@ -3,11 +3,11 @@
     "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": true,
+    "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Denkingen",
+    "city": "Hann. M\u00fcnden",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -15,36 +15,41 @@
             "barcode": -1,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
+            "prolongurl": 3,
             "returndate": 2,
-            "status": 3,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "https://wwwopac.komm.one/denkingen",
+        "baseurl": "http://www.buecherei.hann.muenden.de",
         "copiestable": {
-            "barcode": -1,
+            "barcode": 0,
             "branch": -1,
-            "department": 2,
+            "department": -1,
             "location": 1,
-            "reservations": 5,
-            "returndate": 4,
-            "status": 3
+            "reservations": -1,
+            "returndate": 3,
+            "status": 2
+        },
+        "mediatypes": {
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
             "availability": 2,
             "branch": -1,
             "cancelurl": 3,
-            "expirationdate": -1,
+            "expirationdate": null,
             "title": 1
         }
     },
     "geo": [
-        48.1105102,
-        8.7385696
+        51.41813,
+        9.65436
     ],
-    "information": "http://www.denkingen.de/pb/,Lde/143170.html",
-    "library_id": 2222,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Mediathek"
+    "information": "http://www.buecherei.hann.muenden.de/read/info.html",
+    "library_id": 3617,
+    "state": "Niedersachsen",
+    "title": "Stadtb\u00fccherei"
 }
