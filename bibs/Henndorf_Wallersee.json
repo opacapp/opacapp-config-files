@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Jenbach",
+    "city": "Henndorf",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.jenbuch.web-opac.at"
+        "baseurl": "http://henndorf.web-opac.at"
     },
     "geo": [
-        47.3911103,
-        11.7729904
+        47.9015307,
+        13.1898478
     ],
-    "information": "http://www.facebook.com/buecherei.jen.buch",
-    "library_id": 9020,
-    "state": "Tirol",
-    "title": "Markt- und Schulb\u00fccherei jen.buch"
+    "information": "http://www.henndorf.bvoe.at",
+    "library_id": 8992,
+    "state": "Salzburg",
+    "title": "Bibliothek"
 }
