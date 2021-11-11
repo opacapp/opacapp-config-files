@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Kirchentellinsfurt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://wwwopac.komm.one/kirchentellinsfurt",
+        "copiestable": {
+            "barcode": 1,
+            "branch": -1,
+            "department": -1,
+            "location": 0,
+            "reservations": -1,
+            "returndate": 3,
+            "status": 2
+        },
+        "customssl": true
+    },
+    "geo": [
+        48.5316507,
+        9.14891119999993
+    ],
+    "information": "https://www.kirchentellinsfurt.de/de/Freizeit-und-Kultur/Buecherei",
+    "library_id": 9374,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
+}

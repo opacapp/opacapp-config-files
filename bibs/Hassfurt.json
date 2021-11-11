@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Hassfurt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/hassfurt",
+        "customssl": true
+    },
+    "geo": [
+        50.0343812,
+        10.5169747
+    ],
+    "information": "http://www.biz-hassfurt.de/",
+    "library_id": 3662,
+    "state": "Bayern",
+    "title": "Bibliotheks- und Informationszentrum (BIZ)"
+}
