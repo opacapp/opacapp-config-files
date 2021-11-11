@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Beckum",
+    "city": "Naunhof",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,26 +16,21 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "http://bibliothek-naunhof.no-ip.org/webopac",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
             "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
-        "db": "Neubeckum",
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
+            "DiViBib_s.gif": "EDOC",
+            "cdrom.gif": "CD_SOFTWARE",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "mFilmS.gif": "MOVIE",
+            "mMusik2S.gif": "AUDIOBOOK"
         },
         "reservationtable": {
             "author": 0,
@@ -45,11 +40,11 @@
         }
     },
     "geo": [
-        51.7979057,
-        8.0244982
+        51.2780795,
+        12.5889347
     ],
-    "information": "http://www.beckum.de/buecherei_neubeckum.html",
-    "library_id": 1480,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei Neubeckum"
+    "information": "http://stadtbibliothek-naunhof.de/",
+    "library_id": 5673,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek"
 }

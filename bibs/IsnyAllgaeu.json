@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Beckum",
+    "city": "Isny",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,26 +16,22 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "http://www.buecherei-isny.de",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
             "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
-        "db": "Neubeckum",
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
+            "DIGs.gif": "EBOOK",
+            "MUN.gif": "EDOC",
+            "Spiele.gif": "BOARDGAME",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "mFilmS.gif": "MOVIE",
+            "monooS.gif": "BOOK"
         },
         "reservationtable": {
             "author": 0,
@@ -45,11 +41,11 @@
         }
     },
     "geo": [
-        51.7979057,
-        8.0244982
+        47.6949747,
+        10.0419676
     ],
-    "information": "http://www.beckum.de/buecherei_neubeckum.html",
-    "library_id": 1480,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei Neubeckum"
+    "information": "http://www.buecherei-isny.de",
+    "library_id": 4176,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
 }

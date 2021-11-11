@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "B\u00fcrs",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://www.landesbuechereistelle.opac.at"
+    },
+    "geo": [
+        47.50084,
+        9.74581
+    ],
+    "information": "http://www.vorarlberg.gv.at/vorarlberg/bildung_schule/bildung/landesbuechereistelle/kontakt/landesbuechereistelle.htm",
+    "library_id": 8883,
+    "state": "Vorarlberg",
+    "title": "Landesb\u00fcchereistelle Vorarlberg"
+}

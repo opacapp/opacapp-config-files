@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Beckum",
+    "city": "Borna",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "https://mediothek-borna.internetopac.de",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,14 +25,8 @@
             "returndate": 5,
             "status": 3
         },
-        "db": "Neubeckum",
+        "customssl": true,
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -45,11 +39,11 @@
         }
     },
     "geo": [
-        51.7979057,
-        8.0244982
+        51.1252562,
+        12.4987027
     ],
-    "information": "http://www.beckum.de/buecherei_neubeckum.html",
-    "library_id": 1480,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei Neubeckum"
+    "information": "http://www.bibliothek-borna.de/",
+    "library_id": 1828,
+    "state": "Sachsen",
+    "title": "Mediothek"
 }

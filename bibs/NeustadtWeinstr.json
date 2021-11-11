@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Beckum",
+    "city": "Neustadt a.d. Weinstr.",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,23 +16,20 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://www.bibliothek-im-netz.de",
+        "baseurl": "http://webopac.neustadt.eu/webopac",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
-            "department": 2,
-            "location": 1,
+            "branch": 1,
+            "location": 4,
             "returndate": 5,
             "status": 3
         },
-        "db": "Neubeckum",
         "mediatypes": {
-            "Munzinger_32x32.jpg": "EDOC",
-            "bibload.gif": "EBOOK",
-            "eAudio.gif": "MP3",
-            "eBook.gif": "EBOOK",
-            "ePaper.gif": "EBOOK",
-            "eVideo.gif": "EVIDEO",
+            "eaudio.gif": "MP3",
+            "ebook.gif": "EBOOK",
+            "emusic.gif": "MP3",
+            "epaper.gif": "EDOC",
+            "evideo.gif": "EVIDEO",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -45,11 +42,11 @@
         }
     },
     "geo": [
-        51.7979057,
-        8.0244982
+        49.3525782,
+        8.1389481
     ],
-    "information": "http://www.beckum.de/buecherei_neubeckum.html",
-    "library_id": 1480,
-    "state": "Nordrhein-Westfalen",
-    "title": "Stadtb\u00fccherei Neubeckum"
+    "information": "https://www.neustadt.eu/Kultur/Stadtb%C3%BCcherei",
+    "library_id": 8739,
+    "state": "Rheinland-Pfalz",
+    "title": "Stadtb\u00fccherei"
 }
