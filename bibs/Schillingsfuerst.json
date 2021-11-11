@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Schillingsf\u00fcrst",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/schillingsfuerst",
+        "customssl": true
+    },
+    "geo": [
+        49.2862476,
+        10.2622504
+    ],
+    "information": "http://www.schillingsfuerst.de/OEffentliche-Einrichtungen.604.0.html",
+    "library_id": 6978,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
