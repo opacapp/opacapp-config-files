@@ -10,6 +10,7 @@
     "city": "Wien",
     "country": "\u00d6sterreich",
     "data": {
+        "account_skip_prolongability": true,
         "baseurl": "https://buechereien.wien.gv.at",
         "customssl": true,
         "libopacplus": true,
