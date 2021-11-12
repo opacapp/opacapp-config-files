@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Br\u00fctten",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Bruetten"
+    },
+    "geo": [
+        47.4733,
+        8.67582
+    ],
+    "information": "http://www.bruetten.ch/de/bibliothek/",
+    "library_id": 8876,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}
