@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Barth",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://ostseebibliotheken.internetopac.de",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 5,
+            "status": 3
+        },
+        "customssl": true
+    },
+    "geo": [
+        54.3688702,
+        12.7262145
+    ],
+    "information": "http://www.ostseebibliotheken.de/",
+    "library_id": 1446,
+    "state": "Mecklenburg-Vorpommern",
+    "title": "Verbundkatalog Ostseebibliotheken (Ahrenshoop, Barth, Graal-M\u00fcritz, Wustrow, Zingst)"
+}
