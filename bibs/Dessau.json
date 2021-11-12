@@ -7,22 +7,21 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "open",
-    "city": "Rheinfelden",
-    "country": "Schweiz",
+    "city": "Dessau",
+    "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/open_rheinfelden",
-        "customssl": true,
+        "baseurl": "http://www.bibliothek.dessau-rosslau.de",
         "urls": {
             "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
             "simple_search": "Mediensuche/EinfacheSuche.aspx"
         }
     },
     "geo": [
-        47.55219,
-        7.7922914
+        51.8355529,
+        12.2472116
     ],
-    "information": "http://bibliotheken.kivbf.de/open_rheinfelden/Home.aspx",
-    "library_id": 9275,
-    "state": "Aargau",
-    "title": "Stadtbibliotheken"
+    "information": "http://www.bibliothek.dessau-rosslau.de/Informationen.aspx",
+    "library_id": 8647,
+    "state": "Sachsen-Anhalt",
+    "title": "Anhaltische Landesb\u00fccherei"
 }
