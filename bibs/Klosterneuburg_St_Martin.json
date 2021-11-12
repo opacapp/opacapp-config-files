@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Graz",
+    "city": "Klosterneuburg",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.lesezentrum-steiermark.webopac.at"
+        "baseurl": "http://bibliothek-stmartin.web-opac.at"
     },
     "geo": [
-        47.0699327,
-        15.4061884
+        48.3139282,
+        16.3192095
     ],
-    "information": "http://www.lesezentrum.at",
-    "library_id": 8954,
-    "state": "Steiermark",
-    "title": "Fremdsprachige Bibliothek Lesezentrum Steiermark"
+    "information": "http://www.bibliothek-stmartin.at/",
+    "library_id": 9036,
+    "state": "Nieder\u00f6sterreich",
+    "title": "Bibliothek St. Martin"
 }

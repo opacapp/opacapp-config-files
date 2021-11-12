@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Graz",
+    "city": "Innsbruck",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.lesezentrum-steiermark.webopac.at"
+        "baseurl": "http://www.aktirol.web-opac.at"
     },
     "geo": [
-        47.0699327,
-        15.4061884
+        47.2622403,
+        11.0
     ],
-    "information": "http://www.lesezentrum.at",
-    "library_id": 8954,
-    "state": "Steiermark",
-    "title": "Fremdsprachige Bibliothek Lesezentrum Steiermark"
+    "information": "http://www.aktirol.web-opac.at",
+    "library_id": 9011,
+    "state": "Tirol",
+    "title": "AK-Bibliothek"
 }

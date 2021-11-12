@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Graz",
+    "city": "Imst",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.lesezentrum-steiermark.webopac.at"
+        "baseurl": "http://imst.webopac.at"
     },
     "geo": [
-        47.0699327,
-        15.4061884
+        47.2387997,
+        10.7420248
     ],
-    "information": "http://www.lesezentrum.at",
-    "library_id": 8954,
-    "state": "Steiermark",
-    "title": "Fremdsprachige Bibliothek Lesezentrum Steiermark"
+    "information": "http://www.imst.bvoe.at",
+    "library_id": 9009,
+    "state": "Tirol",
+    "title": "Stadtb\u00fccherei Imst (\u00d6ffentliche B\u00fccherei der Stadt und Pfarre Imst)"
 }
