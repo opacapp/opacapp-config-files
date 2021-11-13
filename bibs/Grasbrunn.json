@@ -6,18 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "netbiblio",
-    "city": "Neu-Ulm",
+    "api": "winbiap",
+    "city": "Grasbrunn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.hs-neu-ulm.de/InfoGuideClient.fnusis"
+        "baseurl": "https://webopac.winbiap.net/grasbrunn",
+        "customssl": true
     },
     "geo": [
-        48.3803831,
-        10.0089527
+        48.0944,
+        11.75844
     ],
-    "information": "https://www.hs-neu-ulm.de/studium/bibliothek/",
-    "library_id": 9309,
+    "information": "http://www.grasbrunn.de/index.php?id=0,53",
+    "library_id": 3341,
     "state": "Bayern",
-    "title": "Hochschulbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }
