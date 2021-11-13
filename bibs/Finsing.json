@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Finsing",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.de/finsing",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        48.2177335,
+        11.8251997
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.finsing.de/index.php?id=0,57",
+    "library_id": 2880,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

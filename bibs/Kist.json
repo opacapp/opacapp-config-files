@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Kist",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.net/kist",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        49.7440821,
+        9.8417865
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.gemeinde-kist.de/index.php?id=56",
+    "library_id": 4455,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

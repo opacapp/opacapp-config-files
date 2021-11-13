@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Hungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.net/hungenlich",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        50.4768,
+        8.89981
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
+    "information": "http://www.lich.de/kultur-bildung/stadtbibliothek/",
+    "library_id": 4057,
     "state": "Hessen",
     "title": "Stadtb\u00fccherei"
 }

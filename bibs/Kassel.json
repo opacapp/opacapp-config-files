@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Kassel",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
-        "customssl": true
+        "baseurl": "https://bibliothek.stadt-kassel.de"
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        51.3121729,
+        9.4936895
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
+    "information": "http://www.kassel.de/miniwebs/stadtbib/01816/",
+    "library_id": 8705,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Friedberg/Bay",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.de/friedberg",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        48.3559766,
+        10.9865457
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
+    "information": "http://www.marktbruck.de/leben-in-bruck/buecherei.html",
+    "library_id": 2999,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

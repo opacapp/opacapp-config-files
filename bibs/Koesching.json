@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "K\u00f6sching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.de/koesching",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        48.8126389,
+        11.5004614
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.koesching.de/Bildung/Buecherei.aspx",
+    "library_id": 4640,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
 }

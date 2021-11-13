@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "M\u00fchldorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.de/muehldorf",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        48.2417,
+        12.52699
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://buecherei.muehldorf.org/",
+    "library_id": 5539,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei im Kornkasten"
 }

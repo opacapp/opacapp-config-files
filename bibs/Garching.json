@@ -6,19 +6,19 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Bad Wildungen",
+    "api": "sisis",
+    "city": "Garching",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
-        "customssl": true
+        "baseurl": "https://stgoz2.bib-bvb.de/webOPACClient.stgsis",
+        "startparams": "Login=wostg"
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        48.2488721,
+        11.6532477
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
+    "information": "http://stadtbuechereigarching.de/",
+    "library_id": 3097,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

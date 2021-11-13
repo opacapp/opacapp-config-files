@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Meschede",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
-        "customssl": true
+        "baseurl": "https://webopac.citkomm.de/meschede"
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        51.34758,
+        8.2814
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
+    "information": "http://www.meschede.de/buecherei/startseite_buecherei.php",
+    "library_id": 5381,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

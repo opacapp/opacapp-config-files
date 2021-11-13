@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Lemf\u00f6rde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.net/lemfoerde",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        52.4641331,
+        8.3739804
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.lemfoerde.de/oeffentliche-einrichtungen/buecherei-am-amtshof/",
+    "library_id": 4917,
+    "state": "Niedersachsen",
+    "title": "B\u00fccherei am Amtshof"
 }

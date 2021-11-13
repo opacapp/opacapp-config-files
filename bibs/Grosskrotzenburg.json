@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Gro\u00dfkrotzenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.net/grosskrotzenburg",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        50.0818163,
+        8.9839637
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
+    "information": "http://www.grosskrotzenburg.de/Buechereien.34.0.html",
+    "library_id": 3436,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei"
 }

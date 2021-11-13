@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Kaufungen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.net/kaufungen",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        51.28375,
+        9.6031
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
+    "information": "http://www.kaufungen.eu/Startseite/B%C3%BCchereien/",
+    "library_id": 4336,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Gemeindeb\u00fccherei Niederkaufungen"
 }

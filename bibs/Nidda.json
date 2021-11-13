@@ -7,18 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Nidda",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
-        "customssl": true
+        "baseurl": "http://time.nidda.de/webopac"
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        50.414224,
+        9.0099518
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
+    "information": "http://www.stadtbibliothek-nidda.de/",
+    "library_id": 5880,
     "state": "Hessen",
-    "title": "Stadtb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Kolbermoor",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.net/kolbermoor",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        47.8483311,
+        12.0611921
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
+    "information": "http://www.stadt-kolbermoor.de/index.php?option=com_content&task=view&id=154&Itemid=195",
+    "library_id": 4513,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }

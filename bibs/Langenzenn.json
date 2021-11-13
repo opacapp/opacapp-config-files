@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Wildungen",
+    "city": "Langenzenn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/badwildungen",
+        "baseurl": "https://webopac.winbiap.de/langenzenn",
         "customssl": true
     },
     "geo": [
-        51.1196745,
-        9.1241131
+        49.4946712,
+        10.796038
     ],
-    "information": "http://www.bad-wildungen.de/stadtbuecherei.htm",
-    "library_id": 1379,
-    "state": "Hessen",
+    "information": "http://www.langenzenn.de/freizeit-tourismus/freizeitmoeglichkeiten/buecherei/",
+    "library_id": 4818,
+    "state": "Bayern",
     "title": "Stadtb\u00fccherei"
 }
