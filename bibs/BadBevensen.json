@@ -1,0 +1,56 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Bad Bevensen",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "barcode": 4,
+            "lendingbranch": 5,
+            "prolongurl": 6,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "https://webopac-bevensen.itv-ue.de",
+        "copiestable": {
+            "branch": 3,
+            "department": 1,
+            "location": 0,
+            "returndate": 4,
+            "status": 2
+        },
+        "mediatypes": {
+            "Abo_s.gif": "Zeitschrift",
+            "Cd_s.gif": "Compact Disc",
+            "MCDROM_s.gif": "CD/DVD-ROM",
+            "OSTER2_s.gif": "Ostern",
+            "Spiele_s.gif": "Spiel",
+            "WEIHN1_s.gif": "Weihnachten",
+            "film_s.gif": "DVD",
+            "flagde_s.gif": "Niederdeutsch",
+            "mBuecherS.gif": "E-Buch-Leseger\u00e4t",
+            "mCasetteS.gif": "Musik-Kassette",
+            "mFilmS.gif": "Video",
+            "mnoten1_s.gif": "Noten",
+            "mono_s.gif": "Buch",
+            "mreise3_s.gif": "Fernleihe"
+        },
+        "reservationtable": {
+            "author": 0,
+            "cancelurl": 2,
+            "title": 1
+        }
+    },
+    "geo": null,
+    "information": "http://www.bevensen-ebstorf.de/desktopdefault.aspx/tabid-4941/9646_read-52102/",
+    "library_id": 1210,
+    "state": "Niedersachsen",
+    "title": "Bibliothek im Griepe-Haus"
+}
