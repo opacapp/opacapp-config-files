@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": false,
+    "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "D\u00f6beln",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,18 +16,20 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "http://87.138.107.89/bibliothek-doebeln",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
+            "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
         "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "cdkl.gif": "CD",
+            "dvdkl.gif": "DVD",
+            "kassettekl.gif": "AUDIO_CASSETTE",
+            "spielekl.gif": "BOARDGAME",
+            "videokl.gif": "MOVIE",
+            "zeitschriftkl.gif": "MAGAZINE"
         },
         "reservationtable": {
             "author": 0,
@@ -37,11 +39,11 @@
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        51.1216002,
+        13.1247913
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.doebeln.de/main.php?seitenid=246",
+    "library_id": 2365,
+    "state": "Sachsen",
+    "title": "Stadtbibliothek am Lutherplatz"
 }

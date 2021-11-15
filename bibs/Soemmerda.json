@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "S\u00f6mmerda",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "http://88.79.240.50:8080/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -37,11 +37,11 @@
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        51.1633591,
+        11.1161883
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://dreysehaus.de/bibliothek/index.htm",
+    "library_id": 7334,
+    "state": "Th\u00fcringen",
+    "title": "Stadt- und Kreisbibliothek"
 }

@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "Isny",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,18 +16,22 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "http://www.buecherei-isny.de",
         "copiestable": {
             "barcode": 0,
-            "branch": 4,
+            "department": 2,
             "location": 1,
-            "returndate": 5,
+            "returndate": 4,
             "status": 3
         },
         "mediatypes": {
+            "DIGs.gif": "EBOOK",
+            "MUN.gif": "EDOC",
+            "Spiele.gif": "BOARDGAME",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "mFilmS.gif": "MOVIE",
+            "monooS.gif": "BOOK"
         },
         "reservationtable": {
             "author": 0,
@@ -37,11 +41,11 @@
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        47.6949747,
+        10.0419676
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
+    "information": "http://www.buecherei-isny.de",
+    "library_id": 4176,
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
 }

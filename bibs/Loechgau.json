@@ -7,41 +7,44 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Ahrensburg",
+    "city": "L\u00f6chgau",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
             "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "baseurl": "https://wwwopac.komm.one/loechgau",
         "copiestable": {
-            "barcode": 0,
-            "branch": 4,
+            "barcode": -1,
+            "branch": -1,
+            "department": 0,
             "location": 1,
-            "returndate": 5,
+            "reservations": 5,
+            "returndate": 4,
             "status": 3
-        },
-        "mediatypes": {
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
         },
         "reservationtable": {
             "author": 0,
             "availability": 2,
+            "branch": -1,
             "cancelurl": 3,
+            "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        53.6739747,
-        10.236561
+        49.0036133,
+        9.108406
     ],
-    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
-    "library_id": 908,
-    "state": "Schleswig-Holstein",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.loechgau.de/,Lde/start/Kultur+_+Freizeit/Buecherei.html",
+    "library_id": 5099,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Ortsb\u00fccherei"
 }
