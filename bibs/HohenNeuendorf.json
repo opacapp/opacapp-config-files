@@ -1,24 +1,24 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Frankfurt/Oder",
+    "city": "Hohen Neuendorf",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://www.srbffo.de",
+        "baseurl": "https://cloudopac.winbiap.de/hohenneuendorf",
         "customssl": true
     },
     "geo": [
-        52.3436736,
-        14.554062
+        52.66326,
+        13.28427
     ],
-    "information": "http://www.stadtbibliothek-frankfurt-oder.de/",
-    "library_id": 8666,
+    "information": "http://www.hohen-neuendorf.de/hnd/admin/bibliotheken.htm",
+    "library_id": 3944,
     "state": "Brandenburg",
-    "title": "Stadt- und Regionalbibliothek"
+    "title": "Stadtbibliothek"
 }

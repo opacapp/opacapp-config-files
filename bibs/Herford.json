@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Frankfurt/Oder",
+    "city": "Herford",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://www.srbffo.de",
+        "baseurl": "https://webopac.herford.de",
         "customssl": true
     },
     "geo": [
-        52.3436736,
-        14.554062
+        52.11601,
+        8.67282
     ],
-    "information": "http://www.stadtbibliothek-frankfurt-oder.de/",
-    "library_id": 8666,
-    "state": "Brandenburg",
-    "title": "Stadt- und Regionalbibliothek"
+    "information": "http://www.bibliothek.herford.de",
+    "library_id": 8692,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
 }
