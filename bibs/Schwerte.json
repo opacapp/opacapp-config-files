@@ -1,23 +1,23 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Bad Mergentheim",
+    "city": "Schwerte",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bma.bad-mergentheim.de/webopac"
+        "baseurl": "https://webopac.citkomm.de/schwerte"
     },
     "geo": [
-        49.488537,
-        9.7704158
+        51.4406,
+        7.56864
     ],
-    "information": "http://www.bad-mergentheim.de/de/stadtbuecherei/",
-    "library_id": 1302,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://www.kuwebe.de/html/bucherei_-_aktuelles.html",
+    "library_id": 8771,
+    "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei"
 }

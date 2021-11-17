@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Bad Mergentheim",
+    "api": "iopac",
+    "city": "Nieb\u00fcll",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bma.bad-mergentheim.de/webopac"
+        "baseurl": "https://niebuell.iopac.de"
     },
     "geo": [
-        49.488537,
-        9.7704158
+        54.7859,
+        8.82601
     ],
-    "information": "http://www.bad-mergentheim.de/de/stadtbuecherei/",
-    "library_id": 1302,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "http://www.stadtbuecherei-niebuell.de/de/index_de.html",
+    "library_id": 5889,
+    "state": "Schleswig-Holstein",
     "title": "Stadtb\u00fccherei"
 }
