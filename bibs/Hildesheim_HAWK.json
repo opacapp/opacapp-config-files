@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Hannover",
+    "city": "Hildesheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.tib.eu",
-        "db": "1"
+        "baseurl": "https://opac.lbs-hildesheim.gbv.de/",
+        "db": "2"
     },
     "geo": [
-        52.38142,
-        9.72007
+        52.154778,
+        9.9579652
     ],
-    "information": "https://tib.eu",
-    "library_id": 8985,
+    "information": "http://www.hawk-hhg.de/bibliothek/",
+    "library_id": 8996,
     "state": "Niedersachsen",
-    "title": "Unibibliothek + techn. Informationsbibliothek"
+    "title": "Bibliothek der HAWK Hildesheim-Holzminden-G\u00f6ttingen"
 }

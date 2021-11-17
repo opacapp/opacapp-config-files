@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "pica",
-    "city": "Hannover",
+    "city": "Hildesheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.tib.eu",
+        "baseurl": "https://opac.lbs-hildesheim.gbv.de/",
         "db": "1"
     },
     "geo": [
-        52.38142,
-        9.72007
+        52.15,
+        9.95
     ],
-    "information": "https://tib.eu",
-    "library_id": 8985,
+    "information": "https://www.uni-hildesheim.de/bibliothek/",
+    "library_id": 8997,
     "state": "Niedersachsen",
-    "title": "Unibibliothek + techn. Informationsbibliothek"
+    "title": "Unibibliothek"
 }
