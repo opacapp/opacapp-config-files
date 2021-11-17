@@ -6,18 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
-    "city": "Bochum",
+    "api": "winbiap",
+    "city": "Espelkamp",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.tfh-bochum.de/webOPACClient"
+        "baseurl": "http://webopac.espelkamp.de"
     },
     "geo": [
-        51.4818445,
-        7.2162363
+        52.37691,
+        8.62809
     ],
-    "information": "http://www.tfh-bochum.de/bibliothek.html",
-    "library_id": 8863,
+    "information": "http://www.espelkamp.de/Bildung/Stadtb%C3%BCcherei",
+    "library_id": 2746,
     "state": "Nordrhein-Westfalen",
-    "title": "Technische Fachhochschule"
+    "title": "Stadtb\u00fccherei"
 }

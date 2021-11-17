@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "sisis",
-    "city": "Bochum",
+    "city": "Kamp-Lintfort",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.tfh-bochum.de/webOPACClient"
+        "baseurl": "https://nrwoz2.bib-bvb.de/webOPACClient.nrwsis"
     },
     "geo": [
-        51.4818445,
-        7.2162363
+        51.500196,
+        6.546012
     ],
-    "information": "http://www.tfh-bochum.de/bibliothek.html",
-    "library_id": 8863,
+    "information": "http://www.hochschule-rhein-waal.de/hochschulbibliothek/oeffnungszeiten.html",
+    "library_id": 9022,
     "state": "Nordrhein-Westfalen",
-    "title": "Technische Fachhochschule"
+    "title": "Hochschule Rhein-Waal"
 }
