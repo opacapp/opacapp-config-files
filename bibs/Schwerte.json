@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Schwerte",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.citkomm.de/schwerte"
+    },
+    "geo": [
+        51.4406,
+        7.56864
+    ],
+    "information": "http://www.kuwebe.de/html/bucherei_-_aktuelles.html",
+    "library_id": 8771,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
