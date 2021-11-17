@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Donauw\u00f6rth",
+    "city": "Denklingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/donauwoerth",
+        "baseurl": "https://webopac.winbiap.de/denklingen",
         "customssl": true
     },
     "geo": [
-        48.71924,
-        10.77917
+        47.9139271,
+        10.8490461
     ],
-    "information": "http://www.donauwoerth.de/html/user_de_Stadtbibliothek+Startseite.html",
-    "library_id": 2318,
+    "information": "http://www.denklingen.de/sites/rathaus/index/index_buecherei.htm",
+    "library_id": 2223,
     "state": "Bayern",
-    "title": "Stadtbibliothek"
+    "title": "Gemeindeb\u00fccherei"
 }
