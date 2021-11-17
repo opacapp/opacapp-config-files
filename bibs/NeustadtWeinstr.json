@@ -1,31 +1,35 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Asperg",
+    "city": "Neustadt a.d. Weinstr.",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "prolongurl": 4,
+            "prolongurl": 3,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.stadtbuecherei-asperg.de/webopac",
+        "baseurl": "http://webopac.neustadt.eu/webopac",
         "copiestable": {
-            "branch": 4,
-            "department": 3,
-            "location": 2,
-            "returndate": 1,
-            "status": 0
+            "barcode": 0,
+            "branch": 1,
+            "location": 4,
+            "returndate": 5,
+            "status": 3
         },
-        "customssl": true,
         "mediatypes": {
+            "eaudio.gif": "MP3",
+            "ebook.gif": "EBOOK",
+            "emusic.gif": "MP3",
+            "epaper.gif": "EDOC",
+            "evideo.gif": "EVIDEO",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -38,11 +42,11 @@
         }
     },
     "geo": [
-        48.9058194,
-        9.1343304
+        49.3525782,
+        8.1389481
     ],
-    "information": "http://www.asperg.de/index.php?id=418",
-    "library_id": 1120,
-    "state": "Baden-W\u00fcrttemberg",
+    "information": "https://www.neustadt.eu/Kultur/Stadtb%C3%BCcherei",
+    "library_id": 8739,
+    "state": "Rheinland-Pfalz",
     "title": "Stadtb\u00fccherei"
 }

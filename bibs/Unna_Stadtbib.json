@@ -1,31 +1,34 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Asperg",
+    "city": "Unna",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "prolongurl": 4,
+            "prolongurl": 3,
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.stadtbuecherei-asperg.de/webopac",
+        "baseurl": "http://www.unna.de/webopac",
         "copiestable": {
-            "branch": 4,
-            "department": 3,
-            "location": 2,
-            "returndate": 1,
-            "status": 0
+            "barcode": 0,
+            "branch": 3,
+            "location": 1,
+            "returndate": 4,
+            "status": 2
         },
-        "customssl": true,
         "mediatypes": {
+            "at_33_ebooks.png": "EBOOK",
+            "at_33_emusic.png": "EAUDIO",
+            "at_33_epaper.png": "EBOOK",
+            "at_33_evideo.png": "EBOOK",
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
             "mFilmS.gif": "MOVIE"
@@ -38,11 +41,11 @@
         }
     },
     "geo": [
-        48.9058194,
-        9.1343304
+        51.5426349,
+        7.6853114
     ],
-    "information": "http://www.asperg.de/index.php?id=418",
-    "library_id": 1120,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.unna.de/kreisstadt+unna/konzern-stadt/kulturbetriebe-unna/bibliothek/bibliothek-im-zib.html",
+    "library_id": 9206,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek im zib"
 }

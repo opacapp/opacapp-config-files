@@ -1,30 +1,35 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Asperg",
+    "city": "Luckenwalde",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "prolongurl": 4,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 3,
             "returndate": 2,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "https://webopac.stadtbuecherei-asperg.de/webopac",
+        "baseurl": "http://80.153.36.38/webopac",
         "copiestable": {
+            "barcode": 0,
             "branch": 4,
-            "department": 3,
-            "location": 2,
-            "returndate": 1,
-            "status": 0
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 5,
+            "status": 3
         },
-        "customssl": true,
         "mediatypes": {
             "mCasetteS.gif": "AUDIO_CASSETTE",
             "mDVDS.gif": "DVD",
@@ -33,16 +38,18 @@
         "reservationtable": {
             "author": 0,
             "availability": 2,
+            "branch": -1,
             "cancelurl": 3,
+            "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        48.9058194,
-        9.1343304
+        52.0939967,
+        13.16933
     ],
-    "information": "http://www.asperg.de/index.php?id=418",
-    "library_id": 1120,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei"
+    "information": "http://www.bibliothek.luckenwalde.de/",
+    "library_id": 5123,
+    "state": "Brandenburg",
+    "title": "Bibliothek im Bahnhof"
 }

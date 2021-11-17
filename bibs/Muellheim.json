@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Asperg",
+    "city": "M\u00fcllheim",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -16,19 +16,25 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://webopac.stadtbuecherei-asperg.de/webopac",
+        "baseurl": "https://opac.mediathek-muellheim.de",
         "copiestable": {
-            "branch": 4,
-            "department": 3,
-            "location": 2,
-            "returndate": 1,
-            "status": 0
+            "department": 2,
+            "location": 0,
+            "returndate": 4,
+            "status": 3
         },
-        "customssl": true,
         "mediatypes": {
+            "Kinderbuchklein.gif": "BOOK",
+            "MCOMIC1.jpg": "BOOK",
+            "Romane.gif": "BOOK",
+            "Sachbuch.gif": "BOOK",
+            "cdkl.gif": "CD",
             "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
+            "mDVD2.gif": "DVD",
+            "mNoten3S.gif": "SCORE_MUSIC",
+            "pulpo_alleine_gross.gif": "EBOOK",
+            "spielekl.gif": "BOARDGAME",
+            "zeitungkl.gif": "NEWSPAPER"
         },
         "reservationtable": {
             "author": 0,
@@ -38,11 +44,11 @@
         }
     },
     "geo": [
-        48.9058194,
-        9.1343304
+        47.8110931,
+        7.6281615
     ],
-    "information": "http://www.asperg.de/index.php?id=418",
-    "library_id": 1120,
+    "information": "http://www.muellheim.de/index.php?article_id=50",
+    "library_id": 5567,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Stadtb\u00fccherei"
+    "title": "Mediathek"
 }
