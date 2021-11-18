@@ -1,0 +1,51 @@
+{
+    "_active": true,
+    "_notice_text": "Bitte denken Sie bei Ihren Bibliotheksbesuchen daran, einen Impf-, Genesenen- oder Testnachweis mitzubringen!\r\n\r\nSie haben Medienw\u00fcnsche?\r\nFreuen sich auf ein \u00dcberraschungspaket oder haben Fragen?\r\n\r\nDann sprechen Sie uns gerne an, wir freuen uns auf Ihren Besuch!\r\n\r\nBestellungen f\u00fcr Click & Collect gerne per\r\neMail an buecherei@sandhausen.de oder auch telefonisch unter (06224) 9332-30 oder -31\r\n<<<  mit Angabe Ihrer Ausweisnummer >>>",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Sandhausen",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 3,
+            "returndate": 2,
+            "status": -1,
+            "title": 1
+        },
+        "baseurl": "https://web-opac.kivbf.de/sandhausen",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": -1,
+            "location": 0,
+            "reservations": -1,
+            "returndate": 2,
+            "status": 1
+        },
+        "customssl": true,
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "branch": -1,
+            "cancelurl": 3,
+            "expirationdate": -1,
+            "title": 1
+        }
+    },
+    "geo": [
+        49.33804,
+        8.66237
+    ],
+    "information": "https://info.smartbib.de/sandhausen.html",
+    "library_id": 6928,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindebibliothek"
+}
