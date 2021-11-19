@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Offenbach/M",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/offenbach",
+        "customssl": true
+    },
+    "geo": [
+        50.1070493,
+        8.7615989
+    ],
+    "information": "http://www.offenbach.de/stadtbibliothek",
+    "library_id": 8745,
+    "state": "Hessen",
+    "title": "Stadtbibliothek"
+}
