@@ -1,13 +1,13 @@
 {
     "_active": true,
-    "_notice_text": "",
+    "_notice_text": null,
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": true,
+    "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
     "api": "biber1992",
-    "city": "Bad Kreuznach",
+    "city": "Fellbach",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -17,46 +17,46 @@
             "lendingbranch": -1,
             "prolongurl": 4,
             "returndate": 3,
-            "status": 5,
+            "status": 9,
             "title": 8
         },
-        "baseurl": "https://badkreuznach.bibdia-hosts.de",
+        "baseurl": "https://biber.fellbach.de",
         "copiestable": {
-            "barcode": 2,
-            "branch": 0,
+            "barcode": 3,
+            "branch": 1,
             "department": -1,
-            "location": 1,
+            "location": -1,
             "reservations": -1,
             "returndate": -1,
-            "status": 3
+            "status": 4
         },
+        "customssl": true,
         "mediatypes": {
             "1": "BOOK",
             "11": "DVD",
-            "12": "DVD",
-            "19": "BOOK",
             "2": "MAGAZINE",
-            "20": "AUDIOBOOK",
-            "21": "AUDIOBOOK",
             "26": "GAME_CONSOLE",
             "3": "CD_SOFTWARE",
-            "30": "EBOOK",
-            "33": "BOOK",
-            "6": "CD"
+            "30": "EDOC",
+            "31": "EBOOK",
+            "5": "AUDIO_CASSETTE",
+            "6": "CD",
+            "9": "BOARDGAME"
         },
         "opacdir": "opax",
         "searchtable": [
             2,
             3,
-            4
+            4,
+            5
         ]
     },
     "geo": [
-        49.8440162,
-        7.8731346
+        48.80954,
+        9.27654
     ],
-    "information": "http://www.bad-kreuznach.de/sv_bad_kreuznach/Tourismus,%20Kultur,%20Sport/Stadtbibliothek/",
-    "library_id": 1281,
-    "state": "Rheinland-Pfalz",
-    "title": "Stadtbibliothek"
+    "information": "http://www.stadtbuecherei.fellbach.de/startseite/416/de/startseite-stadtbuecherei.html",
+    "library_id": 2859,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
 }
