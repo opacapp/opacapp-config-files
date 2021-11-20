@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Effretikon",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Effretikon"
+    },
+    "geo": [
+        47.4272822,
+        8.6903753
+    ],
+    "information": "http://www.bibliotheksverein.ch/effretikon/",
+    "library_id": 8910,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}
