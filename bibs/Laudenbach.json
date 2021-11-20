@@ -1,0 +1,51 @@
+{
+    "_active": true,
+    "_notice_text": "Die GemeindeB\u00fccherei Laudenbach ist wieder ohne Terminvergabe ge\u00f6ffnet.\r\n(Dies gilt f\u00fcr eine 7 Tage Inzidenz an f\u00fcnf aufeinanderfolgenden Tagen unter 50, festgestellt durch das RKI)\r\nBitte beachten Sie die Abstandsregeln und die Maskenpflicht.\r\nVielen Dank.\r\nIhr B\u00fccherei-Team",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Laudenbach",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 3,
+            "returndate": 2,
+            "status": -1,
+            "title": 1
+        },
+        "baseurl": "https://web-opac.kivbf.de/laudenbach",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": -1,
+            "location": 0,
+            "reservations": -1,
+            "returndate": 2,
+            "status": 3
+        },
+        "customssl": false,
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "branch": -1,
+            "cancelurl": 3,
+            "expirationdate": -1,
+            "title": 1
+        }
+    },
+    "geo": [
+        49.61296,
+        8.6508
+    ],
+    "information": "https://info.smartbib.de/laudenbach.html",
+    "library_id": 4847,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
+}
