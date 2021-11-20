@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "Noch kein aktueller Hinweis",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Bobenheim-Roxheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/bobrox",
+        "customssl": true
+    },
+    "geo": [
+        49.58143,
+        8.35798
+    ],
+    "information": "https://info.smartbib.de/bobenheimroxheim.html",
+    "library_id": 1716,
+    "state": "Rheinland-Pfalz",
+    "title": "Gemeindeb\u00fccherei"
+}
