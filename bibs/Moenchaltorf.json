@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "M\u00f6nchaltorf",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Moenchaltorf"
+    },
+    "geo": [
+        47.3099096,
+        8.7215715
+    ],
+    "information": "http://www.moenchaltorf.ch/xml_1/internet/de/application/d38/d315/f317.cfm",
+    "library_id": 9084,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}

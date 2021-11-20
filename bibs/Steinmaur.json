@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Steinmaur",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Steinmaur"
+    },
+    "geo": [
+        47.4997538,
+        8.4555991
+    ],
+    "information": "http://www.primarschule-steinmaur.ch/zusatzangebote/mediothek-steinmaur.html",
+    "library_id": 9178,
+    "state": "Z\u00fcrich",
+    "title": "Mediothek"
+}
