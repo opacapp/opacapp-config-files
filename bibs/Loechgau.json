@@ -7,7 +7,7 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Dusslingen",
+    "city": "L\u00f6chgau",
     "country": "Deutschland",
     "data": {
         "accounttable": {
@@ -15,22 +15,21 @@
             "barcode": -1,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
+            "prolongurl": 3,
             "returndate": 2,
-            "status": 3,
+            "status": -1,
             "title": 1
         },
-        "baseurl": "https://wwwopac.komm.one/dusslingen",
+        "baseurl": "https://wwwopac.komm.one/loechgau",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
-            "department": 2,
+            "department": 0,
             "location": 1,
-            "reservations": -1,
+            "reservations": 5,
             "returndate": 4,
             "status": 3
         },
-        "customssl": true,
         "reservationtable": {
             "author": 0,
             "availability": 2,
@@ -41,11 +40,11 @@
         }
     },
     "geo": [
-        48.4519077,
-        9.0560055
+        49.0036133,
+        9.108406
     ],
-    "information": "http://www.buecherei-mediothek-dusslingen.de/",
-    "library_id": 2407,
+    "information": "http://www.loechgau.de/,Lde/start/Kultur+_+Freizeit/Buecherei.html",
+    "library_id": 5099,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Ortsb\u00fccherei"
 }

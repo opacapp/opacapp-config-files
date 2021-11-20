@@ -7,45 +7,48 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Dusslingen",
+    "city": "L\u00f6rrach",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "barcode": -1,
+            "barcode": 3,
             "homebranch": -1,
             "lendingbranch": -1,
-            "prolongurl": 4,
-            "returndate": 2,
-            "status": 3,
+            "prolongurl": 6,
+            "returndate": 4,
+            "status": 5,
             "title": 1
         },
-        "baseurl": "https://wwwopac.komm.one/dusslingen",
+        "baseurl": "https://wwwopac.komm.one/loerrach",
         "copiestable": {
             "barcode": -1,
-            "branch": -1,
-            "department": 2,
+            "branch": 0,
+            "department": -1,
             "location": 1,
-            "reservations": -1,
-            "returndate": 4,
-            "status": 3
+            "reservations": 4,
+            "returndate": 3,
+            "status": 2
         },
         "customssl": true,
+        "mediatypes": {
+            "mouse.jpg": "EBOOK"
+        },
         "reservationtable": {
             "author": 0,
-            "availability": 2,
+            "availability": 3,
             "branch": -1,
-            "cancelurl": 3,
+            "cancelurl": 4,
             "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        48.4519077,
-        9.0560055
+        47.6169191,
+        7.6709248
     ],
-    "information": "http://www.buecherei-mediothek-dusslingen.de/",
-    "library_id": 2407,
+    "information": "http://bibliothek.loerrach.de/index.php?module=cGFnZXM=&load=MTI1NQ==&subCategs=&catid=",
+    "library_id": 5113,
     "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "title": "Stadtbibliothek"
 }

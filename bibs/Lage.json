@@ -7,45 +7,45 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
-    "city": "Dusslingen",
+    "city": "Lage",
     "country": "Deutschland",
     "data": {
         "accounttable": {
             "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 4,
+            "prolongurl": 3,
             "returndate": 2,
-            "status": 3,
             "title": 1
         },
-        "baseurl": "https://wwwopac.komm.one/dusslingen",
+        "baseurl": "http://neu.bibliotheken-in-owl.de/webopac",
         "copiestable": {
-            "barcode": -1,
-            "branch": -1,
+            "barcode": 0,
+            "branch": 4,
             "department": 2,
             "location": 1,
-            "reservations": -1,
-            "returndate": 4,
+            "returndate": 5,
             "status": 3
         },
-        "customssl": true,
+        "db": "lage",
+        "mediatypes": {
+            "cdkl.gif": "CD_SOFTWARE",
+            "dvdkl.gif": "DVD",
+            "e_owl_kl.gif": "EBOOK",
+            "kassettekl.gif": "AUDIO_CASSETTE",
+            "videokl.gif": "MOVIE"
+        },
         "reservationtable": {
             "author": 0,
             "availability": 2,
-            "branch": -1,
             "cancelurl": 3,
-            "expirationdate": -1,
             "title": 1
         }
     },
     "geo": [
-        48.4519077,
-        9.0560055
+        51.9907728,
+        8.7939069
     ],
-    "information": "http://www.buecherei-mediothek-dusslingen.de/",
-    "library_id": 2407,
-    "state": "Baden-W\u00fcrttemberg",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.lage.de/stadtbuecherei/",
+    "library_id": 4747,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
 }
