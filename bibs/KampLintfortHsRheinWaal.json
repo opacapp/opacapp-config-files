@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Kamp-Lintfort",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://nrwoz2.bib-bvb.de/webOPACClient.nrwsis"
+    },
+    "geo": [
+        51.500196,
+        6.546012
+    ],
+    "information": "http://www.hochschule-rhein-waal.de/hochschulbibliothek/oeffnungszeiten.html",
+    "library_id": 9022,
+    "state": "Nordrhein-Westfalen",
+    "title": "Hochschule Rhein-Waal"
+}

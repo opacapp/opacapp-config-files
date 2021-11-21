@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Oberalm",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://buecherei-oberalm.webopac.at"
+    },
+    "geo": [
+        47.7009473,
+        13.0990746
+    ],
+    "information": "http://www.oberalm.bvoe.at",
+    "library_id": 9121,
+    "state": "Salzburg",
+    "title": "B\u00fccherei"
+}
