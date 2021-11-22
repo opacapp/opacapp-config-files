@@ -1,0 +1,32 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Kerken",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.bistum-muenster.de/kerken",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 5,
+            "status": 3
+        }
+    },
+    "geo": [
+        51.4393565,
+        6.4132466
+    ],
+    "information": "https://www.pfarrei-kerken.de/einrichtungen-und-angebote/unsere-buechereien/buecherei-aldekerk",
+    "library_id": 4364,
+    "state": "Nordrhein-Westfalen",
+    "title": "K\u00d6B St. Dionysius Aldekerk"
+}
