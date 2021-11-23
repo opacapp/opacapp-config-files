@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 195,
+    "account_supported": true,
+    "api": "vufind",
+    "city": "Velbert",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.bibnet.smartbib.de",
+        "copystyle": "smartbib",
+        "customssl": true,
+        "hiddenfilters": true,
+        "library": "VELB",
+        "library_long": "Velbert"
+    },
+    "displayname": "Stadtb\u00fccherei Velbert",
+    "geo": [
+        51.3417248,
+        7.04733
+    ],
+    "information": "https://stadtbuecherei.velbert.de/startseite",
+    "library_id": 8784,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
