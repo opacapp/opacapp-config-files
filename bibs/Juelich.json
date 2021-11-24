@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "J\u00fclich",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://buecherei.juelich.de",
+        "urls": {
+            "advanced_search": "recherche/erweitertesuche.aspx",
+            "simple_search": "recherche/suche.aspx"
+        }
+    },
+    "geo": [
+        50.9209467,
+        6.355919
+    ],
+    "information": "https://buecherei.juelich.de/",
+    "library_id": 4225,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
