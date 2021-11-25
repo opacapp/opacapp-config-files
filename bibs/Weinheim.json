@@ -1,0 +1,33 @@
+{
+    "_active": true,
+    "_notice_text": "Bitte beachten Sie die aktuellen Corona-Regeln!",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Weinheim/Bergstra\u00dfe",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliotheken.kivbf.de/weinheim",
+        "customssl": true,
+        "libopacplus": true,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Meine-Bibliothek",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "Medientipp",
+            "simple_search": "Mediensuche"
+        }
+    },
+    "geo": [
+        49.55058,
+        8.66873
+    ],
+    "information": "https://info.opacapp.net/weinheim.html",
+    "library_id": 8162,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
