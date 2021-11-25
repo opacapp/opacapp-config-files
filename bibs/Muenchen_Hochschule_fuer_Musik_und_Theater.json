@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "netbiblio",
+    "city": "M\u00fcnchen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.bibliothek.musikhochschule-muenchen.de/webOPACClient.mhmsis"
+    },
+    "geo": [
+        48.14601,
+        11.56731
+    ],
+    "information": "http://bibliothek.musikhochschule-muenchen.de/",
+    "library_id": 9346,
+    "state": "Bayern",
+    "title": "Hochschule f\u00fcr Musik und Theater"
+}
