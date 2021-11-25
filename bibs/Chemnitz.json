@@ -6,7 +6,7 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "touchpoint",
+    "api": "sisis",
     "city": "Chemnitz",
     "country": "Deutschland",
     "data": {
