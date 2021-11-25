@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.iaicat.de/",
+        "db": "1"
+    },
+    "geo": [
+        52.5200066,
+        13.404954
+    ],
+    "information": "https://www.iaicat.de/",
+    "library_id": 8851,
+    "state": "Berlin",
+    "title": "Ibero-Amerikanisches Institut"
+}

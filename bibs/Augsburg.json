@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Augsburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac-stadtbuecherei.augsburg.de/webOPACClient.stasis"
+    },
+    "geo": [
+        48.3692816,
+        10.8951371
+    ],
+    "information": "http://www.stadtbuecherei.augsburg.de/index.php?id=sb_standorte",
+    "library_id": 8608,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
