@@ -1,0 +1,34 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Wut\u00f6schingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://wwwopac.komm.one/wutoeschingen",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": 2,
+            "format": 0,
+            "location": 1,
+            "reservations": 6,
+            "returndate": 4,
+            "status": 3
+        },
+        "customssl": true
+    },
+    "geo": [
+        47.6587359,
+        8.3640557
+    ],
+    "information": "http://mediothek.wutoeschingen.de/index.php?id=265",
+    "library_id": 8505,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Mediothek"
+}
