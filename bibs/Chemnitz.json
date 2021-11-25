@@ -10,7 +10,7 @@
     "city": "Chemnitz",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac2.stadtbibliothek-chemnitz.de/TouchPoint_touchpoint"
+        "baseurl": "https://opac2.stadtbibliothek-chemnitz.de/webOPACClient"
     },
     "geo": [
         50.8309235,
