@@ -1,0 +1,32 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Grevesm\u00fchlen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://kmz.kmz-vpn.de/webopac",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 5,
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 6,
+            "status": 4
+        }
+    },
+    "geo": [
+        53.8600277,
+        11.1906933
+    ],
+    "information": "https://www.kreismedienzentrum-nwm.de/",
+    "library_id": 3377,
+    "state": "Mecklenburg-Vorpommern",
+    "title": "Kreismedienzentrum Nordwestmecklenburg"
+}
