@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Kaufering",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/kaufering",
+        "customssl": true
+    },
+    "geo": [
+        48.088056,
+        10.8567673
+    ],
+    "information": "http://www.kaufering.de/?language=DE&kat=Buecherei",
+    "library_id": 4335,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
