@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Magdeburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://stadtbibliothek.magdeburg.de",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        52.1244826,
+        11.6314974
+    ],
+    "information": "http://www.magdeburg-stadtbibliothek.de/texte/seite.php?id=98014",
+    "library_id": 8724,
+    "state": "Sachsen-Anhalt",
+    "title": "Stadtbibliothek"
+}
