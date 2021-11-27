@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Imst",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://imst.webopac.at"
+    },
+    "geo": [
+        47.2387997,
+        10.7420248
+    ],
+    "information": "http://www.imst.bvoe.at",
+    "library_id": 9009,
+    "state": "Tirol",
+    "title": "Stadtb\u00fccherei Imst (\u00d6ffentliche B\u00fccherei der Stadt und Pfarre Imst)"
+}
