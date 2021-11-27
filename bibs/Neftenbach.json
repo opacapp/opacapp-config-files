@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Neftenbach",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Neftenbach"
+    },
+    "geo": [
+        47.5261643,
+        8.6674421
+    ],
+    "information": "http://www.neftenbach.ch/gemeinde/index.php?pageID=213",
+    "library_id": 9108,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}

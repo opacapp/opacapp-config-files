@@ -1,0 +1,30 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "sru",
+    "city": "Deutschland",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://sru.gbv.de/gvk",
+        "searchqueries": {
+            "free": "pica.ALL",
+            "id": "pica.PPN",
+            "isbn": "pica.ISB",
+            "jahr": "pica.JAH",
+            "titel": "pica.TIT",
+            "verfasser": "pica.PER",
+            "verlag": "pica.VLG"
+        },
+        "sharelink": "http://gso.gbv.de/DB=2.1/PPNSET?PPN=%s"
+    },
+    "geo": null,
+    "information": "http://gso.gbv.de/",
+    "library_id": 8945,
+    "state": "Deutschland",
+    "title": "Gemeinsamer Verbundkatalog"
+}

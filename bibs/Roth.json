@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Roth bei Nbg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/roth",
+        "customssl": true
+    },
+    "geo": [
+        49.2456337,
+        11.0911607
+    ],
+    "information": "http://www.stadt-roth.de/lwwcm-rh/rh-publish.nsf/Content/GE-1-SL-BildungKultur-Stadtbuecherei/",
+    "library_id": 6792,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
