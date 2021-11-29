@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Rifferswil",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Rifferswil"
+    },
+    "geo": [
+        47.2419,
+        8.49602
+    ],
+    "information": "http://www.bibliothek-rifferswil.ch/",
+    "library_id": 9152,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}
