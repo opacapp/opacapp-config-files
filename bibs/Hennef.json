@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "koha",
+    "city": "Hennef",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://sb-hennef.lmscloud.net"
+    },
+    "geo": [
+        50.77438,
+        7.27947
+    ],
+    "information": "http://www.hennef.de/index.php?id=430",
+    "library_id": 3779,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
