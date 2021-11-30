@@ -10,7 +10,7 @@
     "city": "Z\u00fcrich",
     "country": "Schweiz",
     "data": {
-        "baseurl": "https://www.pbz.ch/aDISWeb/app",
+        "baseurl": "https://katalog.pbz.ch/aDISWeb/app",
         "calendar": "https://info.opacapp.de/zuerich.ics",
         "calendarparser": "ical",
         "libopacplus": true,
