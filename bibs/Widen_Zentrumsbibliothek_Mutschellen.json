@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Widen",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.winmedio.net/widen"
+    },
+    "geo": [
+        47.3657097,
+        8.3660261
+    ],
+    "information": "http://www.zbmutschellen.ch/pages/oeffnungszeiten.php",
+    "library_id": 9293,
+    "state": "Aargau",
+    "title": "Zentrumsbibliothek Mutschellen"
+}

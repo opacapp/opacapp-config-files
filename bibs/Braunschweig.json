@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.braunschweig",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Braunschweig",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.braunschweig.de/webOPACClient",
+        "customssl": true,
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/braunschweig",
+        "onleihe_libraryId": "448",
+        "onleihe_singleLibrary": "yes",
+        "suppress_fee_warnings": true
+    },
+    "geo": [
+        52.26155,
+        10.52938
+    ],
+    "information": "https://www.braunschweig.de/kultur/bibliotheken_archive/stadtbibliothek/kontaktdaten.php",
+    "library_id": 8637,
+    "state": "Niedersachsen",
+    "title": "Stadtbibliothek"
+}

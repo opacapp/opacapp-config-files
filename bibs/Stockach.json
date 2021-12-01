@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Stockach",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://portal-stockach.de",
+        "urls": {
+            "advanced_search": "Mediensuche",
+            "simple_search": "Katalogrecherche/Suche"
+        }
+    },
+    "geo": [
+        47.8515792,
+        9.0121224
+    ],
+    "information": "http://www.stockach.de/stadtbuecherei",
+    "library_id": 7481,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}

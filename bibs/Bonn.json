@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Bonn",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.lib.bonn.de/webOPACClient",
+        "customssl": true,
+        "startparams": "Login=web00"
+    },
+    "geo": [
+        50.70501,
+        7.11537
+    ],
+    "information": "http://www.bonn.de/familie_gesellschaft_bildung_soziales/stadtbibliothek/zweigstellen/index.html?lang=de",
+    "library_id": 8633,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
