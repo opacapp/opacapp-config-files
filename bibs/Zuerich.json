@@ -15,7 +15,7 @@
         "calendarparser": "ical",
         "libopacplus": true,
         "reservation_notification_enabled": true,
-        "startparams": "service=direct/0/Home/$DirectLink&sp=SOPACsp=SOPAC",
+        "startparams": "service=direct/0/Home/$DirectLink&sp=SOPAC",
         "suppress_fee_warnings": true
     },
     "geo": [
