@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Sankt Augustin",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bib-sisis.bib.hochschule-bonn-rhein-sieg.de/webOPACClient"
+    },
+    "geo": [
+        50.7694775,
+        7.1875786
+    ],
+    "information": "http://www.bib.hochschule-bonn-rhein-sieg.de/",
+    "library_id": 8865,
+    "state": "Nordrhein-Westfalen",
+    "title": "FH Bonn-Rhein-Sieg"
+}

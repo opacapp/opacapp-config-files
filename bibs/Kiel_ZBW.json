@@ -1,0 +1,26 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Kiel",
+    "country": "Deutschland",
+    "data": {
+        "account_system": "lbs",
+        "baseurl": "http://www.econis.eu",
+        "db": "1",
+        "lbs_url": "http://lhzbw.gbv.de:9090"
+    },
+    "geo": [
+        54.33883,
+        10.15638
+    ],
+    "information": "http://www.zbw.eu/de/",
+    "library_id": 9033,
+    "state": "Schleswig-Holstein",
+    "title": "Zentralbibliothek f\u00fcr Wirtschaftswissenschaften"
+}
