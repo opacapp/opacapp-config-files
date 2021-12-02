@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Oldenburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://plus.orbis-oldenburg.de:1701/primo_library/libweb",
+        "db": "ORB_V2",
+        "languages": [
+            "de"
+        ]
+    },
+    "geo": [
+        53.1434501,
+        8.2145521
+    ],
+    "information": "http://www.lb-oldenburg.de/",
+    "library_id": 9128,
+    "state": "Niedersachsen",
+    "title": "ORBISplus (UB, LB)"
+}
