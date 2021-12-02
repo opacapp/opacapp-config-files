@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "K\u00fcmmersbruck",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/kuemmersbruck",
+        "customssl": true
+    },
+    "geo": [
+        49.4207135,
+        11.8852007
+    ],
+    "information": "https://www.kuemmersbruck.de/index.php?id=0,57",
+    "library_id": 4725,
+    "state": "Bayern",
+    "title": "Gemeindebibliothek"
+}
