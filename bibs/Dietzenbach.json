@@ -1,0 +1,50 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Dietzenbach",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 4,
+            "returndate": 2,
+            "status": -1,
+            "title": 1
+        },
+        "baseurl": "http://stadtbuecherei.dietzenbach.de",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": -1,
+            "location": 0,
+            "reservations": -1,
+            "returndate": 3,
+            "status": 2
+        },
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "branch": -1,
+            "cancelurl": 3,
+            "expirationdate": null,
+            "title": 1
+        }
+    },
+    "geo": [
+        50.0099,
+        8.77649
+    ],
+    "information": "http://dietzenbach.de/index.phtml?mNavID=1799.9&sNavID=1799.987&La=1",
+    "library_id": 2270,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
+}
