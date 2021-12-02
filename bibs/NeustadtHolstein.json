@@ -9,7 +9,12 @@
     "api": "bibliotheca",
     "city": "Neustadt in Holstein",
     "country": "Deutschland",
-    "data": {},
+    "data": {
+        "baseurl": "https://sb-neustadt.lmscloud.net",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/schleswig_holstein",
+        "onleihe_libraryId": "854"
+    },
     "geo": [
         54.1053769,
         10.8157308
