@@ -5,8 +5,8 @@
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.neustadtholstein",
     "_support_contract": true,
     "_version_required": 0,
-    "account_supported": false,
-    "api": "bibliotheca",
+    "account_supported": true,
+    "api": "koha",
     "city": "Neustadt in Holstein",
     "country": "Deutschland",
     "data": {
