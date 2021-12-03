@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "S\u00fc\u00dfen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/suessen",
+        "customssl": true
+    },
+    "geo": [
+        48.6798451,
+        9.7567784
+    ],
+    "information": "http://www.suessen.de/Buecherei.html",
+    "library_id": 7552,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}
