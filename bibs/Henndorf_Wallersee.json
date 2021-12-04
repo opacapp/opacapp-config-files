@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": false,
     "api": "littera",
-    "city": "Korneuburg",
+    "city": "Henndorf",
     "country": "\u00d6sterreich",
     "data": {
-        "baseurl": "http://www.bib-korneuburg.webopac.at"
+        "baseurl": "http://henndorf.web-opac.at"
     },
     "geo": [
-        48.3450806,
-        16.3347235
+        47.9015307,
+        13.1898478
     ],
-    "information": "http://www.korneuburg.gv.at/bik/",
-    "library_id": 9040,
-    "state": "Nieder\u00f6sterreich",
-    "title": "BIK B\u00fccherei Internetcafe"
+    "information": "http://www.henndorf.bvoe.at",
+    "library_id": 8992,
+    "state": "Salzburg",
+    "title": "Bibliothek"
 }
