@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Halle (Saale)",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://lhhal.gbv.de",
+        "customssl": "true",
+        "db": "1"
+    },
+    "geo": [
+        51.4969802,
+        11.9688029
+    ],
+    "information": "http://bibliothek.uni-halle.de/",
+    "library_id": 8962,
+    "state": "Sachsen-Anhalt",
+    "title": "Unibibliothek"
+}
