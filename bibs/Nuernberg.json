@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "adis",
+    "city": "N\u00fcrnberg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://online-service2.nuernberg.de/aDISWeb/app",
+        "startparams": "service=direct/0/Home/$DirectLink&sp=Sapp1%3A4103"
+    },
+    "geo": [
+        49.4518639,
+        11.0829931
+    ],
+    "information": "http://www.nuernberg.de/internet/stadtbibliothek/",
+    "library_id": 8743,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}
