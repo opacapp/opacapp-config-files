@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Frammersbach",
+    "city": "Gro\u00dfkrotzenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/frammersbach",
+        "baseurl": "https://webopac.winbiap.net/grosskrotzenburg",
         "customssl": true
     },
     "geo": [
-        50.0621954,
-        9.4724531
+        50.0818163,
+        8.9839637
     ],
-    "information": "http://www.frammersbach.de/Sites/gensite.asp?SID=cms19082014164845791437&Art=0348",
-    "library_id": 2923,
-    "state": "Bayern",
+    "information": "http://www.grosskrotzenburg.de/Buechereien.34.0.html",
+    "library_id": 3436,
+    "state": "Hessen",
     "title": "Gemeindeb\u00fccherei"
 }

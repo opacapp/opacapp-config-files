@@ -6,19 +6,18 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "winbiap",
-    "city": "Frammersbach",
+    "api": "iopac",
+    "city": "Hirschaid",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/frammersbach",
-        "customssl": true
+        "baseurl": "http://87.138.173.74"
     },
     "geo": [
-        50.0621954,
-        9.4724531
+        49.8190535,
+        10.992433
     ],
-    "information": "http://www.frammersbach.de/Sites/gensite.asp?SID=cms19082014164845791437&Art=0348",
-    "library_id": 2923,
+    "information": "http://www.hirschaid.de/seite/de/markt/380/-/Gemeindebuecherei.html",
+    "library_id": 3908,
     "state": "Bayern",
     "title": "Gemeindeb\u00fccherei"
 }

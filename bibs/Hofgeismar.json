@@ -7,18 +7,18 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "winbiap",
-    "city": "Frammersbach",
+    "city": "Hofgeismar",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.winbiap.de/frammersbach",
+        "baseurl": "https://webopac.winbiap.net/hofgeismar",
         "customssl": true
     },
     "geo": [
-        50.0621954,
-        9.4724531
+        51.4970925,
+        9.3860472
     ],
-    "information": "http://www.frammersbach.de/Sites/gensite.asp?SID=cms19082014164845791437&Art=0348",
-    "library_id": 2923,
-    "state": "Bayern",
-    "title": "Gemeindeb\u00fccherei"
+    "information": "http://www.hofgeismar.de/cms/LebenHofgeismar/Stadtb%C3%BCcherei/",
+    "library_id": 3938,
+    "state": "Hessen",
+    "title": "Stadtb\u00fccherei"
 }
