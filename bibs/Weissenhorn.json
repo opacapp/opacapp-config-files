@@ -1,0 +1,53 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Weissenhorn",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 3,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "https://weissenhorn.internetopac.de",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "returndate": 5,
+            "status": 3
+        },
+        "customssl": true,
+        "mediatypes": {
+            "mBuecherS.gif": "PACKAGE",
+            "mCDROMS.gif": "CD_SOFTWARE",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE",
+            "mMusikCDS.gif": "MP3",
+            "mReise2S.gif": "CD"
+        },
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
+    },
+    "geo": [
+        48.3039,
+        10.16071
+    ],
+    "information": "http://www.weissenhorn.de/staticsite/staticsite.php?menuid=169&topmenu=7",
+    "library_id": 8176,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
