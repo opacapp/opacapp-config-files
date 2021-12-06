@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Wickede",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.citkomm.de/wickede",
+        "customssl_all_ciphersuites": true
+    },
+    "geo": [
+        51.5579252,
+        7.9133687
+    ],
+    "information": "http://www.wickede.de/freizeit/buecherei/",
+    "library_id": 3125,
+    "state": "Nordrhein-Westfalen",
+    "title": "B\u00fccherei im Bahnhof"
+}
