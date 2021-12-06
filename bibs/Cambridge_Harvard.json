@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Cambridge",
+    "country": "United States",
+    "data": {
+        "baseurl": "https://hollis.harvard.edu/primo_library/libweb",
+        "db": "HVD2",
+        "languages": [
+            "en"
+        ]
+    },
+    "geo": [
+        42.3770029,
+        -71.1166601
+    ],
+    "information": "http://library.harvard.edu/",
+    "library_id": 8886,
+    "state": "Massachusetts",
+    "title": "Harvard University"
+}
