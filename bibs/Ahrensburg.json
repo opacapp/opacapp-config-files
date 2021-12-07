@@ -1,0 +1,47 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Ahrensburg",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 3,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "http://buecherei.ahrensburg.de/webopac",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "location": 1,
+            "returndate": 5,
+            "status": 3
+        },
+        "mediatypes": {
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE"
+        },
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
+    },
+    "geo": [
+        53.6739747,
+        10.236561
+    ],
+    "information": "https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei",
+    "library_id": 908,
+    "state": "Schleswig-Holstein",
+    "title": "Stadtb\u00fccherei"
+}
