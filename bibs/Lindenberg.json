@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Lindenberg/Allg\u00e4u",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/lindenberg",
+        "customssl": true
+    },
+    "geo": null,
+    "information": "http://www.lindenberg.de/index.shtml?buergerservice-info_buecherei",
+    "library_id": 5015,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
