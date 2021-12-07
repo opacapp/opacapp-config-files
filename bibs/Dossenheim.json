@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "Noch kein aktueller Hinweis",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 231,
+    "account_supported": true,
+    "api": "lissy",
+    "city": "Dossenheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://lissy.buecherei-dossenheim.de"
+    },
+    "geo": [
+        49.450821,
+        8.6717406
+    ],
+    "information": "https://info.smartbib.de/dossenheim.html",
+    "library_id": 2362,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
+}
