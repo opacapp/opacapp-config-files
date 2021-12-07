@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Trier",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://bibserv.fh-trier.de:8080/webOPACClient"
+    },
+    "geo": [
+        49.71912,
+        7.31317
+    ],
+    "information": "http://www.hochschule-trier.de/index.php?id=1020",
+    "library_id": 9195,
+    "state": "Rheinland-Pfalz",
+    "title": "Fachhochschule"
+}
