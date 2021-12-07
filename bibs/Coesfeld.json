@@ -5,7 +5,7 @@
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
-    "account_supported": false,
+    "account_supported": true,
     "api": "open",
     "city": "Coesfeld",
     "country": "Deutschland",
