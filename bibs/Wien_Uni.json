@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Wien",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "https://usearch.univie.ac.at/primo_library/libweb",
+        "customssl": true,
+        "db": "UWI",
+        "languages": [
+            "de",
+            "en"
+        ]
+    },
+    "geo": [
+        48.2160563,
+        16.3528813
+    ],
+    "information": "http://bibliothek.univie.ac.at/",
+    "library_id": 9235,
+    "state": "Wien",
+    "title": "Unibibliothek"
+}

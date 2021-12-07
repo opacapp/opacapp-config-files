@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Zellingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/zellingen",
+        "customssl": true
+    },
+    "geo": [
+        49.8992098,
+        9.8180116
+    ],
+    "information": "http://www.markt-zellingen.de/seite/ze/main-spessart/204/-/Gemeindebuecherei_Zellingen.html",
+    "library_id": 8549,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}

@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Schongau",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/schongau",
+        "customssl": true
+    },
+    "geo": [
+        47.81588,
+        10.89727
+    ],
+    "information": "http://www.buecherei-muenztor.de/die-buecherei/oeffnungszeiten/",
+    "library_id": 7054,
+    "state": "Bayern",
+    "title": "B\u00fccherei am M\u00fcnztor"
+}

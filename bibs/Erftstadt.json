@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Erftstadt",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://5.189.139.83/webOPACClient"
+    },
+    "geo": [
+        50.806497,
+        6.7731325
+    ],
+    "information": "http://www.stadtbuecherei-erftstadt.de/",
+    "library_id": 8657,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
