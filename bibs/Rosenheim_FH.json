@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.rosenheim_th",
+    "_support_contract": true,
+    "_version_required": 1,
+    "account_supported": true,
+    "api": "touchpoint",
+    "city": "Rosenheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://touchpoint.th-rosenheim.de/TouchPoint",
+        "customssl": true,
+        "startparams": "View=fro",
+        "suppress_fee_warnings": true
+    },
+    "displayname": "TH Rosenheim",
+    "geo": [
+        47.8571272,
+        12.1181047
+    ],
+    "information": "https://info.opacapp.de/hs-rosenheim.html",
+    "library_id": 9156,
+    "state": "Bayern",
+    "title": "Technische Hochschule"
+}

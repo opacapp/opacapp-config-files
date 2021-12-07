@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Wals-Siezenheim",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://www.bibliothek-wals.opac.at"
+    },
+    "geo": [
+        47.7924383,
+        12.9802958
+    ],
+    "information": "http://www.bibliothek-wals.opac.at",
+    "library_id": 9221,
+    "state": "Salzburg",
+    "title": "Bibliothek"
+}
