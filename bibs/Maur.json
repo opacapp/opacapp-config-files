@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Maur/Ebmatingen/Aesch-Forch",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Maur"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.338416,
+        8.6515131
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.bibliothek-maur.ch/",
+    "library_id": 9077,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

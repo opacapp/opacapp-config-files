@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Schwerzenbach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Schwerzenbach"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.3851,
+        8.65891
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.bibliothek-schwerzenbach.ch/de/",
+    "library_id": 9172,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Schlieren",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Schlieren"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.3984409,
+        8.4440533
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.schlieren.ch/de/verwaltung/aemter/?amt_id=573",
+    "library_id": 9167,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }

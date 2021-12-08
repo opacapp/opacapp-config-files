@@ -7,17 +7,17 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "webopac.net",
-    "city": "Andelfingen",
+    "city": "Seuzach",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://www.bibliotheken-zh.ch/Andelfingen"
+        "baseurl": "http://www.bibliotheken-zh.ch/Seuzach"
     },
     "geo": [
-        47.5963,
-        8.67657
+        47.5371614,
+        8.7309395
     ],
-    "information": "http://www.bibliothek-andelfingen.ch/xml_2/internet/de/intro.cfm",
-    "library_id": 8825,
+    "information": "http://www.bibliothek-seuzach.ch/anzeige/mainbiblio.php",
+    "library_id": 9173,
     "state": "Z\u00fcrich",
     "title": "Gemeindebibliothek"
 }
