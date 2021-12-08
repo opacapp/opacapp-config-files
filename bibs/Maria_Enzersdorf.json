@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Maria",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://www.suedstadt.web-opac.at"
+    },
+    "geo": [
+        48.0950444,
+        16.3039643
+    ],
+    "information": "http://www.mariaenzersdorf.bvoe.at",
+    "library_id": 9076,
+    "state": "Nieder\u00f6sterreich",
+    "title": "Gemeindebibliothek Maria Enzersdorf"
+}
