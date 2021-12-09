@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Lohr/Main",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://cloudopac.winbiap.de/lohr",
+        "customssl": true
+    },
+    "geo": [
+        49.9947684,
+        9.57413
+    ],
+    "information": "http://www.lohr.de/leben-und-arbeiten/leben-in-lohr/meine-bildung/stadtbibliothek/",
+    "library_id": 5071,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}
