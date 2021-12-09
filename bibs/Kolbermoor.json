@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Kolbermoor",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.net/kolbermoor",
+        "customssl": true
+    },
+    "geo": [
+        47.8483311,
+        12.0611921
+    ],
+    "information": "http://www.stadt-kolbermoor.de/index.php?option=com_content&task=view&id=154&Itemid=195",
+    "library_id": 4513,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}

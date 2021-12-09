@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Feldkirchen-Westerham",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://cloudopac.winbiap.de/feldkirchen-westerham",
+        "customssl": true
+    },
+    "geo": [
+        47.9140623,
+        11.8638687
+    ],
+    "information": "http://gemeindebuecherei-feldkirchen.de/",
+    "library_id": 2857,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}

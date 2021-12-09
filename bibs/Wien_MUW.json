@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Wien",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "https://ubsearch.meduniwien.ac.at/primo_library/libweb",
+        "db": "UMW",
+        "languages": [
+            "de",
+            "en"
+        ]
+    },
+    "geo": [
+        48.2081743,
+        16.3738189
+    ],
+    "information": "http://ub.meduniwien.ac.at/ueber-uns/oeffnungszeiten/",
+    "library_id": 9279,
+    "state": "Wien",
+    "title": "Medizinische Universit\u00e4t"
+}

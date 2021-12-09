@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Witten",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.stadt-witten.de",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        51.4362,
+        7.33685
+    ],
+    "information": "http://www.kulturforum-witten.de/bibliothek",
+    "library_id": 8792,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei Kulturforum"
+}
