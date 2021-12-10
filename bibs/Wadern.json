@@ -1,0 +1,31 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Wadern",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://212.88.140.36:8081/webopac",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "location": 2,
+            "returndate": 5,
+            "shelfmark": 1,
+            "status": 3
+        }
+    },
+    "geo": [
+        49.54008,
+        6.88962
+    ],
+    "information": "https://ssl.wadern.de/leben-wohnen/stadtbibliothek/",
+    "library_id": 7928,
+    "state": "Saarland",
+    "title": "Stadtbibliothek"
+}
