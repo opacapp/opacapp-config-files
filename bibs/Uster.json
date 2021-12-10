@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Uster",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Uster"
+    },
+    "geo": [
+        47.3484905,
+        8.7175286
+    ],
+    "information": "http://www.stadtbibliothek-uster.ch/de/",
+    "library_id": 9210,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}

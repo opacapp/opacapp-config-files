@@ -1,0 +1,55 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Monheim/Rhein",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "barcode": 2,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "status": -1,
+            "title": 1
+        },
+        "api_enable": true,
+        "apikey": "09ec1ade-79c5-4c3c-a08c-6d7e008c7eeb",
+        "apiurl": "https://smartbib.monheim.de:8316/RESTv1",
+        "baseurl": "https://smartbib.monheim.de",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": -1,
+            "location": 2,
+            "reservations": -1,
+            "returndate": 3,
+            "status": 2
+        },
+        "db": "mo",
+        "libopacplus": "true",
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "branch": -1,
+            "cancelurl": 3,
+            "expirationdate": -1,
+            "title": 1
+        }
+    },
+    "geo": [
+        51.08544,
+        6.88998
+    ],
+    "information": "https://www.monheim.de/kultur-bildung/bibliothek",
+    "library_id": 5450,
+    "state": "Nordrhein-Westfalen",
+    "title": "Bibliothek"
+}

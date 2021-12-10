@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "touchpoint",
+    "city": "N\u00fcrnberg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.th-nuernberg.de/TouchPoint",
+        "startparams": "Language=de&View=fhn&Branch=0"
+    },
+    "geo": [
+        49.452375,
+        11.0925545
+    ],
+    "information": "https://www.th-nuernberg.de/einrichtungen-gesamt/zentrale-einrichtungen/bibliothek/",
+    "library_id": 9119,
+    "state": "Bayern",
+    "title": "Technische Hochschule"
+}

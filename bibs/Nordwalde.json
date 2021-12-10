@@ -1,0 +1,32 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Nordwalde",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.bistum-muenster.de/nordwalde",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 5,
+            "status": 3
+        }
+    },
+    "geo": [
+        52.0851049,
+        7.4782389
+    ],
+    "information": "http://www.koeb-nordwalde.de/",
+    "library_id": 5965,
+    "state": "Nordrhein-Westfalen",
+    "title": "Kath. \u00d6B St. Dionysius"
+}
