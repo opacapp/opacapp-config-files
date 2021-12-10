@@ -1,0 +1,32 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "H\u00fcrth",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://buecherei.huerth.de/webopac",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 5,
+            "status": 3
+        }
+    },
+    "geo": [
+        50.8792355,
+        6.8795305
+    ],
+    "information": "https://www.huerth.de/huerthleben/stadtbuecherei.php",
+    "library_id": 8699,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
