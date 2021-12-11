@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "pica",
+    "city": "Heide",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://katalog.ub.uni-kiel.de",
+        "db": "7"
+    },
+    "geo": [
+        54.1951764,
+        9.1019015
+    ],
+    "information": "http://www.fh-westkueste.de/startseite/bibliothek/",
+    "library_id": 8988,
+    "state": "Schleswig-Holstein",
+    "title": "Bibliothek der Fachhochschule Westk\u00fcste"
+}
