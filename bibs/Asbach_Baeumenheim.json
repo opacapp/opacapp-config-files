@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Asbach-B\u00e4umenheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/asbach-baeumenheim",
+        "customssl": true
+    },
+    "geo": [
+        48.68163,
+        10.814457
+    ],
+    "information": "http://www.asbach-baeumenheim.de/index.php?id=0,56",
+    "library_id": 1100,
+    "state": "Bayern",
+    "title": "B\u00fccherei"
+}
