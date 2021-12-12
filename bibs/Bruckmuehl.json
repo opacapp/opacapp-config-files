@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Bruckm\u00fchl",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://cloudopac.winbiap.de/bruckmuehl",
+        "customssl": true
+    },
+    "geo": [
+        47.88374,
+        11.91515
+    ],
+    "information": "https://www.buecherei-bruckmuehl.de/index.php?id=0,123",
+    "library_id": 1973,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
