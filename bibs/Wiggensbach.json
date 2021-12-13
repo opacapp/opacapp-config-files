@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Wiggensbach",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/wiggensbach",
+        "customssl": true
+    },
+    "geo": [
+        47.745133,
+        10.2314395
+    ],
+    "information": "http://www.wiggensbach.de/site/Freizeit/B%C3%BCcherei",
+    "library_id": 8329,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
