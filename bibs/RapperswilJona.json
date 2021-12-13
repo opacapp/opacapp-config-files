@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Rapperswil-Jona",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.winmedio.net/rapperswil-jona"
+    },
+    "geo": [
+        47.2266239,
+        8.8184374
+    ],
+    "information": "http://www.stadtbibliothek-rj.ch/",
+    "library_id": 9274,
+    "state": "St. Gallen",
+    "title": "Stadtbibliothek"
+}

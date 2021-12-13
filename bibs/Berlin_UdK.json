@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://udk-berlin.hosted.exlibrisgroup.com/primo_library/libweb",
+        "db": "UDK",
+        "languages": [
+            "de_DE"
+        ]
+    },
+    "geo": [
+        52.498589,
+        13.330321
+    ],
+    "information": "http://www.udk-berlin.de/sites/universitaetsbibliothek/content/index_ger.html",
+    "library_id": 8856,
+    "state": "Berlin",
+    "title": "Universit\u00e4t der K\u00fcnste"
+}
