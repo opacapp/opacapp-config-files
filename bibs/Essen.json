@@ -1,0 +1,45 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "biber1992",
+    "city": "Essen",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 8,
+            "barcode": 4,
+            "homebranch": -1,
+            "lendingbranch": 3,
+            "prolongurl": 0,
+            "returndate": 3,
+            "status": 9,
+            "title": 8
+        },
+        "baseurl": "https://katalog.stadtbibliothek.essen.de",
+        "copiestable": {
+            "barcode": 3,
+            "branch": 1,
+            "location": 2,
+            "status": 4
+        },
+        "opacdir": "opax",
+        "searchtable": [
+            2,
+            3,
+            4
+        ]
+    },
+    "geo": [
+        51.4556194,
+        7.0104543
+    ],
+    "information": "https://www.stadtbibliothek-essen.de/oeffnungszeiten/oeffnungszeiten.de.html",
+    "library_id": 8661,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
