@@ -1,0 +1,50 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Steinhagen",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 3,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "http://www.bibliotheken-in-owl.de/webopac",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "status": 3
+        },
+        "db": "steinhagen",
+        "mediatypes": {
+            "cdkl.gif": "Kinder CD-ROM",
+            "dvdkl.gif": "DVDs",
+            "e_owl_kl.gif": "eBook",
+            "kassettekl.gif": "Literaturkassette",
+            "videokl.gif": "Video ab 18"
+        },
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
+    },
+    "geo": [
+        52.00715,
+        8.41823
+    ],
+    "information": "http://www.gemeinde-steinhagen.de/040/sr_seiten/artikel/112130100000021447.php",
+    "library_id": 7456,
+    "state": "Nordrhein-Westfalen",
+    "title": "Gemeindebibliothek"
+}

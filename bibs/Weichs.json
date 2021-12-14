@@ -1,0 +1,32 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Weichs bei Dachau",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://weichs.internetopac.de",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 5,
+            "status": 3
+        }
+    },
+    "geo": [
+        48.38204,
+        11.4092813
+    ],
+    "information": "http://www.weichs.de/Einrichtungen-Soziales/Buecherei.aspx",
+    "library_id": 8123,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
