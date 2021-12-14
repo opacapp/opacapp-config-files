@@ -1,0 +1,31 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Neckargem\u00fcnd",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://mediothek-srh.bibliotheca-open.de/",
+        "libopacplus": true,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "mediensuche/erweiterte-suche",
+            "simple_search": "mediensuche"
+        }
+    },
+    "geo": [
+        49.3866401,
+        8.802281
+    ],
+    "information": "https://info.smartbib.de/neckargemuend.html",
+    "library_id": 9106,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Mediothek SRH"
+}

@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Aschaffenburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://recherche.bibkatalog.de/InfoGuideClient.fwssis",
+        "homebranch": "3",
+        "startparams": "Login=wofwsa"
+    },
+    "geo": [
+        49.971918,
+        9.1605
+    ],
+    "information": "http://www.h-ab.de/ueber-die-hochschule/organisation/einrichtungen/bibliothek/kontakt/oeffnungszeiten/",
+    "library_id": 8827,
+    "state": "Bayern",
+    "title": "Hochschulbibliothek"
+}
