@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "littera",
+    "city": "Innsbruck",
+    "country": "\u00d6sterreich",
+    "data": {
+        "baseurl": "http://www.buecherei-saggen.web-opac.at"
+    },
+    "geo": [
+        47.2783139,
+        11.404871
+    ],
+    "information": "https://www.bvoe.at/oeffentliche_bibliotheken/adressen/oeffentliche_bibliothek_der_pfarre_innsbruck_saggen",
+    "library_id": 9014,
+    "state": "Tirol",
+    "title": "\u00d6ffentliche Bibliothek der Pfarrei Innsbruck-Saggen"
+}
