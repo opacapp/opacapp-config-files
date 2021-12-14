@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Mainburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/mainburg",
+        "customssl": true
+    },
+    "geo": [
+        48.64295,
+        11.78671
+    ],
+    "information": "http://www.mainburg.de/index.php?id=0,63",
+    "library_id": 5174,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}
