@@ -1,0 +1,38 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "biber1992",
+    "city": "Rheda-Wiedenbr\u00fcck",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://www.bibliothek-rheda-wiedenbrueck.de",
+        "copiestable": {
+            "barcode": 2,
+            "branch": -1,
+            "department": 0,
+            "location": 1,
+            "reservations": -1,
+            "returndate": -1,
+            "status": 3
+        },
+        "opacdir": "opax",
+        "searchtable": [
+            2,
+            3,
+            4
+        ]
+    },
+    "geo": [
+        51.8358247,
+        8.310719
+    ],
+    "information": "http://www.bibliothek-rheda-wiedenbrueck.de/media/config/oeffnungszeiten.html",
+    "library_id": 6625,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtbibliothek"
+}
