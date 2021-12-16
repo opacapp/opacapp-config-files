@@ -10,7 +10,11 @@
     "city": "Hagen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://hagen.arena.axiell.de"
+        "baseurl": "https://hagen.arena.axiell.de",
+        "libopacplus": true,
+        "newacq": "/neue-medien",
+        "onleihe": "https://www.onleihe.de/lb",
+        "onleihe_libraryId": "76"
     },
     "geo": [
         51.35463,
