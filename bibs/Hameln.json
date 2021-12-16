@@ -1,0 +1,38 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "biber1992",
+    "city": "Hameln",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 7,
+            "barcode": 4,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 3,
+            "returndate": 3,
+            "status": 5,
+            "title": 7
+        },
+        "baseurl": "http://www.stadtbuecherei.hameln.de",
+        "opacdir": "opax",
+        "searchtable": [
+            2,
+            3
+        ]
+    },
+    "geo": [
+        52.1043069,
+        9.3536759
+    ],
+    "information": "https://www.hameln.de/de/leben-in-hameln/bildung/stadtbuecherei/fragen-und-antworten/",
+    "library_id": 8684,
+    "state": "Niedersachsen",
+    "title": "Stadtb\u00fccherei in der Pfortm\u00fchle"
+}

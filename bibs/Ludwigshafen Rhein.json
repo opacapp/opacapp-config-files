@@ -1,0 +1,30 @@
+{
+    "_active": true,
+    "_notice_text": "Aktuelle Meldungen: www.ludwigshafen.de/stadtbibliothek oder https://open-stadtbibliothek.ludwigshafen.de/",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Ludwigshafen/Rh.",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://open-stadtbibliothek.ludwigshafen.de",
+        "libopacplus": true,
+        "urls": {
+            "account": "Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "Medientipps.aspx",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        49.4806999,
+        8.4486117
+    ],
+    "information": "https://info.opacapp.net/ludwigshafen.html",
+    "library_id": 8719,
+    "state": "Rheinland-Pfalz",
+    "title": "Stadtbibliothek"
+}
