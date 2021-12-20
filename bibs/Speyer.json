@@ -6,34 +6,15 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Speyer",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://buecherei.speyer.de/webopac",
-        "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "department": 2,
-            "location": 1,
-            "reservations": -1,
-            "returndate": 5,
-            "status": 3
-        },
-        "customssl": true,
-        "mediatypes": {
-            "ekl.gif": "EBOOK",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": 2,
-            "branch": -1,
-            "cancelurl": 3,
-            "expirationdate": null,
-            "title": 1
+        "baseurl": "https://speyer.bibliotheca-open.de",
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
