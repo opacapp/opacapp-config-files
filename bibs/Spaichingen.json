@@ -3,14 +3,14 @@
     "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": false,
+    "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
     "api": "bibliotheca",
     "city": "Spaichingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.komm.one/albstadt",
+        "baseurl": "https://wwwopac.komm.one/spaichingen",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
