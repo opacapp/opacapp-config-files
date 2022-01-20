@@ -14,9 +14,9 @@
         "libopacplus": true,
         "urls": {
             "account": "Konto",
-            "advanced_search": "Mediensuche/Erweiterte-Suche",
-            "new_acq": "Medientipps.aspx",
-            "simple_search": "Mediensuche/Einfache-Suche"
+            "advanced_search": "Suche/Einfache-Suche",
+            "new_acq": "Medientipps",
+            "simple_search": "Suche/Einfache-Suche"
         }
     },
     "geo": [
