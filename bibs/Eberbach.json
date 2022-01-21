@@ -10,7 +10,7 @@
     "city": "Eberbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/eberbach/",
+        "baseurl": "https://bibliotheken.komm.one/eberbach/",
         "customssl": true,
         "libopacplus": true,
         "reservation_branch_choice": true,
