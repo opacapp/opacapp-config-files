@@ -1,18 +1,19 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "sisis",
+    "api": "TouchPoint",
     "city": "N\u00fcrnberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.evhn.de/InfoGuideClient.efnsis",
+        "baseurl": "https://touchpoint.th-rosenheim.de/TouchPoint",
         "customssl": true,
-        "startparams": "Login=woefn"
+        "startparams": "View=fro",
+        "suppress_fee_warnings": true
     },
     "geo": [
         49.45203,
