@@ -10,9 +10,9 @@
     "city": "N\u00fcrnberg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://touchpoint.th-rosenheim.de/TouchPoint",
+        "baseurl": "https://opac.evhn.de/TouchPoint",
         "customssl": true,
-        "startparams": "View=fro",
+        "startparams": "View=efn",
         "suppress_fee_warnings": true
     },
     "geo": [
