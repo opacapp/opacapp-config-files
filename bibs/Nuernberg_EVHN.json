@@ -6,7 +6,7 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "TouchPoint",
+    "api": "touchpoint",
     "city": "N\u00fcrnberg",
     "country": "Deutschland",
     "data": {
