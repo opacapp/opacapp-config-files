@@ -10,13 +10,7 @@
     "city": "M\u00fcllheim",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "prolongurl": 4,
-            "returndate": 2,
-            "title": 1
-        },
-        "baseurl": "https://opac.mediathek-muellheim.de",
+        "baseurl": "https://wwwopac.komm.one/muellheim",
         "copiestable": {
             "department": 2,
             "location": 0,
@@ -35,12 +29,6 @@
             "pulpo_alleine_gross.gif": "EBOOK",
             "spielekl.gif": "BOARDGAME",
             "zeitungkl.gif": "NEWSPAPER"
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": 2,
-            "cancelurl": 3,
-            "title": 1
         }
     },
     "geo": [
