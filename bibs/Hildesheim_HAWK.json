@@ -10,8 +10,12 @@
     "city": "Hildesheim",
     "country": "Deutschland",
     "data": {
+        "account_system": "lbs",
         "baseurl": "https://opac.lbs-hildesheim.gbv.de/",
-        "db": "2"
+        "customssl": true,
+        "db": "2",
+        "libopacplus": true,
+        "suppress_fee_warnings": true
     },
     "geo": [
         52.154778,
