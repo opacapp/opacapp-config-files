@@ -10,7 +10,7 @@
     "city": "Bodelshausen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.komm.one/bodelshausen",
+        "baseurl": "https://bibliothek.komm.one/bodelshausen",
         "urls": {
             "account": "Konto",
             "advanced_search": "Mediensuche/erweiterte-Suche",
