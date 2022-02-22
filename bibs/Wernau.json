@@ -28,6 +28,7 @@
             "location": 2,
             "reservations": -1,
             "returndate": 4,
+            "signature": 1,
             "status": 3
         },
         "libopacplus": "true",
