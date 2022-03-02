@@ -10,7 +10,7 @@
     "city": "Leimen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/leimen",
+        "baseurl": "https://bibliotheken.komm.one/leimen",
         "libopacplus": true,
         "reservation_branch_choice": true,
         "reservation_copy_choice": false,
