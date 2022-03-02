@@ -10,7 +10,7 @@
     "city": "Oftersheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/oftersheim",
+        "baseurl": "https://bibliotheken.komm.one/oftersheim",
         "customssl": true,
         "libopacplus": true,
         "reservation_branch_choice": true,

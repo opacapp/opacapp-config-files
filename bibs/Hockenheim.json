@@ -10,7 +10,7 @@
     "city": "Hockenheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/hockenheim/",
+        "baseurl": "https://bibliotheken.komm./hockenheim/",
         "customssl": true,
         "libopacplus": true,
         "reservation_branch_choice": true,

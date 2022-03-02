@@ -10,7 +10,7 @@
     "city": "Heddesheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/heddesheim",
+        "baseurl": "https://bibliotheken.komm.one/heddesheim",
         "libopacplus": true,
         "urls": {
             "account": "Mein-Konto",

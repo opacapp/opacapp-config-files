@@ -10,7 +10,7 @@
     "city": "Ketsch",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/ketsch",
+        "baseurl": "https://bibliotheken.komm.one/ketsch",
         "customssl": true,
         "libopacplus": true,
         "reservation_branch_choice": true,

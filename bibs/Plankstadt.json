@@ -10,7 +10,7 @@
     "city": "Plankstadt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/plankstadt/",
+        "baseurl": "https://bibliotheken.komm.one/plankstadt/",
         "customssl": true,
         "libopacplus": true,
         "reservation_branch_choice": true,
