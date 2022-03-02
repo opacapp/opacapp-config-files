@@ -6,7 +6,7 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": false,
-    "api": "open",
+    "api": "vufind",
     "city": "W\u00fclfrath",
     "country": "Deutschland",
     "data": {

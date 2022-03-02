@@ -6,7 +6,7 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "open",
+    "api": "vufind",
     "city": "Monheim/Rhein",
     "country": "Deutschland",
     "data": {
