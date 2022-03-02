@@ -10,7 +10,7 @@
     "city": "Buchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/buchen",
+        "baseurl": "https://bibliotheken.komm.one/buchen",
         "customssl": true,
         "libopacplus": true,
         "urls": {
