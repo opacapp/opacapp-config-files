@@ -10,7 +10,7 @@
     "city": "Rastatt",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/rastatt",
+        "baseurl": "https://bibliotheken.komm.one/rastatt",
         "customssl": true,
         "urls": {
             "account": "Mein-Konto",
