@@ -10,7 +10,7 @@
     "city": "B\u00fchl",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/buehl",
+        "baseurl": "https://bibliotheken.komm.one/buehl",
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
