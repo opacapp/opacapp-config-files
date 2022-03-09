@@ -6,20 +6,38 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "open",
+    "api": "bibliotheca",
     "city": "Winnenden",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothek.komm.one/winnenden/",
-        "customssl": false,
-        "libopacplus": true,
+        "accounttable": {
+            "author": 0,
+            "barcode": -1,
+            "prolongurl": 3,
+            "returndate": 2,
+            "status": -1,
+            "title": 1
+        },
+        "baseurl": "https://wwwopac.komm.one/winnenden",
+        "copiestable": {
+            "branch": -1,
+            "department": 1,
+            "location": 2,
+            "reservations": 5,
+            "returndate": 4,
+            "status": 3
+        },
+        "libopacplus": "true",
+        "mediatypes": {
+            "ebook.gif": "EBOOK"
+        },
         "onleihe": "https://www.onleihe.de/rems-murr",
         "onleihe_libraryId": "1094",
-        "urls": {
-            "account": "mein-Konto",
-            "advanced_search": "Mediensuche/erweiterte-Suche",
-            "new_acq": "Neuheiten",
-            "simple_search": "Mediensuche/einfache-Suche"
+        "reservationtable": {
+            "author": 0,
+            "cancelurl": 3,
+            "expirationdate": 2,
+            "title": 1
         }
     },
     "geo": [
