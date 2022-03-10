@@ -10,8 +10,8 @@
     "city": "Winnenden",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliothek.komm.one/winnenden",
-        "customssl": false,
+        "baseurl": "https://bibliothek.komm.one/winnenden/",
+        "customssl": true,
         "libopacplus": true,
         "onleihe": "https://www.onleihe.de/rems-murr",
         "onleihe_libraryId": "1094",
