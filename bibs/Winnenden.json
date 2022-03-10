@@ -17,7 +17,7 @@
         "urls": {
             "account": "mein-Konto",
             "advanced_search": "Mediensuche/erweiterte-Suche",
-            "new_acq": "Neuheiten",
+            "new_acq": "Mediensuche/Neuheiten",
             "simple_search": "Mediensuche/einfache-Suche"
         }
     },
