@@ -11,7 +11,7 @@
     "country": "Deutschland",
     "data": {
         "account_system": "lbs",
-        "baseurl": "https://opac.lbs-hildesheim.gbv.de",
+        "baseurl": "https://opac.lbs-hildesheim.gbv.de/",
         "customssl": true,
         "db": "2",
         "libopacplus": true,
