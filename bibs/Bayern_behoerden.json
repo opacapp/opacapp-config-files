@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "sisis",
+    "city": "Bibliotheksverbund",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis"
+    },
+    "geo": [
+        53.0792962,
+        8.8016937
+    ],
+    "information": "http://www.bib-bvb.de/",
+    "library_id": 8840,
+    "state": "Bayern",
+    "title": "Beh\u00f6rdenbibliotheken"
+}

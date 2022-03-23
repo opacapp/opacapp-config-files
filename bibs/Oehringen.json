@@ -1,0 +1,65 @@
+{
+    "_active": true,
+    "_notice_text": "Ab dem 23. Februar ben\u00f6tigen Erwachsene f\u00fcr den B\u00fcchereibesuch einen 3G-Nachweis:\r\n\r\n- mind. 2 x geimpft (9 Monate\u00a0g\u00fcltig)\u00a0\r\n- genesen + mind. 1 x geimpft (9 Monate\u00a0Tage g\u00fcltig)\u00a0\r\n- genesen (3 Monate\u00a0g\u00fcltig)\u00a0\r\n- getestet (mit tagesaktuellem\u00a0Negativtest,\u00a0nicht \u00e4lter als 24 Stunden)\r\n\r\nErwachsene, die lediglich Medien abholen oder zur\u00fcckgeben, ben\u00f6tigen\u00a0keinen\u00a0Nachweis.\u00a0\r\nKinder und Sch\u00fcler*innen ben\u00f6tigen ebenfalls\u00a0keinen\u00a0Nachweis.\r\n\r\nWeiterhin gilt die\u00a0FFP2-Maskenpflicht und das Abstandsgebot sowie unser\u00a0Lesebr\u00fccke-Abholservice: \r\n\r\nRecherchieren oder st\u00f6bern Sie im Online-Katalog. Unter dem Button Neuerwerbungen verbergen sich \u00fcbrigens Medienlisten, sortiert nach Genre, Alter und Mediengruppe.\r\n\r\nDie bestellten Medien m\u00fcssen als \"Verf\u00fcgbar\" im Katalog notiert sein. Medien mit dem Status \"Entliehen\" (im Katalog rot angezeigt) sind momentan nicht im Haus und k\u00f6nnen somit auch nicht bestellt, sondern durch den Klick auf den Button \"Vorbestellen\" gegen Geb\u00fchr vorbestellt werden.\r\n\r\nRufen Sie uns an unter Tel. 07941 68 4200 oder schreiben Sie uns Ihre Medienw\u00fcnsche per Mail an\u00a0stadtbuecherei@oehringen.de.",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.oehringen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "\u00d6hringen",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "barcode": -1,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 5,
+            "returndate": 2,
+            "status": 3,
+            "title": 1
+        },
+        "baseurl": "https://web-opac.kivbf.de/oehringen",
+        "copiestable": {
+            "barcode": -1,
+            "branch": -1,
+            "department": 0,
+            "location": 1,
+            "reservations": -1,
+            "returndate": 3,
+            "status": 2
+        },
+        "customssl": true,
+        "libopacplus": "true",
+        "mediatypes": {
+            "BLURAY_30px.jpg": "BLURAY",
+            "Buch_30px.jpg": "BOOK",
+            "Comic_30x.jpg": "BOOK",
+            "DVD_30px.jpg": "DVD",
+            "HBUCH_30px.jpg": "AUDIOBOOK",
+            "Munzinger3k.png": "EDOC",
+            "Musik_CD_30px.jpg": "CD_MUSIC",
+            "Picto-klein.gif": "EBOOK"
+        },
+        "onleihe": "https://www.onleihe.de/heilbronn",
+        "onleihe_libraryId": "138",
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "branch": -1,
+            "cancelurl": 4,
+            "expirationdate": 3,
+            "title": 1
+        },
+        "suppress_fee_warnings": true
+    },
+    "geo": [
+        49.2005977,
+        9.5003094
+    ],
+    "information": "https://info.opacapp.net/oehringen.html",
+    "library_id": 6257,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}
