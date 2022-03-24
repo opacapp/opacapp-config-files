@@ -10,7 +10,7 @@
     "city": "Weil/Rh.",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://bibliotheken.kivbf.de/weil-am-rhein",
+        "baseurl": "https://bibliotheken.komm.one/weil-am-rhein",
         "customssl": true,
         "libopacplus": true,
         "urls": {
