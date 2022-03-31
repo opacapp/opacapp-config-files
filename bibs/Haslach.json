@@ -6,23 +6,17 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Haslach im Kinzigtal",
     "country": "Deutschland",
     "data": {
-        "accounttable": null,
-        "baseurl": "https://web-opac.kivbf.de/haslach",
-        "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": -1,
-            "location": 0,
-            "reservations": -1,
-            "returndate": 2,
-            "status": 1
-        },
+        "baseurl": "https://bibliotheken.komm.one/haslach",
         "customssl": true,
-        "reservationtable": null
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
     },
     "geo": [
         48.2757845,
