@@ -4,16 +4,13 @@
     "_plus_required": false,
     "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.heilbronn",
     "_support_contract": true,
-    "_version_required": 0,
+    "_version_required": 198,
     "account_supported": true,
     "api": "koha",
     "city": "Heilbronn",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sb-heilbronn.lmscloud.net",
-        "libopacplus": true,
-        "onleihe": "https://www.onleihe.de/heilbronn",
-        "onleihe_libraryId": "131"
+        "baseurl": "https://sb-heilbronn.lmscloud.net"
     },
     "geo": [
         49.1459589,
