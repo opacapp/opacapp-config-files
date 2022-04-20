@@ -14,7 +14,7 @@
         "customssl": true,
         "feedurl": "http://www.stadtbibliothek-bremen.de/rss/Aktuelles_aus_der_Stadtbibliothek.xml",
         "libopacplus": true,
-        "onleihe": "https://www1.onleihe.de/bremen",
+        "onleihe": "https://www.onleihe.de/bremen",
         "onleihe_libraryId": "14",
         "onleihe_singleLibrary": "yes",
         "startparams": "sourceid=ConQuery&Login=app"
