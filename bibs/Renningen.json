@@ -1,26 +1,21 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": false,
+    "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Renningen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://wwwopac.komm.one/renningen",
-        "copiestable": {
-            "barcode": -1,
-            "branch": 0,
-            "department": 2,
-            "location": 1,
-            "reservations": 6,
-            "returndate": 4,
-            "status": 3
-        },
-        "customssl": true
+        "baseurl": "https://bibliothek.komm.one/renningen",
+        "urls": {
+            "account": "Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
     },
     "geo": [
         48.767924,
