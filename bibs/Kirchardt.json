@@ -9,7 +9,13 @@
     "api": "open",
     "city": "Kirchardt",
     "country": "Deutschland",
-    "data": {},
+    "data": {
+        "baseurl": "https://bibliotheken.komm.one/open_kirchardt/",
+        "urls": {
+            "advanced_search": "Suche-Nachschlagen/Profsuche",
+            "simple_search": "Suche-Nachschlagen/Einfache-Suche"
+        }
+    },
     "geo": [
         49.2067107,
         8.9917117
