@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Gundelsheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliotheken.komm.one/gundelsheim",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": null,
+    "information": "https://bibliotheken.komm.one/gundelsheim/\u00dcber-uns/Info-Kontakt",
+    "library_id": 3486,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
