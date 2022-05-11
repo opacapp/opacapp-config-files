@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Kirchardt",
+    "country": "Deutschland",
+    "data": {},
+    "geo": [
+        49.2067107,
+        8.9917117
+    ],
+    "information": "http://info.opacapp.net/kirchardt.html",
+    "library_id": 4397,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
+}
