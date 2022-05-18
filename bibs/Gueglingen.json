@@ -9,7 +9,13 @@
     "api": "open",
     "city": "G\u00fcglingen",
     "country": "Deutschland",
-    "data": {},
+    "data": {
+        "baseurl": "https://bibliotheken.komm.one/gueglingen/",
+        "urls": {
+            "advanced_search": "Mediensuche/Erwiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
     "geo": [
         49.0666657,
         9.001378

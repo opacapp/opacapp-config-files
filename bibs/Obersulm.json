@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -10,11 +10,11 @@
     "city": "Obersulm",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bibliotheken.kivbf.de/obersulm",
+        "baseurl": "https://bibliotheken.komm.one/obersulm",
         "customssl": true,
         "urls": {
-            "advanced_search": "Mediensuche/ErweiterteSuche.aspx",
-            "simple_search": "Mediensuche/EinfacheSuche.aspx"
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
