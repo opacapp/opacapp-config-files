@@ -12,7 +12,7 @@
     "data": {
         "baseurl": "https://bibliotheken.komm.one/open_kirchardt/",
         "urls": {
-            "advanced_search": "Suche-Nachschlagen/Profsuche",
+            "advanced_search": "Suche-Nachschlagen/Profisuche",
             "simple_search": "Suche-Nachschlagen/Einfache-Suche"
         }
     },
