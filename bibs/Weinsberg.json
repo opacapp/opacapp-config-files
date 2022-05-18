@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/weinsberg",
+        "baseurl": "https://bibliotheken.komm.one/weinsberg",
         "copiestable": {
             "barcode": 4,
             "location": 0,
