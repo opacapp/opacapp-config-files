@@ -10,45 +10,11 @@
     "city": "Weinsberg",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "prolongurl": 4,
-            "returndate": 2,
-            "title": 1
-        },
         "baseurl": "https://bibliotheken.komm.one/weinsberg",
-        "copiestable": {
-            "barcode": 4,
-            "location": 0,
-            "returndate": 3,
-            "status": 2
-        },
         "customssl": true,
-        "mediatypes": {
-            "ComicS.gif": "BOOK",
-            "HALkl.gif": "BOOK",
-            "Kassettekl.gif": "AUDIO_CASSETTE",
-            "Munzinger3k.png": "EDOC",
-            "SpielS.gif": "BOARDGAME",
-            "cdkl.gif": "CD",
-            "english.gif": "UNKNOWN",
-            "kirchekl.gif": "UNKNOWN",
-            "mComput2s.gif": "UNKNOWN",
-            "mDVDS.gif": "DVD",
-            "mMusik2S.gif": "AUDIOBOOK",
-            "mMusikCDS.gif": "CD",
-            "mReise2S.gif": "BOOK",
-            "mVideoS.gif": "MOVIE",
-            "mZtgS.gif": "MAGAZINE",
-            "mono1S.gif": "BOOK",
-            "monoS.gif": "BOOK",
-            "picto-klein.gif": "EBOOK"
-        },
-        "reservationtable": {
-            "author": 0,
-            "cancelurl": 3,
-            "expirationdate": 2,
-            "title": 1
+        "urls": {
+            "advanced_search": "Mediensuche/Erwiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
