@@ -12,7 +12,7 @@
     "data": {
         "baseurl": "https://bibliotheken.komm.one/gueglingen/",
         "urls": {
-            "advanced_search": "Mediensuche/Erwiterte-Suche",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
