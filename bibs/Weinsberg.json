@@ -6,14 +6,14 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Weinsberg",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://bibliotheken.komm.one/weinsberg",
         "customssl": true,
         "urls": {
-            "advanced_search": "Mediensuche/Erwiterte-Suche",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
