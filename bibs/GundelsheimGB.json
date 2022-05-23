@@ -16,10 +16,7 @@
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
-    "geo": [
-        49.2833,
-        9.1667
-    ],
+    "geo": null,
     "information": "https://bibliotheken.komm.one/gundelsheim/\u00dcber-uns/Info-Kontakt",
     "library_id": 3486,
     "state": "Bayern",
