@@ -1,0 +1,32 @@
+{
+    "_active": true,
+    "_notice_text": "Die Stadtb\u00fccherei kann wieder ohne einen Nachweis besucht werden.\r\nDas Tragen einer FFP2-Maske in den Innenr\u00e4umen der Stadtb\u00fccherei wird empfohlen. Wir freuen uns, wenn Sie sich daf\u00fcr entscheiden!\r\nWeitere Infos finden Sie auf unserer Webseite: www.stadtbuecherei.winnenden.de",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Winnenden",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliothek.komm.one/winnenden",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/rems-murr",
+        "onleihe_libraryId": "1094",
+        "urls": {
+            "account": "mein-Konto",
+            "advanced_search": "Mediensuche/erweiterte-Suche",
+            "new_acq": "Mediensuche/Neuheiten",
+            "simple_search": "Mediensuche/einfache-Suche"
+        }
+    },
+    "geo": [
+        48.8759498,
+        9.4006842
+    ],
+    "information": "https://info.opacapp.de/winnenden.html",
+    "library_id": 8379,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}

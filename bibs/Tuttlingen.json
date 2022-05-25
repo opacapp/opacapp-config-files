@@ -1,0 +1,54 @@
+{
+    "_active": true,
+    "_notice_text": "ACHTUNG! Am Mittwoch, 13.04.2022 nur bis 16:45 Uhr ge\u00f6ffnet! Grund: Stromabschaltung wegen Kabelverlegung. F\u00fcr \u00fcberf\u00e4llige Medien wird an diesem Tag kein Vers\u00e4umnisentgelt berechnet. Bitte melden Sie sich per E-Mail oder telefonisch bei uns, sollte eine Online-Verl\u00e4ngerung nicht mehr m\u00f6glich sein.\r\n\r\n\u00d6FFNUNGSZEITEN \u00dcBER OSTERN: von Freitag,15. April bis Montag, 18. April geschlossen. \r\n\r\nST\u00d6RUNG BEI APPLE-GER\u00c4TEN: Funktion \"Alle verl\u00e4ngern\" wird ggf. nicht f\u00fcr alle Titel durchgef\u00fchrt. Falls die Verl\u00e4ngerung fehlerhaft ist, melden Sie sich per Mail oder Telefon bei uns. Alternativ k\u00f6nnen Sie Ihr Medienkonto auch \u00fcber den Browser unter https://webopac.e-tuttlingen.de/webopac07/index.asp?DB=w_biblio aufrufen und die Verl\u00e4ngerung durchf\u00fchren. \r\n\r\nNEU BEI UNS: Kostenloser Lieferservice sowie E-Reader und Tonieboxen zum Ausleihen!",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.tuttlingen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Tuttlingen",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "title": 2
+        },
+        "baseurl": "https://webopac.e-tuttlingen.de/webopac07",
+        "copiestable": {
+            "branch": 3,
+            "location": 0,
+            "returndate": 2,
+            "status": 1
+        },
+        "customssl": true,
+        "libopacplus": true,
+        "mediatypes": {
+            "eaudiokl.gif": "MP3",
+            "ebookkl.gif": "EBOOK",
+            "epaperkl.gif": "EDOC",
+            "evideokl.gif": "EVIDEO",
+            "mCDRomS.gif": "CD_SOFTWARE",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mFilmS.gif": "MOVIE"
+        },
+        "onleihe": "https://www1.onleihe.de/schwalbe",
+        "onleihe_libraryId": "645",
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
+    },
+    "geo": [
+        47.9835799,
+        8.8168575
+    ],
+    "information": "https://info.opacapp.net/tuttlingen.html",
+    "library_id": 7717,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}
