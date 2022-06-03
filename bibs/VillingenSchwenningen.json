@@ -20,7 +20,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://opac.villingen-schwenningen.de/wwwopac",
+        "baseurl": "https://sb-villschwenn.lmscloud.net/cgi-bin/koha/opac-main.pl",
         "copiestable": {
             "barcode": -1,
             "branch": 0,
