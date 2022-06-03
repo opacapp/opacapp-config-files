@@ -13,7 +13,7 @@
         "baseurl": "https://bibliothek.komm.one/ellwangen",
         "customssl": true,
         "urls": {
-            "account": "Leserkonto",
+            "account": "",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
