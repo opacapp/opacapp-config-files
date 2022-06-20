@@ -20,7 +20,7 @@
             "status": 6,
             "title": 8
         },
-        "baseurl": "http://biber-kwh.kdrs.de",
+        "baseurl": "https://biber-kwh.kdrs.de",
         "copiestable": {
             "barcode": 2,
             "branch": -1,
@@ -56,7 +56,7 @@
         48.8651088,
         9.1857957
     ],
-    "information": "http://www.das-k.info/stadtbuecherei.html",
+    "information": "https://www.das-k.info/stadtbuecherei.html",
     "library_id": 4535,
     "state": "Baden-W\u00fcrttemberg",
     "title": "Stadtb\u00fccherei"
