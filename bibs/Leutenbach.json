@@ -10,8 +10,7 @@
     "city": "Leutenbach",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://gb-leutenbach.lmscloud.net",
-        "disable_covers": true
+        "baseurl": "https://gb-leutenbach.lmscloud.net"
     },
     "geo": [
         48.8879254,
