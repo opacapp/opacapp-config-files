@@ -17,7 +17,7 @@
         "onleihe": "https://www.onleihe.com/wien",
         "onleihe_libraryId": "177",
         "onleihe_singleLibrary": "yes",
-        "suppress_fee_warnings": true,
+        "suppress_fee_warnings": false,
         "urls": {
             "account": "Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
