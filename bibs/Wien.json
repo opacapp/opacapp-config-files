@@ -10,14 +10,14 @@
     "city": "Wien",
     "country": "\u00d6sterreich",
     "data": {
-        "account_skip_prolongability": true,
+        "account_skip_prolongability": false,
         "baseurl": "https://buechereien.wien.gv.at",
         "customssl": true,
         "libopacplus": true,
         "onleihe": "https://www.onleihe.com/wien",
         "onleihe_libraryId": "177",
         "onleihe_singleLibrary": "yes",
-        "suppress_fee_warnings": false,
+        "suppress_fee_warnings": true,
         "urls": {
             "account": "Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
