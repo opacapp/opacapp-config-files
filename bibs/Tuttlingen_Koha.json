@@ -6,10 +6,12 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "Koha",
     "city": "Tuttlingen",
     "country": "Deutschland",
-    "data": {},
+    "data": {
+        "baseurl": "https://sb-tuttlingen.lmscloud.net"
+    },
     "geo": [
         47.9835799,
         8.8168575
