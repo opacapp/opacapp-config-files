@@ -10,7 +10,10 @@
     "city": "Tuttlingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sb-tuttlingen.lmscloud.net"
+        "baseurl": "https://sb-tuttlingen.lmscloud.net",
+        "libopacplus": true,
+        "onleihe": "https://www1.onleihe.de/schwalbe",
+        "onleihe_libraryId": "645"
     },
     "geo": [
         47.9835799,
