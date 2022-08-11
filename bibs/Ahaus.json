@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Ahaus",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.ahaus.de",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        52.0814352,
+        7.0032092
+    ],
+    "information": "https://www.ahaus.de/stadtbibliothek.0.html",
+    "library_id": 9289,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}

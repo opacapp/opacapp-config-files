@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Peiting",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/peiting",
+        "customssl": true
+    },
+    "geo": [
+        47.79334,
+        10.9307
+    ],
+    "information": "https://www.peiting.de/freizeit/kultur-und-bildung/buecherei",
+    "library_id": 6295,
+    "state": "Bayern",
+    "title": "Gemeinde- und Pfarrb\u00fccherei"
+}

@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "adis",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.voebb.de/aDISWeb/app",
+        "customssl": true,
+        "startparams": "service=direct/0/Home/$DirectLink&sp=SPROD00"
+    },
+    "geo": [
+        52.5200066,
+        13.404954
+    ],
+    "information": "http://service.berlin.de/stadtbibliotheken/",
+    "library_id": 8852,
+    "state": "Berlin",
+    "title": "VOeBB"
+}

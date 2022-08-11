@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Obersulm",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliotheken.komm.one/obersulm",
+        "customssl": true,
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        49.138069,
+        9.3720165
+    ],
+    "information": "http://bibliotheken.kivbf.de/obersulm/%C3%9Cberuns/Kontakt.aspx",
+    "library_id": 6086,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Gemeindeb\u00fccherei"
+}
