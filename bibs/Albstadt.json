@@ -6,10 +6,22 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Albstadt",
     "country": "Deutschland",
-    "data": {},
+    "data": {
+        "baseurl": "https://bibliothek.komm.one/plankstadt/",
+        "customssl": true,
+        "libopacplus": true,
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Konto",
+            "advanced_search": "Mediensuche/erweiterte-Suche",
+            "new_acq": "Mediensuche/Neue-Medien/f\u00fcr-Erwachsene",
+            "simple_search": "Mediensuche/einfache-Suche"
+        }
+    },
     "geo": [
         48.2089,
         9.03233
