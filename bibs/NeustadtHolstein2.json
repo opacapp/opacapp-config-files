@@ -1,0 +1,26 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.neustadtholstein",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "koha",
+    "city": "Neustadt in Holstein",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://sb-neustadt-holst.lmscloud.net",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/schleswig_holstein",
+        "onleihe_libraryId": "854"
+    },
+    "geo": [
+        54.1053769,
+        10.8157308
+    ],
+    "information": "https://info.opacapp.de/neustadt.html",
+    "library_id": 5863,
+    "state": "Schleswig-Holstein",
+    "title": "Stadtb\u00fccherei"
+}
