@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "W\u00fcrzburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.winbiap.net/wuerzburg/",
+        "customssl": true
+    },
+    "geo": [
+        49.79496,
+        9.93017
+    ],
+    "information": "https://www.wuerzburg.de/themen/kultur-bildung-kulturangebot/stadtbuecherei/index.html",
+    "library_id": 58,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}

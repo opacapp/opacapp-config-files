@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "G\u00fcglingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibliotheken.komm.one/gueglingen/",
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        49.0666657,
+        9.001378
+    ],
+    "information": "http://info.opacapp.net/gueglingen.html",
+    "library_id": 3501,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Mediothek"
+}
