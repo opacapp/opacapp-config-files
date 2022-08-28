@@ -1,0 +1,62 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "biber1992",
+    "city": "\u00dcberlingen",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 8,
+            "barcode": 4,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "status": 9,
+            "title": 8
+        },
+        "baseurl": "http://ueberlingen.bibdia-hosts.de",
+        "copiestable": {
+            "barcode": 2,
+            "branch": -1,
+            "department": 1,
+            "location": 1,
+            "reservations": -1,
+            "returndate": -1,
+            "status": 4
+        },
+        "disguise": true,
+        "mediatypes": {
+            "1": "BOOK",
+            "10": "MAP",
+            "11": "DVD",
+            "17": "GAME_CONSOLE",
+            "19": "BOOK",
+            "2": "MAGAZINE",
+            "20": "AUDIOBOOK",
+            "3": "CD_SOFTWARE",
+            "6": "CD_MUSIC",
+            "9": "BOARDGAME"
+        },
+        "opacdir": "opax",
+        "searchtable": [
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    "geo": [
+        47.76766,
+        9.15841
+    ],
+    "information": "http://www2.ueberlingen.de/stadtbuecherei/",
+    "library_id": 56,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}
