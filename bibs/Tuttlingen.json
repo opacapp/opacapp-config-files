@@ -6,14 +6,42 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "koha",
+    "api": "bibliotheca",
     "city": "Tuttlingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sb-tuttlingen.lmscloud.net",
+        "accounttable": {
+            "author": 1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "title": 2
+        },
+        "baseurl": "https://webopac.e-tuttlingen.de/webopac07",
+        "copiestable": {
+            "branch": 3,
+            "location": 0,
+            "returndate": 2,
+            "status": 1
+        },
+        "customssl": true,
         "libopacplus": true,
+        "mediatypes": {
+            "eaudiokl.gif": "MP3",
+            "ebookkl.gif": "EBOOK",
+            "epaperkl.gif": "EDOC",
+            "evideokl.gif": "EVIDEO",
+            "mCDRomS.gif": "CD_SOFTWARE",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mFilmS.gif": "MOVIE"
+        },
         "onleihe": "https://www1.onleihe.de/schwalbe",
-        "onleihe_libraryId": "645"
+        "onleihe_libraryId": "645",
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
     },
     "geo": [
         47.9835799,
