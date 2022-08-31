@@ -10,7 +10,7 @@
     "city": "Verden",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://stadtbibliothek-verden.de",
+        "baseurl": "https://stadtbibliothek-verden.de",
         "urls": {
             "account": "Meine-Bibliothek",
             "advanced_search": "Recherche",
