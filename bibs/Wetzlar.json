@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Wetzlar",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://open.wetzlar.de",
+        "urls": {
+            "advanced_search": "de-de/Mediensuche/Erweiterte-Suche",
+            "simple_search": "de-de/Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        50.55529,
+        8.5018
+    ],
+    "information": "http://www.bibliotheksverband.de/landesverbaende/hessen/mitglieder.html?tx_3pcdbvmemberdb_pi1%5Bview%5D=details&tx_3pcdbvmemberdb_pi1%5Bid%5D=1531036&cHash=14b9dba8c8",
+    "library_id": 8297,
+    "state": "Hessen",
+    "title": "Stadtbibliothek"
+}
