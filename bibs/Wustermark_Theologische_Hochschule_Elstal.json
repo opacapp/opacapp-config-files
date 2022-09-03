@@ -1,0 +1,45 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Wustermark",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 3,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "https://elstal.cidoli.de",
+        "copiestable": {
+            "branch": 3,
+            "department": 1,
+            "location": 0,
+            "status": 2
+        },
+        "mediatypes": {
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE"
+        },
+        "reservationtable": {
+            "author": 0,
+            "cancelurl": 2,
+            "title": 1
+        }
+    },
+    "geo": [
+        52.5432634,
+        13.0036846
+    ],
+    "information": "https://www.th-elstal.de/hochschule/studienangebot/bibliothek/",
+    "library_id": 9373,
+    "state": "Brandenburg",
+    "title": "Theologische Hochschule Elstal"
+}

@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "Coburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://open.coburg.de",
+        "urls": {
+            "advanced_search": "MedienSUCHE/ErweiterteSuche.aspx",
+            "simple_search": "MedienSUCHE/EinfacheSuche.aspx"
+        }
+    },
+    "geo": [
+        50.2583786,
+        10.9666434
+    ],
+    "information": "http://www.coburg.de/Subportale/stadtbuecherei.aspx",
+    "library_id": 2126,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
