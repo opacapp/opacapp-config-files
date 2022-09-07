@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "Bad Zurzach",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.winmedio.ch/zurzach"
+    },
+    "geo": [
+        47.5858932,
+        8.2919577
+    ],
+    "information": "http://www.bibliothek-zurzach.ch/",
+    "library_id": 8833,
+    "state": "Aargau",
+    "title": "Fleckenbibliothek"
+}
