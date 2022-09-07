@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": "Noch kein aktueller Hinweis",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Speyer",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://speyer.bibliotheca-open.de",
+        "libopacplus": true,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        49.32158,
+        8.43017
+    ],
+    "information": "https://info.opacapp.net/speyer.html",
+    "library_id": 8774,
+    "state": "Rheinland-Pfalz",
+    "title": "Stadtbibliothek"
+}

@@ -1,0 +1,29 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "primo",
+    "city": "Torino",
+    "country": "Italia",
+    "data": {
+        "baseurl": "http://unito-tutto.hosted.exlibrisgroup.com/primo_library/libweb",
+        "db": "unito",
+        "languages": [
+            "it",
+            "fr",
+            "en"
+        ]
+    },
+    "geo": [
+        45.0683671,
+        7.687102
+    ],
+    "information": "https://www.unito.it/ateneo/strutture-e-sedi/strutture/biblioteche",
+    "library_id": 9366,
+    "state": "Piemonte",
+    "title": "Biblioteche universitarie (TUTTO)"
+}
