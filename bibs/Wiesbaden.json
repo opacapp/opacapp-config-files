@@ -19,7 +19,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "https://bond.wiesbaden.de",
+        "baseurl": "https://bond.wiesbaden.de/webopac",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
