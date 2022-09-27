@@ -10,7 +10,7 @@
     "city": "Friedrichshafen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://medienkatalog.friedrichshafen.de"
+        "baseurl": "https://opac.winbiap.net/medienhaus-fn/"
     },
     "geo": [
         47.6499,
