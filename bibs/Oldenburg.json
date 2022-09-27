@@ -10,7 +10,7 @@
     "city": "Oldenburg",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://bibliothek.stadt-oldenburg.de",
+        "baseurl": "https://opac.oldenburg.de",
         "copiestable": {
             "barcode": 3,
             "branch": 1,
