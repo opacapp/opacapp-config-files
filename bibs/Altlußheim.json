@@ -32,7 +32,10 @@
         },
         "customssl": true
     },
-    "geo": null,
+    "geo": [
+        49.2997,
+        8.5
+    ],
     "information": "https://info.smartbib.de/altlussheim.html",
     "library_id": 9390,
     "state": "Baden-W\u00fcrttemberg",
