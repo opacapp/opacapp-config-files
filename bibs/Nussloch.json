@@ -10,7 +10,7 @@
     "city": "Nu\u00dfloch",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://web-opac.kivbf.de/nussloch",
+        "baseurl": "https://web-opac.komm.one/nussloch",
         "copiestable": {
             "barcode": -1,
             "branch": -1,

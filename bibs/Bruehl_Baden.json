@@ -20,7 +20,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/bruehl",
+        "baseurl": "https://web-opac.komm.one/bruehl",
         "copiestable": {
             "barcode": -1,
             "branch": -1,

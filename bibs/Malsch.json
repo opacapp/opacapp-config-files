@@ -20,7 +20,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/malsch",
+        "baseurl": "https://web-opac.komm.one/malsch",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
