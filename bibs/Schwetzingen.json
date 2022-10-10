@@ -20,7 +20,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/schwetzingen",
+        "baseurl": "https://web-opac.komm.one/schwetzingen",
         "copiestable": {
             "barcode": -1,
             "branch": 0,

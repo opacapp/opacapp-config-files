@@ -20,7 +20,7 @@
             "status": -1,
             "title": 1
         },
-        "baseurl": "https://web-opac.kivbf.de/obrigheim",
+        "baseurl": "https://web-opac.komm.one/obrigheim",
         "copiestable": {
             "barcode": -1,
             "branch": -1,
