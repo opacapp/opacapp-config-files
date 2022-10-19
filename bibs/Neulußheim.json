@@ -6,31 +6,16 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Neulu\u00dfheim",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "barcode": -1,
-            "homebranch": -1,
-            "lendingbranch": -1,
-            "prolongurl": 3,
-            "returndate": 2,
-            "status": -1,
-            "title": 1
-        },
         "baseurl": "https://bibliotheken.komm.one/neulussheim",
-        "copiestable": {
-            "barcode": -1,
-            "branch": -1,
-            "department": 3,
-            "location": 1,
-            "reservations": -1,
-            "returndate": 2,
-            "status": 0
-        },
-        "customssl": true
+        "libopacplus": true,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche"
+        }
     },
     "geo": null,
     "information": "https://info.smartbib.de/neulussheim.html",
