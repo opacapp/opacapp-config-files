@@ -6,39 +6,11 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "koha",
     "city": "Bietigheim-Bissingen",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 1,
-            "barcode": -1,
-            "homebranch": 0,
-            "lendingbranch": 0,
-            "prolongurl": 5,
-            "returndate": 3,
-            "status": -1,
-            "title": 2
-        },
-        "baseurl": "https://wwwopac.komm.one/bietigheim-bissingen",
-        "copiestable": {
-            "barcode": -1,
-            "branch": 1,
-            "department": 4,
-            "location": 3,
-            "reservations": 5,
-            "returndate": 2,
-            "status": 0
-        },
-        "customssl": true,
-        "reservationtable": {
-            "author": 1,
-            "availability": 4,
-            "branch": 0,
-            "cancelurl": 5,
-            "expirationdate": -1,
-            "title": 2
-        }
+        "baseurl": "https://sb-bietigheim-bissingen.lmscloud.net"
     },
     "geo": [
         48.9596794,
