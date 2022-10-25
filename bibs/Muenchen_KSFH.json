@@ -10,7 +10,7 @@
     "city": "M\u00fcnchen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.ksh-m.de/InfoGuideClient.kshsis/start.do?Login=wokshmue",
+        "baseurl": "https://opac.ksh-m.de/InfoGuideClient.kshsis",
         "startparams": "Login=wokshmue"
     },
     "geo": [
