@@ -10,7 +10,7 @@
     "city": "Meckesheim",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.winbiap.net/walldorf",
+        "baseurl": "https://opac.winbiap.net/meckesheim",
         "customssl": true
     },
     "geo": [
