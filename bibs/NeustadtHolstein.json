@@ -1,0 +1,26 @@
+{
+    "_active": true,
+    "_notice_text": "# **Nach der Buchmesse**\r\nAuf Einladung der **Buchhandlung Buchstabe am Markt** und der **Stadtb\u00fccherei** stellt die Dipl.Bibliothekarin **Stefanie Oeding** ausgew\u00e4hlte Romane und Sachb\u00fccher aus den Herbstneuerscheinungen vor. Sie sichtet auch den Buchmarkt rund um die Ukraine und wirft einen Blick in die Feuilletons und auf Preisverleihungen.  \r\nFreuen Sie sich mit uns auf einen spannenden und entdeckungsreichen Abend in der Stadtb\u00fccherei Neustadt. Der Eintritt kostet 10,00 Euro. Karten im Vorverkauf gibt es in der Buchhandlung Buchstabe am Markt und oder an der Abendkasse.",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.neustadtholstein",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "koha",
+    "city": "Neustadt in Holstein",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://sb-neustadt-holst.lmscloud.net",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/schleswig_holstein",
+        "onleihe_libraryId": "854"
+    },
+    "geo": [
+        54.1053769,
+        10.8157308
+    ],
+    "information": "https://info.opacapp.de/neustadt.html",
+    "library_id": 5863,
+    "state": "Schleswig-Holstein",
+    "title": "Stadtb\u00fccherei"
+}

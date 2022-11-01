@@ -1,0 +1,24 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Untermeitingen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/untermeitingen",
+        "customssl": true
+    },
+    "geo": [
+        48.1622916,
+        10.8115479
+    ],
+    "information": "http://www.lechfeld.de/index.php?id=0,55",
+    "library_id": 7783,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
