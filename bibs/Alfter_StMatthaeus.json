@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -16,7 +16,7 @@
             "returndate": 2,
             "title": 1
         },
-        "baseurl": "http://87.139.71.230/webopac",
+        "baseurl": "https://opac.buecherei-alfter.de/webopac",
         "copiestable": {
             "barcode": 0,
             "department": 2,
@@ -40,7 +40,7 @@
         50.7380202,
         7.0086792
     ],
-    "information": "http://www.buecherei-alfter.de/",
+    "information": "https://www.buecherei-alfter.de/",
     "library_id": 951,
     "state": "Nordrhein-Westfalen",
     "title": "\u00d6ffentliche Bibliothek St. Matth\u00e4us"
