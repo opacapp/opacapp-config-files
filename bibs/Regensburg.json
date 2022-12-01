@@ -6,16 +6,10 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "adis",
+    "api": "biber1992",
     "city": "Regensburg",
     "country": "Deutschland",
-    "data": {
-        "baseurl": "https://srv17.regensburg.de/aDISWeb/app",
-        "libopacplus": true,
-        "reservation_notification_enabled": true,
-        "startparams": "service=direct/0/Home/$DirectLink&sp=SOPAC",
-        "suppress_fee_warnings": true
-    },
+    "data": {},
     "geo": [
         49.01997,
         12.09316
