@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "zones",
+    "city": "Hamburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://zones.buecherhallen.de/alswww2.dll"
+    },
+    "geo": [
+        53.54964,
+        10.0078102
+    ],
+    "information": "http://www.buecherhallen.de/standorte",
+    "library_id": 8800,
+    "state": "Hamburg",
+    "title": "B\u00fccherhallen"
+}

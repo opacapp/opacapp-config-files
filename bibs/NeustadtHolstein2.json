@@ -1,0 +1,26 @@
+{
+    "_active": true,
+    "_notice_text": "# **B\u00fccherbutscher - neues Angebot f\u00fcr Kinder unter drei Jahren mit ihren Eltern - jeden Mittwoch von 9.30 bis 11.00 Uhr**\r\nZum Vor-Lesen ist es nie zu fr\u00fch! In diesem Angebot entdecken Kinder und Eltern spielerisch und mit allen Sinnen die Welt der B\u00fccher. Die Kursteilnehmer*innen lernen neben B\u00fcchern zu bestimmten Themen (z.B. Ern\u00e4hrung, Tiere, Farben, Schlafen) Reime, Bewegungslieder und Kniereiter kennen. Dabei werden spielerisch die Sprachkompetenz, der Wortschatz und die Motorik der Kinder gef\u00f6rdert. Durch das gemeinsame Bilderbuchbetrachten und Sprachspiele wird zudem der Grundstein f\u00fcr die Lesefreude und -kompetenz gelegt. Neben festen Ritualen bleibt gen\u00fcgend Zeit zum Freispiel und Austausch. Die Entdeckungslust und der Forscherdrang der Kinder stehen im Vordergrund.\r\nDie Teilnehmerzahl f\u00fcr das kostenfreie Angebot ist begrenzt. Es wird um verbindliche Anmeldung telefonisch unter 619-610 oder per Mail an buecherei@stadt-neustadt.de gebeten.\r\nTermine: 30.11., 7.12. und 14.12.",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.neustadtholstein",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "koha",
+    "city": "Neustadt in Holstein",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://sb-neustadt-holst.lmscloud.net",
+        "libopacplus": true,
+        "onleihe": "https://www.onleihe.de/schleswig_holstein",
+        "onleihe_libraryId": "854"
+    },
+    "geo": [
+        54.1053769,
+        10.8157308
+    ],
+    "information": "https://info.opacapp.de/neustadt.html",
+    "library_id": 5863,
+    "state": "Schleswig-Holstein",
+    "title": "Stadtb\u00fccherei"
+}
