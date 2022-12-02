@@ -10,7 +10,7 @@
     "city": "B\u00fcnde",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://buende.bibliotheken-in-owl.de",
+        "baseurl": "https://buende.bibliotheca-open.de",
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",

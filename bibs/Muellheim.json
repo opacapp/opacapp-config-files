@@ -6,29 +6,15 @@
     "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "M\u00fcllheim",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://bibliothek.komm.one/muellheim",
-        "copiestable": {
-            "department": 2,
-            "location": 0,
-            "returndate": 4,
-            "status": 3
-        },
-        "mediatypes": {
-            "Kinderbuchklein.gif": "BOOK",
-            "MCOMIC1.jpg": "BOOK",
-            "Romane.gif": "BOOK",
-            "Sachbuch.gif": "BOOK",
-            "cdkl.gif": "CD",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVD2.gif": "DVD",
-            "mNoten3S.gif": "SCORE_MUSIC",
-            "pulpo_alleine_gross.gif": "EBOOK",
-            "spielekl.gif": "BOARDGAME",
-            "zeitungkl.gif": "NEWSPAPER"
+        "urls": {
+            "account": "Leserkonto/Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [
