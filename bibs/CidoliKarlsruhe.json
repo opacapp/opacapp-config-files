@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Nordrhein-Westfalen",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://baden.cidoli.de/webopac/index.asp?DB=w_karlsr",
+        "customssl": false
+    },
+    "geo": null,
+    "information": "http://info.opacapp.net/cidolikarlsruhe.html",
+    "library_id": 9391,
+    "state": "Nordrhein-Westfalen",
+    "title": "Cidoli"
+}
