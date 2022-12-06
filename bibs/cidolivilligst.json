@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "",
+    "country": "",
+    "data": {
+        "baseurl": "https://mz-villigst.cidoli.de/webopac/index.asp?DB=w_villmz",
+        "customssl": false
+    },
+    "geo": null,
+    "information": "http://info.opacapp.net/cidolivilligst.html",
+    "library_id": 9394,
+    "state": "",
+    "title": "Cidoli V"
+}
