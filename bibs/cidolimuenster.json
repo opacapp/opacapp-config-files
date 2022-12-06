@@ -1,0 +1,21 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "",
+    "country": "",
+    "data": {
+        "baseurl": "https://ekvw.cidoli.de/webopac/index.asp?db=w_muenster",
+        "customssl": false
+    },
+    "geo": null,
+    "information": "http://info.opacapp.net/cidolimuenster.html",
+    "library_id": 9392,
+    "state": "",
+    "title": "Cidoli M"
+}
