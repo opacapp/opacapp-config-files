@@ -10,9 +10,9 @@
     "city": "Nordrhein-Westfalen",
     "country": "Deutschland",
     "data": {
-        "DB": "w_karlsr",
         "baseurl": "https://baden.cidoli.de/webopac/",
-        "customssl": false
+        "customssl": false,
+        "db": "w_karlsr"
     },
     "geo": [
         49.1,
