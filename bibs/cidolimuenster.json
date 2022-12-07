@@ -10,8 +10,9 @@
     "city": "",
     "country": "",
     "data": {
-        "baseurl": "https://ekvw.cidoli.de/webopac/index.asp?db=w_muenster",
-        "customssl": false
+        "baseurl": "https://ekvw.cidoli.de/webopac/",
+        "customssl": false,
+        "db": "w_muenster"
     },
     "geo": null,
     "information": "http://info.opacapp.net/cidolimuenster.html",

@@ -10,8 +10,9 @@
     "city": "",
     "country": "",
     "data": {
-        "baseurl": "https://mz-villigst.cidoli.de/webopac/index.asp?DB=w_villmz",
-        "customssl": false
+        "baseurl": "https://mz-villigst.cidoli.de/webopac/",
+        "customssl": false,
+        "db": "w_villmz"
     },
     "geo": null,
     "information": "http://info.opacapp.net/cidolivilligst.html",

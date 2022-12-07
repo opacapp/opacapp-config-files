@@ -10,8 +10,9 @@
     "city": "Nordrhein-Westfalen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://baden.cidoli.de/webopac/index.asp?DB=w_karlsr",
-        "customssl": false
+        "baseurl": "https://baden.cidoli.de/webopac/",
+        "customssl": false,
+        "db": "w_karlsr"
     },
     "geo": null,
     "information": "http://info.opacapp.net/cidolikarlsruhe.html",
