@@ -14,7 +14,10 @@
         "customssl": false,
         "db": "w_villmz"
     },
-    "geo": null,
+    "geo": [
+        51.43,
+        7.6
+    ],
     "information": "http://info.opacapp.net/cidolivilligst.html",
     "library_id": 9394,
     "state": "",

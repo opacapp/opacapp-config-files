@@ -14,7 +14,10 @@
         "baseurl": "https://baden.cidoli.de/webopac/",
         "customssl": false
     },
-    "geo": null,
+    "geo": [
+        49.1,
+        8.4
+    ],
     "information": "http://info.opacapp.net/cidolikarlsruhe.html",
     "library_id": 9391,
     "state": "Nordrhein-Westfalen",
