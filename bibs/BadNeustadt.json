@@ -12,9 +12,8 @@
     "data": {
         "baseurl": "https://www.stadtbibliothek-nes.de/",
         "libopacplus": true,
-        "newacq": "/neue-medien",
-        "onleihe": "https://www.onleihe.de/lb",
-        "onleihe_libraryId": "76"
+        "onleihe": "https://franken.onleihe.de/verbund_franken",
+        "onleihe_libraryId": "347"
     },
     "geo": null,
     "information": "https://www.bad-neustadt.de/kultur-bildung/bibliothek-archiv/bibliothek/",
