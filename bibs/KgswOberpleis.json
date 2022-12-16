@@ -1,6 +1,6 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
@@ -47,7 +47,7 @@
         50.71,
         7.277778
     ],
-    "information": "http://www.bibliothek-oberpleis.de/bibliothek/page_oeffnungszeiten/infobereich.html",
+    "information": "https://www.bibliothek-oberpleis.de/",
     "library_id": 4635,
     "state": "Nordrhein-Westfalen",
     "title": "\u00d6ffentliche Bibliothek"
