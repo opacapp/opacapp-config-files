@@ -21,13 +21,16 @@
             "status": 3
         },
         "mediatypes": {
-            "1": "BOOK",
+            "1": "GAME",
             "11": "DVD",
+            "17": "AUDIOBOOK",
             "19": "BOOK",
             "2": "MAGAZINE",
-            "20": "AUDIOBOOK",
+            "22": "TONIES",
             "3": "CD_SOFTWARE",
             "30": "EBOOK",
+            "31": "EAUDIO",
+            "4": "DVD",
             "6": "CD",
             "8": "SCORE_MUSIC",
             "9": "BOARDGAME"
