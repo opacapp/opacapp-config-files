@@ -10,7 +10,7 @@
     "city": "Detmold",
     "country": "Deutschland",
     "data": {
-        "baseurl": "http://katalog.llb-detmold.de/webOPACClient_sisis"
+        "baseurl": "https://katalog.llb-detmold.de/webOPACClient_sisis"
     },
     "geo": [
         51.9384783,
