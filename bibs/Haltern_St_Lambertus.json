@@ -21,7 +21,10 @@
             "status": 3
         }
     },
-    "geo": null,
+    "geo": [
+        51.71393,
+        7.09786
+    ],
     "information": "https://webopac.bistum-muenster.de/lippramsdorf/index.asp",
     "library_id": 3580,
     "state": "Nordrhein-Westfalen",
