@@ -10,7 +10,7 @@
     "city": "Dillingen/Donau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://www.stadtbuecherei-dlg.de",
+        "baseurl": "https://www.stadtbuecherei-dlg.de/en",
         "libopacplus": true,
         "newacq": "/neue-medien"
     },
