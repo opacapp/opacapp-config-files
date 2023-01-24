@@ -10,7 +10,7 @@
     "city": "Dillingen/Donau",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://www.stadtbuecherei-dlg.de/web/arena",
+        "baseurl": "https://www.stadtbuecherei-dlg.de",
         "libopacplus": true,
         "newacq": "/neue-medien"
     },
