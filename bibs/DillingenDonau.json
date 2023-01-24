@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "arena",
+    "city": "Dillingen/Donau",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.stadtbuecherei-dlg.de/web/arena",
+        "libopacplus": true,
+        "newacq": "/neue-medien"
+    },
+    "geo": [
+        48.5790918,
+        10.4940239
+    ],
+    "information": "https://stadtbuecherei-dlg.de",
+    "library_id": 2276,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}
