@@ -1,0 +1,60 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "BIBDIA",
+    "city": "Bad Neustadt/S",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 8,
+            "barcode": 4,
+            "homebranch": -1,
+            "lendingbranch": -1,
+            "prolongurl": 4,
+            "returndate": 3,
+            "status": 6,
+            "title": 8
+        },
+        "baseurl": "http://badneustadt.bibdia-hosts.de",
+        "copiestable": {
+            "barcode": 2,
+            "branch": -1,
+            "department": -1,
+            "location": 0,
+            "reservations": -1,
+            "returndate": -1,
+            "status": 3
+        },
+        "mediatypes": {
+            "1": "BOOK",
+            "10": "MAP",
+            "11": "DVD",
+            "19": "BOOK",
+            "2": "MAGAZINE",
+            "24": "GAME_CONSOLE_PLAYSTATION",
+            "25": "GAME_CONSOLE_WII",
+            "26": "GAME_CONSOLE_NINTENDO",
+            "3": "CD_SOFTWARE",
+            "40": "EBOOK",
+            "5": "AUDIO_CASSETTE",
+            "6": "CD",
+            "9": "BOARDGAME"
+        },
+        "opacdir": "opax",
+        "searchtable": [
+            2,
+            3,
+            4
+        ]
+    },
+    "geo": null,
+    "information": "https://www.bad-neustadt.de/kultur-bildung/bibliothek-archiv/bibliothek/",
+    "library_id": 30,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}

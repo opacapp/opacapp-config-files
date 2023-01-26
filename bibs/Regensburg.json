@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "Bitte beachten Sie die Aktuellen \u00d6ffnungszeiten unter Allgemeine Informationen !",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "adis",
+    "city": "Regensburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://srv17.regensburg.de/aDISWeb/app",
+        "libopacplus": true,
+        "reservation_notification_enabled": true,
+        "startparams": "service=direct/0/Home/$DirectLink&sp=SOPAC",
+        "suppress_fee_warnings": true
+    },
+    "geo": [
+        49.01997,
+        12.09316
+    ],
+    "information": "http://www.regensburg.de/stadtbuecherei",
+    "library_id": 55,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}

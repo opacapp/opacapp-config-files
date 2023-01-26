@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "webopac.net",
+    "city": "R\u00fcmlang",
+    "country": "Schweiz",
+    "data": {
+        "baseurl": "http://www.bibliotheken-zh.ch/Ruemlang"
+    },
+    "geo": [
+        47.4499022,
+        8.5311569
+    ],
+    "information": "http://www.bibliothek-ruemlang.ch/",
+    "library_id": 9158,
+    "state": "Z\u00fcrich",
+    "title": "Gemeindebibliothek"
+}

@@ -1,0 +1,58 @@
+{
+    "_active": true,
+    "_notice_text": null,
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Wesseling",
+    "country": "Deutschland",
+    "data": {
+        "accounttable": {
+            "author": 0,
+            "prolongurl": 3,
+            "returndate": 2,
+            "title": 1
+        },
+        "baseurl": "http://buecherei.wesseling.de/webopac",
+        "copiestable": {
+            "barcode": 0,
+            "branch": 4,
+            "department": 2,
+            "location": 1,
+            "returndate": 5,
+            "status": 3
+        },
+        "mediatypes": {
+            "CDkl.gif": "CD_SOFTWARE",
+            "DVDkl.gif": "CD_SOFTWARE",
+            "Mono1S.gif": "EDOC",
+            "eAudiokl.gif": "EAUDIO",
+            "eBookkl.gif": "EBOOK",
+            "kartekl.gif": "MAP",
+            "mCasetteS.gif": "AUDIO_CASSETTE",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE",
+            "mMalenS.gif": "ART",
+            "mZtgS.jpg": "MAGAZINE",
+            "monooS.gif": "BOOK",
+            "wuerfelkl.gif": "BOARDGAME"
+        },
+        "reservationtable": {
+            "author": 0,
+            "availability": 2,
+            "cancelurl": 3,
+            "title": 1
+        }
+    },
+    "geo": [
+        50.8247018,
+        6.9815373
+    ],
+    "information": "http://www.stadtbuecherei-wesseling.de/index.php",
+    "library_id": 8265,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
