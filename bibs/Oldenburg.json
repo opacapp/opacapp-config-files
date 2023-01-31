@@ -20,6 +20,7 @@
             "returndate": -1,
             "status": 4
         },
+        "libopacplus": true,
         "mediatypes": {
             "1": "BOOK",
             "10": "BOARDGAME",
