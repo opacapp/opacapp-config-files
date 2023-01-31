@@ -36,6 +36,8 @@
             "8": "MOVIE",
             "9": "DVD"
         },
+        "mopax": true,
+        "mopaxdir": "mopax",
         "opacdir": "opax",
         "searchtable": [
             2,
