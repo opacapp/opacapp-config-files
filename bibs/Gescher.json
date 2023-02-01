@@ -9,7 +9,18 @@
     "api": "open",
     "city": "Gescher",
     "country": "Deutschland",
-    "data": {},
+    "data": {
+        "baseurl": "https://opacportal.bistum-muenster.de/gescher",
+        "customssl": false,
+        "libopacplus": true,
+        "reservation_branch_choice": false,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
     "geo": [
         51.957027,
         7.001665
