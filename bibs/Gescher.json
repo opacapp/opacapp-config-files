@@ -1,12 +1,12 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Gescher",
     "country": "Deutschland",
     "data": {
@@ -75,7 +75,7 @@
         51.957027,
         7.001665
     ],
-    "information": "http://www.buecherei-gescher.de/index.php?id=2",
+    "information": "https://www.buecherei-gescher.de/index.php?id=2",
     "library_id": 3228,
     "state": "Nordrhein-Westfalen",
     "title": "Stadtb\u00fccherei St. Pankratius"
