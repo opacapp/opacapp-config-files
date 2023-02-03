@@ -16,7 +16,7 @@
         "reservation_branch_choice": false,
         "reservation_copy_choice": false,
         "urls": {
-            "account": "Mein-Konto",
+            "account": "Konto",
             "advanced_search": "",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
