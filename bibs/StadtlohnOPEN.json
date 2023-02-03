@@ -1,0 +1,32 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "OPEN",
+    "city": "Stadtlohn",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opacportal.bistum-muenster.de/stadtlohn",
+        "customssl": false,
+        "libopacplus": true,
+        "reservation_branch_choice": false,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        51.9940878,
+        6.9205769
+    ],
+    "information": "http://www.buecherei-stadtlohn.de/",
+    "library_id": 7409,
+    "state": "Nordrhein-Westfalen",
+    "title": "\u00d6ffentliche B\u00fccherei St. Otger"
+}
