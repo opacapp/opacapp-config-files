@@ -11,7 +11,7 @@
     "country": "Deutschland",
     "data": {
         "account_system": "lbs",
-        "baseurl": "https://lhanh.gbv.de",
+        "baseurl": "https://opac.lbs-anhalt.gbv.de",
         "customssl": true,
         "db": "1",
         "libopacplus": true,
