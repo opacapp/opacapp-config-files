@@ -13,7 +13,7 @@
         "baseurl": "https://bibliotheken.komm.one/neulussheim",
         "libopacplus": true,
         "urls": {
-            "account": "Mein-Konto",
+            "account": "Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
