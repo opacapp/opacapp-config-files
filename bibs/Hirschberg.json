@@ -16,9 +16,9 @@
         "reservation_branch_choice": true,
         "reservation_copy_choice": false,
         "urls": {
-            "account": "Login",
+            "account": "Konto",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
-            "new_acq": "Mediensuche/Neue-Medien",
+            "new_acq": "Mediensuche/Neu-bei-uns",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
