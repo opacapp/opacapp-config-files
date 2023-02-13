@@ -16,7 +16,7 @@
         "reservation_branch_choice": true,
         "reservation_copy_choice": false,
         "urls": {
-            "account": "Mein-Konto",
+            "account": "Login?returnurl=%2fhirschberg",
             "advanced_search": "Mediensuche/Erweiterte-Suche",
             "new_acq": "Mediensuche/Neue-Medien",
             "simple_search": "Mediensuche/Einfache-Suche"
