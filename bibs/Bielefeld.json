@@ -20,7 +20,7 @@
         "urls": {
             "account": "Mein-Konto",
             "advanced_search": "Mediensuche",
-            "new_acq": "Mediensuche/Medientipps",
+            "new_acq": "Aktuell/Medientipps",
             "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
