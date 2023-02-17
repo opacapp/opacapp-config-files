@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Poing",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "http://www.buecherei-poing.de"
+    },
+    "geo": [
+        48.1729438,
+        11.808452
+    ],
+    "information": "https://www.poing.de/generationen-bildung/buecherei.html",
+    "library_id": 6387,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}

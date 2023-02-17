@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "Noch kein aktueller Hinweis",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 231,
+    "account_supported": true,
+    "api": "lissy",
+    "city": "Schriesheim",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://lissy.stadtbibliothek-schriesheim.de"
+    },
+    "geo": [
+        49.47185,
+        8.6565
+    ],
+    "information": "https://info.opacapp.net/schriesheim.html",
+    "library_id": 7114,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtbibliothek"
+}

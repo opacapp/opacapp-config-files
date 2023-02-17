@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": "Rosenmontag geschlossen",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "",
+    "country": "",
+    "data": {
+        "baseurl": "https://ekvw.cidoli.de/webopac/",
+        "customssl": false,
+        "db": "w_muenster"
+    },
+    "geo": [
+        51.95,
+        7.6
+    ],
+    "information": "http://info.opacapp.net/muensterland.html",
+    "library_id": 9392,
+    "state": "",
+    "title": "Ev. Mediothek"
+}

@@ -1,0 +1,35 @@
+{
+    "_active": true,
+    "_notice_text": "Wir haben wieder ge\u00f6ffnet.\r\nEingang \u00fcber die Weberstra\u00dfe ! \r\nGe\u00f6ffnet sind die 1. und 2. Etage!\r\nKindermedien befinden sich im Moment in der 1. Etage!",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Coesfeld",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://buecherei.coesfeld.de/de-de/",
+        "customssl": true,
+        "libopacplus": true,
+        "onleihe": "https://muensterload.onleihe.de/ml/",
+        "onleihe_libraryId": "169",
+        "reservation_branch_choice": true,
+        "reservation_copy_choice": false,
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "new_acq": "Mediensuche/Neuerscheinungen",
+            "simple_search": "Mediensuche/Einfache-Suche"
+        }
+    },
+    "geo": [
+        51.9466943,
+        7.1703584
+    ],
+    "information": "https://info.opacapp.de/coesfeld.html",
+    "library_id": 2133,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}
