@@ -1,0 +1,19 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "adis",
+    "city": "",
+    "country": "",
+    "data": {},
+    "displayname": "Stuttgart",
+    "geo": null,
+    "information": "http://www.subkom.de",
+    "library_id": 9396,
+    "state": "",
+    "title": "Rathausbibliothek"
+}
