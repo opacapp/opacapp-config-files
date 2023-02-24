@@ -7,8 +7,8 @@
     "_version_required": 0,
     "account_supported": true,
     "api": "adis",
-    "city": "",
-    "country": "",
+    "city": "Stuttgart",
+    "country": "Deutschland",
     "data": {
         "baseurl": "https://opac.rbs.stuttgart.de/aDISWeb/app",
         "libopacplus": true,
@@ -20,6 +20,6 @@
     "geo": null,
     "information": "https://www.stuttgart.de/rathaus/verwaltung/rathausbibliothek.php",
     "library_id": 9396,
-    "state": "",
+    "state": "Baden-W\u00fcrttemberg",
     "title": "Rathausbibliothek"
 }
