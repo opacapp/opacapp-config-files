@@ -9,10 +9,16 @@
     "api": "adis",
     "city": "",
     "country": "",
-    "data": {},
+    "data": {
+        "baseurl": "https://opac.rbs.stuttgart.de/aDISWeb/app",
+        "libopacplus": true,
+        "reservation_notification_enabled": true,
+        "startparams": "service=direct/0/Home/$DirectLink&sp=SOPACR",
+        "suppress_fee_warnings": true
+    },
     "displayname": "Stuttgart",
     "geo": null,
-    "information": "http://www.subkom.de",
+    "information": "https://www.stuttgart.de/rathaus/verwaltung/rathausbibliothek.php",
     "library_id": 9396,
     "state": "",
     "title": "Rathausbibliothek"
