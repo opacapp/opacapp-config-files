@@ -1,0 +1,23 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "arena",
+    "city": "Bad Neustadt/S",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://www.stadtbibliothek-nes.de/",
+        "libopacplus": true,
+        "onleihe": "https://franken.onleihe.de/verbund_franken",
+        "onleihe_libraryId": "347"
+    },
+    "geo": null,
+    "information": "https://www.bad-neustadt.de/kultur-bildung/bibliothek-archiv/bibliothek/",
+    "library_id": 30,
+    "state": "Bayern",
+    "title": "Stadtbibliothek"
+}

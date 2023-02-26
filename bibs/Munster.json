@@ -1,0 +1,27 @@
+{
+    "_active": true,
+    "_notice_text": "Rosenmontag ge\u00f6ffnet\r\nAm Rosenmontag (28. Februar 2022) \u00f6ffnen die Stadtb\u00fccherei am Alten Steinweg und die Stadtteilb\u00fcchereien zu den normalen \u00d6ffnungszeiten. Auch der B\u00fccherbus f\u00e4hrt seine Haltestellen an.\r\nB\u00fccherei St. Michael geschlossen\r\nEin Ausnahme bildet die B\u00fccherei St. Michael in Gievenbeck und bleibt an diesem Tag geschlossen.",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": false,
+    "api": "open",
+    "city": "M\u00fcnster",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://open.stadt-muenster.de",
+        "urls": {
+            "advanced_search": "Erweiterte-Suche",
+            "simple_search": "Einfache-Suche"
+        }
+    },
+    "geo": [
+        51.9627713,
+        7.6311652
+    ],
+    "information": "https://info.opacapp.net/muenster.html",
+    "library_id": 67,
+    "state": "Nordrhein-Westfalen",
+    "title": "Stadtb\u00fccherei"
+}

@@ -1,0 +1,20 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "winbiap",
+    "city": "Pfronten",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://webopac.winbiap.de/pfronten"
+    },
+    "geo": null,
+    "information": "https://webopac.winbiap.de/pfronten/index.aspx",
+    "library_id": 6343,
+    "state": "Bayern",
+    "title": "Gemeindeb\u00fccherei"
+}
