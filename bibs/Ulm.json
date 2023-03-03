@@ -22,7 +22,7 @@
         },
         "baseurl": "https://opac.ulm.de",
         "copiestable": {
-            "barcode": -1,
+            "barcode": 1,
             "branch": 0,
             "department": 3,
             "location": 2,
