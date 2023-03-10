@@ -1,42 +1,20 @@
 {
     "_active": true,
-    "_notice_text": null,
+    "_notice_text": "",
     "_plus_required": false,
     "_plus_store_url": null,
-    "_support_contract": false,
+    "_support_contract": true,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Lauf/P",
     "country": "Deutschland",
     "data": {
-        "accounttable": {
-            "author": 0,
-            "prolongurl": 3,
-            "returndate": 2,
-            "title": 1
-        },
-        "baseurl": "http://88.217.155.35/webopac",
-        "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "department": 2,
-            "location": 1,
-            "returndate": 5,
-            "status": 3
-        },
-        "mediatypes": {
-            "blu-ray.gif": "BLURAY",
-            "emedien.gif": "EDOC",
-            "mCasetteS.gif": "AUDIO_CASSETTE",
-            "mDVDS.gif": "DVD",
-            "mFilmS.gif": "MOVIE"
-        },
-        "reservationtable": {
-            "author": 0,
-            "availability": 2,
-            "cancelurl": 3,
-            "title": 1
+        "baseurl": "https://stb-open.lauf.de",
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Erweiterte-Suche",
+            "simple_search": "Einfache-Suche"
         }
     },
     "geo": [
