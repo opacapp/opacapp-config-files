@@ -1,0 +1,51 @@
+{
+    "_active": true,
+    "_notice_text": "AKTUELLER HINWEIS\r\n\r\n...........................................................................\r\n\r\nDie Stadtb\u00fccherei bleibt am\r\nOSTERSAMSTAG \r\n(8. April 2023)\r\nGESCHLOSSEN.\r\n\r\nDer R\u00fcckgabekasten bleibt ge\u00f6ffnet.\r\n\r\n...........................................................................\r\n\r\nMittwoch, 15. M\u00e4rz 2023, 16.15 Uhr\r\nVORLESEZEIT\r\n(f\u00fcr Kinder ab 4 Jahren)\r\nOhne Anmeldung | Eintritt frei\r\n\r\n...........................................................................\r\n\r\nFreitag, 17. M\u00e4rz 2023, 15.00 Uhr\r\nOSTERBASTELSTUNDE\r\n.>>ausgebucht<<.\r\n\r\n...........................................................................\r\n\r\nFreitag, 24. M\u00e4rz 2023, 15.00 Uhr\r\nTHEATER FRITZ & FREUNDE:\r\n\u201eDIE KLEINE HEXE\u201c\r\n.>>ausverkauft<<.\r\n\r\n...........................................................................\r\n\r\n\r\nSonntag, 26. M\u00e4rz 2023, 19.30 Uhr\r\nKABARETTISTIN MARTINA BRANDL: \r\n\u201eNIEMAND HAT DIE ABSICHT, \r\nEIN MATRIARCHAT ZU ERRICHTEN\u201c\r\n12 \u20ac Vorverkauf | 14 \u20ac Abendkasse\r\n\r\n...........................................................................\r\n\r\nMittwoch, 29. M\u00e4rz 2023, 16.15 Uhr\r\nVORLESEZEIT MIT ONILO-BILDERBUCHKINO: \r\n\u201eDER KLEINE PIRAT\u201c\r\n(f\u00fcr Kinder ab 5 Jahren) \r\nEintritt frei | Anmeldung erforderlich\r\n\r\n...........................................................................\r\n\r\nFreitag, 31. M\u00e4rz 2023, 19.30 Uhr\r\nESSLINGER SEIFENFABRIK -\r\nLESUNG MIT KINOFEELING \r\nMIT BESTSELLERAUTORIN MARIA NIKOLAI:\r\n\u201eBODENSEE-SAGA \u2013 T\u00d6CHTER DES GL\u00dcCKS\u201c\r\n10 \u20ac Vorverkauf | 12 \u20ac Abendkasse\r\n\r\n...........................................................................\r\n\r\nDer aktuelle Onilo-Verleihcode zu einem animierten Kinderbuch kann in der Stadtb\u00fccherei abgeholt oder \u00fcber stadtbuecherei@wendlingen.de angefordert werden.\r\n \r\nOnilo ist eine Plattform mit digitalen, animierten Kinderb\u00fcchern f\u00fcr Kinder im Kindergartenalter bis hin zur vierten Klasse.\r\nMit einem 2 Wochen g\u00fcltigen, kostenlosen Zugangscode (dem sogenannten \u201eVerleihcode\u201c) kann \u00fcber die Webseite www.onilo.de oder die kostenlose Onilo-App auf die Geschichte zugegriffen werden, ganz ohne Registrierung.\r\n\r\nViel Spa\u00df beim Anschauen, Zuh\u00f6ren oder selbst Lesen!\r\n\r\n...........................................................................\r\n\r\n\r\nDie 24*7 Onleihe (www.247onleihe.de) ist durchgehend nutzbar.\r\n\r\nNEU: eAudios sind nun 21 Tage und nicht mehr nur 14 Tage entleihbar!",
+    "_plus_required": false,
+    "_plus_store_url": "https://play.google.com/store/apps/details?id=de.opacapp.wendlingen",
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "bibliotheca",
+    "city": "Wendlingen am Neckar",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://wwwopac.komm.one/wendlingen",
+        "copiestable": {
+            "barcode": 0,
+            "branch": -1,
+            "department": 2,
+            "location": 1,
+            "reservations": 5,
+            "returndate": 4,
+            "status": 3
+        },
+        "customssl": true,
+        "libopacplus": true,
+        "mediatypes": {
+            "CDkl.gif": "AUDIOBOOK",
+            "MonoS.gif": "BOOK",
+            "kartekl.gif": "MAP",
+            "mBmonoS.gif": "BOOK",
+            "mCDROMS.gif": "CD_SOFTWARE",
+            "mCasetteS.gif": "AUDIOBOOK",
+            "mComicS.gif": "BOOK",
+            "mDVDS.gif": "DVD",
+            "mFilmS.gif": "MOVIE",
+            "mKonsoleS.gif": "GAME_CONSOLE",
+            "mMusikCDS.gif": "CD_MUSIC",
+            "wuerfelkl.gif": "BOARDGAME",
+            "zeitschriftkl.gif": "MAGAZINE"
+        },
+        "onleihe": "https://www.onleihe.de/247online-bibliothek",
+        "onleihe_libraryId": "756"
+    },
+    "geo": [
+        48.67186,
+        9.37927
+    ],
+    "information": "https://info.opacapp.de/wendlingen.html",
+    "library_id": 8204,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Stadtb\u00fccherei"
+}

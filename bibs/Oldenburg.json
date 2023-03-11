@@ -1,0 +1,55 @@
+{
+    "_active": true,
+    "_notice_text": "Die Stadtteilbibliothek Eversten wird zurzeit saniert und hat geschlossen. \r\n\r\nBauarbeiten in der Stadtbibliothek im PFL: Schlie\u00dfung ab 17. M\u00e4rz, aktuell einige Mediengruppen nur eingeschr\u00e4nkt nutzbar\r\n\r\nLinks zu weiteren Informationen finden Sie unten bei den Allgemeinen Informationen.",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "biber1992",
+    "city": "Oldenburg",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.oldenburg.de/",
+        "copiestable": {
+            "barcode": 3,
+            "branch": 1,
+            "department": -1,
+            "location": 2,
+            "reservations": -1,
+            "returndate": -1,
+            "status": 4
+        },
+        "libopacplus": true,
+        "mediatypes": {
+            "1": "BOOK",
+            "10": "BOARDGAME",
+            "101": "EBOOK",
+            "11": "SCORE_MUSIC",
+            "2": "BOOK",
+            "3": "BOOK",
+            "34": "GAME_CONSOLE",
+            "4": "MAGAZINE",
+            "5": "CD",
+            "6": "CD_SOFTWARE",
+            "7": "MOVIE",
+            "8": "MOVIE",
+            "9": "DVD"
+        },
+        "mopax": false,
+        "mopaxdir": "mopax",
+        "opacdir": "opax",
+        "searchtable": [
+            2,
+            3
+        ]
+    },
+    "geo": [
+        53.142886,
+        8.207477
+    ],
+    "information": "http://www.oldenburg.de/microsites/bibliothek/standorte-oeffnungszeiten.html",
+    "library_id": 53,
+    "state": "Niedersachsen",
+    "title": "Stadtbibliothek"
+}

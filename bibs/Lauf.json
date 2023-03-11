@@ -1,0 +1,28 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": true,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "open",
+    "city": "Lauf/P",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://stb-open.lauf.de",
+        "urls": {
+            "account": "Mein-Konto",
+            "advanced_search": "Erweiterte-Suche",
+            "simple_search": "Einfache-Suche"
+        }
+    },
+    "geo": [
+        49.5104449,
+        11.2770723
+    ],
+    "information": "http://www.stadtbuecherei-lauf.de/",
+    "library_id": 4857,
+    "state": "Bayern",
+    "title": "Stadtb\u00fccherei"
+}

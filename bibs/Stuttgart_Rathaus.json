@@ -1,0 +1,25 @@
+{
+    "_active": true,
+    "_notice_text": "",
+    "_plus_required": false,
+    "_plus_store_url": null,
+    "_support_contract": false,
+    "_version_required": 0,
+    "account_supported": true,
+    "api": "adis",
+    "city": "Stuttgart",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://opac.rbs.stuttgart.de/aDISWeb/app",
+        "libopacplus": true,
+        "reservation_notification_enabled": true,
+        "startparams": "service=direct/0/Home/$DirectLink&sp=SOPACR",
+        "suppress_fee_warnings": true
+    },
+    "displayname": "Stuttgart",
+    "geo": null,
+    "information": "https://www.stuttgart.de/rathaus/verwaltung/rathausbibliothek.php",
+    "library_id": 9396,
+    "state": "Baden-W\u00fcrttemberg",
+    "title": "Rathausbibliothek"
+}
