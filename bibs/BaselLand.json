@@ -10,7 +10,7 @@
     "city": "Liestal",
     "country": "Schweiz",
     "data": {
-        "baseurl": "http://xaikb14.bl.ch/InfoGuideClient",
+        "baseurl": "https://xaikb14.bl.ch/InfoGuideClient",
         "libopacplus": true,
         "onleihe": "https://e-kbl.onleihe.com/liestal",
         "onleihe_avail": -1,
