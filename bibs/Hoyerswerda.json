@@ -10,7 +10,7 @@
     "city": "Hoyerswerda",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://sb-hoyerswerda.lmscloud.net/",
+        "baseurl": "https://sb-hoyerswerda.lmscloud.net",
     },
     "geo": [
         51.43637,
