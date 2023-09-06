@@ -1,0 +1,16 @@
+{
+    "account_supported": false,
+    "api": "bib2",
+    "city": "Dresden",
+    "country": "Deutschland",
+    "data": {
+        "baseurl": "https://bibo.bergsteigerbund.de"
+    },
+    "geo": [
+        51.04778,
+        13.71877
+    ],
+    "information": "https://bergsteigerbund.de/service/bibliothek",
+    "state": "Sachsen",
+    "title": "Bergsteigerbund"
+}
