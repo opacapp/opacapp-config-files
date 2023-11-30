@@ -10,8 +10,10 @@
     "city": "Osnabr\u00fcck",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://opac.ub.uni-osnabrueck.de",
-        "db": "2"
+        "baseurl": "https://opac.lbs-osnabrueck.gbv.de",
+        "db": "2",
+        "account_system": "lbs",
+        "lbs_url": "https://lbsosb.gbv.de"
     },
     "geo": [
         52.2729596,
