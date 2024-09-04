@@ -9,11 +9,8 @@ All the files are located in the `bibs` directory of this repository. You can lo
 
 Contributing
 ------------
-If you would like a library using one of the [OPACs already supported by libopac](https://en.opacapp.net/compatibility/) to be added to the app, you can do so by forking this repository, creating your JSON configuration file and submitting a Pull Request. The same is true for if you have an adjustment to make to one of the files (such as an updated OPAC URL).
 
-As this repository is only a one-way mirror of the files we are keeping on a [web server](https://github.com/opacapp/opacclient/blob/master/opacclient/opacapp/LIBRARY_DATA.md), we will not actually merge your Pull Request, but add the file on the server instead. It will then also be synced to this repository.
-
-If you would like your library to be added, but are unsure whether libopac supports it, please contact us at info@opacapp.de.
+**This project is end-of-life as of 2024-06-30. No more changes to this repository are planned and the app will no longer receive updates.**
 
 License
 -------
